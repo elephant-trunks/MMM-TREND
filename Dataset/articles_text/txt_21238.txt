@@ -1,0 +1,33 @@
+Stories of white hat hackers getting job offers from tech giants after bringing said giants down to their knees through their mysterious hacking skills are fun to hear or read. They echo themes of David and Goliath that many enjoy. But a lot of times, the story is not what you hear. Such is the case of a young man from Bihar, whose exploits are being mythologised online.
+
+advertisement
+
+Many on social media shared an image of a young man called Rituraj Chaudhary who did something extraordinary: he hacked the world’s largest search engine website, Google, in a matter of seconds.
+
+The viral post in Hindi roughly translates to, “This man, Rituraj Chaudhary, hacked Google for 51 seconds a few nights ago. Google officials in the USA went crazy. But Rituraj resumed Google’s services and mailed them about a flaw on their website that can be used to hack the system.”
+
+This claim further adds, “Google held a meeting for 12 hours in the US and finally decided to hire Rituraj and sent him an offer letter with a package of Rs 3.66 crores per annum. Rituraj didn’t have a passport. So, Google talked to the Government of India, and the newly made passport reached his home within two hours. Rituraj will fly to the US in a private jet. He is studying B.Tech second-year in IIT Manipur and belongs to Mungergunj, a small village near Bihar’s Begusarai.”
+
+Archived versions of similar claims can be found here and here.
+
+India Today Anti Fake News War Room (AFWA) found these viral posts to be misleading. Rituraj didn’t hack Google but found a security bug in their website. He is neither going to the USA nor is he joining Google.
+
+AFWA Probe
+
+Using keywords, we searched the Internet for news reports on this and came across an article published by DNA on February 4.
+
+In that report stated no extraordinary tale, just that Chaudhary informed Google about a flaw or bug in the website that could have easily helped hackers’ to take advantage.
+
+According to a report published in Dainik Bhaskar on February 3, Google admitted to the flaw at their end and sent Chaudhary an acknowledgement mail. The report further added that Google often rewards those who find flaws on their website. Currently, Chaudhary’s findings were in the Phase-2 level. He will be awarded by Google when they reach Phase-0.
+
+Many researchers work on “bug hunt” for Google, which starts at Phase-5 and goes up to Phase-0.
+
+An AajTak report confirmed that Chaudhary’s name was included in the researchers' list of Google. We dug further on this and found the list of bug hunters by Google where Chaudhary’s name was featured.
+
+While speaking to The Lallantop, Chaudhary dismissed rumours about getting a job in Google worth Rs 3.66 crores and flying to the USA. Chaudhary also added that he was not an IIT-Manipur student — there is no IIT in Manipur. He is, in fact, a student at the Indian Institute of Information Technology Manipur (IIIT-Manipur).
+
+When AFWA reached out to Chaudhary, he texted back saying, “All the rumours about getting a job in Google and flying to the states are fake. It is impossible to make a passport within hours.” When asked about receiving a reward from Google, he said, “Google gives rewards after they fix that bug and that takes around two to three months.”
+
+Therefore, we conclude that the stories about Chaudhary joining Google and receiving a huge salary are not true.
+
+(with inputs from Riddhish Dutta)

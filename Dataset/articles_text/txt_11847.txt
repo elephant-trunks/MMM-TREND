@@ -1,0 +1,93 @@
+A scripted video showing two people describing an alleged FASTag scam is being shared on social media with captions warning people to be alert about such scamsters.
+
+BOOM found that the viral video is a scripted act made by content creators.
+
+Also read Parody PTI Handle Claims Anna Hazare Demands Fadnavas To Be Made CM
+
+BOOM has previously debunked several scripted videos claimed to have been created for 'awareness purposes'. However, social media users often fall for such videos believing them to be true.
+
+Read our previous fact check on scripted acts here.
+
+The viral video has been recorded from inside a car and a youngster can be seen cleaning a halted car's windshield. After cleaning the windscreen, he starts leaving but the person recording the video calls him back and asks why is he not charging for his service. When the person asks the youngster about the watch on his wrist, he runs away.
+
+Another man sitting in the car gives him a chase while the first person explains about an alleged FASTag scam wherein fraudsters give youngsters smartwatches to scan FASTag radio frequency identification (RFID) in the pretense of cleaning vehicles. Once the FASTag is scanned, money gets deducted from the driver's account.
+
+In the latter part of the video it is shown that the youngster has given a slip to these men.
+
+What Is FASTag?
+
+FASTag is a prepaid rechargeable tag that is fitted on vehicles. It facilitates electronic toll collection thus eliminating human intervention. This means, a driver can make automatic payment without having to stop or wait at a queue at toll plazas. The activated FASTag installed on a vehicle's windshield uses Radio Frequency Identification (RFID) technology. The RFID communicates with the scanner and the amount is automatically deducted from the user's bank account.
+
+FASTag is operated by 23 banks governed by National Payment Corporation Of India (NPCI) National Highway Authority of India(NHAI).
+
+Coming back to the viral video, it has created a buzz on the social media with several users falling for the video.
+
+Mainstream media outlet like Punjab Kesari has also shared the video with a Hindi caption translating to 'Careful, if children clean your vehicle's windscreen at traffic signals'.
+
+(Hindi: सावधान, चौक चौराहे पर आपकी गाड़ी का भी शीशा साफ करते हैं बच्चे तो हो जाएं सतर्क !)
+
+Several other social media users have shared the video with captions calling it Fast tag scam.
+
+The video has been shared on Twitter with similar captions.
+
+Also read No, Uddhav Thackeray Did Not Praise Mughal Emperor Aurangzeb
+
+BOOM also got the video on its helpline number with a request to verify its veracity.
+
+Fact Check
+
+BOOM did a keyword search with FASTag scam on Facebook and found the same video on verified Facebook page BakLol Video.
+
+The video was shared on June 24, 2022 with a Hindi caption translating to 'If you have FASTAG on your vehicle, please watch the video'.
+
+(Hindi: अगर आपकी गाडी पे FASTAG है तो ये वीडियो जरूर देखे)
+
+BOOM scanned the BakLol Video page. The page has around 4.7 million followers and has 'We Enjoy Entertaining!' mentioned in its Intro section. The page is listed as a Video Creator.
+
+We checked several other videos shared from the page and found the duo seen in the viral video reprising different roles in these videos. Watch the videos here, here and here.
+
+Also read Video Of Far-Right Assault On Roma Women In Kyiv Shared As Attack On Indians
+
+
+
+
+
+
+
+This proves that the men seen in the viral video are actually actors playing different roles in different acts. View below a comparison.
+
+In course of our fact check, BOOM also came across tweets from the Twitter handles of PayTm and FASTag calling out the viral video.
+
+
+
+Sharing the viral video, PayTm's verified Twitter handle said 'A video is spreading misinformation about Paytm FASTag that incorrectly shows a smartwatch scanning FASTag. As per NETC guidelines, FASTag payments can be initiated only by authorised merchants, onboarded after multiple rounds of testing. Paytm FASTag is completely safe & secure'.
+
+A video is spreading misinformation about Paytm FASTag that incorrectly shows a smartwatch scanning FASTag. As per NETC guidelines, FASTag payments can be initiated only by authorised merchants, onboarded after multiple rounds of testing. Paytm FASTag is completely safe & secure. pic.twitter.com/BmXhq07HrS — Paytm (@Paytm) June 25, 2022
+
+Similarly, FASTag issued a notice from its Twitter handle rubbishing the claim.
+
+The tweet thread reads 'Please note that there are baseless and false videos circulating on Social media. Do understand the below points: 1. No transactions can be executed through open internet connectivity. 2. No financial transactions can be initiated without all the pre-requisites mentioned in the image. NPCI has already taken action to respond to these videos and delist them from the Social media platforms'.
+
+Please note that there are baseless and false videos circulating on Social media. Do understand the below points:
+
+
+
+1. No transactions can be executed through open internet connectivity. pic.twitter.com/AKqvcpVE1z — FASTag NETC (@FASTag_NETC) June 25, 2022
+
+
+
+
+
+BOOM also contacted the Facebook page BakLol Video where the scripted act was uploaded to get more information on it. We received a reply over mail saying the 'video was only for social awareness'.
+
+FASTag architecture secure by design: Cyber Security Expert
+
+BOOM spoke to Cybersecurity expert Rahul Sasi. He is the Founder CEO of CloudSEK, a cybersecurity company.
+
+Speaking to BOOM, Sasi said, "This is not as simple as kids walking around with smartwatches scanning RFID tags and siphoning off money. There is no need to panic watching this video. Only authorised merchants would be able to make a payment request."
+
+If a hacker has to perform an actual hack on the FASTag system, he has to hack into and compromise one of the merchant's infrastructure and use that to make forged requests. But that is not at all easy as the amount does not get credited to any bank account since it is explicitly tied to a merchant's bank account, Sasi added.
+
+Sasi also posted a statement along with the viral video on his LinkedIn account.
+
+He told BOOM that overall the FASTag architecture is secure by design.

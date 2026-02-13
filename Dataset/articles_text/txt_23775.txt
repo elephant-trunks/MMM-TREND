@@ -1,0 +1,73 @@
+“Highest-ever” addition of power-generation capacity (22,566 MW) in a single year; power generation touching the trillion-unit mark; lowest-ever (3.6%) power deficit; and a 32-million-tonne increase in coal production.
+
+These are some of the claims made by the Ministry of Coal and Power in its performance report card. However, Fact Checker trawled the data, and found selective and exaggerated reporting.
+
+"text-align: justify;">22,566 megawatts (MW) in power-generation capacity, the “highest-ever growth in a single year”, according to the power ministry.
+
+Reality: Comparable capacities were added during 2011-12 (20,502 MW) and 2012-13 (20,623 MW). If you consider the highest-ever growth in “power capacities added” between consecutive years, it actually happened between 2010-11 and 2011-12, when 8,341 MW capacity was added.
+
+Year Total Capacity Added (in MW) Increase/ Decrease In Capacity Addition Compared To Capacity Addition Of The Previous Year 2010-11 12,161 2011-12 20,502 8,341 2012-13 20,623 121 2013-14 17,825 -2,798 2014-15 22,566 4,741
+
+Source: Lok Sabha
+
+2. First time in Indian history, a trillion units: 3.4% growth over previous year
+
+Claim: 1 trillion units of electricity were generated last year; first time in history.
+
+Reality: From 772 billion units of electricity generated during 2009-10 to 967 billion units during 2013-14, power generation rose by about 200 billion units in five years, a growth of 25.4%.
+
+So, it required only an additional 33 billion units, or 3.4%, to touch the trillion-unit mark.
+
+Year Total Power Generation (in Billion Units) Growth compared to previous year (in Billion Units) 2009-10 772 2010-11 811 39.6 2011-12 877 65.7 2012-13 912 35.2 2013-14 967 55.1 2014-15 (upto‘Jan 2015) 881 Only needed an additional 33 billion units compared to last year to touch the trillion-units mark
+
+Source: Lok Sabha 1, 2, 3, 4
+
+3. Lowest-ever power deficit: 0.6% reduction from previous year
+
+Claim: Deficit reduced to 3.6%, “the lowest ever”.
+
+Reality: The deficit declined from around 10% during 2006-10 to 4.2% in 2013-14. The power deficit of 4.2% in 2013-14 was the lowest ever until then. So, the power deficit declining to 3.6% during 2014-15 was a reduction of 0.6% compared to the preceding year.
+
+Year Total Requirement (in MUs) Availability (in MUs) Deficit (MUs) Deficit (%) 2006-07 690,587 624,495 -66,092 -9.6 2007-08 739,343 666,007 -73,336 -9.9 2008-09 777,039 691,038 -86,001 -11.1 2009-10 830,594 746,644 -83,950 -10.1 2010-11 861,591 788,355 -73,236 -8.5 2011-12 937,199 857,886 -79,313 -8.5 2012-13 9,95,557 9,08,652 -86,905 -8.7 2013-14 10,02,257 9,59,829 -42,428 -4.2 2014-15 (till Jan ’15) 9,03,104 8,68,591 -34,513 -3.8 2014-15 According to the power ministry’s report card on its first-year performance -3.6
+
+Source: Lok Sabha 1, 2, 3
+
+4. "Significant increase" in wind-energy capacity: Higher increases in 2010-11 and 2011-12
+
+Claim: 2,312 MW wind-energy capacity installed during 2014-15, compared to 2,083 MW during 2013-14, a “significant increase”.
+
+Reality: Higher capacities were installed during consecutive years, 2010-11 (2,349 MW) and 2011-12 (3,196 MW).
+
+YEAR Target of Installed Capacity of Wind Power (MW) Achievement of Installed Capacity of Wind Power (MW) 2009-10 2,500 1,565 2010-11 2,000 2,349 2011-12 2,400 3,196 2012-13 2,500 1,700 2013-14 2,500 2,082 2014-15 2,000 2,312
+
+Source: Lok Sabha 1, 2, 3
+
+5. "Significant increase" in small hydro projects (SHP): 101 MW in 2011-12
+
+Claim: 251 MW capacity installed during 2014-15 compared to 171 MW during 2013-14—a “significant increase”.
+
+Reality: SHP capacities added during 2011-12 and 2012-13 were 352 MW and 237 MW, respectively.
+
+Year Installed Capacity of SHP (MW) 2011-12 352 2012-13 237 2013-14 171 2014-15 251
+
+Source: Lok Sabha
+
+6. Four-year record in coal production: Not according to data given to Parliament by minister
+
+Claim: Increase of 32 million tonnes (MT) in 2014-15; output at 494 MT in 2014-15, compared to 462 MT in 2013-14; “increase higher than increase in previous 4 years”.
+
+Reality: The production figure of 462 MT during 2013-14 does not match data tabled by the current Coal Minister in Parliament on July 17, 2014. That data puts coal production during 2013-14 at 566 MT and not 462 MT.
+
+More significantly, coal production of 494 MT in 2014-15 is less than the coal production during each of the previous five years (2009-10 to 2013-14). ■
+
+Year Production of Coal (in Million Tonne) 2007-08 457 2008-09 493 2009-10 532 2010-11 533 2011-12 540 2012-13 556 2013-14 566 2014-15 (till Oct 2014) 314 2014-15 494 (according to report card)
+
+Source: Lok Sabha 1, 2, 3, 4, 5
+
+Tomorrow: Railway Ministry: 8 Achievements That Really Aren't
+
+You can read the introductory piece of this series here, the first part here and the second part here.
+
+(Manoj K is a graduate of the Indian Institute of Technology, Delhi, and the founder of the Centre for Governance and Development. He has a special interest in transparency and accountability in governance and has spearheaded several projects on these subjects. He can be contacted at manoj@cgdindia.org.)
+
+Fact Checker has received a government statement on this story. We are carrying it in full, along with Manoj K's response to each point: The article “Power Ministry: A series of false claims, only marginal improvements” tries to do a fact check on the performance of Power, Coal and New & Renewable Energy Ministries but fails to pay heed to the cautionary call of “Everyone is entitled to his own opinion, but not his own facts.” Instead of checking facts, the article delves into semantics and makes glaring mistakes even where it tries to quote facts. A systematic record correction is called for:22,566 MW of power generation capacity is the highest ever growth in power generation capacity in a single year. Unable to counter this basic fact, the article tries to divert attention to “comparable” but lower growth in other years and then tries to change the definition of the parameter from growth in capacity to “growth in growth” in capacity. As they say, when you can’t score a goal, move the goal post.: We have not contested the figure of 22,566 MW in 2014-15 as being the highest capacity addition. What we did contest was that it was the "highest ever growth in a single year", as Ministry’s own tweet claims. The highest-ever growth year-on-year in capacity addition occurred between 2011-12, as Ministry’s own data show. https://twitter.com/PIB_India/status/603522805569691648Again, the above fact is absolutely correct. The growth in power generation was 8.4% in the last year which was also the highest number in the last 20 years. So in both absolute and % growth terms, records were set. The fact that both the above numbers are mentioned in the report card, but the growth number has been omitted and twisted in the article, shows the extent of cherry picking and misrepresentation in the so called fact-check.Nowhere have we contested that these 1 trillion units were generated. We only said, very clearly, this was a marginal improvement, 3.39%, over the previous year. We have not referred to the figure of 8.4% increase in power generation at all.Once again, nobody can find any error in the fact that last year’s power deficit of 3.6% was the lowest ever. The fact check again descends into an opinion check by not disputing the central fact but by opining on the comparison vs previous years. (where also there was a 15% reduction vs the last year – 3.6 vs 4.2)We have not contested that the 3.6% deficit was the lowest ever. We have clearly pointed out that this was part of declining trend, with a marginal improvement over the previous year.https://twitter.com/PMOIndia/status/603080772514230272In both Wind and Small Hydro (as well as in overall renewable generation), actual capacity addition was higher than the target last year. Significance of last year’s performance can be gauged from the fact that this was also the first time ever, that renewable capacity addition targets were exceeded in all three solar, wind as well as small hydro. Again, nowhere there is a claim that this was the highest ever capacity addition in Wind or Small Hydro (in Solar it was), but the facts again never deter the fact checker.We disputed only one fact: that this was a "significant increase" in capacity addition of wind and small hydro projects, which it is not. We have made no reference to targets or actual capacity. The Ministry's own data show that greater capacities were added in 2010-11 and 2011-12 (wind) and 2011-12 (small hydro). The ministry focuses only on capacity addition over the previous year, which is exactly our point.Update: The headline of this piece has been modified because a phrase used was inaccurate.The article says “coal production of 494 MT in 2014-15 is less than the coal production during each of the previous five years” This is the most egregious “fact check” where perhaps out of frustration at not having been able to prove a single fact wrong, wrong facts are being presented. The article confuses the output of Coal India Ltd. (CIL) with the output of Coal Industry and comes out with absurd conclusions. The facts are as follows: India’s Coal production grew at 8.3% last year, the highest growth in 23 years. CIL production itself grew by 32 million tonnes which was higher than its aggregate production tonnage growth in the previous four years.We did not confuse Coal India Ltd (CIL) production with the coal industry's production. It is the ministry that appears to have done so. The graphic put out by the ministry (above) makes no mention that "coal production" refers only to Coal India Ltd (CIL).As can be seen above, the Ministries of Power, Coal and New & Renewable Energy have systematically worked towards many record breaking achievements and launched several foundational initiatives towards realizing Hon’ble Prime Minister Shri Narendra Modi ji’s vision of 24x7 affordable power for all.

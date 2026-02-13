@@ -1,0 +1,23 @@
+The central government has made several announcements for the benefit of citizens during the lockdown period. One message that is going viral on social media claims the government has introduced online processing of Goods and Services Tax (GST) refunds due to the coronavirus outbreak. The message asks people to click on an attached link to claim GST refunds.
+
+The viral message on WhatsApp and Facebook claims, “Due to COVID-19 Outbreak, Central Govt. Has Started Online Processing of GST Refund. Click on “http://Onlinefilingindia.in” to Claim Your Refund.”
+
+advertisement
+
+The archived version of the post can be seen here. Many social media users got confused and wanted clarity on the claim.
+
+India Today Anti Fake News War Room (AFWA) has found that the viral claim is a phishing message and the web link “http://Onlinefilingindia.in” is fake. The Central Board of Indirect Taxes and Customs (CBIC) has asked people not to click on any fake link that promises refunds. The official website for GST-related filings is “https://www.gst.gov.in/” and not “http://Onlinefilingindia.in”.
+
+With the help of domain tools, we found that the dubious website was created only five days ago on May 1, 2020, and registered only for a year.
+
+The website was deactivated after the government swung into action to stop the spread of misinformation regarding GST refund claims. However, the archive version of the fake web link can be seen here.
+
+The easiest way to find the authenticity of such web links is to check their URLs. Any government website will have “gov.in” at the end of their web link, but the URL of this website “Onlinefilingindia.in” made it look suspicious.
+
+CBIC has asked taxpayers not to use “http://Onlinefilingindia.in” for online filings related to GST.
+
+According to media reports published on April 17, 2020, CBIC had decided to expedite its GST refund process during the lockdown. In the 39th GST Council meeting, it was decided that the GST refund process should be smoothened to help business.
+
+Also read: Fact Check: Old video of drunken cop linked to liquor shops opening after lockdown relaxation
+
+Also read: Fact Check: No, White House is not selling commemorative coronavirus coins

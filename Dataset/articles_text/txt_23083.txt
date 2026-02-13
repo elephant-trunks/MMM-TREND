@@ -1,0 +1,81 @@
+Even as the government tries to push more Indians to go cashless, a video tweeted by business tycoon Anand Mahindra has left social media users worried about the credit and debit cards as digital mode of payments.
+
+Is this really possible? Scary stuff. On the other hand, the next time a cashier gives me grief and asks for my pin code I would be happy to turn and show my rear... pic.twitter.com/ILXHxqI5Sq anand mahindra (@anandmahindra) July 27, 2018
+
+advertisement
+
+The video shows a man secretly tapping the pocket of another man and completing a transaction. The man from whose pocket the card is 'tapped' stands unaware of what has happened. The location of the video could not be traced but is enough to draw our attention towards the issue.
+
+The 'victim' of the fraud transaction is said to have a 'paypass' card in his pocket. The man shooting the act asks people to be 'beware' of such a fraud. Looking at the video it can be concluded that it has not been shot in India.
+
+So, is it possible that a transaction is possible with a simple scan of a card from a little distance. India Today checked this.
+
+From our investigation we found that using contact-less cards, payments can be made by tapping without being prompted for OTP/PIN.
+
+But is the trick shown in video really possible?
+
+TR Ramachandran, country head, Visa South Asia in his reply to Mahindra's tweet said, "It can't really happen. Such a trick would be liable for prosecution."
+
+Ramachandran also attached a video in his tweet, separating myths from reality of the contact-less cards.
+
+Not really Anandji. Ever heard of a thief leaving behind his coordinates? A KYC compliant merchant using his authorised pos terminal for such a trick would be liable for prosecution. Contactless is totally safe! https://t.co/OdEMUYqAet TR Ramachandran (@trramach) July 27, 2018
+
+The video clearly shows a man trying to scan a customer's card from a distance, making several unsuccessful attempts.
+
+Here are some quick facts about contact-less cards:
+
+So what are contactless cards?
+
+To pay using these cards, one simply needs to place the card over the contactless reader and the transaction will be complete.
+
+Are contactless cards different from normal cards?
+
+No. Your contactless card may still be inserted or swiped at card terminals for payment like a regular card. This is an add-on feature.
+
+Is a signature or PIN required to complete the transaction?
+
+No signature or pin is required for transactions up to Rs 2000.
+
+
+
+How do contactless cards work?
+
+1. Look for a contact-less symbol at the point of purchase.
+
+2. To pay, place your card over the reader at close range.
+
+advertisement
+
+What should be the gap between contactless cards and a card reader?
+
+The card reader (POS terminal) and the contactless card should not be more than 4 cm away.
+
+Are contactless cards available in India?
+
+Yes. All major banks provide this service. ICICI claims to be the first bank to have started this service in the year 2015.
+
+Can anyone purchase this machine where contactless cards work?
+
+No. Only merchants registered with the bank can be issued a card reader (POS machine). The bank maintains a database of all merchants and also charges a fee from them.
+
+
+
+What is the technology behind contactless cards?
+
+These cards use Radio Frequency technology (RF) similar to an RFID tag. The embedded chip and antenna in the card enable consumers to complete transactions by tapping the card.
+
+What is the transaction limit that is set?
+
+The maximum transaction amount that can be processed with contactless is Rs 2000. This cap is set by the Reserve Bank of India. Though transaction limits are different for all countries.
+
+When India Today's Fact Check team tried to use a contactless card placed in a wallet the transaction was not successful.
+
+advertisement
+
+India Today's investigation found that though the motive of the person who posted the video was to educate card users, the claim made in the viral video is technically not possible.
+
+Inputs fom Arjun Deodia
+
+ALSO READ | 7 technologies to prepare you for the jobs of tomorrow
+
+ALSO WATCH | India Today Conclave Next 2017: NASSCOM, Tech Mahindra and Bain chiefs on digital disruption

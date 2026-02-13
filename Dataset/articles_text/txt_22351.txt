@@ -1,0 +1,33 @@
+The government recently set up the "Prime Minister’s Citizen Assistance and Relief in Emergency Situations Fund" (PM CARES Fund) to deal with pandemics such as Covid-19.
+
+Now, a message from verified Twitter handles and Facebook pages of several BJP leaders, mostly from Maharashtra, has gone viral, asking people to donate to PM CARES Fund through a website called "pmcaresfund.online". The website is archived here.
+
+advertisement
+
+India Today Anti Fake News War Room (AFWA) has found the website "pmcaresfund.online" to be dubious. The actual website to contribute money to PM CARES Fund is "https://www.pmcares.gov.in/ en/".
+
+Prominent BJP leaders such as "Shaina NC", Lok Sabha MP "Unmesh Patil" and Maharashtra youth wing president "Yogesh Tilekar" urged people to donate to PM CARES Fund through the fake website "pmcaresfund.online".
+
+"Pravinkumar Biradar" of the social media team of Maharastra Youth Congress has raised the issue politically and claimed that this is a financial "scam" by Maharashtra BJP leaders.
+
+We spoke to BJP leader Shaina NC about her tweet which she later deleted. She told India Today that she was not aware of the dubious website when she initially posted the tweet.
+
+The website "pmcaresfund.online" is not a secured one. For any government website, the URL ends with "gov.in" and not "online". The cached version of the website shows a homepage that is totally different from the actual website "https://www.pmcares.gov.in/ en/".
+
+The homepage of the dubious website shows PM Modi’s picture with his face covered and with a hashtag saying "I am warrior against corona". There are also two lines written in Marathi. The website straightaway asks people to contribute to "Pmcaresfund" through GPay and Paytm. We do not know exactly which accounts are linked to this website.
+
+Homepage of fake website
+
+Homepage of actual website
+
+While the fake website asks for only one’s name and WhatsApp number, the original website seeks various other details.
+
+Fake website
+
+Actual website
+
+We found from the domain details of the dubious website "pmcaresfund.online" that it was created only five days back on April 15, 2020, and expires after a year.
+
+On the other hand, a PIB press release dated March 28, 2020, says that the Prime Minister’s Office has appealed for donations for PM CARES Fund.
+
+Therefore, we can say that the website "pmcaresfund.online", shared by many leaders for donation to PM CARES Fund in the fight against coronavirus, is fake.

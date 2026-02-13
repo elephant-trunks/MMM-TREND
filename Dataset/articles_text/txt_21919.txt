@@ -1,0 +1,49 @@
+Many of you might have come across ostensibly government schemes on the Internet during the festive season, promising money-making opportunities, free tablets, Internet data, etc. Many of these schemes have Prime Minister Narendra Modi’s picture on them to provide some sort of authenticity.
+
+However, almost all of these so-called government schemes are fraudulent and designed to dupe people for harvesting their personal data and information.
+
+advertisement
+
+While the Press Information Bureau has time and again debunked such claims as fake, what India Today Anti Fake News War Room (AFWA) has unearthed is nothing less than shocking. Most of these unscrupulous schemes are being designed and pushed on social media by the same person!
+
+We found there is a distinct pattern which connects many of these schemes being pushed on social media from time to time. For example, this person has created multiple pages using the free blogging website “blogspot.com” to design these fraudulent schemes.
+
+Though this person had tried hard to mask his online identity, we could trace some clues which led us to vital information about how he is running these schemes.
+
+How we tracked this person
+
+1. AFWA noticed that all these schemes have a similar pattern. Clicking on the link takes you to a different page, where you’ll be asked to share your details, and then in turn to share the link. This raises suspicions that the motive of such pages is only to harvest data which is then probably sold to different marketing companies.
+
+
+
+Also, most of the URLs to these links end with “blogspot.com” which is unusual because most government websites use the domains “nic.in” or “gov.in”.
+
+2. A common method to look into registration details of a website is to use “Whois Lookup” However, it did not work out in this case since most of the pages have been created through “blogspot.com”.As a result, we were being redirected towards information related to the creators of “blogspot.com” rather than individual pages created on this domain.
+
+Therefore, we decided to look deeper into the HTML codes of these pages. It is important to note that none of these fraudulent pages has any information under the “contact” or “about me” sections. This further confirms mala fide intention and indicates that the person behind this page does not want to reveal anything about himself.
+
+3. Every website also has a unique coding, which again, gives some information about its creation. So, we decided to look into the coding of one such fraudulent page and right-clicked to access the “inspect” option of this page. This opened the HTML coding of the web page. We delved deeper into the HTML code of this page to dig out more information about the person behind it.
+
+4. Looking into the HTML code, we found three more profiles on the “blogger.com” domain. Two of these profiles are no more functional. However, the third profile is still functional and displays details of about 70 such schemes along with dates.
+
+5. We also investigated the profile IDs of the two other blogs which are no more functional. One of these has the profile ID number 09834359655435695864. Searching this profile ID number on Google led us to another blog called “Future Cars”. The URL of this blog is “http://yash169.blogspot.com”.
+
+6. At the bottom of this blog he person has not only identified himself as Yash but also provided his email ID which is “YASH.NAHAR.169@GMAIL.COM”. So now we have an email which has been used to create a mesh of these numerous fraudulent pages and schemes.
+
+7. Looking into the details of profiles of many similar fraudulent schemes hosted on blogspot.com, we found that this person has been duping people in the name of giving away free t-shirts, a sex chat service, free laptops and free Internet.
+
+What is most surprising is that not only the name but also the picture of PM Modi is being brazenly used to dupe people. This continues unabated even as PIB debunked many of these fraudulent schemes.
+
+advertisement
+
+8. Since, people often tend to use the same user ID on their social media accounts, we took a clue from the email ID yash.nahar.169@gmail.com and looked for people using the exact same user ID “yash.nahar.169” on different social media accounts. We did find some such accounts. However, the finding was somewhat surprising.
+
+9. These social media accounts (found using the user ID “yash.nahar.169”) led us to a 13-year-old boy who lives in Raikot city in Punjab. We spoke to his father who said he does not have any clue about the ongoing fraud linked with the email ID yash.nahar.169@gmail.com . We are not disclosing the boy’s identity or his social media accounts as he is a minor.
+
+10. Also, the father told us that the email ID does not belong to his son and though he created several Gmail accounts in the past, he does not remember if yash.nahar.169@gmail.com was created by him. This also raises the suspicion that someone could be using the boy as a front for fraudulent activities on social media.
+
+Incidentally, one of the social media accounts changed the user name after AFWA reached out to the person sometime back.
+
+Thus, it is clear that the person using the email ID yash.nahar.169@gmail.com has either committed identity theft of the minor boy living in Punjab or it’s just a coincidence that both the email ID and social media accounts have ‘yash.nahar.169’ in common.
+
+But it is certain that the person using the email ID yash.nahar.169@gmail.com is the one running fraud government schemes through multiple Blogspot pages.

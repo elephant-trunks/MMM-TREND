@@ -1,0 +1,51 @@
+The Narcotics Control Bureau (NCB) has ordered a vigilance probe against its Mumbai zonal director Sameer Wankhede after a witness in the cruise drugs case accused him of asking for a bribe to release Shah Rukh Khan’s son Aryan.
+
+With several celebrities throwing their weight behind SRK and politicians upping the ante against Wankhede, social media, too, is divided over the high-profile case. In the backdrop of these events, multiple accounts in Wankhede’s name have cropped up on Twitter such as “@SmeerWankhede”, “@sameerwankhedee” and “@Wankhed_Sameer”. Tweets from these accounts have gone viral and are being shared on Facebook. The archived versions of these accounts can be seen here, here and here.
+
+advertisement
+
+Many people believe these accounts to be of Wankhede and are extending their support to him.
+
+However, so many Twitter handles in Wankhede’s name have also left people confused.
+
+India Today Anti Fake News War Room (AFWA) has found that all the Twitter handles mentioned above are impersonating Wankhede. The IRS officer is not on Twitter at all.
+
+Let us look into these accounts one by one.
+
+@SmeerWankhede
+
+This account had garnered over 14,000 followers till the time of publishing this story. It has mentioned “Zonal Director @narcoticsbureau” in its bio section.
+
+This account was created in August this year but the first tweet from this account was posted on October 23, 2021. This raises suspicion that the person might have deleted his old tweets so that he doesn’t get caught.
+
+Using Twitter advanced search, we found that many people had addressed this person as “Sneha Agarwal” in August and tagged “@iSnehaAgarwal” while replying to the user.
+
+The Twitter account “@iSnehaAgarwal” is currently not active. We found an archived version of a tweet posted from “@iSnehaAgarwal” on Wayback Machine.
+
+Next, we decided to tally the Twitter ID of “@SmeerWankhede” with that of “@iSnehaAgarwal”. Twitter ID is a unique numeric ID that doesn’t change even if the Twitter handle changes. With the help of online tool TweetBeaver, we found that the Twitter ID of “@SmeerWankhede” is 1422016623163047937.
+
+We opened the source code page of the archived version of “@iSnehaAgarwal” and found the same Twitter ID on this page. This confirms that “@SmeerWankhede” was earlier active as “@iSnehaAgarwal”.
+
+@sameerwankhedee
+
+The person running this account has written in the bio section, “Works for @narcoticsbureau. Managed by me.”
+
+Ajayendra Urmila Tripathi, an OSINT expert and programmer, has tweeted that the account was previously active in the name “@FAUGtweets”.
+
+Speaking to AFWA, he said he has a big database of such fake accounts that he tracks.
+
+A search for “@FAUGtweets” on Twitter led us to a tweet by the handle “@sameerwankhedee”.
+
+We also found an archived version of a tweet by “@FAUGtweets” on Wayback Machine.
+
+Next, we found that the Twitter ID of “@sameerwankhedee” is 1301945427097350149.
+
+This is the same Twitter ID that we found in the source code of the archived tweet of “@FAUGtweets”. This proves that both handles belong to the same person.
+
+@Wankhed_Sameer
+
+This account was created only this month, which is a major red flag. When a person becomes popular, many people create fake accounts in his/her name and post sensational tweets to increase the number of followers. The person who created the Twitter handle “@Wankhed_Sameer” mentions “zonal director of the Narcotics Control Bureau” in the bio section.
+
+We found a viral tweet by this user in which he has misspelled the word ‘career’ as ‘carrier’. It is highly unlikely that a decorated IRS officer as Sameer Wankhede would make such a mistake.
+
+Earlier, when Neeraj Chopra had bagged a gold medal in the Olympics, several fake Twitter accounts were created in his name as well. At that time too, India Today had debunked the imposter accounts.

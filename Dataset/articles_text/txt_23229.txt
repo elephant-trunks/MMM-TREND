@@ -1,0 +1,19 @@
+Banking scams are on rise in India with the latest one being when you add a beneficiary or nominee to your bank or fixed deposit account. An SMS message is received by many that says, “Dear customer, you recently added a nominee to your account XXXXX. You will be able to send funds to this nominee after 30 mins”.
+
+The format with date and time is authentic to prompt many to login to their account and follow the instructions to add nominee or beneficiary.
+
+Fact Check
+
+A search for its authenticity resulted in a Government of India message clarifying that it has nothing to do with the banking system or the messages sent. The Home Ministry’s twitter arm Cyber Dost has warned people using online banking to be aware of the new scam aimed at stealing details of bank account and other credentials to trick people.
+
+Usually whenever people add a new beneficiary for transfer money, the message confirms that they have added a new beneficiary and it ranges from bank to bank, some within 30 minutes and others within 24 hours.
+
+The deceptive messages are fraudulent, misleading people even if they didn’t add any beneficiary.
+
+Here’s what Cyber Dost tweet is:
+
+Claim: Messages to bank customers to add beneficiary following a link given
+
+Conclusion: It is a banking scam and not true.
+
+Our rating of the claim is Totally False — .

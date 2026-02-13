@@ -1,0 +1,37 @@
+A video is being widely shared on social media claiming that devices like smartwatches are being used to swipe money from FASTags on vehicles. The video shows a boy scanning the FastTag sticker with his smartwatch while pretending to be cleaning the windshield of a car. This post claims it is a new scam of stealing money from the FASTags using smartwatch devices. Let’s verify the claim made in the post.
+
+The archived version of the post can be seen here.
+
+Claim: Video of a FASTag scam showing smartwatches scanning FASTags and swiping money from them. Fact: The alleged scam shown in the video is not true. The National Electronic Toll Collection (NETC) FASTag operates only for person-to-merchant (P2M) transactions. No person-to-person (P2P) transactions are facilitated through the NETC FASTag Network. No unauthorized devices can initiate financial transactions on NETC FASTags. The NPCI, PIB and Paytm have issued statements clarifying that the information spread by this viral video is not true. The video shared in the post shows a scripted drama published and then deleted by a Facebook page named ‘BakLol’. Hence, the claim made in the post is FALSE.
+
+The National Electronic Toll Collection (NETC) FASTag Ecosystem is built on a four-party model including NPCI, Acquirer Bank, Issuer Bank and Toll Plazas. Generally, toll plazas, parking plazas and other merchants registered with the National Payments Corporation of India (NPCI) have the authority to scan FASTags and withdraw money. NETC FASTag operates only for person-to-merchant (P2M) transactions. No person-to-person (P2P) transactions are facilitated through NETC FASTag Network.
+
+Further, every merchant (Toll & Parking Plazas) onboarded by NPCI is Geo-located and allotted a unique Plaza code. No unauthorized devices can initiate financial transactions on NETC FASTags.
+
+When this viral video went viral on social media, NPCI issued a press note and clarified that the information spread by the video is baseless and false. NPCI stated that no such fraudulent financial transactions on FASTags can be executed by unauthorized devices through open internet connectivity.
+
+The Paytm and NETC FASTag have also issued statements clarifying that the viral video was spreading misinformation regarding the FASTag transactions.
+
+PIB through a tweet confirmed that the viral video is fake and clarified that no such financial transactions on FASTags can be done using unauthorized devices.
+
+A #viral Video claims that devices like watches are being used to swipe the #Fastag on vehicles, leading to fraudulent deduction of money from prepaid wallets.#PIBFactCheck:
+
+
+
+▶️ This Video is #FAKE
+
+
+
+▶️ Such transactions are not possible
+
+
+
+▶️ Each Toll Plaza has a unique code pic.twitter.com/n7p01AXF4A — PIB Fact Check (@PIBFactCheck) June 25, 2022
+
+Viral Video:
+
+When we searched for the details of this viral video, we found that this video was first published by a Facebook page named ‘BakLol’ on 24 June 2022. However, the video was later deleted from this Facebook page. The archived version of this Facebook post can be seen here.
+
+This Facebook page regularly shares scripted videos for entertainment. Some of the other scripted videos that featured the same persons in the viral video can be seen here and here.
+
+To sum it up, unauthorized devices other than the NPCI-certified merchants cannot initiate transactions through FASTag scanning.

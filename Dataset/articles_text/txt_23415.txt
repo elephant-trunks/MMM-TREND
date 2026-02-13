@@ -1,0 +1,25 @@
+While addressing a press conference on May 31, 2021, Delhi BJP president Adesh Gupta claimed that Delhi is on top of the list of states when it comes to COVID-19 deaths per million population.
+
+
+
+He cited numbers from Worldometer, a website which provides global COVID-19 statistics, and said, "According to the Worldometer report, the death rate in the world per 10 lakh population is 455 while in India it is 234. Why is Delhi at 1,207? Who is responsible for the highest death rate in Delhi?"
+
+"Delhi is on top of the list of states having maximum death rate in the category of population over 10 lakh," Gupta was quoted as saying in an Indian Express report .
+
+This is untrue because Goa's death rate per million is 1,734 as of June 2, 2021, shows data from COVID19INDIA, a platform that uses state bulletins and official handles to update COVID-19 numbers. According to Worldometer's dashboard , India's deaths per million population on May 31 was 238. This means Goa's COVID-19 death rate per million population is seven times more than the country's.
+
+Moreover, there are other states too that have a higher count of COVID-19 deaths per million population than that of India.
+
+On May 30, Delhi reported a total of 24,151 deaths due to COVID-19 and as of June 2, 2021, Delhi reports 1,231 deaths per one million population, nearly five times more than the national count which is now 251.
+
+When FactChecker called Adesh Gupta, he redirected us to Delhi BJP vice-president Ashok Goyal for a clarification. Goyal denied the statistics saying, "This can't be true."
+
+Fair comparison?
+
+Is it statistically correct to compare deaths in the world and that in the second-most populous country with a Union Territory given its average population density and size?
+
+As per 2011 census, India's average population density is 382 persons per square kilometer, whereas for Delhi it is 11,320 per sq km. This means Delhi's average population density is nearly 30 times more than the nation's.
+
+Further, a study from the National Center for Biotechnology Information (NCBI) shows that international comparisons of per capita deaths and infection rates should be avoided.
+
+According to an analysis by Financial Times' chief data reporter John Burn-Murdoch, per capita comparison is unfair. He says that the per capita data does not influence the pace of a countries' outbreak. "Covid spreads from person to person; it's not like cancer. It's exogenous. Generally, and especially early in outbreak (first few weeks), higher per-capita numbers just mean a smaller country, not anything different about how that country's dealing with covid." his tweet thread read.

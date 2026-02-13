@@ -1,0 +1,55 @@
+During the first and the second wave of the Covid-19 pandemic, the Centre announced schemes to provide economic relief to people and businesses. The economy right now is still struggling for a number of reasons. Consequently, new relief schemes being announced are a believable idea.
+
+And some people have been taking advantage of that. One such website pretending to be the Finance Ministry of India announced a financial aid of Rs. 30,628 and many believed it to be true.
+
+advertisement
+
+Of course, the Finance Ministry did not announce any such aid. The Press Information Bureau called this website fraudulent.
+
+But the story doesn’t end there. It has only just begun.
+
+As we peeled off the layers of this website, we came across a global nexus of hundreds of fraudulent websites, extending their tentacles to several countries.
+
+Here, we will dive into the world of those running these websites and figure out their modus operandi.
+
+Same scam, many sites
+
+The aforementioned “Finance Ministry” website appears to be built primarily for mobile devices. And fraudulent websites like these thrive on instant messaging apps like WhatsApp. Case in point, when you share the URL of that website, the preview mentions “finmin.nic.in”, the URL of the Finance Ministry website. And that is meant to trick people. Of course, if you look at the actual URL that’s been shared — indiangotrs.blogspot.com — you’d immediately recognise it does not belong to a government organisation.
+
+But that’s not the only URL. There are also “indiarsgot.blogspot.com” and “indiagetingrs.blogspot.com” and both websites were active at the time of writing this.
+
+All three links are designed similarly to impersonate the Finance Ministry of India. Their archived versions can be seen here, here and here.
+
+Squid Game begins
+
+Inside these sites, when you click on the registration button, you will be asked to enter your name and share the link with either 15 WhatsApp friends or forward it to five WhatsApp groups. As you do this, another window will open, leading you to a page featuring the design from the globally acclaimed Netflix show “Squid Game”.
+
+When you click on the page with the “Squid Game” visual, two different links open. The first link asks you to enter your phone number and call to receive further instructions for participation. Such tricks to gather phone numbers are often used to harvest data.
+
+The second link will also ask you for your phone number. As you enter a phone number (which you shouldn’t) and proceed, a warning will flash on your screen claiming this malicious website could steal your passwords, emails, or even credit card details.
+
+Reading between the lines of code
+
+The websites impersonating the Finance Ministry are hosted on blogspot.com. This has been intentionally done to make it difficult to unmask the people behind them.
+
+If someone tries to find the details of the website using domain investigation tools, only the details about blogspot.com would be revealed and it won’t be possible to find anything about the website being hosted on it or its creator.
+
+We then decided to look into the source code of these websites. Here, we found links to three profile pages hosted on blogspot.com: od107, od.company79 and od.company81.
+
+Scanning the websites listed on these profiles revealed several other Blogspot profile links such as od.company6, od103, od.company42 and od102.
+
+Pandora’s box
+
+These Blogspot profile pages turned out to be a warehouse of scams! They contain a long list of scam websites personalised for different countries of the world.
+
+In total, we were able to find 150 active links to scam websites. We compiled the list of these websites that can be seen here.
+
+The screenshots of some such websites can be seen below. It is noteworthy that a large chunk of these websites is in Arabic. This means that the person operating these sites could have an Arabian connection.
+
+advertisement
+
+Among the scam links, we found some websites running fake schemes in the names of Global leaders like Abdullah II bin Al-Hussein, popularly known as the King of Jordan, and the Prime Minister of UAE Mohammed Bin Rashid Al Maktoum.
+
+Scams are being run in the name of brands and organisations from multiple countries of the world like Saudi Arabia, UAE, Egypt, Jordan, Kuwait, Lebanon, Morocco, Qatar, and Yemen. For instance, fraud schemes are being run in the name of the ‘Touch’ and ‘Alpha’, leading telecom operators in Lebanon. Another fake website is being run in the name of Carrefour Jordan, a supermarket in Jordan.
+
+While we were not able to identify who is behind these scam websites, it is clear that fraudulent websites advertising government financial aid and other schemes around the world are being run by one person or group.

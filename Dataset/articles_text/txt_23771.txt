@@ -1,0 +1,41 @@
+As on Rural tele-density (%) Urban tele-density (%) Overall tele-density (%) Increase (year-on-year) overall tele-density (%) Increase (year-on-year) rural tele-density (%) Increase (year-on-year) urban tele-density (%) Mar 31, 2008 9.5 66.4 26.2 - - - Mar 31, 2009 15.1 88.8 37.0 10.8 5.7 22.5 Mar 31, 2010 24.3 119.5 52.7 15.8 9.2 30.6 Mar 31, 2011 33.8 156.9 70.9 18.2 9.5 37.5 Mar 31, 2012 39.2 169.6 78.7 7.8 5.4 12.6 Mar 31, 2013 41.0 147.0 73.3 -5.3 1.8 -22.6 Mar 31, 2014 44.0 145.8 75.2 1.9 2.9 -1.2 Mar 31, 2015 48.4 148.6 79.4 4.2
+
+4.4 2.8
+
+As on Wireless Broadband Subscribers (Phone+Dongle) (in millions) Wireline Broadband Subscribers (in millions) Total Broadband Subscribers (in millions) Mar 31, 2014 46 14.9 60.9 Mar 31, 2015 83.7 15.5 99.2
+
+At the end of a year since Prime Minister Narendra Modi took office, the telecommunications ministry put out a series of tweets, putting forward its achievements. Here are three problems we found with the claims. We emailed our findings to the ministry last week, requesting comment. There was no response.: National tele-density increased fastest (4.3%) over 11 months to reach 79.9%. Subscriber base in rural areas rose 4.5% over the past 11 months to reach 48.9%.: Between 2008 and 2012, overall tele-density increased from 26.2% to 78.7%. The compounded annual growth rate (CAGR) for this four-year period is 31.6%, according to tele-density data from Telecom Regulatory Authority of India (TRAI). The average year-on-year increase in percentage-points terms, for the same duration 2008-2013, is 13%. Therefore, terming a 4.2% increase during 2014-15 (or a CAGR of 5.6%) as “fastest” is factually incorrect. Similarly, rural tele-density grew at a year-on-year rate of around 7.5% between 2008 and 2012 in average percentage-points terms. The CAGR of rural tele-density for the four years is 42.7%. During 2014-15, rural tele-density grew in percentage-points terms by 4.4% (or a CAGR of 10%)."font-family: arial; font-size: 12px; margin-left:25px;text-align: justify;">: Our calculations have been done for the financial year, while the government has done them for 11 months.: An "unprecedented" 52% growth in broadband subscribers in 10 months.: The increase in broadband subscribers between 2014 and 2015 is around 63% (and not 52%). The increase is primarily driven by more than 80% growth in wireless broadband. The increase in wireline broadband subscribers is 4.4%.
+
+Source: TRAI
+
+Wireline Broadband Subscribers (in millions) As on BSNL MTNL Mar 31, 2014 10 1.13 Mar 31, 2015 9.96 1.14
+
+The wireline broadband subscription of state-owned BSNL declined during 2014-15 whereas MTNL added only 10,000 broadband connections during the same time period.
+
+Source: TRAI
+
+Wireless Broadband Subscribers (Phone+Dongle) (in millions) As on BSNL Bharti Idea Reliance Vodafone Mar 31, 2014 6.8 11 7.2 7.1 7 Mar 31, 2015 8.9 20.6 14.5 7.8 19.4
+
+Wireless broadband subscription increased during 2014-15 primarily because of more than 90% growth in the subscription base of private players like Bharti, Idea and Vodafone put together. State-owned BSNL registered around 30% growth in wireless broadband.
+
+Source: TRAI
+
+If you can do so well in calamities, can do much better in normal times:@rsprasad to BSNL & MTNL #SaalEkShuruaatAnek pic.twitter.com/nyW3WPvJUn — PIB India (@PIB_India) June 2, 2015
+
+Landline Subscriber Base As on No. of BSNL subscribers No. of MTNL subscribers Decrease in BSNL subscribers Increase in MTNL subscribers Mar 31, 2014 18,488,147 3,528,752 - - Mar 31, 2015 16,412,440 3,551,671 -2,075,707 22,919
+
+: Our calculations have been done for the financial year, while the government has done them for 10 months.: BSNL and MTNL added 4.7 million and 0.2 million subscribers respectively during 2014-15.: In both landline and wireless categories, BSNL’s subscription base declined by more than 2 million and 17 million, respectively during 2014-15, according to TRAI data . During the same time-period, MTNL registered a moderated increase of subscription base; around 0.02 million in landline and 0.14 million in wireless category. The claim is factually incorrect. ■
+
+Source: TRAI
+
+Wireless Subscribers As on No. of BSNL subscribers No. of MTNL subscribers Decrease in BSNL subscribers Increase in MTNL subscribers Mar 31, 2014 94,649,445 3,372,336 - - Mar 31, 2015 77,223,655 3,511,744 -17,425,790 139,408
+
+Source: TRAI
+
+References:
+
+Fact Check 1
+
+Fact Check 2
+
+Fact Check 3

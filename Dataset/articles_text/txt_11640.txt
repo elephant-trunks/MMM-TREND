@@ -1,0 +1,65 @@
+Amid the Maharashtra political crisis, an alleged tweet by “Press Trust of India” is going viral on social media platforms. The tweet claims that social activist Anna Hazare said, “If Devendra Fadnavis not made CM this time then I will start hunger strike at Saki Naka railway station.”
+
+Several social media users shared the image believing that the tweet was made by news agency Press Trust of India and that Hazare had in reality extended his support to Fadnavis.
+
+Screenshot of Facebook post by @prasanthpchithran
+
+Screenshot of Facebook post by @arun.at.gyalizoKE
+
+Screenshot of Facebook post by @rana.choudhry
+
+You can find the links to such posts here, here and here.
+
+Maharashtra’s tripartite government- Maha Vikas Aghadi- is facing its worst political crisis since coming to power as nearly 40 of Shiv Sena MLAs‘ led by Eknath Shinde rebelled against Sena chief and state CM Uddhav Thackeray. The dissenters were reportedly upset over the functioning of the Nationalist Congress Party (NCP) and the Congress – two partners in the MVA.
+
+Following this, the Maharashtra deputy speaker issued a disqualification notice against Eknath Shinde and 15 other ‘rebel’ MLAs. Shinde has approached the Supreme Court calling the action “illegal and unconstitutional” and seeking a stay on it. On Monday, the Supreme Court granted interim relief to Shinde and other rebel MLAs by extending the time to file response to the disqualification notice sent by the Deputy Speaker, till July 12.
+
+Also Read: Did TIME Magazine Cover Equate PM Modi With Hitler? No, Viral Image Is Fake
+
+Fact Check/Verification
+
+Newschecker began by inspecting the official Twitter account of the Press Trust of India (PTI) but did not find any such tweet. Following this, we analysed the viral image and noticed that the blue tick or the verified mark which the tweets by the official PTI account have -indicating verified accounts on Twitter- was missing. Additionally, the handle name was ‘@ZackRhea’ instead of ‘@PTI_News.’ It was also noted that the tweets by verified PTI accounts have the words “PTI_Tweets” written in the date line, the viral image has the words “Twitter Web App” instead.
+
+(L-R) Viral image and Screenshot of a tweet by official handle of Press Trust Of India
+
+To know whether the image was fabricated or a Twitter handle @ZackRhea did post such a tweet, we searched the account of @ZackRhea, who identifies itself as “Social Media Influencer” and its bio reads “Life is really a struggle to beat the second law of thermodynamics…!,” and found the tweet dated June 24, 2022.
+
+Notably, the username appeared to be “𝐙𝐀𝐂𝐊ᴮᶦʳʸᵃⁿᶦʷᵃˡᵃ®” instead of Press Trust of India as seen in the viral image. However, the other elements of the tweet including the username and the date time were all the same.
+
+We gathered more information using ‘Twicopy’, a website which collects information and history of Twitter accounts.
+
+We looked up keywords “@ZackRhea Anna” and found several replies to a tweet by the username “Press Trust of India.”
+
+Screenshot of Twicopy website
+
+The search for the link to @ZackRhea’s tweet on archive.today web capture website yielded the tweet posted under the username of Press Trust of India claiming that Anna Hazare extended his support to Fandavis. Notably, @ZackRhea was also identified as “Parody” in the archived version of the tweet.
+
+Screengrab from archive.today website
+
+Screengrab from Twitter
+
+The discrepancy over timing of the tweet can be attributed to different time zones. The original tweet shows 3:39 pm while its archived version shows 10:09 am, indicating that the tweet was made from a country which is 5:30 hours behind us.
+
+Notably, by the time of publishing this article Twitter user @ZackRhea has changed back its username to Press Trust of India and its bio reads “Parody,” indicating that the user keeps changing his name on the platform.
+
+Further, no news outlet reported about Hazare has threatened to go on a hunger strike “ if Devendra Fadnavis is not made CM this time.”
+
+Conclusion
+
+Viral image that shows a tweet by user Press Trust Of India stating that Anna Hazare has threatened to go on hunger strike if BJP leader Devendra Fadnavis is “not made CM this time,” was actually made by a parody account.
+
+Result: False
+
+Sources
+
+Twitter Account of @ZackRhea
+
+Twitter Account of @PTI_News
+
+Twicopy
+
+Self Analysis
+
+
+
+If you would like us to fact check a claim, give feedback or lodge a complaint, WhatsApp us at 9999499044 ​or email us at ​checkthis@newschecker.in​. You can also visit the Contact Us​ page and fill the form.

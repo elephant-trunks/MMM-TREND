@@ -1,0 +1,31 @@
+Due to the outbreak of Coronavirus in the world, India has gone for a complete lockdown for 21 days. Amidst this we found a viral message that claims that from midnight onwards (no date mentioned), the Disaster Management Act has been implemented across the country, as per which apart from government departments, no other citizen is allowed to post any update or share any forward related to COVID-19. It also claims that if a person posts anything offensive, then the group admin will be responsible and will also face legal action under section 64, 140 and 188.
+
+Facebook Post | Archive Link
+
+Fact Check-
+
+We started our investigation with a simple keyword search about Disaster Management Act on Google which lead us to the order passed by Ministry of Home Affairs on 24th March 2020. On 24th March 2020, the central government announced nationwide 21 day lockdown and has stated that the Disaster Management Act, 2005 was being invoked to deal with Covid-19. As per the order, there is no such provision under the Disaster Management which says that apart from government departments, no other citizen is allowed to update or share news related to a disaster. Next we looked up IPC Section 68, 140 and 188.
+
+Section 68 deals with “imprisonment to terminate on payment of fine.—The imprisonment which is imposed in default of payment of a fine shall terminate whenever that fine is either paid or levied by process of law.”
+
+Section 140 deals with “Wearing garb or carrying token used by soldier, sailor or airman.—Whoever, not being a soldier, [sailor or airman], in the Military, [Naval or Air] service of the [Government of India]”
+
+Section 188 deals with “Disobedience to order duly promulgated by public servant.”
+
+
+
+We also searched for the above mentioned sections under the Disaster Management Act 2005. According to the act, Section 68 mentions that “Every order or decision of the National Authority or the National Executive Committee shall be authenticated by such officers of the National Authority or the National Executive Committee.” There is no mention of Section 140 and 188 under the Disaster Management Act 2005.
+
+
+
+The Supreme Court also passed an order on March 31st , that Section 54 of the Disaster Management Act can be used to punish those who spread false information.
+
+Under the Disaster Management Act 2005, Section 54 mentions that sharing any update or forward whether on WhatsApp or any other social media platform, which is “false”, is a criminal offence.
+
+We also came across a clarification tweet by PIB Fact Check, the tweet mentions “Msgs circulating on social media claiming-apart from Govt no citizen is allowed to post/forward update on #COVID19– is MISLEADING&FALSE.”
+
+Msgs circulating on social media claiming-apart from Govt no citizen is allowed to post/forward update on #COVID19– is MISLEADING&FALSE#PIBFACTCHECK: Circulating unverified/false news leading to panic is prohibited. As responsible Citizens let's not circulate fake forwards (1/3) pic.twitter.com/JvPPzd25DR — PIB Fact Check (@PIBFactCheck) April 2, 2020
+
+Archive Link
+
+Conclusion- Fact Crescendo found the above mentioned post to be False. There is no such restriction on citizens to share any news or updates about the coronavirus situation, as long as it is not false information. The viral message on social media is misleading and false.

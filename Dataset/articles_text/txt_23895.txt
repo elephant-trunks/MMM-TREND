@@ -1,0 +1,45 @@
+Pharmaceutical giant Pfizer has started publishing documents related to its m-RNA Covid-19 vaccine and the trials of the vaccine. The first batch of over 80,000 pages of documents were released on May 2, triggering many information and mis-information being spread about the vaccine on social media.
+
+While the over 80,000 pages of the document contain mostly raw data related to the vaccine and its trial, the company had also released a 53-page briefing document in December last year. According to this document, the efficacy of the BNT162b2 vaccine made by Pfizer is found to be 95%, which was already reported earlier. The document says that the vaccine is largely safe for population of all age groups, except some common side effects which go way with time.
+
+In the clinical trial for the vaccine, 18198 participants had received the Pfizer vaccine, while 18325 participants had received placebo. This 95% efficacy is found a week after the second dose of the vaccine is taken. The efficacy is less before that, which is only 52% during the three weeks between the first and second dose.
+
+The 95% efficacy rate is based on the finding that among the 18198 people who had received the vaccine, 8 among them had tested positive for Covid-19 a week after the second dose of the vaccine, compare to 162 people testing positive in the placebo group.
+
+The Pfizer vaccine efficacy report
+
+The vaccine efficacy (VE) is calculated on the basis positive cases found in both the vaccine group and the placebo group, and the formula for its calculation is- (placebo group positive – vaccine group positice)/ placebo group positive x 100%. Therefore, the VE for the Pfizer vaccine will be calculated as – (162-8)/162 x 100%, which is 95%.
+
+The document also discusses adverse effects of the vaccine in detail, and it shows that majority of the recipients experienced some kinds of side effects of the doses. The most common solicited adverse reactions were injection site reactions (84.1%), fatigue (62.9%), headache (55.1%), muscle pain (38.3%), chills (31.9%), joint pain (23.6%), fever (14.2%). However, these effects were mild, and only maximum of 4.6% participants experienced severe adverse reactions.
+
+However, the document notes that the occurrences of the severe adverse effects are not more than the rate of occurrence seen in general population, therefore they could not be linked to the vaccine.
+
+Claims about the documents and the facts
+
+After the documents regarding the Pfizer vaccines were released, several claims are being made about it, which have turned out to be false. The most common claim is that the document reveals that the actually vaccine efficacy of the Pfizer’s Covid-19 vaccine is 12%, not 95. However, this claim is completely false and baseless.
+
+?? Pfizer data released today. 80,000 pages. Pfizer knew vaccine harmed the fetus in pregnant women, and that the vaccine was not 95% effective, Pfizer data shows it having a 12% efficacy rate.?? — Kelly Kivett (@kellyjo0813) May 3, 2022
+
+?? Pfizer data released today. 80,000 pages. Pfizer knew vaccine harmed the fetus in pregnant women, and that the vaccine was not 95% effective, Pfizer data shows it having a 12% efficacy rate.?? — Kelly Kivett (@kellyjo0813) May 3, 2022
+
+The 12% VE claim was first made by journalist Sonia Elijah on a substack post. Citing a para from page 42 of the FDA briefing document, she had calculated the VE to be 12%. The para referred to by her says, “Among 3410 total cases of suspected but unconfirmed COVID-19 in the overall study population, 1594 occurred in the vaccine group vs. 1816 in the placebo group.”
+
+Taking 1594 and 1816 as positive cases in the vaccine group and the placebo group, she had calculated the VE as 12%, using the same formula shown above – (1816-1594)/1816 x 100%. However, this is a wrong calculation, because the numbers 1594 in vaccine group and 1816 in placebo does not represent positive Covid-19 cases in both the groups, as claimed by Elijah. These numbers actually refer to “suspected but unconfirmed” cases. This means, this shows number of people showing symptoms which are similar to Covid-19 symptoms, but the Covid-19 was not confirmed by PCR tests.
+
+As Covid-19 symptoms include common symptoms like fever, cough, shortness of breath, chills, muscle pain, sore throat, loss of taste/smell, diarrhea, and vomiting, mere occurrence of these symptoms does not confirm a positive Covid-19 case, unless they are confirmed by a test.
+
+These symptoms in those participants could have been the result of any other cause or disease, or some of them could be just effects of the vaccine, as many people suffer from fever etc due to vaccines. The document nowhere mentions that the total 3410 cases both the groups had tested positive for Covid-19, they are only suspected but unconfirmed cases. Therefore, these numbers can’t be used to calculate the vaccine efficacy.
+
+Therefore, the claim that real VE of the Pfizer vaccine is 12%, not 95%, is incorrect and is based on wrong interpretation of data.
+
+It is also notable that among the 3410 suspected cases, 409 cases in the vaccine group and 287 cases in the placebo group had occurred within the first 7 days of the first dose of the vaccine. The document says that it could be due to vaccine reactogenicity with symptoms similar to the Covid-19 symptoms. In simple terms, these symptoms could have caused by the vaccine, and not due to Covid-19.
+
+Another interesting point is that these data on suspected but unconfirmed cases is not new, it was already mentioned in the briefing document released in December 2021, it is not something new revealed in the 80,000-page documents.
+
+Similarly, there are claims that the new documents reveal the Pfizer vaccine to be dangerous and not safe. There are claims that the Pfizer has said in the documents that the vaccine is not safe during pregnancy and breastfeeding. Screenshots purportedly from the documents are being used to make these claims.
+
+LITERALLY: The COVID-19 mRNA vaccine is not recommended during pregnancy. -Pfizer How many pregnant and breastfeeding Canadian women were advised by doctors to take the jab?!? Uh-oh. pic.twitter.com/Eyd3aB9H57 — JasmineFlowerzzz ?????? (@JFlowerzzz) May 3, 2022
+
+But these are also baseless claims, because the screenshot is from an old and British document and not from the Pfizer data. The document seen in the screenshot is from Britain’s Medicines and Healthcare Products Regulatory Agency (MHRA), issued in 2020. At that time the Covid-19 vaccine was new, and as with any new drug, the vaccine was also deemed unsafe during pregnancy and breastfeeding.
+
+But subsequently MHRA has updated the guidelines, which does not prohibit the vaccine for women during pregnancy and lactation. It now says that there is limited data on the vaccine in pregnant women, but study on animals do not indicate harmful effects on pregnancy. It therefore says, “administration of the COVID-19 mRNA Vaccine BNT162b2 in pregnancy should only be considered when the potential benefits outweigh any potential risks for the mother and foetus.”

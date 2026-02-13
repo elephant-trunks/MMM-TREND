@@ -1,0 +1,49 @@
+Delhi: Various news reports have claimed that there was an 82% increase in the number of child rape cases in a period of one year from 2015 to 2016. While some news reports (such as this, this and this) have cited the exact number of child rape cases from the National Crime Records Bureau reports for 2015 and 2016 to arrive at the 82% figure, others (such as this and this) have only cited the percentage difference of 82%.
+
+However, this claim is based on an incorrect reading of the NCRB reports. Based on a correct reading of the same reports, the increase was less than 1%.
+
+Here’s how.
+
+Understanding the reporting of child rape cases in India
+
+Until 2012, rape cases, irrespective of the victim’s age, were initially registered only under the Indian Penal Code, 1860 (IPC). In 2012, the Protection of Children from Sexual Offences Act (POCSO Act) came into force, which specifically provides for punishment for the offence of rape against a minor. Child rape cases are now registered under both the IPC and the POCSO Act.
+
+When the National Crime Records Bureau (NCRB) released its annual report titled ‘Crime in India 2016-Statistics’ in November 2017, the issue of the increasing number of child rapes was specifically highlighted in a large number of news reports in India.
+
+All these news reports stated that a comparison of the annual reports of the NCRB for the years 2015 and 2016 showed that there had been a 82% increase in the number of incidents of child rape over a period of just one year. This 82% figure was even quoted later in 2018 in both Indian and international newspapers such as The New York Times, The Guardian and The Washington Post.
+
+Where exactly did these news reports go wrong?
+
+The news reports quoting the exact figures stated that the number of cases registered in 2015 under both the IPC and POCSO Act was 10,854, while the figure for 2016 was 19,765 cases, hence the jump of 82%.
+
+However, while the 2016 NCRB report quotes a combined figure for cases registered under both the IPC and POCSO Act, that is not the case with the 2015 report, which is where these news reports went wrong.
+
+A careful reading of the NCRB Report of 2015 shows that the figure of 10,854 cases refers to child rape cases registered only under the IPC. The separate figure of 8,800 cases registered under the POCSO Act in 2015 was completely ignored in these reports. The NCRB Report of 2015 listed the cases filed under the IPC and POCSO Act separately to avoid duplicity of data, because sometimes police stations register an offence of rape involving a child victim under both the IPC and the POCSO Act.
+
+Adding up the cases filed in 2015 under the IPC and the POCSO Act would bring the total number of child rape cases registered in 2015 to 19,654--and not 10,854, as was reported.
+
+Cases Filed Under IPC and POCSO Act Listed Separately
+
+Source: NCRB Report of 2015.
+
+Taking into account these cases registered under the POCSO Act, the math changes completely:
+
+Figures as per news reports for 2015 10,854 cases (for both IPC and POCSO) Figures as per NCRB Report for 2015 IPC cases - 10,854 POCSO cases - 8,800 Total no. of reported child rape cases in 2015: 19,654 Actual percentage increase in child rape cases from 2015 to 2016 0.56% (and not 82%)
+
+Thus, the actual increase in the number of child rape cases from 2015 to 2016 was less than 1%.
+
+Why is this misreporting problematic?
+
+The issue of increasing incidents of child rape in India has been a source of shame, concern and tragedy for the entire country. The Kathua rape case led to outrage all over the country, with many demanding the death penalty for the rapists, three of whom have been given a sentence of life imprisonment by a special court in Pathankot.
+
+That such a large number of reputed Indian and foreign news reports provided incorrect information on such a sensitive issue highlights the pitfalls of reading data incorrectly, especially amid the growing concern globally against fake news and unethical reporting in journalism.
+
+The outrage over the Kathua incident led to the introduction in July 2018 of the death penalty for rapists of girls below the age of 16 years, despite the critique of the effectiveness of such a move. More recently, the death penalty has also been proposed for using children for pornographic purposes, under the POCSO (Amendment) Bill, 2019, which was introduced in the Lok Sabha in January 2019.
+
+Such measures lead the judiciary to hand out more death penalty convictions--trial courts across India imposed death penalty in 162 cases, the highest number since 2000. In Madhya Pradesh alone, child rapists have been sentenced to death in 26 cases since February 2018, with one such case being swiftly decided in one week.
+
+While trial courts have been awarding the death penalty more frequently, the Supreme Court has been commuting the sentences--in January 2019, the top court commuted death sentences to life imprisonment of varying terms in 11 of 12 death penalty cases that it heard in 2018, as per a report released by National Law University, Delhi.
+
+(Gupta is a Delhi-based lawyer and a former Legislative Assistant to a Member of Parliament (LAMP) Fellow.)
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.

@@ -1,0 +1,49 @@
+Image Credit- The Wall Street Journal
+
+Social Media has become our best friends in this difficult and lonely time during nationwide lockdown. We are constantly glued to social media, updating our daily routine, sharing news related to COVID-19 etc. Amidst this, a viral post on social media claims that Facebook is tracking all our off Facebook web and phone activity which also includes our personal data such as Net banking. Further the post describes how one can manage and turn off Facebook’s Off-Facebook Activity. The post also claims that the authorities at Facebook have not mentioned neither clarified this action of tracking user’s personal data even when they are not using Facebook.
+
+Facebook Post | Archive Link
+
+Well Facebook does have an option called Off- Facebook Activity. Off-Facebook Activity lets you see a summary of the apps and websites that send Facebook information about your activity, and clear this information from your account if you want to.
+
+
+
+According to Facebook much of what you do online generates data such as when you’re searching for holiday destinations or buying a backpack. Occasionally, businesses share that data with Facebook. This data is used to help businesses find the right audience to show ads for things you might like a deal on backpacks or any other items that you might like. With the help of Facebook’s Off-Facebook Activity you can see a summary of information Facebook receives about your activity on other apps and websites. You also have the option to disconnect it from your account. This feature is available since August 2019.
+
+What Is Off-Facebook Activity?
+
+Imagine a clothing website wants to show ads to people who are interested in a new style of shoes. They can send information to Facebook saying someone on a particular device looked at those shoes. If that device information matches someone’s Facebook account, they can show ads about those shoes to that person.
+
+Off-Facebook activity includes information that businesses and organizations share with Facebook about your interactions with them. Interactions are things like visiting their website or logging into their app with Facebook. Off-Facebook activity does not include customer lists that businesses use to show a unique group of customers relevant ads.
+
+Here’s How Your Activity is Shared with Facebook
+
+1. User “A” buys a pair of earrings from an online clothing and accessories store.
+
+2. The store shares user “A” s activity with Facebook using their business tools.
+
+3. Facebook receives user “A” s off-Facebook activity and they save it with user “A” s Facebook account. The activity is saved as “visited the Clothes and Accessories website” and “made a purchase”.
+
+4. User “A” sees an ad on Facebook for a 10% off coupon on her next earring, accessories or clothing purchase from the online store.
+
+Is this a privacy violation?
+
+
+
+Well, the answer is NO! Facebook has been partnering with websites, apps and stores to track and target customers for years. We can easily go and check which website and apps are sharing our likes, dislikes and search data with Facebook. If we want to delete any information, any user can do so. This is mainly done to provide the user at Facebook a more personalised experience with ads and suggestions as per their preference and choices. Facebook uses this activity to personalize your experience, such as showing you relevant ads.
+
+To delete or check these websites and apps sharing your data follow the steps below:
+
+1. Go to Facebook.com or Open Facebook App
+
+2. Go to Settings
+
+3. Click on Your Facebook Information on the left-hand column. 4.Click on Off-Facebook Activity on the right. From here, you can also click Manage Your Off-Facebook Activity for more information.
+
+What does Facebook do with your off-Facebook activity?
+
+Facebook shows you more relevant ads according to your taste, preference and purchases. Along with this they also suggest groups, events or Marketplace items you might be interested in. It also helps you discover new businesses and brands. This feature also helps Facebook identify suspicious activity to help keep Facebook safe.
+
+Facebook clearly states that they don’t sell your information to anyone. They prohibit businesses or organizations to share sensitive information with them, such as health and financial information, your date of birth and passwords. If they determine that a business or an organization is violating Facebook’s terms, they take action against that business or organization. This clearly means that all your personal information including your net banking facilities are safe.
+
+Thus, it is clear that Facebook is not tracking user’s personal information and whereabouts without informing them. Every detail about Facebook’s Off- Facebook Activity is mentioned in Facebook Support and Help. The data collected by Facebook from businesses and organization is to provide a better experience for the user according to their taste and preference. This data can be easily managed by the user.

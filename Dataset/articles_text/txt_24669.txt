@@ -1,0 +1,81 @@
+Delhi: We come across the term GDP or gross domestic product every day, to estimate economic growth in our country, in other countries and to draw comparisons.
+
+Thanks to its common usage, the term is used more as a temperature check rather than as a hard statistical number.
+
+More recently, there have been questions about its composition, the way it works and whether it accurately reflects what is going on in the economy. While this is still the only metric available to us, it is worth noting that there are gaps which contribute to its relative weakness as a precise estimate.
+
+Policy-making suffers, as noted on multiple occasions by the Reserve Bank of India with regard to its decisions on interest rates, because of data challenges. That’s not all. Independent assessment of policy outcomes gets complicated.
+
+Before we come to the gaps, let’s understand what it takes to estimate GDP today. Broadly, estimating GDP requires estimating consumption, production and investments in the economy, for which data collection is done by various agencies under a legal framework prescribed under the Collection of Statistics Act, 2008.
+
+Where are the data collected from:
+
+Data are collected from factories, shops and establishments and government departments and public services. Most of them are collected from official sources, including 68 major municipal bodies and autonomous institutions. All data generated through the public administration system are used in the exercise. This includes the census, birth and death records, land and municipal records, taxes, sample surveys, foreign sector transactions and physical and financial savings. Wherever actual data are available, direct estimates are used. Otherwise indirect estimates are prepared from surveys.
+
+So what are the data gaps that stand out?
+
+Of the various data gaps, five stand out. There is also broad concurrence including in the official statistical system that if these gaps are addressed effectively, then the estimation and assessment of the economy’s performance could improve.
+
+Even as we do that, understanding these gaps is important to get a more complete assessment of the economy’s performance.
+
+Here go the five gaps.
+
+Monthly payroll data for employees--casual and formal staffers, and directly and indirectly hired workers
+
+In a working paper released on February 25, 2020, RBI researchers wrote that monthly payroll employment data are one of the indicators used in advanced economies for “nowcasting”, which relates to projecting the present, the very near future and the very near past. India does not have such data needed for making well-informed monetary policy decisions and its post-corona policy rate cuts have been unaccompanied by any inflation or GDP growth projections.
+
+In the absence of high-frequency data for formal employment, which is defined as regular employment with entitlement to some type of social security, economists rely on monthly estimates of payroll data derived from databases available at administrative sources. This could be the Employee Provident Fund Organisation (EFPO), Employee State Insurance Corporation (ESIC) or the National Pension Scheme (NPS). But these databases provide only partial estimates of formal employment, as enrollment is not obligatory above a threshold salary. In the case of EPFO, the salary threshold is Rs 15,000 per month, for example.
+
+Annual estimates of formal employment are available from the National Sample Survey Office’s (NSSO) Employment and Unemployment Surveys from 1999-00 onwards, but they have been found to have a high margin of errors associated with unemployment rates by gender. Estimates of unemployment rates from different surveys have also been found to be inconsistent.
+
+For instance, unemployment estimates of NSS quinquennial round 2011-12 and Labour Bureau survey of 2011-12 vary significantly.
+
+These surveys also do not provide crucial indicators such as out-migration, quality and spell of employment, earnings of self-employed and quantum of contract labour.
+
+Finance Minister Nirmala Sitharaman has said for example that the absence of data on migration has impaired her lockdown-related relief efforts for the large population of distressed migrant workers.
+
+Given the dual nature of India’s workforce that is dominated by casual and informal employees, India needs monthly payroll data that covers all kinds of jobs--formal and informal.
+
+Although the newly instituted Periodic Labour Force Survey’s (PLFS) objective is to measure labour force participation and employment status in the short time interval of three months for the urban areas, it will not provide monthly estimates. In every quarter, PLFS will bring out the level and change estimates of the key labour force indicators in only the Current Weekly Status (CWS). These indicators are Worker Population Ratio (WPR), Labour Force Participation Rate (LFPR) and Unemployment Rate (UR).
+
+Again, gaps are expected: The PLFS 2017-18 provides estimates for employment for pay and profit but excludes voluntary paid and unpaid work, trainee work and work in co-operatives. Subsidiary work on household production of goods for own use is captured as non-work. Work on household production of services for own use is not captured at all.
+
+Households expenditure and consumption expenditure of non-government shops and establishments
+
+A large part of GDP comprises consumption by households. Household expenditure is estimated by two different ways: National Income Accounts’ (NAS) Private Final Consumption Expenditure (PFCE) and NSSO’s Household’s Consumption Expenditure Surveys.
+
+The difference in the estimates of the two used to be of the order of 20-30% in the 1980s but tends to be of the order of 45% now, according to a conference paper of the Ministry of Statistics and Programme Implementation (MOSPI).
+
+The discrepancies could be on account of understatement of expenditure in the NSSO surveys owing to recall issues and inadequate capture of high-income households etc, according to the MOSPI paper.
+
+The NSSO had changed the survey design--it reduced the call period to seven days and 30 days (particularly for food items)--to understand the impact of different recall periods. But the estimates have not shown much improvement. To reduce the widening discrepancy, surveys on Non-Profit Institutions (NPIs) and NPI serving Households (NPISH) are needed so that Household Final Consumption Expenditure (HFCE) and NPISH Final Consumption Expenditure can be obtained and the estimates reconciled.
+
+Confidence bands for revisions
+
+The MOSPI carries out revisions in GDP estimates according to a set calendar. It releases six estimates of the GDP of a year over a period of two years and ten months. The quarterly estimates are revised as per a calendar. With data availability, the extent of noise should ideally diminish in the revisions, as they are expected to reflect greater news about the state of the economy.
+
+But research, such as by the National Institute of Public Finance and Policy (NIPFP), has found that the magnitude of the revisions tends to be large. This increases scope of policy errors as policy makers use the initial-stage estimates more than the later ones. Those are compiled with incomplete data or proxies based on high-frequency indicators and are more likely to contain noise. NIPFP researchers have recommended that the risk of policy mistakes may reduce to an extent if the National Statistics Office (NSO) constructs confidence or error bands around the initial GDP estimates.
+
+Forms for more accurate classification of GDP into sectors
+
+The Ministry of Corporate Affairs (MCA) has an electronic form, MGT 7, which companies must file with the Registrar of Companies (RoC). The information provided in these forms by companies goes into the estimation of Gross Value Added (GVA). But many establishments don't fill the form with product details as required, which complicates the estimation. As a result, the NSO is unable to update its directory of establishments. This has created scope for manufacturing GVA getting allocated as services GVA and vice versa.
+
+Further, the form itself needs to be updated, as it has few details of products and the nature of business activities required for proper classification of companies and estimation of GVA of the different sectors in the economy. Corporate financial statements need to be linked with the MGT 7 form to arrive at a better classification of companies, according to the MOSPI paper. This linking will help in allocation of GVA to entities in case of mixed/multiple business activities. One alternative is to introduce a simpler form, which establishments can fill and upload just as they do with GSTR (Goods & Service Tax Registration) filing.
+
+The growing digitised economy is a new challenge for the national statistical system, according to the MOSPI paper. In the estimation of the financial services GDP, transactions in payments bank and by credit cards need to be better captured. Information on digital transactions and e-commerce activities is available with the National Payments Corporation of India. Data availability of specific e-commerce transactions needs to be explored for the purpose of GDP estimation. Similarly, coverage of consumer-to-consumer transactions facilitated by web-based intermediaries such as Uber, AirBnB etc needs to be tightened.
+
+Deflators and Services Price Index
+
+GDP is estimated in nominal terms, but the real growth figures get reported and discussed. They are computed from the nominal figures using price deflators. NSO’s options for deflators are limited to the consumer prices and wholesale price indices and their components. It does not have deflators for digital goods.
+
+As a result, other than for farm produce, NSO is not able to separately deflate inputs and output of any sector. To deflate the services sector GDP, the NSO uses the Consumer Price Index (CPI), as there is no services price index, although it is the largest segment of the economy. A well-designed services price index needs to be launched. Also needed are proper deflators for services.
+
+The good news is that the government’s statistical system as well as institutional users and researchers have already identified these data gaps as crucial to improving the quality of estimates produced on multiple occasions in official deliberations. GDP estimation and GDP for that matter is an evolving construct as is apparent.
+
+India is at a disadvantage compared to developed countries because of its largely informal economy, which poses tremendous challenges for data gathering and estimation. It is likely that as the economy becomes more formal, the quality of estimates will improve.
+
+This story is part of FactChecker Explained, a series through which we attempt to answer questions that are uppermost on people's minds via experts who bring to bear their knowledge and experience.
+
+(Puja Mehra is a Delhi-based journalist and author of The Lost Decade (2008-18): How India’s Growth Story Devolved Into Growth Without A Story.)
+
+We welcome feedback. Please write to respond@factchecker.in. We reserve the right to edit responses for language and grammar.

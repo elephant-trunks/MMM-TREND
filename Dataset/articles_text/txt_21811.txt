@@ -1,0 +1,87 @@
+On 21 January, a parliamentary panel on information technology questioned WhatsApp representatives on its recently proposed changes in the privacy policy.
+
+Earlier this month, the Ministry of Electronics and Information Technology asked WhatsApp to withdraw its privacy policy. It said the new terms and conditions take away choice from Indian users.
+
+The change in WhatsApp's privacy terms, which required users to share their data with both Facebook and Instagram, led several users to switch to other messaging apps like Signal.
+
+advertisement
+
+Amidst all this, a message has gone viral on social media which makes several startling claims related to WhatsApp's new terms. It talks about a new set of communication rules, purportedly issued by WhatsApp.
+
+According to one of these rules, WhatsApp will now record and save all the calls made by users. The message also states that the government will now be monitoring WhatsApp chats and any 'anti-government' message can lead to legal action.
+
+The archived version of this post can be seen here.
+
+Many Facebook users have shared this post.
+
+India Today Anti Fake News War Room (AFWA) has found that the viral list of new WhatsApp communication guidelines is fictitious and has not been issued by WhatsApp. Though, it is true that WhatsApp is collecting a substantial amount of user data.
+
+AFWA probe
+
+Let us look into the three major claims of the viral list one by one.
+
+Claim 1: WhatsApp will record and store all the calls now.
+
+Truth: WhatsApp has clarified in the FAQ section of its blog that it can neither see user messages nor can it hear their calls.
+
+We did not find any media report on WhatsApp recording and storing user calls. This would have made headlines and every media outlet would have published reports related to it.
+
+Though, it is true that WhatsApp does collect a substantial amount of user data to track its users.
+
+On Apple devices, it is mandatory for every app to tell the users the data points they are collecting.
+
+WhatsApp collects the following information from iPhone and presumably Android users.
+
+India Today had recently also published a detailed report on the user data collected by WhatsApp.
+
+Claim 2: You cannot share anything on WhatsApp against the government.
+
+Truth: Neither the government nor WhatsApp has issued any such guideline.
+
+Though the Government of Bihar recently declared that posting objectionable social media content against the state government, its ministers, officials, members of Parliament and members of the Legislative Assembly would be considered a crime now.
+
+advertisement
+
+Claim 3: WhatsApp has introduced new ticks which indicate government surveillance.
+
+Truth: The Press Information Bureau had refuted this WhatsApp surveillance claim back in April 2020. However, there are several media reports which talk about the government's attempts to set up a social media communications hub to monitor online data.
+
+#Fake News Alert !
+
+
+
+Messages circulating on Social Media reading 'WhatsApp info regarding tick marks' is #FAKE.#PIBFactCheck : No! The Government is doing no such thing. The message is #FAKE.
+
+
+
+Beware of rumours! pic.twitter.com/GAGEnbOLdY — PIB Fact Check (@PIBFactCheck) April 7, 2020
+
+As per a report published in the Indian Express, a central public sector enterprise (CPSE) under the Ministry of Information and Broadcasting floated a tender to invite bids for monitoring various digital and social media channels. These can "provide a complete picture of customer's behaviour" by drawing data from their social media networks.
+
+WhatsApp privacy policy: Key concerns
+
+Following the widespread criticism of its new privacy policy update, WhatsApp issued a clarification that it provides end-to-end encryption to its users.
+
+We want to address some rumors and be 100% clear we continue to protect your private messages with end-to-end encryption. pic.twitter.com/6qDnzQ98MP — WhatsApp (@WhatsApp) January 12, 2021
+
+advertisement
+
+It also postponed its new privacy policy launch to May.
+
+As per an article published in Firstpost, a major cause of concern in WhatsApp's new privacy policy is the collection of Metadata, i.e., almost everything about a message except for the 'content' of that message.
+
+WhatsApp collects varied information like contacts, location details, financial details, unique identifiers of phones. This metadata collected can then be linked to one's individual identity and be used to build a complete profile of them.
+
+Message traceability requests by the government
+
+The Indian government has requested WhatsApp several times in the past to allow them to trace the origin of specific messages. This happened following a series of mob lynching incidents in the country in which WhatsApp was used to spread hate rumours.
+
+Speaking to the Economic Times in the year 2018, Union Minister Ravi Shankar Prasad had said, "The company (WhatsApp) needs to find solutions to deal with sinister developments like mob-lynching and revenge porn and has to follow Indian law".
+
+According to a report published in the Business Insider in 2019, the Indian government had asked WhatsApp to allow the government to trace the origin of a particular message without having access to the content of the message itself.
+
+advertisement
+
+In the past as well, there have been several instances when the rumours related to WhatsApp went viral on the internet. In the month of July last year, India Today had debunked one such hoax which said that WhatsApp is releasing a video called "Martinelli" which when opened will hack one's phone.
+
+While WhatsApp privacy concerns cannot be ruled out completely, however, the guidelines mentioned in the viral message are baseless.

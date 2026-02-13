@@ -1,0 +1,39 @@
+Fact Crescendo team had published an article in September 2018 about fake messages regarding Income Tax Refunds being shared on WhatsApp. This article is an updation of the same and you can view that previous article below:
+
+Recently, once again various users of WhatsApp have received messages like these:
+
+WHATSAPP MESSAGE:
+
+“Dear Sir / Madam,
+
+Your income tax refund of Rs.15,480 has been approved and your bank a/c will be credited shortly. Do kindly verify your a/c no 5XXXXX6755. If the same is incorrect, quickly follow the link below to update your bank record on file. https://bit.OwpYK6”
+
+Whenever the filing dates of income tax returns approaches, people start receiving fake text messages in the name of the Income Tax Department, asking people to fill in details to avail the refund applicable to them.
+
+OUR FACT CHECK
+
+Fact Crescendo did a fact check again as our continuous effort to educate our readers to beware of these messages. We found that WhatsApp messages as above have been received by lot of people at some time or other in last few years. Various banks and their employees are also sharing advisory about these messages to their customers to warn them about these kinds of fake messages.
+
+We tried accessing the links given in the WhatsApp messages but we got error messages like one below:
+
+
+
+Latestly.com also did an article titled “Spam SMS Alert: Fake Income Tax Refund (ITR) Message Leads to Malicious Link Seeking Bank Account Details.” In this article they educated readers to identify these kind of fake messages and even gave a screenshot (given below) of the malicious site which user would access via the link on which the user is asked to verify or correct his bank account details. This malicious site would then intend to steal user personal data. You can read this article here.
+
+Abhishek Goyal, a Karnataka Cadre IPS Officer on July 2018, even posted the same message on Twitter to warn people about these kinds of fake messages.
+
+Also, News18 on August 30, 2018 published an article on an alert sent by State Bank Of India (SBI) to its customers, warning them of similar fake messages. You can read about it here.
+
+“Taxpayers are receiving emails from addresses remarkably similar to the original government one, asking them to provide their net banking details to ‘receive their refund amount‘.” Times of India did an article on this issue in July 2018. You can read the article here.
+
+In previous years also, fake messages which were either related to Income Tax Refunds, Bank Account details updation or even extension of last the last date of filing audit reports & Income Tax returns, keep cropping up on various WhatsApp groups.
+
+An example is: “A fake message disseminated through Whatsapp about the extension of the last date for companies to file their audit reports and income tax returns for the assessment year 2015-16 has disturbed the schedule of chartered accountants who have been working with the month end as the D-Day in 2015.” The Hindu did an article on this issue and highlighted misuse of WhatsApp to spread false and fraudulent news. You can read that article here.
+
+Even BoomLive.in, another fact checking site, did an intensive coverage of this issue. You can read about it here.
+
+IN CONCLUSION
+
+Fact Crescendo advises readers to be aware of these fake & fraudulent messages and to stop distributing them on WhatsApp and other social media apps. Readers can before sharing these kinds of messages, visit multiple fact checking sites and research whether a message is fake or fraudulent. We as citizens have a responsibility to nip these kinds of hoax & fake content at the first instance and not let it propagate further.
+
+Additionally, even Indian Computer Emergency Response Team, under the aegis of Ministry of Electronics and Information Technology, Government of India (GOI), has even issued an advisory CERT-In Advisory CIAD-2018-0012, on 22nd March 2018 for Safeguarding Personally Identifiable Information on Social Networking Sites. Their official website: https://www.cert-in.org.in/

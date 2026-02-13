@@ -1,0 +1,59 @@
+Was the Signal app developed by a poor villager's son from Uttar Pradesh? Did the app receive awards from NASA and UNESCO? Is WhatsApp shutting shop?
+
+These and several other claims are doing the rounds on social media days after WhatsApp updated its privacy policy and with many Indians switching to Signal as a more secure alternative. Signal is a cross-platform encrypted messaging service that uses the Internet to send messages, images and videos.
+
+advertisement
+
+"A poor villager's son from Uttar Pradesh who passed from IIT with a gold medal has created an app called Signal. The App has been awarded as the Best New App of 2021 by NASA and UNESCO because it is the first-ever app that has used code from Sanskrit to create the app" says part of the long claim.
+
+"Also WhatsApp will be shut down in six months because their servers are not able to handle the traffic of Good Morning Messages sent in India. Download Signal to keep sending Good Morning Messages to your near and dear ones. Forward this message to 10 contacts and win ?500 Voucher from Flipkart," the claim goes on to say.
+
+India Today Anti Fake News War Room (AFWA) has found that the entire message was initially posted on Reddit as satire, which was later picked up by many social media users who thought it to be true.
+
+The archived versions of similar posts can be seen here, here and here. Let us now address each point raised in the viral message.
+
+Who created Signal?
+
+According to reports, Signal is developed by Signal Foundation, a non-profit organisation founded in 2018 by American programmer Brian Acton, in collaboration with another American, Moxie Marlinspike of Open Whisper Systems.
+
+The list of the app's board members also mentions Meredith Whittaker, apart from Acton and Marlinspike, but there is no mention of any Indian on the team.
+
+Is WhatsApp shutting?
+
+We could not find any credible report on WhatsApp shutting operations.
+
+In fact, when WhatsApp updated its privacy policy, its head Will Cathcart shared a series of tweets on January 9 underlining how it will keep trying to secure the privacy of users even in the future.
+
+"We're proud of the service we offer, and we'll continue to develop technology and practices to provide private, secure communications for as many people as we can. That's why we are so committed to end-to-end encryption, and why we keep improving the privacy of WhatsApp, such as with our launch of disappearing messages in November. Our innovation on privacy will continue," Cathcart had tweeted.
+
+NASA, UNESCO awards for Sanskrit coding?
+
+advertisement
+
+AFWA reached out to Anil Rachamalla, an Internet ethics and digital wellness expert, who confirmed that the claim over Sanskrit coding is false.
+
+"The claim that Sanskrit was used to code Signal application is false. Signal codes are available on GitHub in open source; anyone can visit there and see the codes. To my knowledge, no application has been developed so far using Sanskrit coding," Rachamalla said.
+
+Upon checking GitHub, we noticed that there is no mention of Sanskrit among the list of programming languages used to code Signal.
+
+According to "transifex" that localises languages for Signal, up to 117 languages are used by the application to localise content in Android, Desktop and iOS. However, we could not find Sankrit on this list as well. As per the site, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Punjabi and Telugu are the only Indian languages used to translate the original code in English.
+
+Also, neither NASA nor UNESCO has offered any award for "Best New App" as said in the viral claim.
+
+A satire post taken seriously
+
+A keyword search on the Internet revealed an article by "Mint Lounge", which said it was a Reddit user "i_Killed_Reddit" who initiated the viral message to get more followers from India.
+
+advertisement
+
+Journalist Meghnad S had also shared the viral claim on his verified Twitter handle, along with the link to the message posted by "i_Killed_Reddit". "Here's the origin of this genius work of satire," he wrote.
+
+On Reddit, however, we found that the message was marked as "Satire" by the social media platform. Also, before starting the viral message, "i_Killed_Reddit" wrote a text that should clear all ambiguities regarding the claim.
+
+"We need as many Indians to download Signal as possible. The only way Indian Unkills will start using it is if there is a tadka of Proud Indian feeling sentiment. Feel free to copy and forward the below message on WhatsApp to all Indian Unkills, who will in turn spread the message. Also, you can add more points to make it more personal," the user wrote.
+
+
+
+We then reached out to the Reddit user, who confirmed to us on the condition of anonymity that the message was posted as a satirical piece.
+
+"The post was made by me sarcastically on January 10. It was posted on r/India and r/UnitedStatesOfIndia. The post on r/India was removed later in the evening due to misinformation concerns. But it was later reinstated and tagged as satire," the user told AFWA.

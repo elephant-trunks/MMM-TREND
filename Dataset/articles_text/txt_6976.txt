@@ -1,0 +1,61 @@
+Immediately following her controversial remarks on the Prophet Muhammad, Nupur Sharma reportedly received numerous threats online. The former Bharatiya Janata Party spokesperson’s comments have been the subject of international and national outrage.
+
+Amid violent protests against her, several FIRs, and reported death threats, a photo of a letter has been making the rounds that supposedly shows the government providing her family with high-level security.
+
+advertisement
+
+The purported letter from Home Minister Amit Shah asks Uttarakhand Chief Minister Pushkar Singh Dhami to provide Z security to Sharma’s family home in Dehradun. The letter also praises Sharma for promoting the Rashtriya Swayamsevak Sangh ideology and working towards the ultimate goal of a “Hindu Rashtra”.
+
+One such post can be seen below.
+
+AFWA found that the letter in circulation is bogus. The Home Ministry has not asked the Uttarakhand CM to provide Z security to Nupur Sharma.
+
+Same letter, new hoax
+
+We couldn’t find any media report about Shah writing a letter to Dhami regarding Sharma’s security. If the Home Minister had written such a letter, it would have made the news.
+
+On June 14, the Press Information Bureau tweeted that Shah sent no such letter to Dhami.
+
+A letter is doing rounds on social media claiming to be written by Union Home Minister, Amit Shah, to CM of Uttarakhand, Pushkar Singh Dhami.#PIBFactCheck
+
+
+
+This letter is FAKE
+
+
+
+No such letter has been issued by @HMOIndia
+
+
+
+Do not share the letter pic.twitter.com/uHM5KGhu3j — PIB Fact Check (@PIBFactCheck) June 14, 2022
+
+This isn’t the first time fake letters in the name of Shah have gone viral. We compared the now-viral letter to another phoney letter that went viral in 2021, supposedly sent by Shah to Uttar Pradesh Chief Minister Yogi Adityanath.
+
+Both letters had the same serial number, “28647021”. But there were other glaring similarities as well. Similar shadows in the centre, a dent at the bottom of the letter, and identical folds and creases in two different parts of the letters were visible.
+
+Despite these blatant similarities, however, we also noticed some inconsistencies. The placement of Shah’s signature is different in both letters. So, we used error level analysis (ELA), a forensic method that can highlight digitally-modified portions of an image.
+
+We uploaded both letters to FotoForensics. The website highlighted in white the parts of both letters — 2021 and 2022 — which were edited. The body text of the letters was highlighted as edited, as were the sign-offs. The ELA, however, revealed that the signature of the Home Minister, the national emblem or the details in the header and footer were not digitally altered.
+
+This is the 2021 letter.
+
+This is the 2022 letter.
+
+Tracing the original letter
+
+The ELA analysis revealed that in both letters, the same parts were unaltered. Plus, both letters shared similar physical attributes. Thus, we deduced that there was likely an original letter that was edited to create the fraudulent ones.
+
+Advanced searches led us to the letter. A September 2020 report in “TrueScoop” carried a letter from Amit Shah’s office that had multiple visual elements similar to the bogus letters.
+
+This letter was a response from Shah’s office to Maharashtra BJP MLA Nitesh Narayan Rane who had written to the MHA requesting security for Disha Salian’s partner Rohan Rai. Salian, who was found dead in June 2020, was the former manager of Sushant Singh Rajput. When India Today reached out to Rane, the MLA confirmed that the 2020 letter was real and was sent to him by Shah’s office in 2020.
+
+The serial number in Rane’s letter was 1864702. The serial numbers in the 2021 and 2022 letters were 28647021. It is clear that in both subsequent letters, the serial numbers were slightly tweaked.
+
+advertisement
+
+It is noteworthy that in 2021, MHA officials confirmed to India Today that no letter bearing the serial number “28647021” had been issued by them.
+
+Thus, we concluded that the 2022 letter where Shah asked Dhami to provide Z security to Sharma is bogus. The original letter that was digitally altered was issued by Shah’s office to Maharashtra MLA Nitesh Rane in 2020.
+
+(With inputs from Pathikrit Sanyal)

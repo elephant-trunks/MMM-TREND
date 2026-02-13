@@ -1,0 +1,37 @@
+As there is a considerable surge in the deaths of birds due to the recent bird flu outbreak in India, social media is equally abuzz with claims stating that the strange phenomenon is related to the testing of 5G spectrum by telecom major Reliance Jio.
+
+The claim has garnered support among political leaders as Chunni Lal Sahu, Vice President of Congress, Chhattisgarh, tweeted in Hindi which translates to:”The news is spreading that birds are dying from testing of Jio’s 5G spectrum, and bird flu is being cited as the reason?”
+
+खबर फैल रही है कि Jio के 5G टेस्टिंग से पक्षी
+
+मर रहे हैं और बर्ड फ्लू का नाम दिया जा रहा है ? — Chunni Lal Sahu (@Chunni_lal_sahu) January 12, 2021
+
+
+
+The claim has gone viral on Twitter and users are sharing it several times. The claim has also shared a newspaper clip to claim that 297 birds died due to trials of 5G testing.
+
+Fact Check:
+
+On December 23, 2020, Reliance Jio chief Mukesh Ambani had announced that 5G technology in India is going to be launched in the second half of 2021. But the airwaves for 5G are not yet auctioned in India.
+
+“Jio will pioneer the 5G revolution in India in the second half of 2021.”
+
+– Mukesh D. Ambani One more reason to look forward to the new year ?. #JioAtIMC #Jio5GInternet #IMC2020Virtual #DigitalIndia #JioDigitalLife #5G @exploreIMC — Reliance Jio (@reliancejio) December 10, 2020
+
+5G radiowaves conspiracy theory debunked
+
+Digiteye India, in its article published on Dec 4, 2018 had debunked the 5G claim and its radiation claims. India has been following low radiation frequencies for setting up mobile towers. Jio uses a band of 800 MHz, while Airtel and Vodafone offer 4G network in the 1800MHz and 2100MHz bands, which are well within the green range.
+
+Here’s a graph showing how 5G is safer from harmful radiation (in green box) waves (Ofcom):
+
+Atul Chaturvedi, the secretary of the Union government’s department of animal husbandry, dairy and fisheries, said that bird flu occurs every year during winter as many migratory birds visit India. “The outbreaks usually happen in winter months, starting from September-October till February-March. Unnecessary panic need not be created about avian influenza — a common phenomenon in India. Some years, the bird mortalities are more and in others less. Every year, India gets the disease because of bird migrations and is declared bird flu-free subsequently after the outbreak is over,” he told TOI.
+
+According to the World Health Organization, 5G will extend into higher frequencies around 3.5 GHz and up to a few tens of GHz, which are seen within the green zone in the table above. The higher frequencies are new to mobile phone networks, but are commonly used in other applications, such as point-to-point radio links and body-scanners for security checks, noted the WHO on its website.
+
+At these higher frequencies, 5G networks will use a greater number of base stations and of connected objects. 5G will further employ beam-forming antennas to focus signals more efficiently towards the mobile in use, rather than having the signal spread in broad directions as in current base station antennas.
+
+Claim: Birds in India are dying from testing of Jio’s 5G spectrum, and bird flu is being cited as the impact.
+
+Conclusion: No link established between 5G spectrum tests and bird deaths has been detected so far and experts have denied the claims.
+
+Our rating of the claim is Misrepresentation —

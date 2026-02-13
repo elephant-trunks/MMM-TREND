@@ -1,0 +1,33 @@
+An infographic going viral on Facebook and other social media platforms in Assam claims that a Facebook page named Time 8 was globally the most viewed page on Facebook during the recently concluded Assembly Elections in Assam. The text is in Assamese. It has been uploaded by multiple profiles on Facebook.
+
+Original Link- Facebook | Archived post
+
+Original Link- Facebook | Archived post
+
+Original Link- Facebook | Archived post
+
+Original Link- Facebook | Archived post
+
+It has a list of Facebook pages of various international news platforms like CNN as well as leading national news organizations like Republic Bharat and Aaj Tak with a graphical representation of what it claims are the views on each page between March 28, 2021 to May 1, 2021.
+
+The same claim is also being forwarded on WhatsApp in the region. Archived Link of WhatsApp forward
+
+Fact Crescendo received a few enquiries on the same and on running a factcheck, we learnt that the claim is False and Facebook users in the region are being given false data through this infographic.
+
+Fact Check Methodology
+
+At first, we thoroughly studied the infographic and saw that the Facebook page Time 8 has attributed the data they have used to the content discovery and social monitoring site- CrowdTangle.
+
+Therefore, we decided to use the names of pages or organizations used in the graphic to generate an “Intelligence report”, one of CrowdTangle’s many features.
+
+We found a graph with similar results under the heading “Video Time”.
+
+Following this, we got in touch with CrowdTangle officials to learn more about “Video Time.” They responded saying that “Video Time” is the sum total of the duration of all the videos uploaded on any page over a particular period of time.
+
+Therefore, it is clear that the graph does not represent the total time Facebook users viewed the videos of the pages on the list. Instead it represents the total duration of all the videos uploaded on the pages in the list among which the Facebook page Time 8’s videos were of the longest duration between March 28, 2021 to May 1, 2021, contrary to what is being claimed.
+
+The actual graph for the highest number of views among the pages in the time period mentioned in the viral infographic is in this report:
+
+Conclusion
+
+The claim that during the recent assembly elections, Facebook users, worldwide, watched Facebook Page Time 8’s videos the most is False. The data represented in the graph on the viral image is of the total duration of all the videos uploaded on the pages in the list during that particular period and not of the most views.

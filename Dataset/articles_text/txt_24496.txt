@@ -1,0 +1,53 @@
+The Union Ministry of Labour and Employment recently issued a statement countering media reports on how millions of Indians were dropping out of the labour force. The ministry, in this clarification, said the labour force and work force had increased steadily from 2017-18 to 2019-20.
+
+"Making an inference by some section of media that half of the working age population has lost hope for work is factually incorrect," read the ministry's statement . This was to rebut news articles that reported on the Centre for Monitoring Indian Economy (CMIE) report released in April on how India's labour participation rate (LPR) had fallen to 39.5% in March 2022 from 39.9% in February 2022.
+
+Although the central ministry used official data of the Periodic Labour Force Survey (PLFS) to corroborate its claims, it used data from the pre-pandemic financial years even though the PLF surveys are released every quarter. The latest available survey is from July-September 2021, whereas the data in the labour ministry's statement covers only the period between 2017-18 and 2019-20.
+
+In fact, the country's unemployment rate rose in April 2022 to 7.83% from 7.6% in March, showed the latest data from the CMIE. While the urban unemployment rate increased to 9.22% in April from 8.28% the previous month, the rural unemployment rate dipped to 7.18% from 7.29%.
+
+Apart from using old data to counter a latest report, the Centre also claimed that the new net addition to EPFO (Employee Provident Fund Organisation) subscribers, increased GST (Goods and Service Tax) collection, and increased exports signify "job creation" and "positive trends in employment generation".
+
+"The net addition in EPFO subscriptions is an indicator of the extent of job creation/ formalisation of the job market, and the coverage of social security benefits to the organised/ semi-organised sector workforce," claimed the ministry.
+
+"The other indicators of the economic activities such as all-time high gross GST collection in the month of March 2022 and all-time high India's overall export during financial year 2021-22 are also supportive of positive trend in employment generation in the country," it added.
+
+FactChecker analysed if these factors have a connection with growth in employment.
+
+GST and Exports
+
+An analysis of GST collections and employment trends over eight quarters during 2019-20 and 2020-21 revealed that there is no direct correlation between the two. In July-September 2019, the total GST collection came down from the previous quarter — from Rs 3.14 lakh crore to Rs 2.92 lakh crore. In the same period, the unemployment rate also decreased to 8.3% from the previous quarter (8.8%). This shows that more people were employed from the labour force even when the GST collection went down.
+
+GST collection went up by Rs 11,715 lakh crore in January-March 2020 from October-December 2019. In the same period, the unemployment rate went up by 1.3% from the previous quarter. It can be inferred that even when the amount collected from GST was higher, job creation and employment wasn't doing so well.
+
+
+
+Madan Sabnavis, Chief Economist of Bank of Baroda, told FactChecker, "GST collection is a product of consumption, and cannot be confidently linked to job generation."
+
+In fact, in October-December 2020, when the GST collections for the quarter were at an all-time high compared to all previous quarters (Rs 3.25 lakh crore), the unemployment rate according to the quarterly PLFS survey was also at a high of 10.3%.
+
+"GST indicates the overall well-being of the economy. But indicators which show the state of affairs in the formal sector such as GST collection and EPFO have no direct link with employment growth," said PC Mohanan, former member and working chairman of the National Statistical Commission.
+
+While it might seem intuitive to link increased export values, and therefore increased manufacturing power to a rise in employment, academic research has not established a correlation between the two. Mohanan told FactChecker that exports and international trade depend on a variety of factors, and hence are prone to fluctuate. This does not necessarily reflect a positive trend of job creation.
+
+According to the Reserve Bank of India, the overall export for 2021-22 was at the highest ever of $418 billion. Even then, the worker population ratio in the first two quarters of 2021-22 continued to be nearly 10% less than its last pre-pandemic values.
+
+
+
+EPFO
+
+Employee Provident Fund is a social security scheme under the labour ministry for the organised sector that enables them to save a part of their earnings for retirement. While EPF data can be used to determine the extent of formalisation of the economy, extrapolating that data to link it with employment creation can be misleading.
+
+One of the reasons is the re-subscription and merging of EPF accounts. The portability of provident fund accounts is not very high, and so people end up opening a fresh PF account when they switch jobs. Also, having an EPF account does not necessarily mean that the account holder is currently employed.
+
+Mohanan pointed out that according to the Labour Ministry statutory guidelines, all organisations with 20 employees or more are required to register their employees in the EPF scheme. "So, if a unit enrols its 20th person, it does not mean that 20 new jobs have come. It is only an increment of 1 job, but because the unit crosses the threshold all of the remaining 19 people also get enrolled into the scheme," he said.
+
+FactChecker analysed the EPFO Payroll data for four financial years up to 2020-21. In 2019-20 and 2020-21, the numbers of net new EPF subscribers are nearly the same. Even then, there is a stark difference between the unemployment rates for both years. Marginally fewer people were able to find jobs in 2020-21 even when addition to EPF subscribers remained near-consistent.
+
+According to a September 2020 Lok Sabha response , out of the 47.13 crore employed in India, only 9.05 crore are engaged in the formal or organised sector. The rest 38.07 crore, or nearly 81% of the employment, is in the informal sector.
+
+
+
+"We don't know how many people from the informal economy are moving into the formal," Sabnavis told FactChecker. So, an increase in EPFO numbers may be a sign of formalisation of the economy but not a definite sign of addition to the country's employment pool, he concluded.
+
+FactChecker tried calling Kalpana Rajsinghot, Joint Secretary in the Media Cell at the Ministry of Labour and Employment, but got no response. We have also emailed Union Minister Bhupendra Yadav and his secretary Amar Singh asking for clarification on the statement. If and when we receive a response, it will be updated here.

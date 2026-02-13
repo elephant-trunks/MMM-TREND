@@ -1,0 +1,117 @@
+Social media has been abuzz with the details surrounding the attack on Arnab Goswami and his wife Samyabrata Ray Goswami, with many people questioning the chronology of events between the incident and the announcement on Republic TV and its social media handles.
+
+People soon started sharing the metadata of the videos uploaded by Republic TV handles to state that the time the video was created preceded the time of the alleged attack. Some even pointed out that certain influential personalities tweeted out in support of Goswami before Republic broke the news on its Twitter handle.
+
+
+
+Claim 1: Metadata Shows Video Was Created Before The Time Of The Alleged Attack
+
+
+
+Political analyst Gaurav Pandhi posted details of what he claimed was the metadata of the video file containing Goswami's message. Metadata of a file refers to a set of data that describes and gives information about the file.
+
+🔸Arnab has a Y category security
+
+🔸His security guards caught the attackers, who then talked at great length & were let off?😂
+
+🔸Why were they not handed over to the Police?
+
+🔸Also metadata of the video put up by #Repuplick suggests it was shot much before the alleged incident pic.twitter.com/mXNOj5Anag — Gaurav Pandhi (@GauravPandhi) April 23, 2020
+
+According to the metadata posted by Pandhi - extracted using the website metadata2go - the video was created on April 22, 2020 at 8.17 pm. Goswami, in his video message, states that he was allegedly attacked at 12.15 am on April 23 - four hours after the time of video creation in the metadata. In a police complaint filed by him, he reported 12.15 am as the time of the alleged attack.
+
+
+
+This screenshot became instantly viral on social media, with multiple requests on the BOOM Helpline to verify the authenticity of the claim being made.
+
+
+
+
+
+Some even cited the screenshot to claim that the attack may have been "planned" by Goswami himself.
+
+
+
+
+
+Arnab Goswami, in his video, says he was "attacked" by two people "around 12:15 AM to be precise" on 23 April.
+
+
+
+The metadata of the video shows it was recorded around 20:17 HRS (8:17PM) on 22 April.
+
+
+
+This seems to be a planned attack on Arnab Goswami by Arnab Goswami pic.twitter.com/i3whCUD6mk — Ravi Nair (@t_d_h_nair) April 23, 2020
+
+
+
+
+
+Claim 2: Tweets Supporting Goswami Before Republic Announced The Incident
+
+
+
+There are screenshots going viral which insinuate that certain prominent handles like Sambit Patra and Ashoke Pandit came out in support of Goswami, before the incident was announced on Republic TV.
+
+
+
+
+
+
+
+Fact Check
+
+Claim 1:
+
+
+
+
+
+The website metadata2go, like many other metadata extraction websites, shows date and time of file creation in UTC (5:30 hours behind IST). Therefore, according to the screenshot of the metadata posted by Pandhi, the file creation time is 01.47 am, which is exactly when Republic tweeted the video message.
+
+Social media websites like YouTube and Twitter strip the metadata of any image or video file while uploading, and adds the details of upload and publish instead. In a conversation with BOOM, Pandhi clarified that the metadata was of the video published by Republic on Twitter. He claimed to have downloaded the Twitter video and then run it through the website.
+
+
+
+We ran the video published by Republic on Twitter through metadata2go, and found the exact time and date as on the metadata details posted by Pandhi.
+
+
+
+
+
+
+
+This confirmed that the metadata is indeed of the video uploaded by Republic on its Twitter handle. Therefore the metadata would reflect the time the file was published on Twitter, and not when it was shot.
+
+We also checked the video uploaded on the Republic website, whose file name could be seen. The file name suggests that the video was sent on WhatsApp at 1.39 am.
+
+
+
+
+
+BOOM cannot independently verify the exact time the video was shot as metadata can be determined accurately by accessing the device with which the video was created.
+
+Claim 2:
+
+The claim that people were tweeting out in support of Goswami, before the incident was announced on Republic, is also erroneous. The screenshots claimed that Republic had announced the incident on Twitter at 1:06 am, while Patra and Pandit tweeted about it before.
+
+
+
+
+
+
+
+However, the attack was announced on Republic TV at least 40 minutes before the tweet was made. The following screen grab shows the incident being announced on the ticker at 12:35 am, during a replay of a debate by Goswami.
+
+
+
+
+
+Goswami and his wife were allegedly attacked on their way home on Wednesday night. He soon released a video, where he spoke of the attack and claimed that it happened at 12:15 am. According to ANI, two people have been arrested in connection with the attack.
+
+
+
+#UPDATE 2 people arrested in connection with the attack on Arnab Goswami & his wife. FIR registered by NM Joshi Marg Police station under sec 341 (Punishment for wrongful restraint) and 504 (Intentional insult with intent to provoke breach of the peace) of IPC: DCP Zone 3 #Mumbai https://t.co/zBarBKk4m6 — ANI (@ANI) April 23, 2020
+
+BOOM reached out to Arnab Goswami for a comment. The article will be updated upon receiving a response.

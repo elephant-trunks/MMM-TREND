@@ -1,0 +1,113 @@
+Spread the truth:
+
+An edited image of banner is viral which has a photo of Delhi CM Arvind Kejriwal on it along with the text –
+
+“बधाई हो दिल्ली
+
+कीर्तिनगर इंडस्ट्रियल एरिया में दस नए डस्टबिन की व्यवस्था”
+
+Translation: “Congratulations Delhi. Ten new dustbins arranged in Kirtinagar Industrial Area”
+
+Twitter
+
+Many prominent BJP people, MP, MLA tweeted the fake image
+
+Tajinder Pal Singh Bagga (National Secretary BJP Youth, MLA Candidate Hari Nagar Vidhansabha,Swayamsewak) asked if it’s true.
+
+Reallyyyy ? pic.twitter.com/AjWOm5DVRR — Tajinder Pal Singh Bagga (@TajinderBagga) August 1, 2021
+
+archive
+
+Gaurav Goel, State Spokesperson, BJP, Punjab
+
+https://twitter.com/goelgauravbjp/status/1422204199324905474
+
+archive
+
+Parvesh Sahib Singh (Member of Parliament: West Delhi Loksabha Constituency, Ex-MLA: Mehrauli Constituency, Former General Secretary-Delhi BJP)
+
+archive
+
+Navin Jindal (Official @twitter Profile of Naveen Kumar Media Head @bjp4delhi #Spokesperson)
+
+archive
+
+Shalabh Mani Tripathi (सूचना सलाहकार (माननीय मुख्यमंत्री, उप्र), कार्यसमिति सदस्य (भारतीय जनता पार्टी,उप्र), स्तंभकार)
+
+archive
+
+Ravinder Gupta (BJP MLA Candidate MatiyaMahal 20 Gen Sec BJP Delhi State -2017 Mayor, North Delhi – 2014 Deputy Mayor North Delhi -2013 Chairmen Works Com Mcd 2012)
+
+archive
+
+Kapil Mishra
+
+archive
+
+Ashok Basoya (Additional Advocate General of Chhattisgarh at Supreme Court .Member AICC Contested Mcd Election Ashok vihar, Ex National Gen Sec NSUI, Ex VP n Jt Sec DUSU)
+
+archive
+
+The following tweet by a handle with name Hardik Bhavsar (Bittu Tufanii) has been retweeted by more than 1100 times
+
+The following tweet by a handle named Dr. APR, we believe is the first one among all as it was tweeted 2 days ago in evening. 30th July. Plus this has the highest resolution image i.e. 2048 X 2048 we could find which probably also means that this ID created the viral image also
+
+archive
+
+Facebook
+
+Facebook is also quite full of this fake photo
+
+Click Here for more posts on Facebook
+
+Analysis
+
+The viral image is edited with the Hindi text added digitally
+
+Delhi Government, CM Kejriwal has been in news for a while regarding money spent on advertising to which this fake image is also related.
+
+Following is the detail of the image we found in highest resolution i.e. 2048 px X 2048 px. We have used that image and it’s parts for fact checking.
+
+Source
+
+1. On the left, you can see a part of previous text which has been covered digitally using blue color matching previous one. In fact just next to it, you can also see a horizontal line difference in color shades of the original vs the digitally added one.
+
+2. The part of the text shows above the light reflection, if it was real, it should have been part of the reflection itself i.e. it’s color shade would change as per reflection but in this case it’s flat.
+
+3. The text is not aligned parallel to the edge of the banner border
+
+4. Further, the sharpness difference between the text and Delhi Government logo and the difference between the shade of white in both is quite clear and obvious which proves the text is not a part of the banner and has been added digitally.
+
+5. Further, we performed a detailed digital forensics on the viral image which also adds up to the image being digitally modified.
+
+You can see the results at the following –
+
+The first online tool we used is – fotoforensics
+
+The ELA (Error Level Analysis) of the image proves while all other elements in the image are part of the original image, the text stands out which proves it’s added digitally after the photo was taken –
+
+You can read about Error Level Analysis by clicking here
+
+“Error Level Analysis is a forensic method to identify portions of an image with a different level of compression. The technique could be used to determine if a picture has been digitally modified. To better understand the techniques, it’s necessary to deepen the JPEG compression technique.” – Source
+
+We used a second online tool, Forensically to check the same, which gave the same results.
+
+Above ELA has been done using another online tool
+
+Even the third and the most popular online fact checking tool used by Fact Checkers globally i.e. inVID gave the similar results
+
+We can not confirm what was the content before the image that was edited but we found a verified twitter user claiming it was a banner for financial help to the families who lost their loved ones to COVID-19
+
+Fake News ⚠️ Photoshopped Image of Delhi Govt is used Cc: @AltNews@AltNewsHindi@zoo_bear@free_thinker@rishikeshlaw sir pls take necessary legal action He's using fake/morphed photos of Delhi CM to defame him Original Image👇 pic.twitter.com/dRa8MrteSP — Siddharth Setia (@ethicalsid) August 1, 2021
+
+The above template/color does match the viral image in question but we can not confirm this was the original one. But we can surely confirm the viral image is edited with complete Hindi text added digitally on original image.
+
+This editing of banners has been going on for long. Today Tajinder Pal Singh Bagga along with this viral fake one, tweeted another fake which we debunked last month
+
+1 more pic.twitter.com/tSrpsGqT4d — Tajinder Pal Singh Bagga (@TajinderBagga) August 1, 2021
+
+Truth
+
+Also a banner from Gujarat was viral
+
+Related

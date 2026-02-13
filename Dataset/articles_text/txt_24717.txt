@@ -1,0 +1,105 @@
+New Delhi: Union MoS Communications Manoj Sinha addresses the audience at the felicitation programme on the completion of BharatNet phase-I on Jan 8, 2018
+
+Delhi, Faridabad: Billu Sagar is an enterprising young entrepreneur from Tigaon, a village in Faridabad district, Haryana. In 2015, Sagar, who used to run a small internet cafe in his village, was looking for new business ideas, when he heard of BharatNet, a project by the Department of Telecommunications (DoT) that would bring broadband connectivity to villages across India.
+
+Sagar set up a Common Service Centre (CSC) in Tigaon—access points run by village-level entrepreneurs (VLEs) for delivery of digital services, under the ambit of Digital India, the flagship programme of the central electronics and information technology ministry. After the fibre was laid in Tigaon, Sagar travelled to nearby villages in the gram panchayat to sell coupons for internet use.
+
+“The internet did not work for one single day,” he told FactChecker. He eventually had to pay back everyone who had bought the coupons. “I was told I should switch off the router and then switch it back on. How was I supposed to do that all the time?” Sagar said.
+
+What is left of BharatNet in his village is a dusty antenna on the roof of the primary school. Some antennas installed on top of houses were sold to scrap dealers by angry villagers. Ironically, in 2015, Tigaon was chosen to celebrate Digital India Week and showcase BharatNet, an event for the citizens of the village to learn more about the programme. That is as close as Tigaon ever got to being transformed into a “Wi-Fi village”.
+
+When FactChecker visited the CSC in Tigaon on March 11, 2019, it was bustling and Sagar was busy printing forms and fielding queries from visitors on pension and insurance schemes and BPL surveys. Most visitors were not aware that their village was supposed to have Wi-Fi service under BharatNet; those who knew were frustrated by its failed promise.
+
+In the nearby village of Kheri Kalan, CSC owner Sujit Jain said there was talk about the project but it never came through. “We were told that the fibre was laid, but it did not start,” he said.
+
+The villages in this area like most of the National Capital Region are somewhere between urban and rural. Real estate developers are slowly taking over agricultural land to construct high rise buildings. Haryana was to have internet connectivity under BharatNet in 6,078 gram panchayats by March 2017. On the ground, there is not much evidence of this, even though it’s next to the administrative capital of Delhi.
+
+BharatNet, the government’s flagship programme under Digital India, aims to provide high-speed broadband connectivity to 250,000 gram panchayats in the country. It is touted as the world’s largest rural connectivity project, with the vision to transform India into a digitally empowered society and knowledge economy.
+
+While BharatNet’s mandate is to connect all 250,000 panchayats, senior government figures keep referring to connecting villages, of which there are 650,216 in India.
+
+“When I talk of “Digital India”, I don't speak of the elite, it is for the poor people,” Prime Minister Narendra Modi said in his first Independence Day address on August 15, 2014. “You can imagine what a quality education the children in villages will get, if all the villages of India are connected with broadband connectivity (sic) and if we are able to give long distance education to the schools in every remote corner of the villages.”
+
+On December 9, 2018, Manoj Sinha, minister of state for communications, said: “The BharatNet project aims to connect 2.5 lakh gram panchayats with high-speed broadband. By 2019, there’ll be no village in the country which is not connected to high-speed broadband.”
+
+भारतनेट परियोजना से देश की 2.5 लाख ग्राम पंचायतों को हाई स्पीड ब्रॉडबैंड से जोड़ने का लक्ष्य रखा गया है। 2019 तक देश का ऐसा कोई भी गांव नहीं होगा जो हाईस्पीड ब्रॉड बैंड से कनेक्टेड न हो। pic.twitter.com/f0yYRbWeaP — Chowkidar Manoj Sinha (@manojsinhabjp) December 9, 2018
+
+Far from triggering a revolution, a variety of experts said, the rural connectivity mission has been a case of grand pronouncements, missed deadlines, costly and faulty implementation and attempts to save face.
+
+This story continues a FactChecker series evaluating the government’s flagship programmes in the run-up to the 2019 general election.
+
+The first of this series investigated the government’s rural-jobs programme (here, here and here); the second discussed the Swachh Bharat (Clean India) Mission’s sewage problem; the third (here, here and here) evaluated the Pradhan Mantri Sahaj Bijli Har Ghar Yojana (Prime Minister’s electricity-to-all-homes programme); the fourth, the fudging of open-defecation-free (ODF) status data and shoddy toilet construction–amid evident enthusiasm and success in increasing toilet access–in Uttar Pradesh, declared ODF on December 31, 2018; the fifth, similar fudging of data and widespread open defecation in Gujarat, declared ODF on October 2, 2017; the sixth explained how the skills-development mission was set to miss deadlines; and the seventh probed the failures of the Prime Minister's crop-insurance programme.
+
+Overdue deadlines and sunk costs
+
+The National Optic Fibre Network (NOFN, later renamed BharatNet) was launched in 2011 by the United Progressive Alliance government. It was the brainchild of Sam Pitroda, the man behind India’s telecom revolution.
+
+NOFN was meant to bridge the digital divide between urban and rural India and would connect more than 600 million rural citizens.
+
+It was to be completed in two years. It would entail the laying of 500,000 kilometres of optic fibre with 100 megabits per second (mbps) broadband internet connectivity. The cost of Rs 20,000 crore ($3.22 billion) would be drawn from the Universal Service Obligation Fund (a fund for building internet services in rural areas). These figures are from a February 2014 report by Bharat Broadband Network Limited (BBNL). BBNL was set up in 2012 as a “special purpose vehicle” to implement NOFN. The project was beset by delays from the start, and only 59 gram panchayats were covered in the pilot phase by 2014.
+
+The National Democratic Alliance government renamed NOFN as BharatNet in 2015. The intent was more than rebranding--it was to revive a moribund project and turn it into the cornerstone for the government’s Digital India ambitions. If all the villages of India were to be connected with broadband, it would lead to better governance through e-governance, would bring quality education to children in villages and lead to a network of telemedicine in remote areas.
+
+A new deadline of December 2016 was set for completing the project. Inevitably, the first phase itself was delayed and the target of 100,000 gram panchayats was achieved a year later, in December 2017.
+
+The deadline for the second phase of BharatNet to cover the remaining 150,000 gram panchayats was set for March 2019. This time, the onus had been passed on to the states--Maharashtra, Gujarat, Chattisgarh, Jharkhand, Andhra Pradesh, Telangana, and Tamil Nadu--to roll out the project on their own. The central government was to provide partial funding and technical support.
+
+Some experts are sceptical about how this lets the central government off the hook and that states do not have expertise in building network infrastructure.
+
+BharatNet had covered 124,000 gram panchayats and 313,000 kilometre of optic fibre had been laid, according to the government’s latest figures, as of February 2019. “However, much of this infrastructure remains unutilised,” said a December 2018 report by Indian Council for Research on International Economic Relations (ICRIER). “Given the scope and ambition of the BharatNet programme, successful deployment must necessarily be collaborative between the centre and the states and between the public and private sectors.”
+
+The first phase was completed on a budget of Rs 11,200 crore ($1.75 billion), and the government committed Rs 34,000 crore ($4.93 billion) for the second phase. The money spent on the project has been pitted against what BharatNet could potentially achieve, by adding Rs 4.5 lakh crore ($65.27 billion) to the GDP and trigger a “massive services revolution” in the rural areas, telecom secretary Aruna Sundarajan, was quoted as saying.
+
+Broadband connectivity can lead to economic growth. The ICRIER report states that in India a 10% increase in internet subscribers results in a 3.2% increase in the rate of growth of state per capita GDP.
+
+Can BharatNet add to the GDP or has it been a huge drain of resources?
+
+“The whole project is a sunk cost,” said Arun Mohan Sukumar, head of cyber security and internet governance at the Observer Research Foundation, a public policy think tank. “Though it has been renamed, and there has been an attempt to implement it speedily, it is like throwing good money after bad. The systemic problems persist.”
+
+Missing last-mile connectivity
+
+BharatNet is conceived as a middle mile network that provides bandwidth from block to gram panchayat. However, the task of providing last mile connectivity from gram panchayat to end users through service providers is not part of the mandate. As the case of Tigaon demonstrates, even if the infrastructure is set up, it does not lead to functional service.
+
+“What happens after the fibre has been laid? How will it be distributed further at the village level? Who maintains and operates the network? Is it the panchayat, the block office or BBNL? There are a number of flaws in the guiding principles and the implementation,” said Ritu Srivastava, head of research and advocacy at Delhi-based not-for-profit Digital Empowerment Foundation (DEF), who has closely studied the project since its inception.
+
+Most independent studies over the last few years have established the inefficacy of the project. In a study from 2014 to analyse connectivity in pilot locations of the project in Rajasthan, Andhra Pradesh, and Tripura, DEF found there was a “fairly large gap between the initial claims made and the realities.” The report highlighted the gap between connection and access, a problem that has plagued the project from the start and continues to do so five years later.
+
+Up to 70% of the respondents in Arain, Rajasthan and Visakhapatnam, Andhra Pradesh were not aware of BharatNet and those who were aware didn’t know what it was, said a 2017 study by Vigneswara Ilavarasan, a professor at the Indian Institute of Technology (IIT) in Delhi.
+
+Use of BharatNet was 3% of the total 35% internet usage by organisations in gram panchayats between 2016 and 2017, when the study was conducted. Among internet users, the top reasons for not using BharatNet were ‘equipment breaking down’ (54%), ‘slow internet connectivity’ (53%), and ‘already having internet’ (54%), according to the study.
+
+“They have been unable to figure out the mechanism for providing the last mile connectivity,” said Srivastava. “For the internet service providers, it’s a black hole with no return on investment, so why will they go there?”
+
+There would be a better chance, she suggested, if small organisations or non-profits that work at the community level were to be involved in providing last mile connectivity. A study on BharatNet by IIT Mumbai had similarly suggested community-owned networks as a sustainable model at the village level.
+
+To add to the implementation challenge, there are multiple stakeholders involved in the project. Along with BBNL, three central public sector undertakings are a part of BharatNet: Bharat Sanchar Nigam Ltd, Powergrid Corporation of India Ltd and Railtel Corporation of India Ltd. This has further diluted the mandate, with no single agency to take ownership or responsibility for it.
+
+The case for bridging the digital divide in India
+
+India ranked at the bottom in internet usage-to-population ratio, along with Tanzania, with only one-in-four Indians using the internet, according to a 2018 report on digital divides from the Pew Research Centre, a US research organisation. The percentage of Indian adults who used the internet had gone up from 16% in 2013 to 25% in 2017. More than 70% of the population in India has no access to internet, most of it in rural India, said the Pew report.
+
+The rural connectivity project rests on the idea of digital technology in promoting inclusion, empowerment, innovation and efficiency. But connectivity is not enough, and broader digital development agendas are needed to strengthen the analog foundations of the digital revolution, according to the World Bank.
+
+To harness the potential of digital connectivity through BharatNet, there are schemes and services that should ride on top of it, said Nandini Chami who works on policy research and advocacy at IT for Change, an NGO based out of Bengaluru.
+
+There has been an attempt to address this by linking CSCs that provide access to government services and also provide commercial connectivity with BharatNet, and leveraging village level entrepreneurs to provide last mile connectivity in villages by setting up Wi-Fi choupals or hotspots. In some villages, it has worked where the VLEs are doing a good job in operating and using the network, but in many cases, it has not.
+
+“It can be used to strengthen the National Digital Literacy Mission, by building knowledge centres. It can be used to strengthen gram sabhas by building resource centres in every panchayat and getting more women to participate,” said Chami.
+
+The government had announced the ‘Digigaons’ initiative last year, promising to turn around 700 villages by the end of the year, by expanding digital literacy and entrepreneurship. FactChecker was not possible to verify these claims.
+
+Is the private sector interested in bailing out BharatNet?
+
+Meanwhile, there is no clear direction on the part of the government on exactly where BharatNet is headed. In January, The Wire had reported that the PMO has been angry over the state of BharatNet and that the DoT’s internal communication revealed that actual utilisation of the network on the ground was less than 10%.
+
+This was followed by news reports last month that the DoT plans to monetise the fibre assets under BharatNet, either by leasing or selling it to private players like Reliance Jio, Airtel and Vodafone-Idea.
+
+“The project has been totally mismanaged and it has failed, even though there may have been good intentions. This is a way out for the government to utilise the assets,” said telecom expert Manoj Gairola. “The private sector will not be interested. They do not know about the quality of infrastructure and it’s not an economically sustainable model for them.”
+
+For any course correction to take place, BharatNet needs to be reworked from scratch, said Gairola. “It has no future otherwise. Yet, it is a project of national importance and it is the government’s duty to do it.”
+
+(Kumar is an independent journalist based in Delhi.)
+
+This story is part of “Modi’s Report Card”, a series evaluating flagship government programmes in the run up to the 2019 general elections. You can read a set of stories on the rural jobs programme here, here and here; on the rural electrification programme here, here and here; on Swachh Bharat Mission here, here and here; the skills-development mission here; and the crop-insurance scheme here.
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.

@@ -1,0 +1,81 @@
+Mumbai: Finance Minister Nirmala Sitharaman said the government would employ technology for cleaning sewer systems and septic tanks and eliminate the need for manual cleaning both through technology and legislation, in her budget speech on February 1, 2020. But, even though a law to ban manual cleaning of sewers was passed in 1993, 376 sanitation workers have died in the five years to 2019 while manually cleaning sewers, official data show. Development of technology to eliminate human involvement in sewer cleaning in India is still in the nascent stages and caste is a major barrier to eliminating manual cleaning, experts have told FactChecker.in.
+
+Claim: "Our government is determined that there shall be no manual cleaning of sewer systems or septic tanks. Suitable technologies for such tasks have been identified by the Ministry of Housing and Urban Affairs. The Ministry is working with urban local bodies for the adoption of these technologies. We will now take this to its logical conclusion through legislative and institutional changes. Financial support for wider acceptance of such technologies will be provided." (Budget 2020-21)
+
+Fact: There were 376 deaths in five years to 2019, while cleaning sewers and septic tanks, with 110 deaths in 2019. Technology for cleaning sewers and septic tanks is at a nascent stage and does not offer a comprehensive solution, experts have told FactChecker.in.
+
+Unimplemented legislation
+
+The direct handling of human excreta by sanitation workers has been banned in India since 1993 under the Employment of Manual Scavenging and Construction of Dry Latrines (Prohibition) Act, which also prohibited the construction and maintenance of dry latrines. Since December 6, 2013, manual scavenging in India has been banned under the Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013.
+
+Yet, manual scavenging and cleaning of sewers and septic tanks continues, resulting in sanitation workers' deaths. Even in the age of robotic technology, there has not been much headway in changing how sanitation work is carried out in India, experts said.
+
+One death reported every five days
+
+A 17-year-old boy in Bengaluru died of asphyxiation after he was made to clean a sewage chamber, The News Minute reported on January 25, 2020. The contractor who made the young boy enter the sewage also died, after he entered to rescue the boy. On February 2, 2020, a 24-year-old sanitation worker died while another sustained injuries while cleaning a sewer in Delhi's Shahdara area, after inhaling toxic fumes as they were not wearing any safety gear, Scroll.in reported on February 3, 2020.
+
+Across 18 states in the country, 376 sewer deaths have been reported over five years to 2019, according to a reply in parliament on February 11, 2020, by Ramdas Athawale, the Minister of State for Social Justice and Empowerment. This amounts to one death reported every five days, on average.
+
+Uttar Pradesh (UP), the country's most populous state, reported the most deaths (63, 17% of deaths countrywide), followed by Tamil Nadu (49) and Gujarat (39). Most deaths in five years (110) were reported in 2019.
+
+As many as 62,904 manual scavengers have been identified as on January 31, 2020, according to the government's reply. "There has [sic] been no reports regarding deaths of persons due to manual scavenging. However, the National Commission For Safai Karamcharis have received reports regarding the deaths of persons while cleaning sewers and septic tanks," Athawale said in parliament while presenting the data.
+
+Inadequate budget
+
+In her budget speech, Sitharaman pitched technology as a way to stop manual cleaning of sewers and said the government would provide financial support for new technology. Sanitation is a state subject but cities seldom spend to try out research and new technologies, said Shaileshkumar Darokar, faculty member at the Centre for Study of Social Exclusion and Inclusive Policies at the Tata Institute of Social Sciences (TISS) in Mumbai.
+
+"As a technology they do not have anything right now and even if they have, there has been no allocation in the budget for its implementation," said Bezwada Wilson, the national convener of Safai Karmachari Andolan, a nonprofit that works to eradicate manual scavenging and rehabilitate scavengers. The budget allocations are not sufficient either to implement mechanisation or to rehabilitate the scavengers, he added.
+
+We have reached out to the Ministry of Housing and Urban Affairs through an email on February 4, 2020, and followed up over the phone for more than seven days, requesting their response on the technologies identified by the government. We will update the story when they reply.
+
+Caste is a barrier in eliminating manual cleaning
+
+"Technology is vital, but it is not a solution on its own," Robin Jeffrey, professor, Institute of South Asian Studies, Singapore, and co-author of the book Waste of a Nation: Garbage and Growth in India, told FactChecker.in. "India shares problems with all countries that have grown and urbanised, but the practices and beliefs of caste add a painful dimension to India's challenges."
+
+"Comprehensive management of human waste awaits the day when well-educated, salaried engineers regularly go into the drains and down the gallis to be part of the dirty work that goes on there. When that happens, the correct equipment and procedures will be assured for everyone who deals with human waste," Jeffrey said.
+
+Swachh Bharat Mission could increase manual scavenging
+
+The demand for manual scavenging is likely to go up with the construction of millions of new toilets under the Swachh Bharat Mission (SBM), the national cleanliness mission, IndiaSpend reported in December 2019, based on a report by WaterAid, a non-profit.
+
+More than 100 million toilets have been constructed under SBM-Gramin (rural). But a large number of these toilets have been constructed using technologies that would require periodic emptying and offsite treatment of faecal matter, IndiaSpend had reported.
+
+In its SBM campaign, the government promotes the 'twin-pit' technology, which obviates the need for human handling of faecal matter by moving it to a compost chamber. "Around 90% of all toilets built last year [2017] were twin-pit toilets," Parameswaran Iyer, 59, secretary, Ministry of Drinking Water and Sanitation, had told IndiaSpend in an interview in October 2018.
+
+In 2017-18, only 13% of the toilets constructed under SBM had twin pits, while 38% had septic tanks with soak pits and 20% had single pits--both needing manual cleaning--as per an analysis of government data published by FactChecker.in in October 2018.
+
+Rather than first making sure that toilet pits are emptied by machine, SBM is just pushing for building more toilets, Wilson had told IndiaSpend in an interview in October 2019. Mechanisation is possible "but they do not want to do that. With more than 1.3 billion people, do you think that a small group will find a solution? Caste system and mindset never allow the brain to even think about cleaning [a septic tank and sewer] because we think that it is a Dalit or scheduled caste activity," he added.
+
+"The world is still struggling to find the perfect toilet and its discovery is vital," Jeffrey said. "The perfect toilet will be compact, self-contained, inexpensive and capable of being installed in high-rise buildings. It will neutralise human waste internally and leave a residue that can be put out for collection (and use) like other household waste."
+
+Existing technologies at a preliminary stage: experts
+
+Genrobotics, a Kerala-based startup, designed Bandicoot, a robotic scavenger that can eliminate manual scavenging, in 2017. A single unit of Bandicoot costs Rs 39.5 lakh ($55,670)--more than 40 times the average annual income of a rural Indian household--and is equipped with infrared cameras that allow the operator to monitor and operate remotely with the help of a screen fixed on an external stand.
+
+The Bandicoot is being used by local authorities in the states of Kerala, Tamil Nadu, Andhra Pradesh, Maharashtra, Telangana, Haryana, Punjab and now in Uttar Pradesh, said Afsal Muttikal, chief marketing officer of Genrobotics, but he did not give details on how many. The robot was improved with user feedback and a stabilised version launched in 2018, he said.
+
+One machine can clean 10 manholes a day, said Muttikal. "The sewer network is very huge in India," and to end manual scavenging completely, many robots would be required, he added. The company has tied up with Tata Brabo robotics for scaling up its manufacturing capacity.
+
+Sewer Croc is another robotic device developed by a Bengaluru-based company. A camera identifies debris, blockages, roots, sediments, etc. and displays it on a monitor, and the device then breaks down and flushes out blockages in sewer line/pipes. The company is implementing a pilot with the Hyderabad Metropolitan Water Supply and Sewerage Board, which, if successful, will be used elsewhere too, The Hindu reported in December 2019.
+
+The Bhabha Atomic Research Centre has created a radiation-based technology for treating municipal sewage, according to a government reply to the Rajya Sabha in February 2020. Radiation reduces pathogenic micro-organisms in the sludge to a level that they cannot multiply further, and the treated sludge is safe for human handling.
+
+Ahmedabad has a plant to demonstrate this technology since February 2019 and the Indore Municipal Corporation has also expressed interest in adopting the technology, the government's reply said.
+
+All of these technologies are at a nascent stage, still being tested, said Darokar of TISS. Sewer cleaning machines, such as those tried in Delhi and the Bandicoot, should be expanded to the entire country if validated, he said.
+
+Problems with existing technologies
+
+Vehicles called honey-suckers are also being used to clean sewers. These are trucks fitted with pumps that pull in waste/sludge, which they store in tankers. However, there have been complaints about "honey-suckers" dumping the waste "around the city illegally, in unlicensed locations, causing considerable pollution and health problems", as a 2012 paper on the potential and limits of these machines said.
+
+The solution, according to Jeffrey, would be that sewage treatment plants run by the local governing body charge a fee to accept and treat the waste collected by these honey-suckers and that the policy be enforced by the government.
+
+For clearing up manholes, honey-suckers have pulleys/pipes, which, however, have to be placed inside the manhole by the sanitation worker, Darokar said. They are therefore not a complete solution, he said.
+
+When waste such as construction debris jams sewers, machines cannot remove it. At such a time, when a sanitation worker is made to enter the sewer or drain, they should at least be provided with safety gear such as hand gloves, oxygen masks, safety belts and goggles, Darokar said.
+
+"Even today, these workers use polythene bags to cover their hands instead of gloves and a rope instead of a safety belt. We are in an age where technology should be 90% and human element should be 10% in cleaning sewers and septic tanks," he added.
+
+(Mallapur is a senior analyst with IndiaSpend and FactChecker.in)
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.

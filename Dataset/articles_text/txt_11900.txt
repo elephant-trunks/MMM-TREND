@@ -1,0 +1,93 @@
+A fake and viral message, circulating on WhatsApp and on social media, falsely states that the government is doling out ₹30,628 to combat inflation.
+
+The preview link in the message reflects that of the official website of the Ministry of Finance (finmin.nic.in), but the website it redirects to is dubious and unrelated to the government.
+
+Consumer prices are rising across the world, and India is no different, after prices in April rose 7.79%, the highest in eight years.
+
+Also Read: Finance Ministry's Comments On Inflation Contradicts PIB Fact Check
+
+
+
+The message can be seen below. BOOM recieved it on its WhatsApp helpline (7700906588).
+
+The URL seems like a link to an official government website - more specifically, that of the Ministry of Finance - when the message is received on WhatsApp.
+
+
+
+
+
+The message can be seen on Twitter below.
+
+
+
+
+
+After the surge in prices, the government decided to give the Indian people an amount of (Rs 30,628) for every citizen who meets the conditions as an aid to the poor class to overcome the crisis. Enter and register now and make sure to register correctly https://t.co/66KdYXIjvP — Dhananjay R (@dhananjay_reddy) May 18, 2022
+
+
+
+
+
+After the surge in prices, the government decided to give the Indian people an amount of (Rs 30,628) for every citizen who meets the conditions as an aid to the poor class to overcome the crisis. Enter and register now and make sure to register correctly https://t.co/60s1cteZTi — Ankur Mittal 🇮🇳 (@Ankmit15) May 25, 2022
+
+
+
+
+
+However, upon clicking on the link, the user gets redirected to a website hosted on blogspot.
+
+"After taking into consideration the financial crisis experienced by the Indian people, the Ministry of Finance decided to give every citizen an amount of ( Rs 30,628 ) to reduce the severity of the crisis", the page says, with a button asking to register.
+
+The website reflects a Facebook post. Regardless of how many times the page is refreshed, the website will always show the following starting metric:
+
+160,000 likes
+
+40,000 shares
+
+60,000 likes
+
+The first comment will also always be the same, by one 'Arpita Ganguly', which will always have a same timestamp. Moreover, the comments will always be in the same order.
+
+Then, the website asks the user to input their name. The name inputted does not matter, as the website will proceed with any two words. Then it asks to share the message to 15 persons on WhatsApp, and then shares a code to "claim this amount".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The ultimate page, that displays the page though, does not load. BOOM also found that this link redirects to two phishing websites.
+
+Further, BOOM found no evidence that the government has announced a dole or cash handouts to tide over the recent spike in inflation. The Press Information Bureau has debunked it too.
+
+
+
+
+
+A message with a link 'https://t.co/sn2GmrJgW9' is doing the rounds on social media and is claiming to offer a financial aid of ₹30,628 in the name of the Ministry of Finance to every citizen.#PIBFactCheck
+
+
+
+▶️ This message is FAKE
+
+
+
+▶️ No such aid is announced by @FinMinIndia pic.twitter.com/DkbssCM7Ic — PIB Fact Check (@PIBFactCheck) May 23, 2022
+
+
+
+
+
+BOOM has previously facthchecked spam websites relating to the Indian Express.
+
+Also Read: Bitcoin Scam Mimics The Indian Express, Claims Mukesh Ambani Investment

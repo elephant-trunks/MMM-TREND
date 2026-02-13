@@ -1,0 +1,59 @@
+Several social media users are expressing concern online after a video, alleging a new modus operandi by scamsters to swindle money from vehicle owners using a high tech device to scan the FASTags, is going viral. The video, which is doing the rounds on Facebook, Twitter and WhatsApp, has triggered alarm, with worried users seeking clarification from NECT and Union Minister Nitin Gadkari. Newschecker has found that the claim is false and that the video is scripted.
+
+The viral video begins with a young boy cleaning a windshield of the car and preparing to leave when he is stopped by the vehicle owner and questioned about the ‘Apple watch’ on his wrist. The visibly panicked child scoots, only to be pursued by one of the men in the car. While the boy manages to escape, the person seated in the driver’s seat explains about the new “scam”, wherein, fraudsters employ kids to swipe at the FASTags with these watches on the pretext of cleaning the car in traffic signals. “When this device is moved over the FASTag on the car’s windshield, it scans and withdraws money out of the Paytm accounts,” the man explains.
+
+Screenshot of Tweet by @ameyasukhi
+
+Screenshot of Facebook post by @aman.rathor.1481
+
+Links to such posts can be found here, here, here and here.
+
+Newschecker also received the video on our WhatsApp tipline number (+91-9999499044) requesting to be fact checked.
+
+What is a FASTag?
+
+As per the NETC website, FASTag is affixed on the windscreen of the vehicle and enables a customer to make the toll payments directly from the account which is linked to NETC FASTag. It uses Radio Frequency Identification (RFID) technology to do the same. The Ministry of Road Transport & Highways, had last year, announced that it has decided that all lanes in the fee plazas on National Highways shall be declared as “FASTag lane of the fee plaza” w.e.f midnight of February 15.16, 2021.
+
+Also Read: Here’s The Truth Behind ‘iPhone Hacked’ Pop-Up Notification
+
+Fact Checking/Verification
+
+A simple keyword search for “FASTag” on Facebook led us to a post on a verified page of video creator “BakLol Video,” dated June 24, 2022, carrying the viral video with a Hindi caption which roughly translates to “If you have FASTAG on your vehicle, then you must watch this video
+
+On scanning the page thoroughly, Newschecker found that it posts scripted content. ‘About’ section of the page reads, “funniest videos on facebook for you guys,” while its ‘Intro’ says, “We Enjoy Entertaining!”
+
+We further noticed that the two men seen in the viral clip were featured in multiple videos as different characters indicating that they were actors.
+
+(L-R) Image 1&2 – Screenshot from videos posted by BakLol Video on Facebook | Image 3- Screenshot from viral video
+
+(L-R) Image 1&2 – Screenshot from videos posted by BakLol Video on Facebook | Image 3- Screenshot from viral video
+
+The description on the official YouTube channel of BakLol Video confirmed the same. “This is for the entertainment, laugh, fun and enjoy… keep watching ,keep sharing, keep taging (sic)”, it read.
+
+Newschecker also reached out to BakLol Video for confirmation on the video, who clarified that the “video was only for social awareness”, confirming that it is scripted.
+
+Continuing the investigation, Newschecker scanned through the comment sections of various posts that shared the viral video and found a tweet by FASTag NETC clarifying that such a scam was not possible. “Hi, NETC FASTag transaction can only be initiated by the registered merchants (Toll & Parking Plaza operators) which are onboarded by NPCI only from the respective geo-locations. No unauthorized device can initiate any financial transactions on NETC FASTag. It is absolutely safe,” FASTag NETC tweeted. An archived version of the same can be found here.
+
+Screenshot of Tweet by @FASTag_NETC
+
+Paytm also issued the same clarification in a tweet dated June 25, 2022. “A video is spreading misinformation about Paytm FASTag that incorrectly shows a smartwatch scanning FASTag. As per NETC guidelines, FASTag payments can be initiated only by authorised merchants, onboarded after multiple rounds of testing. Paytm FASTag is completely safe & secure,” the tweet read. An archived version of the same can be found here.
+
+Screenshot of Tweet by @Paytm
+
+Conclusion
+
+Viral video that alleges a new ‘FASTag Scam’ is scripted and devoid of facts.
+
+Result: False
+
+Sources
+
+Facebook Post By BakLol Video, Dated June 24, 2022
+
+Conversation With BakLol Video Via E-Mail on June 25, 2022
+
+Tweet By @FASTag_NETC On June 24, 2022
+
+Tweet By @Paytm On June 25, 2022
+
+If you would like us to fact-check a claim, give feedback, or lodge a complaint, WhatsApp us at 9999499044 or email us at checkthis@newschecker.in. You can also visit the Contact Us page and fill out the form.

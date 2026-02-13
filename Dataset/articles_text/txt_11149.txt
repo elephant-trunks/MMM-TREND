@@ -1,0 +1,27 @@
+Fact Checkers witnessed a lot of misinformation related to the Tokyo Olympics 2020. In the beginning of the event, we found an unrelated video in circulation claiming to be the opening ceremony of the event. Amidst this, we found another video showing a synchronized walking performance going viral on social media claiming to be the closing ceremony of the Tokyo Olympics 2020.
+
+The caption of the post mentions “wonderful closing ceremony at the #Olympics, like each person was digitally programmed. Too good.”
+
+Facebook Post | Archive Link
+
+The video is being widely circulated on Facebook.
+
+After #TokyoOlympics2020 started trending on Twitter Fact Crescendo has debunked a series of misinformation related to this grand event. Several videos and images went viral on social media related to the Tokyo Olympics 2020.You can view these fact checks below.
+
+
+
+Fact Check-
+
+We started our investigation by breaking the video into small frames with the help of InVid-We Verify tool and ran a Yandex reverse image search on the same. The results led us to the same video published by a verified YouTube channel named TV Asahi. The headline of the video written in Japanese translates to “[Group Action] Nihon Sport University Latest Acting Skills” This video was posted on 20 January 2014.
+
+The description of the video states that the latest performance of Nippon Sport Science University’s “Group Action” was recorded by TV Asahi using eight cameras. It further stated that “an 11-minute miracle march & moment of joy will be unveiled uncut! In addition, at the end of the video, there will be a special video of the “National Elementary School Group Action Presentation” broadcast from 2:00 pm on Sunday, January 26, 2014! Do not miss it!” The description of the video also mentions a link to the website of TV Asahi (http://www.tv-asahi.co.jp/shudankodo/)
+
+Taking a cue from the link pasted in the description mentioning the word “shudankodo”, we ran a keyword search which led us to a similar video published by Reuters stating that the video is from Yokohama, Japan shot in November 2013. According to the description of the video Team “Collective Action” can be seen performing precision walking. A group of Japanese students at Nippon Sports Science University have taken walking to a completely new level drawing in 11,000 people at their university festivities. This is called “Shudankodo” in Japanese, or “Collective Action”, and has gained massive popularity after a YouTube video went viral. That is even though Nippon Sports Science University says they have been doing this since 1966.
+
+Next, we compared the screenshot of the viral video to the screenshot of the YouTube video published by TV Asahi. The results clearly shows similarities in both the video.
+
+Further with the help of another keyword search we found that the official handle of Olympics has posted the original video of the closing ceremony of the Tokyo Olympics 2020 on their Facebook account on the 8th of August 2021. The caption of the post says
+
+“A fitting end to an unforgettable #Olympics! #Tokyo2020 came to an end with a memorable #ClosingCeremony. Featuring holographic spectacles, incredible performances and Bajrang Punia leading Team India’s contingent out along with the other teams, the Olympic Games were finally declared closed along with the announcement for the next destination: Paris 2024!”
+
+Conclusion- Fact Crescendo found the claim made along with video to be False. The viral video shows a Japanese performance known as “Shudankodo” performed by the students of Nippon Sports Science University. The video is atleast 7 years old. This video does not show the closing ceremony of the Tokyo Olympics 2020.

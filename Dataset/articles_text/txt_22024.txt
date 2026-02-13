@@ -1,0 +1,51 @@
+Someone who has tested positive for coronavirus will be inquisitive about mainly two things - how severe is the infection and what is the possibility of the infection being passed on to family members.
+
+In a video message, cardiologist and former president of Indian Medical Association (IMA) Dr KK Aggarwal has said that upon being tested Covid-positive, one should ask for the Ct (Cycle threshold) value that calculates viral load. He says a Ct value above 24 means transmission chances by the person is less.
+
+advertisement
+
+In the video clip circulating on Facebook and WhatsApp, Dr Aggarwal insists that people should remember the number 24 as the cut-off for Ct value.
+
+Let us now try to understand what Ct value is.
+
+A Covid-19 test does not normally reveal the amount of virus in a person's body. This amount of virus is called viral load in scientific parlance. Theoretically, if the test reveals low Ct value, it means the person has a higher viral load or higher amount of virus in the body, and vice versa.
+
+But does this mean that a person with Ct value higher than 24 has lesser chance of infecting other people? Does Ct value have a direct relation with the severity of the disease or transmission potential in a person? Is 24 a cut-off mark for Ct value to assess if a person can infect others or not? Yes, says Dr Aggarwal.
+
+India Today Anti Fake News War Room (AFWA) spoke to scientists of the Indian Council of Medical Research (ICMR) and other eminent microbiologists. As per these experts, though Ct value and viral load are correlated, there is no absolute cut-off. Also, it is wrong to relate Ct value with transmission potential.
+
+Virus load and transmission
+
+International researchers and scientists have found correlations between Ct value and viral load. Some studies have indicated lesser Ct values may be associated with worse course of illness and outcomes. They have found that Ct values may be useful in predicting the clinical course and prognosis of patients.
+
+But there are no studies to show correlation of disease severity and Ct value. ICMR, the apex medical research body in India, has ruled out any direct correlation between disease severity, infectiousness and Ct values.
+
+An advisory published on the ICMR website last month says, "Viral load does not have much role in patient management."
+
+As per Dr Samiran Panda, head of epidemiology and communicable diseases at ICMR, real-time RT- PCR tests are qualitative in nature and different machines produce different Ct values for the same person.
+
+"Different commercial kits might produce different Ct values for the same person. In that case, going by this piece of information will lead to confusion, thus, leading to incorrect conclusions about infectiousness or disease severity," Dr Panda added.
+
+
+
+Is 24 a cut-off mark for Ct value?
+
+While Dr Aggarwal claims that 24 is the magic number, as the cut-off mark for Ct value, microbiologists differ.
+
+
+
+Dr Gagandeep Kang, scientist and professor of microbiology at Vellore's Christian Medical College says, "If Ct value is high, it means you are likely shedding less virus. But there is no absolute number at which you can say this person is not infectious. So in all likelihood, higher the Ct value, you are less likely to be infectious, but I cannot give you a cut-off."
+
+Dr Samiran Panda terms this cut-off an "infodemic" and misleading. "Scientifically, a bigger Ct value indicates lesser viral load, but directly extrapolating the Ct value with chances of transmission would be wrong," he says.
+
+Better safe than sorry
+
+Unlike Dr Aggarwal, scientists and microbiologists do not want patient management to be guided by the threshold value or viral load.
+
+The severity of Covid-19 depends largely on a host of factors besides viral load. Some patients with low viral load may end up in a critical condition due to weak immunological responses. Therefore, a high Ct value may give the patient a false sense of security.
+
+advertisement
+
+So it is important that an infected person observe precautions and abide by all necessary medical advises irrespective of Ct value or viral load.
+
+Hence, we found that though Ct value has a correlation with viral load or the amount of virus in the patient's body, it does not have direct relation with the transmission potential of the person or severity of the disease.

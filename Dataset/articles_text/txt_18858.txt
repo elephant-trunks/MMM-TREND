@@ -1,0 +1,99 @@
+Paytm, has warned its customers against a phishing SMS claiming to be from the company that warns users that their KYC (Know Your Customer) has been 'suspended' and that they have to call a number to reactivate it. Patym's official handle called out the message as fake after several users had taken to Twitter tagging the handle.
+
+
+
+
+
+Hi, this is not official communication from Paytm. Please be aware of such fake callers/messages. Moreover, thanks for highlighting this to us, we'll take appropriate action against it. — Paytm Care (@Paytmcare) December 1, 2019
+
+
+
+
+
+KYC is the process of a business verifying the identity of its clients using identification documents like Aadhaar card, or PAN card. The advisory released by Paytm mentions that the company does not send such SMSs and these messages are sent by fraudsters. Phishing is a fraudulent attempt to obtain sensitive information such as usernames, passwords and credit card details by disguising oneself as a trustworthy entity online.
+
+
+
+BOOM received the below message on its helpline (7700906111) asking about its authenticity. The SMS received by users reads, "Dear PAYTM customer your paytm KYC has been suspended, paytm office PH 6291628992 account will block within 24 hrs. THANK YOU PAYTM TEAM."
+
+
+
+
+
+
+
+
+
+Vijay Shekhar Sharma, founder of the digital wallet company, had also taken to Twitter warning users of the fake messages circulated in the name of the company.
+
+
+
+
+
+
+
+These or some SMS with some lucky draw are examples of fraudsters attempting to get your details. Don't fall for them. pic.twitter.com/vyLUn5Z7Z7 — Vijay Shekhar (@vijayshekhar) November 19, 2019
+
+
+
+
+
+Meet The Fakers
+
+BOOM called up the numbers that were listed in two different SMSs that were circulating.
+
+
+
+We first called the number (7098879094). A man who identified himself as Rahul Kumar answered and falsely claimed to represent Paytm, saying that he was based in Noida, and that we need to update our Paytm KYC.
+
+The scammer asked us to install TeamViewer, an app, which once installed, allows another person virtual control of the device. The app can remotely control - screen sharing, and allows file transfer between computers and mobile devices.
+
+
+
+
+
+Below is an excerpt of the phone conversation BOOM had with the scammer. Note, we did not have the Paytm app installed on the number we dialed from.
+
+
+
+
+
+
+
+BOOM: We got a message that our Paytm KYC has been suspended, what is happening?
+
+
+
+Rahul (scammer): I'm Rahul Kumar from Noida, How many days ago did you update your KYC?
+
+BOOM: Around five to six months ago.
+
+Scammer: You are our old consumer, that's why you got a message. Now any transaction you make will get stuck and your account will get frozen.
+
+BOOM: So what should we do now?
+
+Scammer: I will inform you how to do a KYC, you can provide your PAN card, Aadhaar card details. I can see that you have installed Paytm app on your phone, and I will guide you and it is simple and will only take two minutes.
+
+[We did not have the Paytm app installed on our phone]
+
+BOOM: Exactly what we have to do?
+
+Scam caller: Type 'qs' in Google Play store, and install TeamViewer application.
+
+BOOM: Will call back and do it afterwards.
+
+(end of conversation)
+
+
+
+
+
+BOOM also called another number (6291628992) where a man who identified himself as Rohit claimed to be a Paytm employee based in Noida. When we confronted Rohit that the company had called the messages fake, he got annoyed and asked "how can we be called fake? "Go file a police complaint".
+
+BOOM has previously debunked phishing SMSs that asks users click on a link that takes the user to a fake Income Tax Department website.
+
+
+
+
+
+(Additional reporting by Shachi Sutaria)

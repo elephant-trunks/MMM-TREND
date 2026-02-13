@@ -1,0 +1,85 @@
+At least major 43 claims made by Prime Minister Narendra Modi over five years to 2019 are not true, according to a FactChecker analysis. These include claims on issues such as economic growth during the current and previous governments, this government’s achievements on key issues such as job creation, financial inclusion, social security and benefits transfer, as well as the current government’s flagship programmes such as Swachh Bharat Mission and Jan Dhan Yojana.
+
+We have classified the claims into categories such as agriculture and farmers’ welfare, crime, economy and growth, employment and workers’ benefits, health, internet connectivity, power and transmission, representation, road and highway construction, sanitation and other government schemes.
+
+Here’s the link to our tracker: http://factsmodified.factchecker.in/
+
+FactChecker collated such claims from a variety of sources, including Prime Minister Modi’s speeches and the Twitter handles Prime Minister’s Office, Narendra Modi and the Bharatiya Janata Party. The time period was from May 26, 2014, the day Narendra Modi was sworn in as Prime Minister, until February 28, 2019, one month before Lok Sabha elections were announced.
+
+The claims were checked for veracity and accuracy using various sources, such as: government websites that put out annual reports or official dashboards that monitor project progress; answers provided to members of Parliament in the lower and upper houses, the Lok Sabha and Rajya Sabha; reports from international organisations; and our previous reporting.
+
+This is an ongoing tracker, and we intend to continue this effort once the new government takes charge post the general elections.
+
+FactChecker is India’s first dedicated fact-checking initiative, set up in 2013 to scrutinise for veracity and context statements made by individuals in public life. FactChecker is also India’s first such initiative to be a verified signatory of the International Fact-Checking Network’s code of principles.
+
+Some of PM Modi’s claims that we found not true:
+
+Claim: Total FDI inflows in the last two and a half years have touched $130 billion: PM @narendramodi
+
+Link: https://twitter.com/PMOIndia/status/808943456391266304
+
+Date: December 13, 2016
+
+Fact: False. Between May 2014 and November 2016, foreign direct investment inflows amounted to $101.72 billion, 21.8% lower than the PM’s claim.
+
+Explanation: The total FDI inflows amount to $101.72 billion between May 2014 and November 2016, according to the Department for Promotion of Industry and Internal Trade of the Ministry of Commerce and Industry.
+
+Claim: The rate of 1% under composition scheme of GST for companies with a turnover of up to Rs 1.5 crore is also the lowest rate in the World: PM Narendra Modi
+
+Link: https://twitter.com/BJP4India/status/961148961317941249
+
+Date: February 7, 2018
+
+Fact: False. Many countries offer a minimum tax of 1% on small enterprises.
+
+Explanation:
+
+Many countries offer a minimum tax of 1% on small enterprises with relatively low turnover, including Indonesia, Congo, Djibouti, Gambia (for audited accounts), Ivory Coast (companies with losses), Nicaragua and Romania. Several countries also offer zero corporate tax rates, including many Caribbean islands such as Anguilla, Bahamas, Bermuda and British Virgin Islands.
+
+Claim: सोचिए, आखिर क्यों, आजादी के बाद के 67 वर्षों तक केवल 70 प्रतिशत ग्रामीण परिवारों तक ही बिजली की सुविधा पहुंची थी और अब कैसे बीते चार वर्षों में 95 प्रतिशत ग्रामीण परिवारों तक बिजली पहुंच गई है: PM @narendramodi
+
+(Think about it, even after 67 years of Independence electricity connections reached only about 70% rural households and, now, in the last four years alone 95% of rural households have received a electricity connection: PM @narendramodi)
+
+Link: https://twitter.com/PMOIndia/status/1070918150177251329
+
+Date: December 6, 2018
+
+Fact: False. When the BJP came to power in 2014, 97% of villages were already electrified. Many villages and households now marked as electrified have not received electricity yet, investigations show.
+
+Explanation: When the BJP came to power in 2014, 97% of the villages were already electrified with only about 18,452 or 3% left to be connected to the grid. The Congress-led United Progressive Alliance in its two consecutive terms between 2005 and 2014 had connected about 108,280 or 18% of all Indian villages.
+
+Currently, while the SAUBHAGYA dashboard that tracks household electrification shows that 95% rural households have connectivity, many villages and households have not received electricity but have been nonetheless been counted as electrified in government data, as FactChecker.in’s investigation from the ground revealed.
+
+In April 2018, 100% of Indian villages were declared electrified by the BJP government after power connections reached the remaining villages. However, only 8% of these 18,374 villages had 100% of households connected.
+
+Claim: इन चार वर्षों में सिर्फ शौचालय ही नहीं बने, गांव-शहर ODF ही नहीं बने बल्कि 90% से अधिक शौचालयों का नियमित उपयोग भी हो रहा है: PM
+
+In the last 4 years, we did not just build toilets, villages were not just declared ODF, but more than 90% of the toilets are being regularly used.
+
+Link: https://twitter.com/PMOIndia/status/1047016706944770048
+
+Date: October 2, 2018
+
+Fact: False. Nearly a quarter, or 23% of people who own a latrine, continue to defecate in the open, studies show. FactChecker investigations in Gujarat and Uttar Pradesh found fudged data, unusable toilets and high rates of open defecation.
+
+Explanation: Of people who own a latrine, 23% continue to defecate in the open, as IndiaSpend reported in January 2019 based on a working paper published by the research and policy advocacy Research Institute for Compassionate Economics (RICE) and New Delhi-based policy think-tank Accountability Initiative (AI).
+
+A FactChecker.in investigation in Gujarat and Uttar Pradesh in 2018 had also found fudged data and unusable, poor quality toilets with high rates of open defecation.
+
+Claim: पिछली सरकार के 6 साल में 8 बार ऐसे मौके आए जब विकास दर 5.7 प्रतिशत या उससे नीचे गिरी। देश की अर्थव्यवस्था ने ऐसे क्वार्टर्स भी देखे हैं, जब विकास दर 0.2 प्रतिशत, 1.5 प्रतिशत तक गिरी
+
+(In six years of the previous government, there were eight instances when growth rate was 5.7% or lower. The Indian economy has seen quarters when growth fell to 0.2%, 1.5%)
+
+Link: https://twitter.com/PMOIndia/status/915564918996267008
+
+Date: October 4, 2017
+
+Fact: Misleading. While the claim regarding dip in growth rate is true, the economy had also grown in double digits more than eight times under the previous government since 2005-06.
+
+Explanation: There were more than eight instances when growth declined below 5.7% in six years of the previous government, and growth dropped to 1.5% and 0.2% in the third and fourth quarters of 2008-09, respectively.
+
+However, the economy had also grown in double digits more than eight times since 2005-06, government data show. In 2015, the Modi government took the controversial step to change the base year to 2011-12, thereby revising down the previous government’s growth estimates.
+
+Source: https://data.gov.in/resources/quarterly-growth-rates-gdp-released-first-quarter-financial-year-2005-06-second-quarter
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.

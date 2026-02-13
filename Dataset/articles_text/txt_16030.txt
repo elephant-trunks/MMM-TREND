@@ -1,0 +1,51 @@
+Tax paying Citizens of India do keep a check on whether their Income Tax Return are being processed and approved by the Indian Income Tax Department, and these accesses do get notifications from the I-T department in form of emails and SMS’s, However it seems some cyber criminals are using this to their benefit, a message similar to above image sent by IG-ITREFL or similar handles which gives the receiver an impression of authentic notification from Indian I-T Department, are being sent over SMS and emails, the bank account number mentioned in these messages are deliberately wrong, the user is asked to click a link to verify/rectify his bank account details.
+
+@IncomeTaxIndia got this fraudulent link asking me to click for IT refund https://t.co/j1p6tqoBXJ The SMS came from MM- ITREFL. Many would be falling prey to this. — Rajasekar KS (@rajasekarks_) September 11, 2018
+
+https://twitter.com/AshishTripathi_/status/974199626889797632
+
+On clicking the link, the user is directed to a website similar to the official Indian IT-Department website
+
+The website is a malicious site which intends to steal users personal data.
+
+Various Banks have asked their customers to be cautious and report to them if customers find these messages to be suspicious.
+
+Be aware! Some SMS messages related to income tax refunds are a pretext to stealing your personal information. Stay alert and ignore and/or block the senders of these messages. In case your details are compromised, report it to SBI immediately.#SBI #SafetyTips #SecurityTips pic.twitter.com/7e91yoltYp — State Bank of India (@TheOfficialSBI) August 29, 2018
+
+Alert! Some SMS and email messages regarding #incometax refunds are taking rounds these days. These could be fraudulent efforts by some miscreants to acquire your personal details. Stay aware and in case your details are compromised, report it to your #bank instantly. pic.twitter.com/QGnDJoGjBr — Punjab National Bank (@pnbindia) September 3, 2018
+
+According to a report in The Hindu, this is a new pan-India, cyber crime racket, involving a fraudulent message purportedly from the Income-Tax Department. Officials said the seemingly innocuous message has the potential to trigger a host of cyber crime, including data theft and banking frauds.
+
+Please read the full report here “ Beware the SMS on I-T refunds!”
+
+(The Image used is taken from the report in The Hindu published on 2nd Aug.2018)
+
+Indian Income Tax Department has provided an advisory on such fraudulent income tax SMS’s and emails along with a detailed list of phishing and fraudulent refund emails from fake email id’s. click here to visit the website
+
+We request our readers to report any phishing or fraudulent message to the I-T department on [email protected] / [email protected]
+
+IN CONCLUSION
+
+Fact Crescendo verifies that the messages mentioned in the narrative are received by dubious handles as fake and requests its users to be cautious while submitting their personal information online.
+
+SPECIAL THANKS
+
+A special thanks to our reader Shoheb Shaikh, who bought this story to our attention and requested us to publish a fact check report on it. The main picture, displayed at the start of the article, has been provided by Shoheb Shaikh.
+
+If any of you want us to fact check a claim, then please use the form available on “Submit For Fact Check” page and we would do the needful.
+
+Thanks,
+
+Fact Crescendo Team
+
+ARTICLE UPDATION NOTICE
+
+Dear Readers,
+
+We have added new content for this story and you can view it below:
+
+Additionally, you can also search for both the articles under the tag “Income Tax” in our search bar. Both articles would be displayed for your perusal.
+
+Thanks,
+
+Fact Crescendo Team

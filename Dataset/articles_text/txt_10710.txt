@@ -1,0 +1,47 @@
+The digital investment methods of cryptocurrency and bitcoin have gained momentum in the recent past with the likes of Elon Musk supporting the new digital currency. The internet is full of information about these new investment methods. But suspicious platforms are also making their way into misleading and duping people.
+
+One such Facebook advertisement about Azim Premji promoting bitcoins has been doing rounds since September 2021. The advertisement redirects the user to an article titled “SPECIAL REPORT: Azim Hashim Premji’s Latest Investment Has The Government And Big Banks Terrified”.
+
+Screenshot of the fake ‘The Indian Expres’ website
+
+The article, supposedly from ‘The Indian Express’, refers to an interview on the show ‘Good Morning India’ on NDTV co-hosted by Sonal Mehrotra Kapoor who, the article claims, invited WIPRO Founder Azim Premji, to share tips on building wealth.
+
+It quotes Premji as saying “What’s made me successful is jumping into new opportunities quickly – without any hesitation. And right now, my number one money-maker is a new cryptocurrency auto-trading program called Bitcoin Loophole. It’s the single biggest opportunity I’ve seen in my entire lifetime to build a small fortune fast. I urge everyone to check this out before the banks shut it down.”
+
+Further, it states that it did an exclusive followup interview with Azim Premji about bitcoin investment and explains how the platform ‘Bitcoin Loophole’ works.
+
+Factcheck/Verification
+
+Indian Express had issued a clarification on September 4, 2021 saying that the said article was misusing it’s masthead and that they had nothing to do with it.
+
+#FakeNewsAlert | A website called https://t.co/e4FzYarnIt has posted a story trying to look like an https://t.co/XYlZoUMMsK page. This has nothing to do with The Indian Express and is a misuse of our masthead. pic.twitter.com/smZurJsXmA — The Indian Express (@IndianExpress) September 4, 2021
+
+The website link in the screenshot tweeted by the Indian Express is ‘primenews.to’, but it shows the same article as the website accessed by newschecker with the URL ‘financeonline.to’.
+
+Further, the Facebook ads library reveals that the page ‘Dailyfrostymodernz’ has been running a paid advertisement promoting this dubious article since October 6,2021.
+
+Screenshot of Facebook Advertising Library
+
+Thus, this points us to the fact that the same dubious content has been circulating on the internet with new webpage names since September.
+
+Also, the said article claims that Azim Premji made these claims about ‘Bitcoin loophole’ on the show ‘Good morning India’. However, no such interview can be found online.
+
+At first glance, the article seems to be from the news website Indian Express. However, a closer look reveals details that confirm that it is infact a dubious website posing as the Indian Express.
+
+The website misspells the word ‘Express’ in ‘The Indian Express’ as ‘Expres’. Logo of the Indian Express is also misplaced again after the word ‘Expres’ which is not the case for the real news website.
+
+Screenshot of the fake website with highlighted errors
+
+Further, the URL of this website is ‘financeonline.to’, whereas the actual website URL of Indian Express is ‘www.indianexpress.com’.
+
+On clicking on any other text or image on this website, the user is redirected to a website ‘mediaoffers.to’ which promotes a platform named ‘Bitcoin loophole’. The website ‘Bitcoin Loophole’ has no ‘About Us’ section that could provide more information about it. The ‘Contact us’ option on the website leads the user to fill a form with their details so that they can be contacted by ‘Bitcoin Loophole’. Thus, pointing to the suspicious nature of the webpage.
+
+Conclusion
+
+This is an imposter website posing as the Indian Express. It attempts to mislead people into investing into the website named ‘Bitcoin Loophole’ by sharing a fake interview with businessman Azim Premji.
+
+Our Sources
+
+Tweet from The Indian Express’s official handle
+
+Errors in the imposter website’s content

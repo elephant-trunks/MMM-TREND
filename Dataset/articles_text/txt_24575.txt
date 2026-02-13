@@ -1,0 +1,55 @@
+Two union bodies of tobacco traders — Mumbai Bidi Tambakhu Vyapari Sangh (MBTVS) and Federation of Retailers Association of India — recently filed two interim applications with the Bombay High Court to intervene in the proceedings of a plea on the risks smokers face against COVID-19.
+
+
+
+The MBVTS, in its application, claimed that research and media reports show that smoking helps "prevent and relieve COVID-19". Nicotine acts as a potential preventive agent against COVID-19 infection, claimed MBVTS. Advocate Ravi Kadam, who represented Federation of Retailers Association of India cited a report by the Council for Scientific and Industrial (CSIR) to support the claim that smoking has little or no effect on COVID-19 patients, according to the copy of the order uploaded by Live Law, a legal news portal.
+
+"Whether smoking is good or bad, there is no dispute. The dispute is if cigarette smokers are at a higher risk of getting COVID. The CSIR pan India study says they are not because of excess production of mucus in the lungs," Kadam was quoted as saying by Live Law . He also added that several studies, including the United States, China, France and Italy say the same.
+
+However, this claim is misleading. The CSIR, on April 24, 2021, clarified that their article did not say that smoking protects anyone from COVID-19. "It is hereby brought to attention that CSIR has NOT ISSUED a Press Note titled, 'CSIR Study Reveals Smokers and Vegetarians are Less Vulnerable to Covid-19 Infection'," the research organisation said in its statement. The CSIR also called the study inconclusive and stressed on the need for focussed studies to understand the effect of smoking on coronavirus infection.
+
+FactChecker contacted Kadam to know more about the studies he had cited before the HC, but he said as counsel he was not at liberty to share any information.
+
+The pulmonologists that FactChecker spoke to called the claim scientifically unsound. But first, let's look at all the studies and media reports asserting this claim.
+
+Studies with inconclusive claims
+
+A paper published in the European Respiratory Journal (ERS) in July 2020 titled 'Characteristics and risk factors for COVID-19 diagnosis and adverse outcomes in Mexico: an analysis of 89,756 laboratory–confirmed COVID-19 cases' suggested that smokers were significantly less likely than non-smokers to contract COVID-19.
+
+However, this paper was later retracted because the authors failed to disclose financial ties to the tobacco industry.
+
+Another study published in the National Center for Biotechnology Information (NCBI) in January 2021 claimed that smoking was associated with a lower risk of developing COVID-19 but also specifically stressed that it cannot be considered as efficient protection against infection — adding that it requires further research.
+
+A study by US' Centers for Disease Control and Prevention (CDC) showed a similar finding. A preliminary estimate by the CDC, which examined over 7,000 people who tested positive for COVID-19 in February and March 2020, found that only 1.35 of survey participants were smokers, whereas on an average 14% of all Americans smoke. This study has also listed several limitations making it inconclusive.
+
+Further, a study published by Qeios, an open peer reviewed website, in April 2020, in France suggested nicotine as a therapeutic agent for COVID-19. The study showed that those who smoke are 80% less likely to be affected by COVID-19 than non-smokers of the same age and sex. As with previous studies, this one too comes with a disclaimer. "One should not forget that nicotine is a drug of abuse responsible for smoking addiction. Smoking has severe pathological consequences and remains a serious danger for health. Yet under controlled settings, Nicotinic agents could provide an efficient treatment for an acute infection such as Covid-19." the paper read.
+
+The Union Ministry of Health and Family Welfare (MoHFW) countered this study too. It said that the findings of these studies are inconsistent and inconclusive with the broader existing evidence that tobacco use impacts the lungs and other organs, lowers the immunity and makes people vulnerable to COVID-19.
+
+Reports busting the myth
+
+The studies showing a correlation between smoking and COVID-19, outnumber the ones touting nicotine and smoking as a preventive agent.
+
+A review by the World Health Organization (WHO) found that smoking is associated with more severe illness leading to an increased risk of death in people who need hospital treatment for COVID-19. In a May 2021 release , WHO Director-General Dr Tedros Adhanom Ghebreyesus said, "Smokers face a 40%-50% higher risk of developing severe disease and death from COVID-19."
+
+A UK study , published in Thorax , a respiratory medicine journal, in January 2021, suggested that current smokers who are infected with coronavirus are twice as likely to attend hospital and tend to report more symptoms than non-smokers. This study was conducted by researchers from the Imperial College London and ZOE, an app tracking COVID-19 symptoms. Together, they looked at data for 2.4 million people in the UK who self-reported their symptoms in the app.
+
+India is home to over 28 crore tobacco users and globally it is the second-largest producer and consumer of tobacco products, according to Global Adult Tobacco Survey-India (GATS2) 2016-17. Available estimates show that smoking-attributable annual deaths were about 9.3 lakh in 2014, while the smokeless tobacco (SLT) attributable annual deaths were about 3.5 lakh — accounting for about 12.8 lakh deaths a year or approximately 3,500 deaths every day.
+
+In an article published in Nature , researchers from Netherlands have highlighted that the hypothesis that smokers are protected against COVID-19 is a myth. They pointed out "methodological flaws" such as incompleteness of data, selection bias and misclassification bias. The researchers said that the studies that have caused scientists to conclude that smokers may be protected against SARS-CoV-2 infection did not include important factors such as age, gender, socio-economic status, ethnicity and occupation.
+
+Pulmonologists Speak
+
+Dr Lancelot Pinto , a consultant pulmonologist and epidemiologist at Hinduja Hospital in Mumbai, told FactChecker, "Consistently, it has been found that those who smoke, if infected, have a higher risk of moderate to severe disease. The literature did suggest that those who smoked were less likely to get infected, but one of the most important studies which hypothesized this was retracted because the authors had financial ties to the tobacco industry."
+
+He said that studies that asserted smoking to be a preventive or protective agent majorly lacked enough representation of people who smoke. "The study found that those in the hospital seemed to be underrepresented. Based on that they came up with the conclusion that smoking is protective in some ways." He further explained two types of biases that could have crept in.
+
+"These are data-based studies. Some may not mention their smoking status. Very often it will be smoker versus smoking status unknown or non-smoker. Now the categories of unknown and non-smoker are clubbed together. What we found was that in the unknown pool, a significant proportion of them were those who gave up smoking the day when they were diagnosed with COVID-19. Hence, labelled as ex-smokers and not current smokers."
+
+This, Dr Pinto said, leads to misclassification bias. Secondly, he said that smokers live shorter lives than those who don't smoke and individuals who mostly get hospitalised for COVID-19 are the elderly. "If in the cohort of elderly people a lot of smokers have already died, then we would get an underrepresentation of smokers among the elderly because the ones who smoke are already dead. We call this the survivor bias."
+
+FactChecker also spoke to Dr Vikram Rathi, pulmonologist at Kingsway Hospitals in Nagpur. He echoed Dr Pinto's and said there wasn't enough data to back the unions' claim.
+
+"We do not have enough research evidence on this. There could be possible pathways through which nicotine can impact COVID-19, but clinical significance is totally unclear right now. We do not have reliable data to prove this theory," he said.
+
+"Smoking causes other harms in your body especially in the respiratory system. A chronic smoker is definitely at a higher risk of catching infection because of underlying respiratory problems. This is possible for COVID-19 infection or any other respiratory condition like asthma and chronic obstructive pulmonary disease," Dr Rathi concluded.

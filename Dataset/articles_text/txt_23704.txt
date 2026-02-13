@@ -1,0 +1,41 @@
+Within a month of Yogi Adityanath being sworn in as the chief minister of Uttar Pradesh (UP), the state, which was ‘perennially power starved’, has become a state that is ‘zero shortage’, the Times of India reported in April 2017, in a story titled Zero-shortage: UP sees light as BJP government goes power shopping but FactChecker found that the story underreported several figures and did not use the best metric to consider supply shortages.
+
+The report used data from the National Load Despatch Centre (NLDC), the apex body to ensure integrated operation of the national power grid. The NLDC brings out daily, monthly and annual statistics on state-wise energy requirement and availability as well as variations in peak demand and supply.
+
+The report was published on April 26, 2017, which means that data for the entire month of April were yet to be compiled, and are still not publicly available on the NLDC website, which is updated only until March 2017.
+
+Even if it were true, the daily requirement in UP during the month of March 2017 was 282.7 MU/day (million units/day) and not 265 MU/day as reported, meaning there would have been an increase of about 13.2% (if requirement did rise to 320 MU/day in April, as the Times of India said it did) in UP’s daily energy requirement, and not 20% as the Times of India reported.
+
+The rise in consumption is neither sudden nor unprecedented. According to the seasonal trends, consumption tends to rise as summer sets in.
+
+Demand in Northern Region started increasing due to change in temperature. — POSOCO India (@PosocoIndia) February 22, 2017
+
+“The sharp rise in consumption should have made blackouts longer,” the Times of India reported. “But data suggests (sic) otherwise with no gap between demand and supply position for nearly all of the period under review.”
+
+“This is borne out by the fact that the maximum demand met by the state utility during this period increased from 11,900 megawatt (MW) in early March to nearly 16,000 MW at present, showing no shortage during this period.”
+
+Peak or maximum demand is the maximum amount of power required when the load to the system is largest; for instance, mornings, when commercial operations begin, or evenings when domestic lighting is switched on, cause a surge. Peak demand can also vary seasonally.
+
+Between March 1 and March 5, 2017, peak demand for UP varied from 13,019 MW to 13,854 MW, according to NLDC data and not 11,900 MW as The Times of India reported.
+
+Energy demand is the total electricity consumption by all consumers served by a given utility, which is a far better metric when considering power supply than peak demand.
+
+“Think of it as a running tap filling a bucket: How much water the tap lets out at any given time is based on power demand; during peak demand, the tap would be fully open,” said Neeraj Kuldeep, research analyst with the Council on Energy, Environment and Water (CEEW), a not-for-profit research institution based in New Delhi.
+
+“The amount of water in the bucket would then be the total energy demand. Even if the tap is on at full flow during some parts of the day and provides for peak demand, it might run slowly at other times, not supplying as much as the demand.”
+
+This is also evident from data: Energy shortage persists even though there is no peak shortage. Of the 19 months that FactChecker analysed, peak demand was met for ten months in UP, and the state is yet to completely bridge the gap between overall energy supply and demand though this is reducing.
+
+Source: National Load Despatch Centre; Individual links here
+
+The difference between UP’s energy requirements and supply has been falling: From a gap of nearly 20% in September 2015, it has declined to 0.2% in March 2017.
+
+Source: National Load Despatch Centre; Individual links here
+
+Reasons for the reduction in energy gap could be many including the possibility that the earlier Samajwadi Party government had ramped up supply during election time, as FactChecker reported on February 23, 2017.
+
+UP has also become an active buyer of electricity. The state has been buying more electricity through the short-term market or bilateral exchanges to reduce energy shortage. Such short-term procurement, if not accounted for by distribution companies (discoms) while filing their annual revenue requirement to the regulator, would lead to under-recovery of the discoms’ annual expenses.
+
+The regulator, however, could allow discoms to recover the revenue gap by increasing tariff in the following year. As a long-term practice, this is difficult to sustain.
+
+(Patil is an analyst with IndiaSpend and FactChecker.)

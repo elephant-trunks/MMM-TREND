@@ -1,0 +1,33 @@
+Prime Minister Narendra Modi, while virtually inaugurating Sardardham Bhawan on September 11, 2021, claimed the school dropout rate in Gujarat has decreased to less than 1%.
+
+
+
+The press release of the event read, "He [Modi] added that as a result of continuous efforts of many years that in Gujarat today where on one side school dropout rate has decreased to less than 1%, and at the same time, lakhs of youths have been provided a new future through different schemes."
+
+But, according to three official government agency reports, the dropout rate in the state, be it for primary or upper primary or secondary levels, are not below 1%.
+
+Fact-check
+
+Union Minister of Education Dharmendra Pradhan, in a response given in the Lok Sabha on August 2, 2021, said dropout rates are computed considering both government and private schools to take care of inter school movements of students. In the same response, Pradhan listed state-wise dropout rates as per Unified District Information System for Education Plus (UDISE+) 2019-20 . UDISE+ comes under Union Ministry of Education's Department of School Education & Literacy. When FactChecker asked a UDISE official for the 2020-21 report, he said, "The 2020-21 report is still in the works and is not publicly available yet, so we won't know the dropout rates until the work on this is done."
+
+This means the latest data is from 2019-20, which shows that the dropout rate for primary level (Grades 1 to 5) was 1%, for upper primary (Grades 6 to 8) was 5.2%, and secondary level (Grades 9 and 10) was 23.7%. This means that out of every 100 students in Grades 9 and 10, over 23 students dropped out of school.
+
+The UDISE dashboard shows dropout rate for secondary level has increased by more than 3% in 2019-20 from 20.61% in 2017-18, and in the same period, dropout rate for primary level reduced from 1.67% to 1%.
+
+The next source FactChecker referred to was Gujarat's Directorate of Primary Education , which shows that the dropout rate in primary level was 3.39% in 2019-20, 4.48% in 2018-19 and 5.33% in 2017-18.
+
+Lastly, Gujarat's Commissionerate of Schools (COS) also came up with a report on 'Statistics on Secondary/Higher Secondary Education in Gujarat State 2019-20'. According to this, the dropout rate in Gujarat schools' secondary level was 13.34% in 2019-20, which is over 10% lower than that reported by UDISE+ 2019-20 despite the fact that the COS' report says it sourced data from UDISE+ 2019-20. A COS official, who did not wish to be named, told FactChecker that the data in their report could possibly be a mistake and they will update the numbers.
+
+Data inconsistency
+
+It is evident that there are inconsistencies in data within official sources. The UDISE+, COS, and the Directorate of Primary Education have reported different numbers. Even if the least of all is considered, the dropout rate still is not below 1%.
+
+To understand how this data is collected and which is more reliable, FactChecker spoke to Mridusmita Bordoloi, Associate Fellow at Accountability Initiative, Center for Policy Research, a public policy think tank. "Being a researcher, generally, if we want to compare data of one state with another, UDISE+ is the only source we use because that has data on every state and district in India," Bordoloi said.
+
+She added that states do have more in-depth data than what what's published by the UDISE, as every state has its own method of data collection. "UDISE+ has a dynamic portal, where data can be entered directly by the school itself, or even a cluster or block of schools can go to the respective block office and the block operator can open the UDISE software and submit it. So, data collection methods are slightly different here," she explained.
+
+In the COS' reports of 2017-18 and 2018-19, the dropout rates in Gujarat schools' secondary levels were 9.01% and 11.06%, respectively, which are far less than what UDISE+ reported — 20.61% in 2017-18 and 23.84% in 2018-19.
+
+The researcher said the differences are not because of the source but because of the definitions used. "Sometimes the denominator used by one source can be different from another. How you define dropout rate, what is the denominator used, and at what point in time are you calculating have an impact. Although, it still is difficult to say why there is a drastic difference in some numbers," Bordoloi said.
+
+Since it was unclear if the PM was referring to any particular level (primary, upper primary and secondary) or not, FactChecker tried contacting the PM's office for clarification and was told to email the queries, which we did. If and when we do receive a response, this story will be updated.

@@ -1,0 +1,99 @@
+For the last several days, social media is abuzz with tales of Prathap NM, a young man who has been dubbed as the drone boy, and a drone scientist. Netizens are sharing stories of how Prathap has won numerous gold medals in various drone expos around the world, has been invited to 87 countries, and has been offered work by various govts apart from Indian govt, apart from PM Modi asking DRDP to hire him.
+
+Although the stories of the 22-year old boy from Karnataka are not new, they are floating in the internet for last 2 years, suddenly his stories have started going viral. And while most Indians are sharing and re-sharing the stories of the drone boy, there are some who think that his tales sound suspiciously similar to familiar stories of ‘school boy selected by NASA’ stories, which almost always turn up to be untrue. In that context, here is the analysis of claims made for Prathap NM.
+
+Medals and awards
+
+According to a report by Deccan Herald in December 2018, Prathap has won Albert Einstein Innovation Gold Medal in the International Drone Expo 2018 held at Hanover in Germany, a gold medal in the International Drone expo held in Germany, secured the first place in CeBIT Drone Expo-2018 at Hanover, Germany, and also bagged the gold medal in International Robotic Exhibition held at Tokyo, Japan, in December 2017.
+
+If we see carefully, we see that he won three awards in Hanover in Germany in 2018, two at International Drone Expo and one at CeBIT Drone Expo. A web search for events with exactly these names didn’t return any result. CeBIT is a Computer Expo that takes place in Hanover, Germany, but there is not any separate Drone expo by CeBIT. There is no report of any other International Drone Expo held at Hanover, so it is not clear where he participated and won the awards.
+
+More importantly, there is not any independent report of Prathap winning awards at these expos. While CeBIT Innovation Award is given at the CeBIT event, there is not any report of the event saying that Prathap won the award. All past nominees and winners of the award are companies like Motorola, McAcfee etc, and there is no report any individual winning it.
+
+Similarly, there is no report of any Albert Einstein Innovation Medal in any drone expo in Hanover. All search results for the award with this name only point toward stories of Prathap NM, there is no other source talking about such an award. There is an award named Albert Einstein World Award of Science, the list of winners don’t include the name of our drone boy, and this is not awarded by CeBIT. Although there is a photograph of Prathap with a medal and a certificate saying Albert Einstein Innovation Medal by CeBIT, there is no record of CeBIT giving any such award.
+
+According the reports on Prathap NM, he had participated in a robot competition at the International Robot Exhibition in Japan 2017, for which he was helped by his college teachers to arrange money for the airfare. The International Robot Exhibition held in Tokyo is a trade fair where companies making robots participate. College and university students with their robots also take part in the show, but there is no record of drones being part of this event, and there is no record of Prathap winning the first prize, or any prize, in the event.
+
+Although there are several robot competitions in the world, there is no record of any competition being held at the International Robot Exhibition, which is basically a trade fair for industrial robots. Although students also participate in the event to showcase their creations, they are not included in any competition.
+
+While Prathap has reportedly won a large number of awards and medals for his drone, there is not a single photograph or video showing him receiving such awards. There are few photographs of him with such medals and awards, but they are not from any ceremony where he received them.
+
+He has also claimed to have addressed sessions on drones at IITs and IIMs, but there is no independent report to back that claim.
+
+The Drones
+
+Most of the internet stories on Drone boy are based on a report by Edexlive published in December 2019. Edexlive is an initiative of The New Indian Express. It features a photograph of Prathap ‘with his drone during one of the expo’. The photograph, which is carried by dozens of websites, is reproduced below.
+
+Prathap with ACSL drone at an ACSL stall
+
+Here, we see an impressive looking drone along with Prathap. But after the first glance, one can see that the drone is branded with the name ACSL on several places. This ACSL happens to be a Japanese company, that makes unmanned aerial vehicles, or drones. It can easily be seen that it is actually the logo of ACSL on the drone photographed with Prathap. A little bit of online search shows that it is the PF-1 drone made by ACSL, and it’s not a drone made from recycled parts by the drone boy. The photograph also has a person with an ACSL branded shirt, and the ACSL Logo can also be seen in the wall of the stall, and on the TV mounted on the wall. All these point towards the possibility that Prathap had attended some exhibition where ACSL had showcased its drones, and got himself photographed with one of the drones made by the Japanese company.
+
+Another article on Prathap published by The Better India carries several photographs of him with several different kinds of drones in exhibition stalls, apart from the above photo. In one of the photos it can be determined that it is an exhibition in Japan. Here too, in the following photograph, the brand of ACSL is visible in one of the motors of the quadcopter, implying that it is another drone made by the Japanese company.
+
+Prathap with another ACSL drone
+
+Moreover, sales brochure in Japanese can be seen on the desk, which means that it is a commercial production drone. Other photographs in the same article also shows Prathap getting photographed with commercial production drones exhibited in Japan and Germany. The drones are accompanied by promotional material, and none of them look like made from e-waste, as Prathap is known for making drones by recycling materials.
+
+One redditor had sent a mail ACSL asking to know whether Prathap works for the company or had developed drones for them, in reply, the company categorically stated that he has never been involved in any product development of the company. They said that they were not even aware of his before they received the e-mail. They also confirmed that the PF-1 drone seen in the photo with Prathap was developed in-house in Japan, and they have IP patents and rights for the same. This proves that Prathap had just got photographed with Jagdeepa ACSL drone, and he is not associated with its development.
+
+Mail from ACSL denying any link with Prathap
+
+Despite supposedly making 600 drones using e-waste, it is a big surprise that not a single photo or video of the drones made by the drone boy is available on the Internet. All photos of drones that appear with him on various websites are commercial production drones made by various companies.
+
+The flood relief
+
+According to the Edexlive article, during the floods in Karnataka in 2019, Prathap used his drone to deliver to food and relief material to the effective areas. The article also carries a photograph of Prathap with a drone remote in his hand in a rescue boat, accompanied by two rescue persons. But here are two issues with this claim of using ‘his drones’ to distribute food.
+
+First, the kind of drones that are seen with him in various photographs are not suitable to distribute food during natural disasters like flood. These small rotary wing drones can carry only a small weight, and therefore they can’t be used to distribute food. Generally, boats and helicopters are used to distribute relief materials in flooded areas, drones are not used for the same. But drones play a vital role in relief operations during disasters like flood. They are useful in aerial assessment of extent of the damage done, locating stranded people etc.
+
+Prathap with Yuneec Typhoon H+ remote, the remote for comparison
+
+The second issue is the remote-control unit Prathap is holding in his hands in the photo. Again, this is a commercially produced unit, and not made at home from e-waste. When we looked at various drones and their remotes, we found that the remote Prathap is holding looks surprisingly similar to the ST16S ground station for Yuneec Typhoon H+ drone.
+
+Therefore, it points to the possibility that Prathap was assisting the rescue personal in operating a Typhoon H+ drone in assessing the flood situation, and he was not using a drone made by him.
+
+African encounter that defy mathematics
+
+In the Edexlive report, Prathap narrates a story of using his drone to deliver antivenom to an 8-year-old girl who was bitten by a snake in Sudan. According to him, a person can survive for only 15 minutes after bitten by this snake, a black mamba. He said that he used his Eagle 2.8 drone which can cover 280 km per hour, and the place was 10 hours by road from where he was.
+
+This claim has several things that does not add up. The place was 10 hours by road, which means the place was approximately 400-500 km away. ‘His drone’ can cover 280 km in an hour, which means it will take 1.5-2 hours for the drone to each the remote place to deliver the antivenom. According to his own admission, it will be too late for the girl as needs the antivenom within 15 minutes.
+
+But he also claims that the anti-venom was delivered in eight and a half minutes. Which means, the drone travelled at a speed of more than 3000 km per hour. This is almost three times the speed of sound, or mach 3. Such kind of speeds can be attained only by jet fighters, not rotary-wing drones. None of the fighter jets owned by Indian Air Force can fly at mach 3. Even the military drones made by USA and Israel don’t fly at supersonic speed. Therefore, it is not possible that Prathap’s drone flew at such high speed.
+
+First, he says his drone’s speed is 280 kmph, then he says the drone reached a place that is 10 hours away by road in just 8.5 minutes, certainly this is a mathematics defying claim.
+
+The next problem with the claim is the range of battery-powered drones. Such drones can’t cover the kind of distance that he has claimed to have covered in Sudan. The DJI Mavic 2 Zoom drone, one of the drones in this category with the longest range, can cover a maximum of 8 km, and it has a maximum flight time of 31 minutes. There is no way battery-operated drone that can cover over 400 km, which will be double if we consider the return journey.
+
+Read- ‘Indian Greta’ Licypriya Kangujam who ‘turned down’ PM Modi’s #SheInspiresUs honour may have faked her ‘achievements’ to stardom. Read how
+
+Another important aspect limiting range of drones is the connectivity with the control unit. Drones are operated using a handheld remote control with a wireless connection with the drone. And there is limitation of the range of this connection. Therefore, both battery capacity and radio signal range limit the range of drones.
+
+The large military drones, like the Predator drone of the USA, don’t have this limitation. They fly using engines, not battery power, and they are controlled using satellite connections, which means they can be controlled from anywhere in the world.
+
+Prathap said that 22,000 people died from Black Mamba bites in one year in a particular tribal area in Sudan. This claim is not backed by any news report. Although lots of people die from snakebites in Africa, even the annual fatality from all snakebites in the continent is less than 22,000. Moreover, it is not possible to identify the snake in every such case of snakebite.
+
+None of the claims made regarding the Sudan story is supported by logic and known capabilities of drones, and sounds like a made up story.
+
+The e-waste
+
+Prathap has reportedly built around 600 drones using e-waste. Although it is true that lots of electronic and electrical components from defunct gadgets can be used in DIY projects, the kind of description given by Prathap about his method raises doubt. In the Edexlive story, he says, “for example, if there is a mixer-grinder that is defunct, I can remove the motor and use it in my drone. Similarly, I make use of chips and resistors from broken televisions to build my drones”. Yes, mixer-grinders contain a motor, but it is not suitable to be used in a drone. It is a heavy AC motor with 500-600 watt power consumption, while drones use DC motors, and need to consume less power so that the battery lasts longer. Using an AC motor in a drone will mean it will need an DC to AC inverter, as the drones run batteries that give DC power. This will make the drone very heavy because the inverters tends to be heavy equipment, and it is not a practical solution to add an additional device just to use old mixer grinder motor when actually DC motors are present in several devices which can be salvaged to build drones.
+
+The claim of using ‘chips and resistors from broken televisions’ to make drone is also questionable. While resistors are simple electrical components which can be used in other devices, chips contain software and instructions specific to the product it is built for, and the chips in consumer electronic products can’t be used in other devices. One needs to use programable chips or logic devices where customised programs can be loaded, and chips from TVs can’t be used for the same.
+
+Importantly, it may be reiterated there is no photograph or video or any of the 600 drones made from e-waste by Prathap, as all the photographs of him feature state of the art commercial drones at various exhibitions.
+
+More logic defying tales
+
+A recent story by Organiser on the drone boy has an interesting tale on his participation at this event. It says that as he didn’t have money in his pocket, he didn’t take the famous bullet train to reach the venue after landing Tokyo. But the problem is, the bullet trains or Shinkansen service is an inter-city high-speed train service in Japan, and The International Robot Exhibition is held at the Tokyo Big Sight in Tokyo. Which means, one need not take a bullet train to reach the exhibition venue, which is actually just 15 kms away from the international airport.
+
+It is also interesting that while he claims his Japan trip in December 2017 was made possible by financial help from his professors, he was travelling business class to Europe in just few months later. “When I travelled to France for the first time, people were shocked and judged me for travelling in business class. However, this did not matter to me,” we are not even sure what he wants to mean by this.
+
+Prathap NM has claimed to have 600 drones from e-waste. Apart from the shocking absence of any photographic or videographic evidence of the same, the claim also raises another question. Making a device takes time, even while assembling a drone using ready to use kits which are readily available these days. The drone boy has claimed to have even assembled the logic boards and motors on his own, using resistors and chips from discarded items like televisions. Such a single project will take several weeks to complete. As he is not known to have any assistant, 600 drones mean several years of work when not done in an industrial setup. In between, he has been attending drone competitions and expos and lectures in logic defying 87 countries. In short, the timeline does not support the claim.
+
+The miracle coincidence
+
+Prathap NM says that one of the drones made by him is named Eagle 2.8. Surprisingly, this name is remarkably similar to a drone made by a well-known drone boy, the Eagle A7 made by Harshwardhansinh Zala from Gujarat. 17-year-old Harshwardhansinh is the founder and CEO of Aerobotics7, and he has developed the Eagle A7 drone which can reportedly detect and destroy landmines. Unlike Prathap NM, photographs and videos of Harshwardhansinh’s drone are available online. More importantly, from the photos it is evident that they are home-made drones, and they carry A7 and Eagle A7 branding, and therefore they are not commercially produced drones as in the case of Prathap.
+
+This points towards the possibility that Prathap NM was inspired by Harshwardhansinh Zala so much that he named his unseen drones the same as Zala’s drone.
+
+In conclusion, there is no evidence of drone scientist Prathap NM making any drone, winning any award and medal. The awards and medals he has won do not exist in reality. All stories about him on various websites are based on other websites carrying the same. There are several loopholes in claims in regard to his achievements, and most importantly, his claim is remarkably similar to the story of another drone boy.

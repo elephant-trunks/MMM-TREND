@@ -1,0 +1,29 @@
+Narrative on social media
+
+Archived Link
+
+A post in Malayalam, claiming discrepancies in data of polled votes and votes counted on EVM, has gone viral on Facebook. The post claims that in 373 constituencies, the total number of polled votes is less than the total number of votes counted. The caption of the post, published by Martin Madathiparambil on 1st June 2019, reads as such: “The incapables are ruling the country!” Along with this caption, Martin has shared an image of BJP president and current central home minister Amit Shah along with Chief Election Commissioner Sunil Arora and a text in Malayalam, which translates as follows: “In 373 constituencies, the EVM votes are more than the polled votes. The opposition has sought response from the election commission. Shameful victory.” However, the source of this claim is not mentioned in the post. How true are the allegations leveled in this post? What is the source of this claim? To find answers to these questions, let’s check out the facts.
+
+Our Fact Check
+
+We started our investigation by searching online for similar news. We found out several other Malayalam media websites have published a story related to the claim made in the post. The links of these reports is given below:
+
+These websites have attributed their articles to be based on a report published by The Quint. The screenshot and the link of the article is given below:
+
+As per the report published by the Quint, Election Commission has uploaded the final list of total voter turnout in the first four phases of the election. When the Quint compared this data with the polling percentage released by EC on the day of polling, Quint found that there is mismatch in the numbers of votes polled and the votes counted. The Quint reports that when they brought this issue to the notice of EC, the list was removed from the website. As per the Quint’s report, there is surplus of votes in 220 constituencies out of 373 constituencies that underwent polling in the first 4 phases of the election and there is a vote deficit in the remaining seats. The highest surplus of votes was found in Kancheepuram constituency of Tamil Nadu where a difference of 18331 votes has been found. The highest deficit was found in Tripura West constituency where the difference between polled votes and counted votes is 19776.
+
+The Quint further adds that it had sought an explanation from election commission via email but they got clarification on only one constituency. The details of the constituency or explanation given by EC has not been mentioned in the article. Quint has also collated responses from former CECs who have opined that the election commission must clarify on this issue.
+
+In order to find out whether Election Commission has issued any clarification on this issue, we visited the official website of the Election Commission. We found a press release on EC’s official website where they have given a clarification on voter turnout data. The clarification given by EC on their website is as follows:
+
+In the above press release, the EC clarifies that the data, which is displayed as percentage on the website is provisional data. It is updated on the poll day by Returning Officer/Assistant Returning Officer based on the data he/she receives from state magistrates who collate the data from presiding officers. This data is an approximate percentage and is not final data. EC has also put a disclaimer on their website saying that this is estimated data and is subjected to change. The clarification further reads that, Index cards prepared by the Returning officers contain the authenticated figure of postal and EVM votes and only after these Index cards are furnished, the final data on polled and counted votes can be published. EC adds, this data becomes the final authenticated data for all-purpose.
+
+The Quint had raised a question before EC that why it is taking so long to publish the data even after the conclusion of elections? To which the EC has responded as follows:
+
+“In earlier elections, it used to take months to collect such authenticated election data from all the ROs. Even in 2014, it took between 2 to 3 months after the declaration of results to collect and collate such data in authenticated form. Due to the innovative IT initiatives taken by the Commission this time, the final data on votes counted has been made available within a few days of declaration of results. The reconciliation of voters’ data for all PCs have been completed in all states and the Index Forms of all 542 PCs are expected to reach ECI from Returning Officers shortly, which after compilation, shall be immediately be made Public by the Election Commission.”
+
+However, EC has not answered why was the provisional data uploaded on the official website as final data.
+
+Conclusion
+
+The claim made in the post is mostly false as it is inferred from provisional data. As per EC’s clarification, the final data has not been updated yet. Until the final figures are available, nothing can be concluded.

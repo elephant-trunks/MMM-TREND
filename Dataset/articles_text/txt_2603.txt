@@ -1,0 +1,7 @@
+एक फ्रेंच रिसर्चर इलियट एल्डरसन, जिसने आधार डेटा की सिक्योरिटी का खुलासा करके UIDAI पर सवालिया निशान लगा दिया था, उसने एक के बाद एक किए गए ट्वीट में दावा किया कि प्रधानमंत्री नरेंद्र मोदी मोबाइल एप्लिकेशन इस्तेमाल करने वाले यूजर्स का पर्सनल डेटा उनकी बिना जानकारी के थर्ड पार्टी वेबसाइट in.wzrkt.com के साथ शेयर किया जा रहा है।
+
+When you create a profile in the official @narendramodi #Android app, all your device info (OS, network type, Carrier …) and personal data (email, photo, gender, name, …) are send without your consent to a third-party domain called https://t.co/N3zA3QeNZO . pic.twitter.com/Vey3OP6hcf
+
+After a quick search, this domain belongs to an American company called @CleverTap. According to their description, “#CleverTap is the next generation app engagement platform. It enables marketers to identify, engage and retain users and provides developers" pic.twitter.com/Ikqp9GbCDm
+
+— Elliot Alderson (@fs0c131y) March 23, 2018

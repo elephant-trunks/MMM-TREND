@@ -1,0 +1,13 @@
+Coinciding with this, a picture is going viral on social media asking people to boycott Chinese products after reading the barcodes printed on goods and packages. The picture claims that “Barcode starting with number 690 to 699 meant the country code of China” and “Barcode starting with number 890 is country code of India”.
+
+FACT CHECK
+
+DigitEye India received similar messages on WhatsApp for fact check and upon verification, it was found this image has been making rounds since 2017 on social media.
+
+Barcodes are used to facilitate faster checkouts, keep a track of items and reduce the chances of shoplifting. It is usually an eight to 14 digit random number which is read by laser scanners. GS1 is a global non-profit organization which assigns barcodes. The numbers come directly from this organization when member countries join GS1, pay the joining fee, and the annual fee.
+
+GS1 states that each country has its own code to use. It is denoted as a prefix in the barcodes. It is true that the prefix 690 to 699 denote the country code of China and the prefix 890 denotes the country code of India. However the organization clearly states that “GS1 Prefix does not indicate that the product was manufactured in a specific country or by a specific manufacturer; it may have been produced anywhere in the world.”
+
+The prefix code only denotes the location of the company where it has been received. It states that GS1 member companies can manufacture anywhere in the world. The GS1 India’s website says that any product with the prefix 890 denotes ownership by an Indian organization. So if country A imports from country B and then exports the same to a third country C, the barcode prefix will have the code of country A. The only way to ascertain if the product is from a specific country is to check the labels for explicit mention of it, say “Made in China”.
+
+Conclusion: Since many Chinese companies have manufacturing process inside India, these products will have the country origin code of India and not China. The claim is, therefore, misrepresentation of facts. Our rating Misrepresentation .

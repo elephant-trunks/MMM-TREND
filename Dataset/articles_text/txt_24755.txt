@@ -1,0 +1,51 @@
+New Delhi: On June 11, 2018, to mark four years of India’s Bharatiya Janata Party-led government, union health minister J P Nadda said: “India has met the MDG [Millenium Development Goal] target for MMR [Maternal Mortality Ratio] of 139/lakh live births by achieving 130 by 2015. At this rate, we shall achieve SDG [Sustainable Development Goal] target of 70 by 2022, ahead of target timeline of 2030.”
+
+The World Health Organization (WHO) commended India’s MMR decline, calling its performance, “groundbreaking”.
+
+But has India achieved its MMR goal?
+
+Not according to the MDG target listed by the United Nations Development Programme (UNDP). This appears to be because the baselines--starting figures--used by the UNDP and the government/WHO to calculate MDGs differ.
+
+(UNDP reacted to our story three days after it was published and said the differing figures were due to an "inadvertent oversight", which has been corrected.
+
+"The Trends in Maternal Mortality 1990 to 2015 report released by the UN Maternal Mortality Estimation Inter-agency Group (UNMMEIG) estimates India’s MMR in 1990 to be 556. The UNMMEIG was formed to share data on maternal mortality, harmonise estimates within the UN system, improve methods for maternal mortality estimation and generate internationally comparable MMR estimates. UNMMEIG, which is led by the WHO, comprises the United Nations Children’s Fund (UNICEF), the United Nations Population Fund (UNFPA), the World Bank Group and the United Nations Population Division (UNPD)," UNDP said in an email to Factchecker.in.
+
+"This information was not updated on the UNDP India website, which continued to cite the NFHS-1 MMR estimate," said the email. "The error is regretted and has been fixed. UNDP India congratulates the Government of India for its sustained and successful efforts to reduce maternal mortality, and continues to support its interventions to ensure better ante-natal care for women.")
+
+On June 6, 2018, the government released the latest MMR data, as calculated by the Sample Registration Survey (SRS), the most regular source for demographic statistics in India. The new data showed that maternal mortality had declined 22% over three years, from 167 maternal deaths per 100,000 live births in 2011-13 to 130 deaths per 100,000 live births in 2012-16.
+
+The millenium development goal for India was to “reduce maternal mortality ratio by three quarters, between 1990 and 2015”.
+
+The MMR in 1990 was 437 deaths per 100,000 live births according to the first ever national maternal mortality estimate by National Family Health Survey-1 (1992-93). This is cited by ministry of statistics and programme implementation (MOSPI) and the UNDP. So a 75% reduction makes the 2015 MDG target 109.
+
+But the MMR in 1990 was 560, according to the WHO and the ministry of health and family welfare (MOHFW). So a 75% reduction leaves the 2015 MDG target at 140.
+
+That means India has exceeded the WHO and health ministry target for the MDG but is 21 points behind the UNDP and ministry of statistics MDG target.
+
+“Maternal mortality ratio estimates require a very large sample size because of the rarity of the incidence,” Vishnu Kant Srivastava, chief director, ministry of health and family welfare, told FactChecker over email.
+
+The health ministry chose the bulletin on maternal mortality issued by the UN Inter-Agency Expert Group, comprising the WHO, UNICEF, UNFPA, World Bank Group and UNDP, for the year 1990-2008 and 1990-2013 with a baseline MMR of 556 for 1990 instead of the 437 used in National Family Health Survey-1, since “these estimates used large data sets and robust methodology to come up with internationally comparable MMR”, he wrote.
+
+We also sent emails seeking comments to WHO on June 12, 2018, and UNDP and MOSPI on June 13, 2018. We will update the story if and when they respond.
+
+“Post MDG, Sri Lanka, Brazil and China made significant progress in life expectancy, IMR [Infant Mortality Rate], MMR and adult mortality rate whereas Pakistan and India are lagging behind,” said this 2016 NITI Ayog report on Sustainable Development Goals.
+
+Should India be happy with its progress on MMR?
+
+While India’s MMR is better than some of its neighbours--Pakistan (178), Bangladesh (176) and Nepal (258)--and the global (216) and South Asian average (182), it is much behind Sri Lanka (30) according to World Bank figures for 2015. That’s less than a quarter of India’s MMR.
+
+India accounts for 17% of global burden of maternal deaths. The leading causes of death in India are haemorrhage (38%), sepsis (11%) and abortion (8%).
+
+“An improvement just in MMR figures isn’t enough,” Nitin Bajpai, independent health researcher, told FactChecker. “We need to see the cause of maternal death data collected by SRS. We need to see whether there is a reduction in haemorrhage cases, which would mean that the quality of care at health facilities has improved.”
+
+While institutional deliveries have increased from 38.7% in 2005-06 to 78.9% in 2015-16, the number of women receiving at least four antenatal-care visits--as the WHO recommends--has not risen substantially. Up to 37% of women in 2005-06 received four antenatal-care visits, compared to 51.2% in 2015-16, according to the National Family Health Survey-4, leaving nearly half of India’s pregnant women with inadequate care, IndiaSpend reported in June 2018.
+
+Update: The story has been modified to incorporate the reaction of the health ministry and UNDP. An earlier version of the story identified Nitin Bajpai as a technical expert at the Population Foundation of India. Bajpai has since told us that he is now an independent researcher.
+
+(Yadavar is a principal correspondent with IndiaSpend and FactChecker.)
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.
+
+__________________________________________________________________
+
+“Liked this story? Indiaspend.org is a non-profit, and we depend on readers like you to drive our public-interest journalism efforts. Donate Rs 500; Rs 1,000, Rs 2,000.”

@@ -1,0 +1,15 @@
+A post is being shared widely on social media claiming that Google becomes the owner of the data, once the user saves it on Google. The post also claims that Google continues to store the data, even after the user deletes it. Let’s find the truth behind these claims.
+
+Claim: Google owns the user data and retains it even when the user deleted the data permanently. Facts: It is clearly mentioned in Google’s terms of service that an individual retains the ownership of data & content, “You retain ownership of any intellectual property rights that you hold in that content. In short, what belongs to you stays yours”. Google’s privacy policy also explains that, “Our services also use encrypted backup storage as another layer of protection to help recover from potential disasters. Data can remain on these systems for upto 6 months”. Hence, this claim is FALSE.
+
+We read the “Terms of service” and “Privacy Policy” documents of Google products to verify the claims made. Google explains the ownership of the data in its “Terms of Service” document.
+
+One can read it in the highlighted text below. It clearly states that “You retain ownership of any intellectual property rights that you hold in that content. In short, what belongs to you stays yours”
+
+Google uses redundant systems for effective and smooth user experience. As a result, data is stored both in active and backup systems. So, when the user deletes a file from Google drive or any other Google product, it will not be deleted immediately from Google’s servers. The following text from Google’s “Privacy Policy” explains the process and the time required to permanently delete the file.
+
+Below text explains the retention time period of the various meta-data:
+
+If the user wants to delete his/her Google account, Google explains, “We then begin a process designed to safely and completely delete the data from our storage systems. Safe deletion is important to protect our users and customers from accidental data loss. Complete deletion of data from our servers is equally important for users’ peace of mind. This process generally takes around 2 months from the time of deletion. This often includes up to a month-long recovery period in case the data was removed unintentionally.” A video explaining the same process, can be found here.
+
+To sum it up, Google neither owns the user data nor retains it permanently. It is evident that Google saves the user data for a short period of time, after the user deletes it.

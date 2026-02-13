@@ -1,0 +1,73 @@
+The Google and Alphabet Vulnerabilities Rewards Program (VRP) is a rewards program by the company, which honours the contributions by the research community, made to report vulnerabilities in the Google and Alphabet subsidiary web properties. As per the website of the program it has been running continuously since November 2010.
+
+Recently, the company released a blog with the details of the bugs reported by the researchers who work on identifying bugs in 2021 for the company’s products.
+
+The blog written by Sarah Jacobus from the Vulnerability Rewards Team reported that in 2021 the company awarded a record breaking $8,700,000 in rewards.
+
+Numerous news websites reported about the VRP program due to the special mention of one Indian researcher named Aman Pandey.
+
+Aman Pandey has been given a special shoutout by the company for his role as their top researcher last year. He reported 232 vulnerabilities in 2021 and has been credited to have made the vulnerabilities program so successful.
+
+Screenshot Google VRP Blog
+
+Who is Aman Pandey?
+
+Aman Pandey is the CEO of an Indore based company Bugs Mirror.
+
+Bugs Mirror, as per its website, works “… to secure and buttress everyone against cyber security threats and ensure that your smartphones, PDA’s or any IoT devices are free from malwares and viruses.”
+
+News Reports
+
+The news was reported by many including DNA India, Mint and Hindustan Times to name a few.
+
+Screenshot news reports on Aman Pandey
+
+Amidst these news reports, the ones published by the India Times, Asianet Newsable, MENSXP and TIMESNOWNEWS.COM all reported an Indian techie to have received a reward of ₹65 Crore for ‘keeping Android safe’. The techie mentioned in the article is Aman Pandey.
+
+Screenshot India Times article Screenshot articles by India Times, MENSXP, Asianet Newsable and Timesnownews.com respectively
+
+However, this claim made by these media organisations holds to be factually incorrect when cross checked with the numbers released by the company for their Vulnerabilities Rewards Program.
+
+Factcheck/Verification
+
+“Well, Indian techie Aman Pandey did and has bagged a reward worth Rs 65 crore from Google for reporting flaws.” reads the article by TIMESNOWNEWS.COM. The headlines of the other articles by India Times, Asianet Newsable and MENSXP mention the reward received by Aman Pandey as ₹65 Crore.
+
+
+
+The same amount of ₹65 Crore converted to dollars is approximately $8.6 million.
+
+On tallying this amount with the blog by the google security team we see that the total amount of rewards given in 2021 is $8.7 million.
+
+Figures by Google Security Blog
+
+The program under which Aman Pandey was rewarded is the Google Android Rewards Program. As per the blog by the Google Securities team the total amount re-awarded under this program is $2,935,244 (approximately ₹22 crores)
+
+Figures by Google Security Blog
+
+Keeping in mind the total reward for the category that Aman Pandey was rewarded under, it can be seen that the figure of ₹65 Crore quoted by the above mentioned articles cannot hold true.
+
+Also Read: As Goa Heads To Polls, What Does The Data Tell Us About Progress Of The State?
+
+These figures thus point to the discrepancy between the actual reward that the researcher must have received and the number reported by these organisations.
+
+Aman confirmed to Newschecker that the amount quoted in these articles was indeed for the whole 2021 rewards. Bugs Mirror has not received ₹65 Crore for the program.
+
+Conclusion
+
+The figure quoted in the article by India Times for the reward received by Aman Pandey for his contributions to the Google Vulnerabilities Program does not match the data mentioned in the blog by the company.
+
+The figure of $8.6 million (approx) quoted by India Times is instead close to the figure of $8.7 million rewarded as a total by under the VRP in 2021.
+
+Rating– False Connection
+
+Our sources
+
+
+
+Google Securities Blog- https://security.googleblog.com/2022/02/vulnerability-reward-program-2021-year.html
+
+Aman Pandey
+
+
+
+​If you would like us to fact check a claim, give feedback or lodge a complaint, WhatsApp us at 9999499044 ​or email us at ​checkthis@newschecker.in​. You can also visit the Contact Us​ page and fill out the form.

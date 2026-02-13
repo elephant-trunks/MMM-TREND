@@ -1,0 +1,43 @@
+Anyone who has been following the latest developments in managing Covid-19, has surely come across the term self-testing kits or Rapid at-home Antigen testing kits recently. If someone has been experiencing symptoms or has just been to a Covid-19 hotspot, rapid at-home antigen testing kits are very good way to check if they should be worried. These tests are different from the RT-PCR tests and there are some posts on social media that claim the self-testing kits aren’t reliable enough and are likely to give mostly False results.
+
+Let’s see what the difference between the two tests are and if home tests are likely to give false results as claimed by a certain section of users of social media.
+
+What is an RT-PCR test?
+
+The official website for Apollo Hospitals states that the COVID-19 real-time reverse transcription-polymerase chain reaction (RT-PCR) tests the upper and lower respiratory specimens such as swabs, sputum, nasopharyngeal, and others of the patients suspected with COVID-19. Nasal or throat swabs of an individual are collected under the observation of a healthcare practitioner or a self-collection kit can also be used that is commercially approved for use of this test.
+
+This test includes the extraction of ribonucleic acid (RNA) a genetic material of the COVID-19 virus. The test analyzes the genetic sequences such as the SARS-COV-2 virus and then the results are positive. The test results are negative when the sample analyzed does not contain the virus or the sample is not administered properly. RT-PCR test is expensive, as it requires trained professionals, RNA extraction machines, and a laboratory. A minimum of four hours is required to get the RT-PCR test results and gauge the extent of infection in an individual.
+
+What are Self-testing kits or Home testing kits?
+
+CDC’s official website states that COVID-19 self-tests (also referred to as home tests or over-the-counter (OTC) tests) are one of many risk-reduction measures, along with vaccination, masking, and physical distancing, that protect you and others by reducing the chances of spreading SARS-CoV-2, the virus that causes COVID-19. Self-tests can be taken at home or anywhere, are easy to use, and produce rapid results.
+
+A study on Self-testing kits published on Sage Journals on September 29, 2021, states that self-testing kits or Rapid antigen detection tests (RADTs), in the form of lateral flow assays, have been recognized as having great potential to address the limitations of PCR, particularly for low and middle income countries. The findings show that 52% of participants prefer to be tested at home compared to other alternative settings and 31% are reluctant to get tested because of the financial cost. So that means self-testing kits are be a good way to ensure such individuals too have ease of access to Covid tests.
+
+How accurate are Self-testing kits?
+
+Researchers compared the validity of home antigen tests compared to PCR lab tests for detecting COVID-19 infection in an August 2021 study. The home tests correctly identified 78.9 percent of people were infected and also 97.1 percent of people who didn’t have the virus within days 0 to 12 of onset of symptoms.
+
+The ICMR guidelines clearly state that symptomatic individuals who test negative must get tested by RT-PCR, as Self-testing kits are likely to miss some positive cases. But those who test positive using the Self-testing kit do not need repeat testing and may be considered as true positives.
+
+Polymerase chain reaction or RT-PCR tests, are performed in a laboratory and involve making many copies of the virus’s genetic material- a process that enables these tests to detect even minute traces of the virus.
+
+On the other hand, Rapid antigen tests, or self-tests which do not make copies of the the virus, are less sensitive than RT-PCR tests. It is likely that the test could show a false negative if taken during the earliest phase of an infection, before the virus has had time to replicate widely. Such tests are more sensitive in individuals with symptoms than without and are most sensitive during the first week of appearance of symptoms. Antigen tests are, however, good for identifying those who have high viral loads and are likely to be transmit the virus to others.
+
+Fact Crescendo reached out to Dr Balanuj Mazumdar, actively treating Covid-19 patients since the pandemic broke out, who explained that there will always be a possibility of False results in any kind of home or self-test since it isn’t done under professional supervision or in a controlled environment. He said that external factors like improper storage or handling, may lead to False negatives or positives in a self-test, unlike the RT-PCR.
+
+But he also stressed that from a public health perspective, self-tests are hassle free, quick and therefore are extremely useful in identifying active infections, further controlling the transmission of the virus. Dr Mazumdar also said that availability of these kits has not just improved convenience for many people who would have had difficulties getting to a testing set-up, it has also made testing more accessible for those who are vulnerable, self-isolating, or awaiting or have undergone surgery or other such procedures.
+
+Self-testing Kits in India
+
+The Indian Council of Medical Research (ICMR) has approved seven at-home COVID test kits till date. They cost around Rs 300. The names are:
+
+Panbio COVID-19 Antigen rapid test device (Abbott Rapid) CliniTest COVID-19 Antigen self-test (Healgen Scientific Limited) Coviself (Pathocatch) COVID-19 OTC Antigen LF device (Mylab Discovery) CoviFind COVID-19 Rapid Antigen self-test (Meril Diagnostics) Angtech COVID-19 home test kit (Angstrom Biotech) AbCheck Rapid Antigen self-test (Nulife Care) and ULTRA Covi-Catch SARS-CoV-2 home test (SD Biosensor Healthcare)
+
+Except Angtech COVID-19 home test kit (Angstrom Biotech) which is saliva based, all the names in the list are of nasal swab-based tests.
+
+Conclusion
+
+Our research shows that that the probability of occurrence of false negatives are more than false positives in case of self-testing kits.
+
+Self-testing kits are good at detecting individuals carrying high levels of the virus. Therefore, though vaccine-induced immunity is the best way to control and end the pandemic and COVID-19 self-testing , if actively undertaken, also has the potential to curb the spread of the virus to a considerable extent especially in cases of young, vulnerable, and hard to reach individuals.

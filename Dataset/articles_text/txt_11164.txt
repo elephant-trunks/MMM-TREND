@@ -1,0 +1,37 @@
+During the ongoing pandemic, RTPCR tests and Rapid Antigen tests have become a common term in our daily conversation. Recently we found a claim going viral which was no more than a anti testing conspiracy theory regarding the Covid-19 rapid antigen test kits which claims that the results are declared in a cherry-picking process.
+
+A video going viral on social media shows a person trying to demonstrate how the Covid testing kits are a scam.
+
+What is in the video?
+
+In the video, we can see a person take out a rapid antigen test kit and pulls out two different packets. On one packet shows “positive control” in red, while the other says “negative control” in green.
+
+He then starts humming a rhyme as his fingers move from one packet to another. He then picks up a packet that shows positive in the end. Through this process the man tries to explain that the antigen test kit provided both the results and we just need to cherry pick our desired result. The caption along with this video claims that every individual is given the option to choose the result in order for “controlled studies”.
+
+The viral video on social media says, “PCR tests come with one positive and one negative result. So they can tell you whatever they want it to be. These are created for “controlled studies”. To cheat in studies and get the results they want basically. That’s what a controlled study means. Still trust science?”
+
+Facebook Post | Archive Link
+
+Fact Check-
+
+We started our investigation by carefully observing the video and found that the antigen test kit is named as “Panbio COVID-19 Ag Rapid Test Device (nasopharyngeal)”,which is manufactured by Abbott.
+
+Taking a cue from this we visited the official website of Abbott which had the list of all items included in the kit. We found that the product literature mentions positive and negative control swabs. Reading the literature further we ascertained that these swabs are included not for testing but for a different purpose.
+
+It mentions that both the swabs are given for better interpretation once the test has been done.
+
+We also found a detailed procedure of testing through this kit which can be seen on the World Health Organization (WHO) document. The procedure does not mention anything about choosing the results as per our preference for controlled studies.
+
+Next, Fact Crescendo contacted the head of Public Affairs from Abbott Healthcare Pvt Ltd, Krishna Vilasini Bhardwaj who confirmed to us that the claim made along with the viral video is false and misleading. She said “The testing kit is not sold in retail for home testing purpose. It is only sold to laboratories and health care centres and the swabs are present for reference for the person who is conducting the test. It helps to ensure that the testing is being done accurately.”
+
+What is the use of control swabs?
+
+The product literature clearly mentions that the purpose of positive and negative control swabs is to ensure the reagents are working properly so that the test results are reliable.
+
+When an actual sample of a patient is tested through the kit, two lines appear at different places, depending upon whether the sample is Covid positive or negative. These lines appear only when the testing is done. Thus, the positive and negative control swabs are also meant for training a new person to demonstrate where and what kind of lines to look for when they are doing the actual testing. The swabs are not the original result that is submitted but needs to be used as a reference swab after testing to understand the results.
+
+The testing kits work on the basis of chemical reactions and there’s a chance that if the kit is not stored properly during transportation, the reagents in it may undergo chemical changes.
+
+We found that many Covid-19 rapid antigen test kits do contain positive and negative control swabs. The United States Food & Drug Administration recommends that patient tests should not be performed if the test fails to detect positive and/or negative control swabs accurately. The control tests should instead be repeated in such cases.
+
+Conclusion- Fact Crescendo has found the above-mentioned claim along with the video to be False. The positive and negative control swabs have NO role in actual patient testing. They are present to help the person ensure that the test has been done accurately without any errors.

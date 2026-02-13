@@ -1,0 +1,51 @@
+The Narendra Modi-led National Democratic Alliance (NDA) government completed eight years in power in May 2022. Using the hashtag #8YearsOfInfraGati, the incumbent government, BJP leaders and several ministers, including Prime Minister Modi , made a series of claims on social media and in newspaper advertisements related to growth of urban transport.
+
+
+
+
+
+In one such newspaper advertisement titled 'Nation Resolves to Ensure Benefits of Strong Infrastructure Reach 100% People', the central government made certain claims about growth of Metro rail network, airports and national highways. Although many claims were not made with tangible data or official records for them were unavailable, FactChecker short-listed four claims that could be checked. On verifying the four claims against official data, just one of them was found to be entirely true.
+
+
+
+Claim #1: Number of airports in the country increased from 74 to 140
+
+
+
+
+
+Fact: Since the comparison is for the last eight years, FactChecker looked at the number of airports in India in 2014 and we found that India had 20 more operational airports than what the Modi government has claimed. So, this claim is false.
+
+
+
+According to the Ministry of Civil Aviation's (MoCA) Annual Reports , there were already 94 operational and 31 non-operational airports in the country under the Airports Authority of India (AAI) in 2014. Of the operational 94, 68 were commercial airports and 26 were civil air terminals at defence-controlled airports. The increase in the total number of airports from 2014 till date, has been 46 and not 66 as claimed in the advertisement. Airports have been operationalised under the Ude Desh ka Aam Nagrik (UDAN) scheme, and the increase is a 49% increase, contrary to the nearly 90% increase claimed by the central government. Claim #2: 415 new air routes operationalised under the UDAN scheme
+
+
+
+
+
+Fact: In 2015, the NDA government had put on hold the UPA government's project to build low-cost airports in non-metro cities, reported Business Standard . The reason cited was "a lack of commercial viability". A year later, the ministry of aviation launched its own UDAN scheme aimed to stimulate regional air connectivity, operationalise unserved airports, and make air transport more affordable.
+
+
+
+The Centre then, to encourage development of UDAN routes by various airlines, granted subsidies and exclusivity for operating flights on specific routes for three years through a bidding process among airline operators. According to a Lok Sabha response provided by the Minister of State for MoCA Gen VK Singh in March 2022, 409 (updated number: 419) of the total 948 routes awarded over a period of seven phases of bidding had become operational. Singh specified that 126 out of 419 operational routes (30%) were able to sustain the 3-year exclusive time period. In fact, when the number of operational airports was 403 in December 2021, the Ministry of Civil Aviation told a Standing Committee that "the total UDAN routes in actual operation has reached up-to 294 as on 14.12.2021". This means that there existed a gap of 27%, or 109 routes, between operationalised and actual operational routes in December 2021. The Ministry also told the panel that "among the 403 routes that have commenced operations so far, nearly 300 routes have been affected due to poor demand on account of COVID-19 pandemic situation". According to a report by ICRA Limited, only 39% of airports had been operationalised under UDAN by May 2021. "The slow progress of UDAN implementation is attributable to delayed upgradation of infrastructure and readiness of airports, due to lack of adequate right of way (including insufficient runway lengths) at some of the RCS airports and delays in securing necessary regulatory approvals," said Shubham Jain, SVP & Group Head, Corporate Ratings, ICRA. The number of routes commenced under different phases of UDAN had seen a dip, according to AAI data. The scheme has been trying to operationalise sea-plane routes too. Out of the two sea-plane routes awarded , one was operational briefly between the Sabarmati Riverfront to Statue of Unity. However, the Selected Airline Operator (SAO) stopped the operations due to unavailability of maintenance support for seaplanes in India, according to another Standing Committee Report .
+
+These facts prove that the claim is misleading. Claim #3: The speed of building national highways increased by 200% — 12 kms per day in 2013 to 37 km per day now in 2021
+
+
+
+Taking monumental efforts towards boosting last mile connectivity, the pace of building highways has tripled from 12 Km per day in 2013 to 37 km per day in 2021.#8YearsOfInfraGati pic.twitter.com/SdV2k6SlkY — Nitin Gadkari (@nitin_gadkari) June 6, 2022
+
+
+
+Fact: Here, the BJP leaders have cherry picked data and the claim is misleading. Although the pace of expansion of national highways has undoubtedly increased under the current regime, the growth is not as much as claimed here as the data used is not recent.
+
+The claim cherry-picks data from the financial year 2020-21 when the highway expansion was at its highest — 13,327 km, which is a speed of 37 kms/day. Since the claim is to illustrate the length of national highways built by the NDA regime across 8 years, the latest year 2021-22 should be taken into account. The NH expansion dropped in 2021-22 to 10,457 kms , which is almost 29 kms per day. This shows that there has been a 141% increase in pace of expansion and not 200% as Union Minister of Road Transport and Highways Nitin Gadkari claimed. The comparative figure is correct but the year mentioned in the claim is incorrect. In Gadkari's claim the year mentioned is 2013, when the pace of NH construction was 16 kms/day and in 2014, it was 12 kms/day.
+
+Even the average pace of expansion during the NDA's eight years to the UPA's 10 years shows a difference of 143%. In March 2022, the total length of National Highways in the country was 1.41 lakh kms according to a Lok Sabha response provided by Gadkari. According to the same response, by the end of March 2014, the length of National Highways was 91,287 km. This was two months before the NDA government came to power. Going by these numbers, the NDA government has facilitated the expansion of the NH network by 49,903 km across their 8 years. This comes down to national highways being built at a rate of 17.1 km per day during the tenure of the incumbent Modi-led government. FactChecker looked at the highway length figures for the 10 years of UPA I and II regime as well. According to data from the Basic Road Statistics published by MoRTH, in 2004, the total NH length was 65,569 km. It increased to 91,287 by the end of FY 2013-14. The speed of NH construction over this period was 7 km/day. Claim #4: 20 cities have Metro rail now as compared to 5 in 2014
+
+
+
+
+
+Fact: While the number is true, several Metro routes that became operational during the current regime were approved under the UPA regime. The Ministry of Housing and Urban Affairs (MoHUA) in its 2021-22 Annual Report specified that 19 cities had operational metro lines and the 20th addition was the opening of Pune Metro in March 2022.

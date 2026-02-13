@@ -1,0 +1,101 @@
+A viral video has brought the FASTag system under the scanner. On social media, the video has led to people questioning the safety of the system and wondering if it is susceptible to hacking.
+
+The video shows a child sneakily scanning FASTag on a car using his smartwatch under the pretext of cleaning the windshield. Later, when a man inside the car questions him about the gadget on his wrist, the child runs away. Subsequently, one of the occupants of the car informs the other that this is a scam to hack into FASTag and steal money from its linked account.
+
+advertisement
+
+Several people have shared this video claiming this to be a real incident. Similar claims have been archived here and here.
+
+FASTag is a Radio Frequency Identification passive tag used for making toll payments directly from the customer-linked prepaid or saving/current account. It is affixed to the windshield.
+
+The India Today Anti Fake News War Room (AFWA) found that this video doesn't show a real incident. Its creators confirmed that it was a staged video meant for public awareness.
+
+The origins of the video
+
+Several Facebook accounts that had uploaded the video had credited a Facebook page called “BakLol Video”. While the verified page has now taken the video down, it was originally published on June 24. Given below is a screenshot of the video before it was deleted. The caption of the video carried a disclaimer message that read, "This is a scripted video for social awareness."
+
+“BakLol Video” has over 4.7 million followers and often uploads similar staged videos. The actors in the video were part of other scripted content on YouTube as well, we found.
+
+When we reached out to Anubhav Goli, one of the actors in the video, he said that his team just worked on this idea because this concern had already been discussed by many online. He said they shot the video in Meerut and took it down after coming across official explanations by Paytm and FASTag on the matter.
+
+Goli also cited a Hindi news report when asked about how the story thread was conceived. On June 23, Dainik Jagran Inext reported on a gang using children with hidden gadgets to hack FASTags and steal money from their linked accounts. The report cited three instances of money getting deducted from people's accounts.
+
+While there was another 2020 report that said a man's money got deducted at Manesar toll plaza, we weren't able to independently verify these claims.
+
+Official clarifications
+
+We contacted senior UP police officials to know more. “We've come across such videos on how money was deducted from the FASTag accounts fraudulently. However, all these are fake,” Additional SP of UP cybercrime Sachchidanand said.
+
+advertisement
+
+Cybercrime SP Triveni Singh seconded his colleague and said it was technically impossible to hack FASTags. "This is baseless and no FIR has yet been registered regarding this. We are trying to reach out to the origin from where this hoax was spread,” he said.
+
+The National Payments Corporation of India (NPCI) in a statement on Twitter said that there are several layers of security protocols to safeguard transactions and no FASTag payment can be executed through open internet connectivity. The statement mentioned six prerequisites that are mandatory for the transaction to happen.
+
+Please note that there are baseless and false videos circulating on Social media. Do understand the below points:
+
+
+
+1. No transactions can be executed through open internet connectivity. pic.twitter.com/AKqvcpVE1z — FASTag NETC (@FASTag_NETC) June 25, 2022
+
+The PIB Fact Check also said the video was baseless, citing that every toll plaza has a unique code that is mapped with a particular geocode and bank.
+
+A #viral Video claims that devices like watches are being used to swipe the #Fastag on vehicles, leading to fraudulent deduction of money from prepaid wallets.#PIBFactCheck:
+
+
+
+This Video is #FAKE
+
+
+
+Such transactions are not possible
+
+
+
+Each Toll Plaza has a unique code pic.twitter.com/n7p01AXF4A — PIB Fact Check (@PIBFactCheck) June 25, 2022
+
+advertisement
+
+Paytm also dismissed the video stating that FASTag payments can be initiated only by authorised merchants.
+
+A video is spreading misinformation about Paytm FASTag that incorrectly shows a smartwatch scanning FASTag. As per NETC guidelines, FASTag payments can be initiated only by authorised merchants, onboarded after multiple rounds of testing. Paytm FASTag is completely safe & secure. pic.twitter.com/BmXhq07HrS — Paytm (@Paytm) June 25, 2022
+
+Are FASTags hacker-proof?
+
+We reached out to multiple ethical hackers and technologists for further clarity. Ethical hacker Sunny Nehra was among the first to flag the video and vouch for the system's safety. He said that unauthorised devices can't initiate transactions from FASTags and the video undermines how geolocation works.
+
+Nehra told India Today, "When a person is registering to Highway authorities to pay the toll, the system will seek detailed geolocation of the spot where the toll is paid. Whenever an RFID tag is read, it will automatically trace the proximity and distance. If the vehicle is not near the pre-asserted location, it will not process the payment further.”
+
+He added, “A child is roaming with a smartwatch in some random location that is not a toll plaza. But the guy in the car says money has been deducted. This is not possible with FASTag.”
+
+advertisement
+
+1/ Explaining working & security of FASTags as that FAKE FASTag scam video is viral
+
+
+
+1. Each toll plaza has been allocated unique code.
+
+
+
+2. Each toll plaza has mapper acquirer Bank.
+
+
+
+3. Both the combinations are mapped at NETC system.
+
+
+
+4. Geo codes are mapped for each toll plaza. — Sunny Nehra (@sunnynehrabro) June 25, 2022
+
+He added that every toll plaza has a unique ID. Before the payment, the mapper will always check if the unique ID is registered on the database of the government. If not, the money will not be processed.
+
+Independent security researcher Karan Saini told India Today that most passive RFID card solutions built for wide public use are designed specifically to prevent cloning or at least to make it difficult. He added that without independent corroboration from technologists and security researchers, it would be hard to conclude whether FASTags are indeed considerably secure from cloning.
+
+He said that because there is no public research on the system’s security, particularly the hardware aspect of it, and because the NPCI is not very transparent about the functioning of the passive RFID component of FASTags, people will fall for disinformation of this kind.
+
+advertisement
+
+So, while India Today cannot independently verify if such a hack can indeed be pulled off and if FASTags are as secure as the government claims them to be, we can conclude that the video going viral is a scripted one.
+
+(With inputs from Sanjana Saxena in New Delhi)

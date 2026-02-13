@@ -1,0 +1,39 @@
+COVID-19 cases in India crossed 2 lakh a day mark on January 13, 2022 and yet, in what's being called an Omicron wave, cases of the variant around the country were just 5,488 that day, according to Union Ministry of Health & Family Welfare (MoH&FW).
+
+
+
+The ministry, as part of daily updates, has been providing a state-wise status of Omicron cases since December 21, 2021. Although this list provides COVID-positive samples, which when genome sequenced, showed it had the Omicron variant, but the analyses is hamstrung by no data on the total number of samples undergoing genome sequencing.
+
+What's unclear is the ratio of samples undergoing genome sequencing to those that turn out to be Omicron. Result: The daily update on January 16, 2021 showed that only 2.85% of new cases belonged to the Omicron variant when, in fact, Indian Council of Medical Research (ICMR) chief Balram Bhargava said, in January 5 presser , that Omicron is the "predominant circulating strain" in the country.
+
+While data is unavailable on any national platforms, India last submitted genome sequencing data on January 15, 2022 to GISAID , a WHO-recommended global science initiative that provides open-access to genomic data of influenza viruses and the coronavirus. This shows that in the four weeks before the submission, 56.9% of the sequenced samples were identified as Omicron and 36% as Delta.
+
+Before we delve any deeper into the unavailability of data describing the landscape of COVID variants in the country, let's understand what genome sequencing is and its role in curbing the pandemic.
+
+What's Genome Sequencing and Why It's Done
+
+The SARS-CoV-2 virus, popularly referred to as COVID-19, is an RNA (Ribonucleic Acid) virus that contains a genome, which like all viruses, accumulates mutations over time. Since the mutations in the virus can form different "viral lineages", genomic sequencing is conducted to identify these mutations. The World Health Organization defines genomic sequencing as "a critical public health function, with the primary objective to inform national and global decisions around public health and social measures, diagnostics, therapeutics, and vaccination". Moreover, it added that continued genome sequencing supports the monitoring of the disease's spread and activity and evolution of the virus.
+
+In December 2020, the MoH&FW together with the Department of Biotechnology (DBT) with Council for Scientific & Industrial Research (CSIR) and Indian Council of Medical Research (ICMR) set up Indian SARS-CoV-2 Genetics Consortium (INSACOG). It now has 38 laboratories dedicated to monitor the genomic variations in the virus.
+
+Rakesh Mishra, former director of Centre for Cellular & Molecular Biology, Hyderabad, an INSACOG lab, told FactChecker that sequencing should be done for three main reasons: to stop a new variant from spreading in one country after being detected in another, to find out if rising cases can be attributed to a new or different variant, and to check if increasing severity of the disease is because of a new variant or comorbidities.
+
+Omicron Variant
+
+The Omicron variant (B.1.1.529) was declared a variant of concern (VOC) by the WHO on November 26, 2021. INSACOG, which has published 27 weekly bulletins to depict the emergence and community circulation of viral variants, has not come out with a bulletin since December 27, 2021. Its three last bulletins omitted categories that show prevalence of one variant compared to others: number of samples processed, samples sequenced, sequences analysed and number of samples with lineage assigned. These categories help provide emergence evidence on every variant in proportion to others.
+
+In fact, in two of those bulletins only samples determined to be Omicron were mentioned and other variants weren't. The December 20 bulletin didn't even mention that and instead just read, "Appropriate public health measures and investigations are being conducted for surveillance of omicron."
+
+T Jacob John, a retired professor of virology, Christian Medical College in Vellore, said the increasing caseload has to be attributed majorly to Omicron. "By stating that there are only around 5000 or so Omicron cases in the country, does it mean that the rest of the cases are unidentified? They could be Omicron also. The spike in cases in the country has got to be because of Omicron unless someone identifies a sample of these new cases and identifies that this is not Omicron and there is yet another variant in India," John told FactChecker.
+
+Till December 4, the last detailed bulletin published, 1.26 lakh samples had been sequenced, which was 0.36% of the total confirmed cases by then (over 3.4 crore ). Of the total 51,001 samples identified to be variants of concern/interest, only two belonged to Omicron. The weekly positivity rate then was 0.81% and daily positivity rate 0.69%. But now (January 16), when the weekly positivity rate has climbed up to 13.69% and daily to 16.28%, there is no data available in public domain on the proportion of variants of concern infecting people in the country.
+
+When FactChecker asked Dr Manisha Verma, Additional Director General in Media for the Union Ministry of Health, about why the numbers were so low when the dominant variant in the country is Omicron, she said, "It's the numbers detected through genome sequencing of travellers and community samples RT-PCR and referred to INSACOG labs."
+
+Purpose of Sequencing
+
+NITI Aayog Member Dr VK Paul had recently said that genome sequencing of all COVID-19 positive samples was not possible as it was "a surveillance and pandemic assessment and tracking tool, not a diagnostic tool". Although number of samples being sequenced had increased, according to INSACOG's December 4 bulletin, it accounted for less than 0.5% of the caseload in the country.
+
+Mishra said India has enough number of labs, which have more capacity than what their current output is, but the purpose of sequencing needs more heed. "The labs don't work all the time and it's not required also. These labs can easily sequence a total of 1,500-2,000 samples or more a day. But beyond a point this is also something that doesn't affect much," he said.
+
+He explained that the virus is rapidly spreading in countries that sequenced many more samples than India. "You have to figure out what you really want from sequencing… All you'd want to see is if there is a new variant or if there are any relationships in symptoms. It is important if samples which provide value are sequenced rather than just going behind numbers, which would have no outcome," Mishra concluded.

@@ -1,0 +1,51 @@
+In this sweltering weather, as fuel prices almost seem to be on fire, a so-called contest has been making the rounds of WhatsApp and Facebook, offering to bring some respite to winners.
+
+Bearing the colour scheme and the official logo of the Indian Oil Corporation Limited, this contest website offered its winners discounts on fuel prices and other prizes.
+
+advertisement
+
+The India Today Anti Fake News War Room (AFWA) found this was a phishing scam. The website impersonating Indian Oil attempted to dupe people and extract private information. This website also appeared to have a Chinese connection.
+
+Uncovering the fraud
+
+Both Indian Oil and the Press Information Bureau announced in online statements that website offering freebies was not associated with the state-owned company.
+
+But even without such clarifications, several red flags raised suspicion about the website’s authenticity. First and foremost, the URL did not feature the words “IndianOil” or “IOCL”. The website’s design was far from professional. The “About” button was not clickable, something that would not be the case in the real Indian Oil website.
+
+Further, contest questions like “Do you know Indian Oil?” appeared intentionally designed to ensure that a maximum number of people reached the registration page.
+
+This was where people were asked to share personal information. Phishing websites often use methods like these to gain access to personal information. This information is then either sold to others or used to commit financial fraud.
+
+Fabricated testimonials, Stolen identities
+
+Just below the quiz on the website, there was an entire row of testimonials, where people purportedly praised the contest organisers.
+
+Some photos of the people in the testimonial section, however, belonged to celebrities. Photos of actors like Wamiqa Gabbi and Sargun Mehta were clearly visible. Their photos, however, were used alongside names like Ishika Sharma and Singavarapu Prathyusha, implying these testimonials were fabricated.
+
+From oil companies to restaurant chains
+
+Like the Indian Oil one, many also also shared another contest website. The restaurant chain Barbeque Nation allegedly offered a cash prize of Rs. 6,000 to participants.
+
+And like Indian Oil, Barbeque Nation too refuted the validity of such a contest online.
+
+The main domain for both websites impersonating Indian Oil and Barbeque Nation were the same — “75tqqbv.cn”. This led us to probe further into their origins.
+
+A Chinese link?
+
+The People's Republic of China’s country code top-level domain (ccTLD) is “.cn”.
+
+Data Forensics website Robtex.com revealed that the IP number for “75tqqbv.cn” was 182.16.58.58. The location for this IP number was listed as the Cheung Sha Wan area of Hong Kong there.
+
+A scam with tentacles across the globe
+
+GoDaddy revealed that the domain “75tqqbv.cn” was registered on March 16, 2021, by Guo Yixi. The contact email mentioned was “peacchi@163.com”.
+
+When we searched for “peacchi@163.com”, we found phishing websites impersonating Indonesian natural gas transportation and distribution company Perusahaan Gas Negara and Egyptian group El Araby and running similar contests. We could see the same domain, “75tqqbv.cn” in both these sites.
+
+Kenyan fact-checking website PesaCheck reported in January that a phishing website impersonating Rubis Energy Kenya ran a contest, promising a chance to win USD 8,000. PesaCheck found that this website was registered to the email “peacchi@163.com”.
+
+In another instance, we found the domain “75tqqbv.cn” was used in a phishing website impersonating SONABEL, the national electricity company of Burkina Faso. Here too, the promise of a cash prize was used to lure people in.
+
+Conclusion
+
+While anybody in any part of the world can purchase the “.cn” domain, other evidence points to the likelihood of these websites originating from China. In either case, what’s clear is that these websites and contests were created to phish private data and have nothing to do with the companies they impersonated.

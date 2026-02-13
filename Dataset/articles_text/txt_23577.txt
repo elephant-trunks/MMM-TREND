@@ -1,0 +1,91 @@
+Mumbai: A misrepresentation of the word "forest cover" has led to a flawed government conclusion that India's forests grew by 6,778 sq km or 1%--about the size of Sikkim--over two years to 2017, various experts told FactChecker.
+
+This increase includes forests converted to commercial plantations, degraded and fragmented forests, and the health of these forests is gauged by satellite imagery of inadequate resolution, they said.
+
+The increase in forests was part of the government's response to a parliament question on April 6, 2018, and was based on India's state of forest report (ISFR), 2017, which defines "forest cover" as a 1-hectare (ha) area with a tree canopy of 10% or more.
+
+Nearly 708,273 sq km--roughly the size of Rajasthan, Madhya Pradesh, and Telangana combined--or 21.5% of India's geographic area is under forests (including mangroves), according to the forests report.
+
+The term "forest cover" does not consider the fragmentation of forests and includes plantations, and as studies have shown (here and here), India's forests have been degraded over 100 years.
+
+"Fundamentally, the term forest cover, as defined in the ISFR, is misleading," said Praveen Bhargav, former member of the National Board for Wildlife, and trustee, Wildlife First, a conservation advocacy organisation. "Forest cover is different from 'recorded forest area' which the ISFR defines as legally notified forests."
+
+"We do not make a distinction between natural forest or forest species in our definition of forest cover in the report," Subhash Ashutosh, director general of the Forest Survey of India (FSI), the government organisation that wrote the ISFR report, told FactChecker.
+
+"Despite the fact that other species were included, forest-cover expansion plays a positive environmental and ecological role," he said. "It may not be similar to the role of a natural forest, but this is also significant from an environmental point of view."
+
+Ashutosh's distinction was contested by various experts.
+
+Govt definition of 'forest cover' flawed: Experts
+
+In 2015, "forest cover" nationwide increased by 3,775 sq km–-six times the size of Mumbai–-as compared to 2013, according to the State of Forests Report, IndiaSpend reported on July 27, 2017. This at a time when, globally, forest area (as a percentage of land area) decreased by a percentage point to 30.8% over 25 years to 2015, according to World Bank data.
+
+"This ISFR 2017 data flies in the face of several reports of forest degradation in India, particularly because of de-notification, and other forms of development-related clearance," said Bharath Sundaram, a forest researcher.
+
+The number of districts sampled in the government survey of 2017 was higher than the number of districts sampled in 2015. The 2015 assessment covered 589 districts while ISFR 2017 covered 633 and this may have pushed up forest estimates, said Sundaram.
+
+There is an ongoing debate on the resolution of satellite imagery the government uses to conduct the forest survey. Experts have sought an improved resolution, Nature, a science journal, reported on September 4, 2012.
+
+Indian remote-sensing satellites produce images with a resolution of 23.5 metres per pixel, too coarse to unequivocally identify small-scale deforestation based on expert opinion, as per Nature's report. Instead it should use imagery with resolution of 5.8 m per pixel, it was suggested.
+
+A 23.5-m resolution cannot distinguish state-owned forests, private forests, and community-managed forests, a move that is is "obviously political", Sundaram alleged.
+
+Ashutosh of the FSI acknowledged that current satellite imagery could not record plantations, but he said improving resolution was not immediately possible.
+
+"The minimum mappable is 1 ha," said Ashutosh. "If it is less than 1 ha, we will not be able to capture in the satellite imagery with the present resolution. It may not detect deforestation of less than 1 ha nor will it capture many plantations. It can go either way."
+
+While it was possible to improve the resolution, that process could take between five and eight years, Ashutosh explained. "We process 323 scenes, with each scene, [spread across] around 19,000 sq km," he said. "With higher resolution it will increase to 3,000-4,000 scenes, which will need more time to process and analyse."
+
+Source: Lok Sabha, Unstarred Q.No 6650; India State of Forest Report 2017
+
+Note: Andhra Pradesh includes Telangana
+
+Plantation growth included in forest cover expansion
+
+Plantations grew by around 15,400 sq km a year between 1995 and 2005, according to a 2010 Nature report. It further found that native Indian forests declined by 1.5–2.7% over the same period, an average of 2.4% a year and a loss of more than 124,000 sq.km over the decade.
+
+"Taking flawed lessons from World Bank-inspired forestry policies, the government, against all advice, pushes for plantation of quick-growing tree species on fragile habitats like river banks, lakes, beaches and even semi-arid, and desert tracts where grasses and their associated species have survived for millennia," Bittu Sahgal, editor of Sanctuary Asia, a nature and conservation magazine, told FactChecker.
+
+Why forests are important
+
+India's forests are critical for its ecosystem because they absorb 11.25% of the country's greenhouse gases, according to a ministry of environment and forests (MoEF) report cited in this May 26, 2018, IndiaSpend story. The value of what is technically called an "ecosystem service" would amount to Rs 6 lakh crore ($120 billion) or 4.2% of India's gross domestic product, according to the August 2009 report.
+
+The increase in forests is important to improving biodiversity and reducing damage caused by natural disasters like floods. States that have reported damage by floods had fewer forests compared to states that had reported less damage, IndiaSpend reported on September 22, 2017.
+
+At the heart of the forest-cover debate is the definition and density of a forest.
+
+15 states/union territories are 33% forest--officially
+
+Of the 21.5% of India categorised as "forest cover", 9.3% and 9.1% is under "moderately dense" and "open forest", respectively, as per the ISFR report. Only 2.9% is "dense forest". These categories are based on densities of forest canopies (see definitions below table).
+
+Up to a fifth (21%) of the 98,158 sq km of "very dense" forest is in Arunachal Pradesh, while Chhattisgarh has the highest percentage of "moderately dense" forest (10.4%), the ISFR report noted.
+
+Categories used in these reports--very dense, dense, open, degraded, primary etc--are debatable, noted Sundaram. "Given the complexity of forest types in India, it makes sense to move to the actual type of forest cover like evergreen, riparian, semi-deciduous, alpine, tropical dry deciduous, and so on," he said.
+
+"We have mapped forest types in an exercise conducted between 2005-10," said Ashutosh of the FSI. "But this involves mapping, ground truthing, analysis etc, which cannot be done in two years. It'll require more time."
+
+Forests sprawl over more than 33% of 15 states and union territories (UTs), of which seven states account for more than 75% of forest. Madhya Pradesh (2.3%) and Arunachal Pradesh (2%) have the highest proportion of forests as a percentage of national geographic area, while Lakshadweep (90.3%) Mizoram (86.3%) and Arunachal Pradesh (79.9%) have the most land covered by forests.
+
+Loss in forest land and degradation
+
+The data do not take into account forest degradation in India. The Eastern Ghats, stretching from Odisha to Tamil Nadu and covering parts of Karnataka, are important because they support precious biodiversity. These mountains have lost 15.83% of their forests over 95 years, noted a February 2018 study by Indian Institute of Tropical Meteorology, University of Hyderabad, and Jawaharlal Nehru University.
+
+"By not highlighting the challenge posed by continued fragmentation, the ISFR is doing the nation a great dis-service," said Bhargav of Wildlife First. "Suppressing the negative impact of fragmentation is also resulting in the draft National Forest Policy 2018 ignoring this crucial aspect."
+
+The forest loss was 5.8% in the three decades ending 2005, highlighting the impact of forest fragmentation on biodiversity, Bhargav said, citing a study by ISRO scientists titled 'National Assessment of Forest Fragmentation in India'. The study concluded that increased fragmentation in most of the biogeographic zones is due to deforestation.
+
+Decline in forest 'greenness'
+
+There has also been a decline in the "greenness" of Indian forests between 2001 and 2014, as per this study by National Remote Sensing Centre, Hyderabad. "Greenness" is an index that determines the "vigour" of a forest and a decline indicates its vulnerability to degradation.
+
+The decline was the highest over tropical moist deciduous forests (20,673.5 sq km) in Chhattisgarh, Odisha, Maharashtra and Madhya Pradesh. About 80% of this loss of forest greenness occurred in core, protected areas.
+
+In July 2016, India enacted the Compensatory Afforestation Fund Act allocating Rs 41,000 crore ($6.2 billion) for the expansion of India's forest cover from 21.34% to 33%. A large part of compensatory afforestation fund management and planning authority fund must be applied for consolidation of remaining forest blocks and not wasted on raising plantations, noted Bhargav.
+
+(Paliath is an analyst with IndiaSpend and FactChecker.)
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.
+
+__________________________________________________________________
+
+"Liked this story? Indiaspend.org is a non-profit, and we depend on readers like you to drive our public-interest journalism efforts. Donate Rs 500; Rs 1,000, Rs 2,000."

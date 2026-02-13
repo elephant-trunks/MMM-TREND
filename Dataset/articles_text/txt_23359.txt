@@ -1,0 +1,51 @@
+Accelerated digitisation, Goods and Services Tax (GST) and emergence of gig economy has caused India's informal economy to shrink to 15%-20% of the country's formal Gross Domestic Product (GDP) from 52% in 2018, claimed a research report by State Bank of India's (SBI) Economic Research Department.
+
+"Our starting point is an assumption that the shrinkage in economy post pandemic is mostly informal and hence the loss in output across sectors gives us a measure of the informal sector…. this article estimates that currently informal economy is possibly at max 15%-20% of formal GDP," read the report called Ecowrap, which was released on November 1, 2021.
+
+SBI's research team, by making the above assumption, ensures that the informal economy's size is still overstated as the shrinkage in economy also consisted of formal. This is so the estimate is free from any downward bias in measurement. The research concludes that there's shrinkage using data from Employees' Provident Fund Organisation (EPFO), E-Shram portal, the first-ever national database of unorganised workers, and usage of Kisan Credit Cards (KCC).
+
+Before delving any deeper into the data sources and their validity in measuring formalisation, let's first understand what the informal sector means.
+
+Who is an Informal Worker?
+
+SV Ramana Murthy, Additional Director General, Social Statistics Division, National Statistical Office, Union Ministry of Programme Implementation, in his paper , defines an informal worker as a worker with no written contract, paid leave, health benefits, or social security. He presented this paper as part of International Monetary Fund's 7th Statistical Forum in November 2019.
+
+The informal sector, also called the unorganised sector, consists of own account enterprises and operated by own account workers or unorganised enterprises employing hired workers. The share of informal employment is highest in India "with around 93% of the country's total workforce earning their livelihoods as informal workers", according to the SBI report.
+
+While explaining how formalisation is tricky to define, Murthy gave an example saying, "If someone gives their domestic help an EPF, then the worker gets social security benefit, and by definition, he/she becomes a formal worker. Similarly, there can be an informal worker in the formal sector. For example, a janitor in an office, who is hired through an informal enterprise, stays an informal worker, working in the formal sector."
+
+Kisan Credit Cards Route to Formalisation?
+
+Researchers at SBI, have considered increased usage of KCCs as formalisation of workers. The share of agriculture, forestry and fishing sector to the informal economy's Gross Value Added (a measure of the contribution to GDP by a sector) was 96.8% in 2011-12 and 97.1% in 2017-18, according to the report which has sourced this data from IMF's February 2021 Policy Paper .
+
+According to the SBI report, "Since FY18, agriculture sector has been formalised by 20%-25% due to increasing penetration of KCC credit. This implies that in agriculture sector informal share is now in the range of 70-75%".
+
+The report mentions that an estimate of Rs 4.6 lakh crore has been formalised through the KCC route with ''more marginalized farmers coming under the banking sector ambit".
+
+The KCC scheme is aimed at providing adequate and timely credit support from the banking system which enables farmers to meet their short-term credit requirements for cultivation of crops, post-harvest expenses, produce marketing loan, consumption requirements of farmer household, working capital for maintenance of farm assets and activities allied to agriculture and investment credit requirement for agriculture and allied activities, said Union Minister of Finance Nirmala Sitharaman, in a response given in the Lok Sabha on July 22, 2019.
+
+"These loans are nothing beyond short-term crop loans. Then how can they [the KCC beneficiaries] be considered part of the formal economy? If you want to make a home or use it for medical reasons, then the KCC does not offer any benefits or loans. So, this claim is quite misleading," Devinder Sharma, a food and trade policy analyst, told FactChecker.
+
+The KCC scheme is essentially aimed at "providing easy access to concessional institutional credit to farmers". But, according to a 2019 report by the Reserve Bank of India on 'Internal Working Group to Review Agricultural Credit', approximately 30% of agricultural households still depend on non-institutional sources for their credit requirements.
+
+An SBI researcher, who did not wish to be named, also told FactChecker that their report only looks at formalisation from banking sector's perspective. "There is no such measure to calculate formalisation of agriculture. There are various methodologies and since we are in the banking sector, we see from the bank's perspective to also promote banking. So, this method can be deemed correct or incorrect by many, but this is our method," said the researcher.
+
+"While some disagree with our numbers, some also agree that formalisation of the economy is increasing in the country but the share of informal economy is a little higher than what we have stated. Actually, our objective was to start a debate on this topic. Now more researchers would do studies and come up with better estimates," added researcher.
+
+e-Shram: Database of Informal or Formal Workers?
+
+The two-month-old e-Shram portal, which is a national database to register unorganised workers, is, according to the SBI research, "a big step towards the formalisation of employment".
+
+The portal , which was launched on August 26, 2021 , has 6.16 crore unorganised workers registered on it till November 2, 2021 and this number, according to the SBI report, was 5.7 crore till October 30, 2021. Of the 6.16 crore workers, 92.21% earn less than Rs 10,000 a month and 17.42% have not provided their bank account details.
+
+The Union Ministry of Labour & Employment, in a press release on October 17, 2021, said, "Registration [on the portal] would facilitate delivery and accessibility to crucial welfare programmes and various entitlements meant for the workers in the unorganised sector and employment."
+
+While the portal is to ensure unorganised workers receive benefits of welfare schemes meant for them and it does not provide workers a contract, paid leave or health benefits,
+
+SBI researchers' "estimates indicate that till date the rate of formalisation due to e-Shram is around 17% and will increase further".
+
+When asked for a clarification, the SBI researcher told FactChecker, "This is based on the assumption that these workers will, in fact, be employed in the future by a company. If they are hired, the e-Shram portal would be a good tool to analyse who and how many can join the formal sector. And, registration is the first step in doing so."
+
+Moreover, e-Shram was launched in FY 2021-22, and hence cannot be considered in SBI's estimate of the share of the informal economy, which is till FY 2020-21.
+
+Nearly half the permanent salaried workers with secure jobs were forced to switch to the informal sector during the pandemic, according to an analysis by the Azim Premji University (APU) titled State Of Working India 2021 - One Year of COVID-19 . This study highlighted that 34.1% of those who were permanently salaried employees in 2019 were self-employed in 2020 owing to the pandemic and 9.8% of permanently salaried employees became casual or daily wage workers. The transition of permanently salaried employees (in 2018) into self-employment and daily-wage work in 2019, was 15.9% and 2.3%. The study emphasises on the evidence that employment recovery is characterised to a significant extent by increased levels of informality.

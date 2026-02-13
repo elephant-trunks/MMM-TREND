@@ -1,0 +1,49 @@
+Winter's almost here and it's time for those hot showers. But what if you're told that bathing with the geyser switched on might get you electrocuted? Terrifying, right?
+
+At least that's what some social media users claim while sharing a scary animation of a person getting electrocuted while bathing with the geyser on.
+
+Many have even attributed the video to Uttar Pradesh Police. The archived version can be viewed here.
+
+advertisement
+
+UP Police has not shared this video. This was confirmed to us by Rahul Srivastava, Additional SP ATS and Incharge of Social Media Cell, UP Police.
+
+We spoke to several experts who said it is quite possible to get an electric shock from a geyser if the earthing is not proper or if the bathroom wiring or geyser parts are faulty. However, given the kind of safety features modern geysers are equipped with, the probability of such an incident is low.
+
+In order to understand the risks associated with an electric geyser, let us first understand how it works.
+
+Geyser is an advanced version of immersion rod
+
+The way an electric geyser functions is similar to the simple immersion rod, which we dip in a bucket of water to heat it up. It has a metallic tank fitted with two pipes - one acts as the inlet of cold water and the other as the outlet of hot water.
+
+A metallic heating element heats up the water in this tank by converting electrical energy into heat energy. A thermostat ensures that the water's temperature does not heat up above a certain value. The tank is covered with an external casing. There is a layer of insulation between the internal tank and the external casing which is meant to prevent heat loss.
+
+Is it possible to get shock from a geyser?
+
+The short answer is YES. There have been several incidents of people losing their lives due to electric shock from a geyser.
+
+In order to understand when a geyser can give an electric shock, we contacted Dr Navneet Gupta, professor at the department of electrical and electronics engineering at BITS Pilani.
+
+"In general, the probability of a person getting an electric shock while using the geyser with the switch still on is quite low because these days geysers come with multiple safety features. However, sometimes due to 'jugaad' (faulty/damaged) wiring and earthing issues, accidents might happen," Dr Gupta told AFWA.
+
+There can be several reasons for getting an electric shock from a geyser:
+
+Corrosion of heating element: Under normal conditions, the geyser's heating element is wrapped in a protective insulation layer that prevents current from seeping into water. But over time, the metal of the heating element can corrode and the electric current can leak into the water directly.
+
+
+
+Improper earthing: Earthing is a significant safety feature for any electrical appliance. Dr Prabhakar Tiwari, associate professor at Gorakhpur's Madan Mohan Malaviya University of Technology, says, "Under normal conditions, any electrical charge leaked through the circuit seeps into the ground through the earthing wire. But if the earthing does not function properly and a short circuit happens, it might cause an electric shock."
+
+
+
+Faulty wiring: If the wiring is not proper, there is a chance of the electric current moving into unintended parts of the equipment and can be a cause of shock.
+
+
+
+MCB not working: A Miniature Circuit Breaker (MCB) cuts off electricity in case of abnormal power fluctuations. If the MCB is not present, the chances of shock increase.
+
+advertisement
+
+It's advisable to get your geyser checked once in a while to be sure that there is no corrosion in the internal parts and the wiring is proper.
+
+To sum it up, it's unlikely that you'll get a shock from your geyser if the wiring is fine. However, it is a good practice to heat up the water and then switch off the geyser while using it.

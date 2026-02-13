@@ -1,0 +1,5 @@
+While searching for the username on Twitter, we came across tweets from various users, who had replied to '@draupadi_m_'.
+
+On hovering the cursor over the handle, a small box of information pops up which shows the profile picture, name, bio, followers and following count.
+
+We found that this account's bio read 'Parody Account'.

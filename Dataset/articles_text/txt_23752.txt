@@ -1,0 +1,55 @@
+During Prime Minister Narendra Modi's speech at the Wembley stadium in London on November 13, 2015, he said: "As many as 18,000 villages need electricity. There are not even electricity poles. In the next 1,000 days we will ensure they get it."
+
+FactChecker found that his statement of 18,000 villages in India not having electricity was almost correct.
+
+But the larger issue is that--in the Indian experience--getting a power line to a village is one thing; ensuring all homes have electricity is quite another.
+
+As many as 580,934 of 597,464 villages (97.2%) India were "electrified" as on September 30, 2015, which effectively means that 16,530 do not have electricity, according to a recent report by Central Electricity Authority (CEA).
+
+However, the Deen Dayal Upadhyay Gram Jyoti Yojana (DDUGJY), launched by the BJP government, puts the number at 16,589.
+
+The discrepancy can probably be attributed to an error in calculation.
+
+The 15 States and Union Territories that have achieved 100% village electrification this year are: Andhra Pradesh, Goa, Gujarat, Haryana, Kerala, Punjab, Sikkim, Tamil Nadu, Telangana, Chandigarh, D & N Haveli, Daman & Diu, Delhi, Lakshadweep and Pondicherry.
+
+Note: Data for Andaman & Nicobar Islands is till May 31, 2015, rest is till Sep 30, 2015
+
+Earlier this week, the Union Minister for Power, Coal and New & Renewable Energy, Piyush Goyal, launched the Grameen Vidyutikaran (Rural Electrification) application to enable citizens to track the electrification of villages on a real time basis.
+
+It even displays the contact details of field engineers managing the electrification of each village.
+
+Track in real time as we electrify every single one of our villages. Hold us accountable! https://t.co/JTeTPxXn5f https://t.co/9YdjW4dZHJ — Piyush Goyal (@PiyushGoyal) November 16, 2015
+
+However, the number of un-electrified villages shown in the app is as of April 2015.
+
+Screenshots from the Grameen Vidyutikaran mobile application
+
+But does a village being declared "electrified" mean that households get electricity?
+
+"The key issue that remains ambiguous is what defines "power for all" — Is it just electrification of villages or to provide quality and adequate electricity to all households?," writes Debajit Palit, Associate Director, The Energy and Resources Institute (TERI) in his column for The Hindu. "While the NDA government is talking of 24x7 power to households, no blueprint has yet been prepared."
+
+The definition of electrified village has changed over the years. Before October 1997, a village was classified as "electrified" if electricity was used within its revenue area for any purpose whatsoever.
+
+After October 1997, a village was declared "electrified" if the electricity was used in the inhabited locality, within the revenue boundary of the village for any purpose whatsoever.
+
+The Ministry of Power defines a village (from 2004-05) as electrified if:
+
+Basic power infrastructure, such as a transformer and distribution lines, is provided in the inhabited locality, as well as associated Dalit bastis (Dalit settlements, which are often excluded from village facilities), where they exist. Electricity is provided to public places, such as schools, panchayat (village council) offices, health centres, dispensaries, community centres etc. The number of households electrified should be at least 10% of the total number of households in the village.
+
+Habitations with population below 100 are still excluded from DDUJGY, as the FAQs section of its website explains:
+
+Question: "The main village has been electrified but our habitation is left out, when will it be electrified? Whom should I approach?"
+
+Response: Habitations with population below one hundred are not included as per the approved DDUGJY programme. It is proposed to cover the left out habitations, if any, in the phase-II of the programme. The commencement of phase-II is to be decided by the Govt. of India.
+
+"The first threshold for electrification should be at least 50% of homes in a coverage area (i.e., the majority)," wrote Rahul Tongia, a Fellow at Brookings Institution and Advisor to the Smart Grid Task Force, Government of India. In this column, he argued that actual electricity is important--and that there should be no power cuts--to achieve meaningful electrification.
+
+96% of north Indian villages 'electrified', but only 69% homes have electricity
+
+Almost 96% villages in North India are electrified but only 69% of homes have electricity, as IndiaSpend had found earlier, based on a report by Access to Clean Cooking Energy and Electricity – Survey of States (ACCESS) that draws data from six states.
+
+Even if a household has an electricity connection, power supply is erratic across states.
+
+In Uttar Pradesh, for instance, three of four households get electricity for less than 12 hours a day. In Jharkhand, only 2% of electrified households get electricity for 20 or more hours; 81% do not get four or more hours in the evenings, while 60% face three or more days of total blackouts every month.
+
+is a freelance journalist based in New Delhi.)

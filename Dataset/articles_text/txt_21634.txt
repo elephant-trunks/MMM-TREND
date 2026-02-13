@@ -1,0 +1,47 @@
+Young or old, school students or corporate professionals, the pandemic has made us dependent on video communication platforms such as Google Meet and Zoom. In almost every house, while the adults are busy on video call with their colleagues, the kids are attending online classes.
+
+However, if a message circulating on social media is to be believed, Google Meet will soon introduce a feature that will allow the host to know which apps the participants are using in the background. The screen grab of what appears to be a tweet by Google India gives out this information.
+
+advertisement
+
+Another purported tweet by Zoom says the service has already introduced this feature.
+
+India Today Anti Fake News War Room (AFWA) has found that the tweets are fake. Neither Google India nor Zoom has tweeted such updates.
+
+The archived versions of the posts can be seen here and here.
+
+Had Google Meet or Zoom announced a feature allowing hosts to know which apps are being used by participants in the background, that would have surely raised privacy concerns and made headlines. However, we could not find any such report in Indian or international media.
+
+Grammatical and style errors in the said tweets made us suspicious about its authenticity. Also, the two tweets contain similarities in language, which is highly unlikely in tweets by two different companies.
+
+Zoom
+
+We could not find any tweet similar to the viral one on the official Twitter handle of Zoom. According to the screenshot, the tweet was made from the handle “@zoom-us”. However, Zoom’s official Twitter handle is just “@zoom”. The actual logo is also different from the one seen in the viral tweet.
+
+With the help of archiving tool “Wayback Machine”, we were able to confirm that Zoom has been making its official tweets from the handle “@Zoom” at least since March 2021. We also found that the viral tweet was circulating in some meme pages last year.
+
+Speaking to AFWA, officials of Zoom’s public relations team said on condition of anonymity that the viral tweet was not made by Zoom and no such feature has been announced.
+
+Commenting on Zoom’s attention-tracking feature that had previously allowed hosts to see whether participants have the app open when the screen-sharing feature was in use, the spokesperson, through a Twitter message said, “As of April 2, 2020, we have removed the attendee attention tracker feature as part of our commitment to the security and privacy of our customers.”
+
+On March 22, 2020, in response to a user query, Zoom had tweeted that it “does not track any aspects of your audio/video or other applications on your window”. Zoom has not mentioned the feature made in the claim in its blogs on upcoming features.
+
+advertisement
+
+Meanwhile, we found a new feature called “Active App Notifier” that sends participants “privacy notifications when a meeting host or another meeting participant uses an app that can access real-time content or personal information during a meeting”.
+
+Google Meet
+
+According to the screenshot of the alleged Google India tweet, it was posted from “TwitterDeck”. However, there is nothing called “TwitterDeck”. The tool that allows real-time tracking, organising and posting tweets is called “TweetDeck”.
+
+A comparison between the tweet in question and one made from the official handle of Google India through “TweetDeck” can be seen below.
+
+The screenshot in circulation shows that the alleged tweet by Google India was made on May 29, 2021. However, we could not find any such tweet on the official handle of Google India. A search for the archived version did not yield any result either.
+
+The publicly announced products and features planned for Google Workspace, including for Google Meet, are available in its “Help Center” section. However, the feature in question has found no mention here till the filing of this story. Neither is it listed under the category of new features and enhancements available in Google Meet.
+
+advertisement
+
+Tech giants such as Google and Zoom have always been under the radar of experts who’ve often flagged privacy concerns over alleged hidden features. However, they too have not said anything similar to the viral claim.
+
+While new features might get added in the future, we can confirm that this particular feature allowing hosts to know which apps are being used by participants in the background has not been announced yet.

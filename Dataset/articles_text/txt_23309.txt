@@ -1,0 +1,57 @@
+Bharatiya Janata Party leader and former Union Minister Subramanian Swamy recently shared an image on Twitter stating that India has dropped from being the "third largest economy" in 2011 to the "164th fastest growing nation in the world" in 2021.
+
+A day later, Congress leader Udit Raj also made the same claim on Twitter. He wrote in Hindi, which when translated read, "India is now the 164th fastest growing economy in the world and during Congress' regime India was at number 3. The Modi government is trying its hardest to ensure India bags the 193rd rank so it tops from the bottom."
+
+While both the statements in the graphic hold true separately, when used as a comparison they are misleading. Reason: While one parameter looks at the speed of economic growth (164th out of 195), the other highlights the size of a nation's economy (third largest in world). Moreover, both these aspects are measured on different yardsticks: Economic size is measured in purchasing power parity (PPP) and growth in terms of GDP at constant prices.
+
+
+
+The Press Information Bureau also fact-checked this claim and called it "fake" while clarifying that India is still the third-largest economy in terms of PPP.
+
+Claim: India slips to the 164th rank in the list of the fastest-growing nations in 2021, from being the third-largest economy in 2011.#PIBFactCheck
+
+
+
+▪️ This claim is #Fake.
+
+
+
+▪️ India is the 3rd largest economy in terms of PPP. pic.twitter.com/ZvETR8IxGT — PIB Fact Check (@PIBFactCheck) July 11, 2022
+
+Fact-check
+
+
+
+Let's look at the first claim: 'India is now 164th fastest growing nation in the world'. This is based on calculation of Gross Domestic Product (GDP) at constant prices. The World Economic Outlook Database released by the International Monetary Fund (IMF) predicted a negative growth or a contraction in India's GDP (at constant prices) in 2020 by 10.3%.
+
+The database did not rank the countries though. When Factchecker sorted the predicted growth rate in descending order, India stood 165th out of 194 countries. This seems to be the basis of the first claim.
+
+However, this data is over one-and-a-half years old. Projections released by the IMF for the very next year, 2021-22 didn't display a contraction but an expansion of the Indian economy by 8.9% as the 28th fastest growing economy, and the fastest growing large economy in the world.
+
+The Ministry of Statistics and Programme Implementation (MoSPI) said in May that India's GDP did grow by 8.7% in the fiscal year 2021-22. The IMF's prediction for India's real GDP growth this year (2022) is 8.2%.
+
+Now, the second claim: 'India was the third largest economy in 2011'. This is in terms of the Purchasing Power Parity. Swamy too, clarifies this in a reply to a comment on his tweet.
+
+3rd largest in PPP valuation of GDP. 164 th in per capita income. Know concepts prior to pontificating. — Subramanian Swamy (@Swamy39) July 11, 2022
+
+According to data from the World Bank, India emerged as the world's third-largest economy in 2011, from being the 10th largest in 2005. So, when isolated, the statement is correct but not the comparison.
+
+
+
+India still retains its position as the third-largest economy even in 2021, contrary to what the image claimed, in terms of purchasing power parity GDP valued at $10.3 trillion.
+
+FactChecker tried contacting both Raj and Swamy via email asking for clarification on their statements but had not received a reply by the time of publishing this fact-check. If and when we do receive a response, it will be updated here.
+
+GDP in Constant Prices and in Terms of PPP: What's the Difference?
+
+GDP represents the value of the goods and services produced by an economy in a specific period, usually measured annually. There may be fluctuations in the prices of goods and services, or the amount of goods produced and/or service output, year-on-year.
+
+To make inter-year comparisons of GDP within an economy fair, a base year is chosen and prices are fixed relative to that year. Only change in the output of goods and services is the variable in this case. If that increases, GDP in real terms increases and vice-versa.
+
+The fixed base year in India currently is FY 2011-12. The GDP is adjusted for inflation as the prices relative to that year are used.
+
+Like GDP at constant prices aids in year-wise comparison within an economy, GDP Purchasing Power Parity (PPP) helps make comparisons of GDPs between different countries. Because the GDP of each country is measured in their own currency, they are not comparable to each other.
+
+The World Bank suggests that PPPs are primarily used to convert the national accounts data of economies, such as GDP and its expenditure components, into a common currency (usually US dollars). It is also used to establish international poverty lines, look into income inequality, social welfare expenditure of countries, among others.
+
+PPPs eliminate the effect of price level differences between economies and reflect only differences in the volume or output of economies. It indicates purchasing power of a nation's currency as compared to others, for a standard basket of goods and services.

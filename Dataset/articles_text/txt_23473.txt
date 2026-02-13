@@ -1,0 +1,79 @@
+On January 2, 2021, Union Information and Broadcasting Minister Prakash Javadekar said that India was probably the only country where four different vaccines were being made ready. The Drugs Controller General of India (DCGI), on January 3, cleared the way for Serum Institute of India's Covishield and Bharat Biotech's Covaxin for 'restricted use', making it the first vaccines approved to be used against COVID-19 in the country.
+
+However, while making his claim on vaccines, the Union Minister failed to mention whether these vaccine candidates were solely manufactured in India or if it was indigenously produced, developed and made in the country.
+
+
+
+At present, there are nine COVID-19 vaccine candidates in different phases of development in India, of which two have already received the green signal for restricted use. Of the four vaccines mentioned by the Union Minister, only two, COVAXIN and ZycoV D are indigenously produced. The remaining two have been developed (invented) in other countries but are being manufactured in India. Overall, there are four vaccine candidates which are indigenously produced.
+
+
+
+Vaccines Produced Indigenously In India
+
+1. Bharat Biotech: COVAXIN
+
+Hyderabad-based Bharat Biotech has developed an inactivated SARS-CoV-2 vaccine in collaboration with Indian Council of Medical Research (ICMR) and National Institute of Virology (NIV). It is the first indigenous vaccine to be approved for restricted use in an emergency situation. The vaccine is developed on Vero cell platform, which has been widely accepted by regulatory authorities and has been used for over 30 years for the production of polio and rabies virus vaccines. The company has generated safety and immunogenicity data in animal species such as mice, rats, rabbits, Syrian hamsters and has also conducted challenge studies on non-human primates (Rhesus macaques) and hamsters.
+
+
+
+According to a press release on January 3, 2021, Phase Ⅰ and Phase Ⅱ clinical trials were conducted in approximately 800 subjects. The third phase of clinical trials saw over 25,000 participants. Since the vaccine is still in its third phase, experts have raised questions on the emergency authorization of the vaccine mainly due to the absence of efficacy data. The All India Drug Action Network, an independent network of several non government organisations on drug policy said that the decision to approve an incompletely studied vaccine raises more questions than answers. However, Krishna Ella, the director of Bharat Biotech has stated that the efficacy data for the vaccine will be provided by February, 2020, immediately after the completion of the Phase three trials.
+
+
+
+2. Zydus Cadila: Zycov D
+
+Ahmedabad-based Zydus Cadila has developed ZycoV-D with National Biopharma Mission (NBM) and the Department of Biotechnology, Government of India. It is India's first indigenously developed DNA vaccine candidate against COVID-19 and has received the green signal by the DCGI for conducting the Phase Ⅲ trials. Over 1,000 volunteers participated in the Phase Ⅰ / Ⅱ clinical trials of this vaccine. The interim data shows that the vaccine is safe and immunogenic when three doses were administered intradermally. The third phase of clinical trials will be conducted on 26,000 Indian participants.
+
+
+
+3. Gennova Biopharmaceuticals: mRNA
+
+India's first indigenous mRNA vaccine, developed by Pune-based Gennova Pharmaceuticals in collaboration with HDT Biotech Corporation, USA, has received permission from Indian drug regulators to initiate the first two phases of human clinical trials on December 11, 2020.. According to an official statement, the mRNA vaccines are fully synthetic and do not require a host for growth, e.g., eggs or bacteria. This means it can be swiftly manufactured in an inexpensive manner under cGMP (Current Good Manufacturing Practices) conditions to ensure their availability and accessibility for mass vaccinations. The vaccine is stable at 2-8 degrees celsius for two months
+
+
+
+4. Biological E: Antigen Vaccine
+
+Hyderabad-based Biological E started its Phase Ⅰ/Ⅱ clinical trials to evaluate the safety and immunogenicity in November 2020 itself. The firm is expected to produce its interim data within the first quarter of this year. This vaccine candidate, which has received seed funding from the Department of Biotechnology, uses an antigen licenced from Baylor College of Medicine in Houston, Texas and an adjuvant (an ingredient used in some vaccines to create a stronger immune response) from Dynavax Technologies Corporation. Potential advantages of this vaccine include scalability and thermostability. This could make it fit for deployment at scale in low-resource settings.
+
+
+
+Non-Indigenous Vaccines
+
+1. Serum Institute of India: COVISHIELD
+
+Covishield, developed at the Jenner Institute, University of Oxford in the UK and licenced from British pharmaceutical company AstraZeneca received the Indian government's approval for restricted use of the vaccine on January 3, 2021. The Pune-based Serum Institute uses a non replicating chimpanzee adenovirus as a vector. The vaccine attacks the Spike protein of SARS-Cov-2.
+
+
+
+Oxford-AstraZeneca submitted safety, immunogenicity and efficacy data generated on 23,745 participants aged ≥ 18 years or older from overseas clinical studies, showing an overall efficacy of 70.42%. In terms of Indian studies, 1,600 participants took part in the second and third phase of the clinical trials and the data from this trial was found comparable and 'noninferior' to the UK product.
+
+
+
+2. Dr Reddy's Laboratories: Sputnik V
+
+Named after the first Soviet space satellite, the Russian vaccine Sputnik V is developed by Gamaleya Institute and Russian Direct Investment Fund. In India, the vaccine is being manufactured at Dr Reddy's Laboratories and has shown 95% efficacy in its interim analysis. The vaccine is currently in its third phase of clinical trial. Sputnik V is the world's first registered vaccine and is rooted on a adenoviral (most common vector used for cancer gene therapy) vector-based platform.
+
+
+
+
+
+3. Serum Institute of India: Novavax
+
+
+
+USA-based Novavax which is manufactured by Serum Institute of India is a protein based vaccine which in under consideration by the Indian government for its Phase Ⅲ clinical trial. The vaccine is currently in its third phase of clinical trial to evaluate the efficacy, safety and immunogenicity in the USA and Mexico.
+
+
+
+
+
+4.Biological E: Johnson & Johnson Adenoviral Vaccine
+
+
+
+Apart from signing up with Baylor College of Medicine for its antigen vaccine, Biological E also entered into an agreement with Johnson & Johnson unit Janssen Pharmaceutica to manufacture its COVID-19 candidate in India. As of December 28, 2020, the vaccine is in its pre-clinical stages.
+
+
+
+The US-based pharmaceutical company Pfizer has not yet turned up for CDSCO's committee meetings to deliberate on the approval process despite applying to the DCGI for permission for emergency use of the vaccine. Besides, Pfizer is yet to generate data from local clinical trials in India and will be relying on data from other countries.

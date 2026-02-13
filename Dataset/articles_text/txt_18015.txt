@@ -1,0 +1,103 @@
+A fake message claiming that the government is giving Rs 5000 to all the citizens who are fully vaccinated against the coronavirus is viral on social media. The message falsely claims that the money is being given through the Prime Minister's Jankalyan Yojana and also features a fake website portraying itself to be the portal through which the amount is dispatched after the personal details are entered.
+
+The website purports to show that beneficiaries will get ₹5,000 once they fill the form which is valid till August 30.
+
+BOOM found no evidence of the government having a scheme where such an amount is being given to fully vaccinated citizens.
+
+The message, along with the link of the fake website, https://pm-yojna.in/5000rs/, (archived here) was also sent to BOOM's WhatsApp helpline (7700906588) for verification. Below is the message and its translation.
+
+
+
+
+
+
+
+Original (Hindi) Translation (English) एक आवश्यक सूचना - जिन्होंने वैक्सीन लगा लिया उन्हें 5000 रु प्रधानमंत्री जन कल्याण विभाग द्वारा दिया जा रहा है, आपने भी कोरोना का वैक्सीन लगा लिया है तो अभी फॉर्म भरें और 5000 रू प्राप्त करें इस लिंक से फॉर्म भरें. https://pm-yojna.in/5000rs कृपया ध्यान दें - 5000 रु की राशि सिर्फ 30 अगस्त 2022 तक ही मिलेगा ! An important message - those who have taken the vaccine will get ₹5000. If you have taken the corona vaccine, fill up the form and get ₹5,000. which is valid till only August 30.
+
+
+
+
+
+The message is also viral on Facebook.
+
+*एक आवश्यक सूचना* -
+
+जिन्होंने वैक्सीन लगा लिया उन्हें
+
+5000 रु प्रधानमंत्री जन कल्याण
+
+विभाग द्वारा दिया जा रहा है, आपने भी
+
+कोरोना का वैक्सीन लगा लिया है तो
+
+अभी फॉर्म भरें और 5000 रू प्राप्त करें
+
+इस लिंक से फॉर्म भरें
+
+https://t.co/q4SK42Y1AM
+
+कृपया ध्यान दें - 5000 — रमणजी No DM Unless Urgent (@ramnathjha7) July 25, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+FactCheck
+
+BOOM was able to ascertain that the website is a fake one. The website (https://pm-yojna.in/5000rs/) is not a legitimate government website, as Government of India websites, even state government ones, end with the .gov.in or .nic.in (with respect to most public sector undertakings).
+
+We then observed for more red flags on the website.
+
+This website asks for details like the user's mobile number, and the number of members in the users' family and the vaccine taken (Covishield or Covaxin). In all fields, it is possible to input any value, even irrelevant to the field (like a word in the mobile number section), and the website raises no objection.
+
+Further, users can even select both vaccines, which is currently not permitted. In India, both vaccination doses for the two-dose course to be considered fully vaccinated have to be of the same vaccine.
+
+Next, it asks users for their name. Again, the website raises no objection regardless of value inputted, which can be anything arbitrary.
+
+
+
+
+
+
+
+
+
+Finally, the user is asked to share the message with five people on WhatsApp to get ₹5,000 on clicking a pre-designated link as shown below. Users may get the button to work without actually sharing the message on WhatsApp - the share button just has to be clicked five times.
+
+
+
+
+
+
+
+
+
+
+
+Finally, the website redirects the user to bitcoin and cryptocurrency-based spoof websites.
+
+Additionally, BOOM found no specific scheme giving cash handouts by the government to vaccinated persons. The closest scheme the government is currently running to incentivise vaccination is a free booster dose (third dose) vaccination campaign that will last for 75 days starting July 15, at government centres, to celebrate the 75th anniversary of India's independence.
+
+
+
+The government too has denied this message through the factchecking arm of the Press Information Bureau.
+
+
+
+एक वायरल मैसेज में दावा किया जा रहा है कि जिन लोगों ने कोविड वैक्सीन लगवा ली है उन्हें एक ऑनलाइन फॉर्म भरने के बाद प्रधानमंत्री जन कल्याण विभाग द्वारा ₹5,000 प्रदान किए जा रहे हैं #PIBFactcheck:
+
+
+
+▶️ इस मैसेज का दावा फर्जी है
+
+▶️ कृपया इस फर्जी मैसेज को फॉरवर्ड न करें pic.twitter.com/AV8asQzexu — PIB Fact Check (@PIBFactCheck) July 12, 2022
+
+Also Read: Is The Government Privatising All Public Banks Except SBI? A FactCheck

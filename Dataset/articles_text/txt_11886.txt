@@ -1,0 +1,93 @@
+Jagat Prakash Nadda, the President of the Bharatiya Janata Party (BJP) has misleadingly claimed that India's per capita gross domestic product (GDP) has nearly doubled from ₹79,000 to ₹1.5 lakh. He has given no other details alongside this claim.
+
+BOOM referred to data from the Reserve Bank of India to find that these numbers have been cherrypicked by him. While India has far exceeded the ₹1.5 lakh mark as claimed by Nadda only in the last financial year, it is GDP in nominal prices. Since this metric is measured in the prices of the ongoing financial year, it is not a standard metric of year-on-year (or any periodic) comparison as it factors in price fluctuations or inflation.
+
+According to GDP in real prices, where the numbers can be compared over a period, India's per capita GDP is yet to cross ₹1.5 lakhs, and is lower to what Nadda claimed. Estimates from the International Monetary Fund show that this will occur only in 2027.
+
+Nadda made this claim at a press conference in Bhopal, Madhya Pradesh (MP). Along with the claim on India's per capita GDP, he also claimed that MP's GDP had grown 19.74% year-on-year and its per capita income had grown to ₹1.24 lakh per annum. Again, BOOM found this claim is misleading since it is again in nominal terms and props up the states' performance on economic metrics.
+
+The context of citing these figures was to highlight the economic growth of Madhya Pradesh, which is commonly known to be a part of the 'BIMARU' states (Bihar, Madhya Pradesh, Rajasthan and Uttar Pradesh); a coinage referring to states lagging on economic indicators.
+
+
+
+His comments can be seen below.
+
+
+
+
+
+
+
+
+
+Previously, the Chief Minister of Madhya Pradesh Shivraj Singh Chauhan, and MP's state BJP President, VD Sharma, too have made statements stating that MP's GDP has grown an impressive 19.74%.
+
+
+
+
+
+ये हमारे लिए गर्व की बात है कि अब तक उपलब्ध आंकड़ों के आधार पर मध्यप्रदेश की #GSDP ग्रोथ रेट देश के राज्यों में सर्वाधिक है।
+
+
+
+वर्ष 2021-22 के अग्रिम अनुमानित आँकड़े दर्शाते है कि करेंट प्राइसेज पर GSDP में 19.74% की वृद्धि के साथ, आज हम देश में सबसे तेज बढ़ने वाला राज्य हैं। — Shivraj Singh Chouhan (@ChouhanShivraj) March 9, 2022
+
+
+
+
+
+However, before actually factchecking these figures, let's understand what GDP in constant and current prices really means.
+
+GDP in nominal and real terms
+
+An economy produces goods and services within its borders, and GDP measures it in money terms in a given time period. However, it is measured in nominal and real terms depending on the price in which it is measured.
+
+BOOM spoke to Sabyasachi Kar, RBI Chair Professor at the Institute of Economic Growth, to specifically understand these GDP concepts.
+
+"Nominal GDP is the value of goods and services produced in a country at the going market prices and is an approximate measure of the total income earned in that country for a specific period, usually a year", he told BOOM.
+
+"Take into account that any change in this income between two periods is partly due to an increase in actual quantities produced and partly due to price inflation", he said. "Therefore, in a nominal GDP growth of 10%, 5% of growth may come from a growth in real goods and services, and the other 5% from price inflation."
+
+The fact that there is no clear demarcation between inflation and output makes the comparison of nominal GDP year on year tricky. Therefore, to fix this problem of comparison, GDP is also measured in real prices. "To calculate real GDP, that measures output, the nominal GDP is adjusted for inflation by deflating it using a price index", Kar said.
+
+Both methods of calculation have different use cases for comparison. He added, "It depends on the objective. If the aim is to compare incomes, in order to, say, understand how the government may raise tax revenues, then nominal GDP is used. However, in many of the things we deal with in economics, such as measuring changes in the welfare of citizens between two periods, it is better to deflate the nominal GDP to real GDP and then compare between these periods.", he said.
+
+FactChecking Nadda
+
+1. India's GDP per capita has risen from ₹79,000 to ₹1.5 lakhs
+
+Though Nadda says that India's per capita income has increased from ₹79,000 to ₹1.5 lakhs, his statement lacks any other details, like the period of this growth, or any other metric of importance.
+
+Per capita income is the average income earned by all residents within an economy or jurisdiction (like a country, a state or even the world). It is found by dividing the GDP of that economy by its population.
+
+BOOM referred to the Reserve Bank of India's time series on per capita income, which is available since FY2004-05 with the base year 2011-12
+
+The data show that GDP per capita in nominal prices was just above ₹79,000 (₹80,518) in 2012-2013 as claimed by Nadda, but it takes GDP per capita in constant prices till 2014-15 to cross it.
+
+The data also show that though India's GDP per capita in nominal prices crossed the ₹1.5 lakh mark twice: in 2019-20, 2021-22, comparing these figures temporally is misleading as it cannot be used to make a straightforward comparison.
+
+India's GDP per capita in real terms is yet to cross the ₹1.5 lakh mark.
+
+Below are the figures available with the Reserve Bank of India.
+
+2. GDP growth and GDP per capita in Madhya Pradesh
+
+Nadda is not wrong at face value when he says that MP's GDP has grown 19.74%.
+
+Data from MP's Economic Survey for 2021-22 shows that the economy grew from ₹9,76,281 crores in 2020-21 to an expected ₹11,69,004 crores, an increase of 19.74%. However, these figures are in nominal prices and factors inflation in.
+
+In real terms, the state economy grew from ₹5,64,514 crores in FY21 to ₹6,21,653 crores in FY22 (estimated) across these years, giving a growth rate of 10.12%, as the data shows.
+
+
+
+
+
+
+
+
+
+Similarly, MP's Economic Survey shows that the state's per capita income did grow 18.87% from ₹1,04,896 to ₹1,24,626. The latter figure was claimed by Nadda. However, it is again in nominal prices factors in inflation that inflates these numbers.
+
+In real GDP terms, MP's per capita income grew 8.59% from ₹58,334 in FY2020-21 to ₹63,345 in FY22 (estimated).
+
+This can again be seen below.

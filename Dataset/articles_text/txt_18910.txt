@@ -1,0 +1,93 @@
+The Income Tax Department has warned tax payers to be careful and not click on a message that has gone viral through short message service system (SMS). In a reply to a user's tweet on November 24, 2019, the IT department said that the viral message has a suspicious link and is a case of phishing.
+
+
+
+Dear @NikhilvParmar,
+
+
+
+This is a phishing message. You are requested not to click on any such link or any other link which promises to facilitate filing of ITR or give refund. Please read the details carefully on this link on our website - https://t.co/90VSq32w0K — Income Tax India (@IncomeTaxIndia) 25 November 2019
+
+
+
+
+
+The SMS received by several tax payers says this, "Dear XXX ,lncome Tax e-filling requires you to click xxx in-order to submit a formal request for your approved refund of Rs 47,322.89 which is your accumulated excesses over the years according to your payment column.N/B Mobile verification is mandatory."
+
+
+
+WhatsApp message
+
+
+
+
+
+BOOM received the phishing message on its WhatsApp helpline number (7700906111) from an user. According to Wikipedia, phishing is the fraudulent attempt to obtain sensitive information such as usernames, passwords and credit card details by disguising oneself as a trustworthy entity in an electronic communication.
+
+When one clicks on the link, the user is re-directed to a website - '100bartar.com'. This site is a fake lookalike of the Income Tax website and displays the official logo of the agency. The fake site also has a Income Tax refund column which asks users to fill in their bank details.
+
+One can spot the fake website link - 'http://100bartar.com/'
+
+
+
+
+
+We searched with the caption of the SMS message on Facebook and Twitter and found that it was reported by several users over the past week.
+
+Fake bank site popups
+
+
+
+The official Income Tax website is www.incometaxindia.gov.in and for e-filing, you can refer to https://www.incometaxindiaefiling.gov.in/. Additionally, the IT department has a detailed note on reporting and identification of phishing, fraudulent messages on its website.
+
+
+
+
+
+Official IT site
+
+
+
+
+
+We further inspected the fake site, and found that on selecting your bank option, it provides a lists of banks. It further takes you to fake banking pages where more bank details are asked from the user.
+
+
+
+The site also provides a list of banks to choose - Citibank, ICICI Bank, State Bank Of India, and other banks - to enter your details to avail an IT refund.
+
+
+
+
+
+Fake Citi Bank entry website
+
+
+
+
+
+On opening of the fake bank page, the main url '100bartar.com' does not change, which indicates that it is not an official page where the user is being asked to enter details.
+
+
+
+Interestingly, selecting the last option 'Other banks' will take the user to a fake Reserve Bank Of India website. This website has the official RBI logo to trick people and also has information on policy rates and market trends which is similar to the official RBI website.
+
+
+
+
+
+Fake RBI Website
+
+The fake site is filled with links to official banking websites to fool users. Clicking on some other links on the site leads the user to a pop-up with a headline, "How Millennials are redefining marriage"
+
+
+
+
+
+BOOM reported the fake website to the Income Tax Department email id - webmanager@incometax.gov.in. ​​​​​​​​​​​​​​​​​​We received a response that our mail has been forwarded to incident@cert-in.org.in. The article will be updated upon receiving a response.
+
+
+
+This is not the first time that the IT department has warned taxpayers to not fall prey to phishing.
+
+Beware of fake refund messages claiming to be from the Income Tax Deptt. Please do not click on any link asking for bank details, Debit card/ CVV numbers. Don't fall prey to phishing! pic.twitter.com/ZybK0sRVFo — Income Tax India (@IncomeTaxIndia) December 13, 2018

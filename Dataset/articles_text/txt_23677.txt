@@ -1,0 +1,79 @@
+After 11 years, the world's largest make-work programme--Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)--for India's 80 million poor rural households is in crisis.
+
+The average real MGNREGA wage decreased from Rs 142 in 2014-15 to Rs 136 in 2016-17; nearly 80% of payments were not made within the 15 days mandated; average employment from 2012-13 to 2016-17 has been less than half of what is entitled, and grievance redressal mechanisms are largely inactive, according to a FactChecker analysis of government data.
+
+The MGNREGA, launched in 2006 to guarantee 100 days of employment in a year, ended the 2016-17 financial year with liabilities of Rs 9,179 crore, an indication that it is being starved of funds.
+
+The central government expenditure on MGNREGA, as a proportion of gross domestic product (GDP), was increasing in the initial years. After peaking at 0.6% in 2009-10, the ratio declined to 0.27% in 2015-16, an indication that MGNREGA has not been a priority for governments at the Centre.
+
+Thereafter, the expenditure, in money terms, remained more or less constant till 2015-16. Although the expenditure-to-GDP ratio increased marginally to 0.31% in 2016-17, the allocation last year was also inadequate as the financial year ended with liabilities worth Rs 9,179 crore.
+
+Source: Adapted from Drèze, J., and Khera, R. (2017), "Recent Social Security Initiatives in India", World Development, 98.
+
+Average employment less than 50 days over 5 years
+
+There is a large unmet demand for MGNREGA work due to the inadequate budgetary outlays for the programme and poor enforcement of the accountability provisions of the Act.
+
+Although rural households are entitled to 100 days of employment in a year (sometimes 150 days in areas officially declared as drought-affected), the average employment has been 46 days per employed household from 2012-13 to 2016-17. (The calculation omits households that get no NREGA work at all).
+
+The annual employment for India's total rural population employed under MGNREGA averages 15 days or less per household whereas each rural household is statutorily guaranteed a minimum of 100 days each year. Over the last five years, no more than 8.5% of all households that participated in MGNREGA were able to get 100 days of work.
+
+Source: Calculated from data available on NREGA and Census of India 2011.
+
+Source: National Rural Employment Guarantee Act
+
+In 2015-16, MGNREGA wages lower than minimum agricultural wages in 15 states
+
+In the early years, MGNREGA wages were the same as the minimum wages for agricultural labour. In 2009, the central government delinked MGNREGA wages from the Minimum Wages Act. Since then, MGNREGA wages have stagnated in real terms, and are also less than the minimum agricultural wages in many states.
+
+Over the past five years, the nominal all-India MGNREGA wage (calculated as a weighted-average of state-specific wages with person-days of MGNREGA employment as weights) has increased by no more than Rs 41--from Rs 135 in 2012-13 to Rs 176 in 2016-17.
+
+The real MGNREGA wage rate (calculated by deflating the nominal MGNREGA wage rates using consumer price index--agricultural) was the highest in 2014-15 (Rs 142) and then fell over the next two years.
+
+Source: Calculated from data available on NREGA
+
+In 2015-16, MGNREGA wage rates in 15 states were lower than the corresponding minimum agricultural wages. The difference was the highest in Telangana, where the MGNREGA wage was Rs 296, Rs 116 less than the state's minimum agricultural wage.
+
+Source: National Rural Employment Guarantee Act
+
+In 2013, the ministry of rural development formed a committee under the chairmanship of Mahendra Dev, a professor of agricultural economics at the Indira Gandhi Institute of Development Research, to suggest how the MGNREGA wage rates could be revised. "The baseline for MGNREGA wage indexation from 2014 may be the current minimum wage rate for unskilled agricultural labourers fixed by the states under the Minimum Wages Act or the current MGNREGA wage rate, whichever is higher," the committee recommended.
+
+A query filed under the Right to Information Act last year revealed that the finance ministry rejected the recommendations of the committee.
+
+Only 21% payments made on time: Study
+
+MGNREGA wages must be paid within a week and never later than a fortnight, according to the Employment Guarantee Act. Not more than half the payments were made on time between 2013-14 and 2016-17, according to the rural development ministry's method of calculating delays.
+
+Source: National Rural Employment Guarantee Act
+
+Source: National Rural Employment Guarantee Act
+
+Incomplete calculation of delayed wages
+
+MGNREGA's management information system (MIS) only calculates wage delays within a state, not delays by the central government or a payment agency, such as a bank or post office. The incomplete calculation of wage delays, in turn, leads to an incomplete calculation of compensation to workers who do not get wages on time.
+
+Only 21% of wage payments were made on time, according to an on-going study by independent researchers Rajendran Narayanan, Sakina Dhorajiwala and Rajesh Golani, based on more than 9 million payments made in 2016-17. They used a random sample of 3,446 gram panchayats (village councils) across 10 states.
+
+The study also found that the ministry's "incomplete method" of calculating compensation, workers in the sample were officially owed Rs 15.6 crore when they should have actually been paid Rs 36 crore.
+
+Only 2.4% of even wrongly calculated compensation paid in 4 years
+
+Even the partially calculated compensation for delayed payments is usually not paid, The Wire reported on May 3, 2017. The main reason for this is the authority given to block-level programme officers by the rural development ministry to "reject" compensation calculated automatically by the MIS.
+
+Over the past four years, only about 4% of compensation calculated automatically by the MIS was approved nationwide and 60% of the compensation approved was paid to workers. Compensation must be recovered from officials responsible for the delays, according to the law.
+
+Source: National Rural Employment Guarantee Act
+
+10 states yet to notify rules for grievance redress
+
+Any rights-based legislation requires a strong grievance-redress mechanism. The MGNREGA requires redressal of complaints within seven days, a fine of up to Rs 1,000 for a violation of the Act, regular social audits and ombudspersons to address complaints. Every state must issue grievance-redressal rules.
+
+Even 11 years after the passage of the Employment Guarantee Act, ten states and two union territories have not yet issued these rules.
+
+Every state can appoint up to two ombudspersons per district as per the revised instructions on ombudspersons issued by the rural development ministry in 2013, . There are 216 ombudspersons across 672 rural districts of the country; or less than one for every three districts.
+
+Source: National Rural Employment Guarantee Act NOTE: As on April 11, 2017. * Looking after 13 districts. ** Looking after 2 districts each. Data not available for Chandigarh, Dadra Nagar Haveli, Daman & Diu and Delhi.
+
+Source: National Rural Employment Guarantee Act NOTE: As on April 11, 2017. * Looking after 13 districts. ** Looking after 2 districts each. Data not available for Arunachal Pradesh, Chandigarh, Dadra Nagar Haveli, Daman & Diu, Delhi, Puducherry & Sikkim.
+
+(Aggarwal is an independent researcher based in Ranchi.)

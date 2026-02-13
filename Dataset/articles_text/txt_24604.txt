@@ -1,0 +1,79 @@
+"My 69-year-old uncle died on April 22, 2021 in Varanasi's ESIC Hospital. He had tested positive for COVID-19 10 days before that. The documents the hospital gave us mentioned that he died of a cardiac arrest and not COVID-19. Even if it was cardiac arrest, it was induced by COVID as he had no history of heart-related ailments," said Gaurav Srivastava, a 30-year-old resident of Varanasi.
+
+
+
+A Medical Certificate of Cause of Death (MCCD), issued by the attending doctor, has two parts. One that records the immediate and antecedent causes and the other that has the significant conditions that contributed to the death.
+
+Data experts told FactChecker that the government is currently only recording data received from hospitals. "It would be a mistake to rely on doctors only as they are political beasts like others," said Prabhat Jha, an epidemiologist, founding director of the Centre for Global Health Research in Toronto and professor of disease control at the University of Toronto.
+
+First of all, let's be clear on the protocol on recording deaths during the current pandemic set by Indian Council of Medical Research.
+
+The under-reporting of COVID-19 deaths is a layered matter. The system of data reporting setup by state and Centre is not flawed on one level but all, found FactChecker when we spoke to patients' kin, public health experts and volunteers.
+
+The Telangana High Court too recently refused to believe the state's statistics on COVID deaths and asked that real numbers be released. The bench even instructed the state to install display boards in crematoriums and burial grounds to depict the true picture.
+
+According to a new analysis released by the University of Washington's Institute for Health Metrics and Evaluation (IHME) , the actual number of COVID deaths in India by May 5, 2021 could have been as high as 654,395. This is when the official number was 221,181, so a third of what IHME says.
+
+Srivastava was witness to one among may be lakhs of such cases where death certificates of COVID-19 patients don't have the virus as the cause of death. Such deaths are then not recorded in the numbers the state or the Centre are releasing.
+
+"And yet he was cremated in a crematorium set aside for COVID deaths," he added.
+
+"There is something called medical certification of death which is poor in whole of India. As a result, classification of death is difficult, especially the disease that is the cause of death. Death reporting in itself is poor in the country," said Dr Giridhar Babu, a professor and epidemiologist at the Public Health Foundation of India.
+
+According to ICMR guidelines, COVID should be recorded as an antecedent cause even if, for example, the person was COVID positive and died of respiratory acidosis or didn't get a test and died of acute respiratory distress syndrome or a breast cancer patient developed breathlessness and died without a COVID test.
+
+COVID-19 is reported to cause pneumonia/acute respiratory distress syndrome (ARDS) / cardiac injury /disseminated intravascular coagulation and so on, read the ICMR guidelines.
+
+"Most deaths that are reported are from hospitals through their mortality surveillance platforms and is not reconciled on a daily or hourly basis. At times it is generally estimated that the patient is deemed to be discharged within a few days but has died soon after. In that case, the hospital authorities would not have entered the details of death. When such discrepancy occurs, it has to be reconciled which is an internal matter of the hospitals," added Dr. Giridhar Babu, a professor and epidemiologist at the Public Health Foundation of India.
+
+Although cardiac arrests or heart attacks could be cause of deaths among patients who suffer from blood clot in an artery in the lung, still COVID-19 could easily be a trigger, said health experts. "Myocardial infarction or cardio pulmonary attacks are seen to have been common in Covid patients. It can be assumed but cannot be proven medically. It can only be ascertained to some extent if a patient has some past history of heart diseases," said Dr Vamsi Krishna, who works at a hospital in Hyderabad.
+
+Test-ing times
+
+If data on COVID deaths is only being picked up from hospitals, what about people who get a false negative or could not get a test done in time or those who died in home isolation?
+
+"There is a discrepancy in the number of suspected deaths since sometimes RT-PCR tests are not conducted at all and sometimes the results are inconclusive," said Dr T Sundararaman, ex-Executive Director, National Health Systems Resource Centre.
+
+Jha seconded Sundararaman while saying, "The WHO guidelines are clear: test positive or suspected COVID should both be reported as COVID."
+
+Volunteers trying to help people on the ground have observed that in many cases people are either unable to get tests done or results don't arrive in time. Then there are the false negatives. A study by The Lancet showed that most of the states have been moving towards conducting rapid antigen tests which are known to have high percentage of false negatives. RT-PCR tests are not being conducted to full capacity.
+
+"Other than a gamut of other causes including co-morbidities or suspected infection, rapid antigen tests ruling out infection in patients during mortality definitely is one of the factors behind under-reporting cases of mortality," added Dr Sundararaman. "At times the Covid patients who are admitted to the hospitals are not tested and even if tested, the reports come in only by the time of mortality."
+
+Antigen tests detect proteins from the virus which are very specific to the virus. So, a negative result cannot rule out infection. Whereas molecular or PCR tests detect genetic material from the virus and are more sensitive.
+
+"Testing is less in villages. Mostly, rapid antigen tests are being conducted but number of RT-PCR tests being done is really less. Also, people in villages have a misconception that if they test positive, they will be picked up and sent to Covid care centres. So, they do not take the test," said Alok Sharma, a social worker, maintaining a record of deaths in Dumka district in Jharkhand.
+
+Another example of the fear of isolation is when around 3,000 Covid positive patients inBengaluru switched off their phones, left their houses and cannot be tracked, said Karnataka Revenue Minister on April 28. One more is when 300 passengers fled from Silcharairport in Assam without getting tested.
+
+"Around 10 people in Kathikund and Gopikandar blocks in Jharkhand have died after being vaccinated so now people have stopped going for vaccination. Also, many dead bodies in villages are cremated in the precincts of their own villages, so that data does not make it to government records," Sharma added.
+
+No accountability
+
+Public health experts complain that there's nobody to hold health departments responsible for inaccurate cases of deaths.
+
+"In India we do not have a formal public health department that keeps a track of accurate diagnosis of the causes of death. They measure the volume or frequency of communicable diseases and take preventive action thereafter. The National Centre for Disease Control is the only public health institution in India but they do not have anything to do with causes of death," Dr T Jacob John, virologist and former professor at the Christian Medical College, Vellore told FactChecker.
+
+"If too many patients die to cholera the tendency is to shift the causes of death to diarrhea and if its diphtheria, it is altered to something else. It is the natural tendency of the health departments to do so since too many deaths due to a particular disease is a slur on the department," he added.
+
+States have constituted death audit committees to go through COVID-19 death certificates to determine how many of these are "real" COVID-19 deaths, before announcing a final number. But, when contacted by media persons, committees in states like Maharashtra, Tamil Nadu, Delhi and Uttar Pradesh refused to share details on how many cases had come to them and how many were certified as COVID deaths. It is also difficult to gauge the actual number of deaths since India's Civil Registration System data is released late. The data for 2018 was released in June 2020.
+
+Effects of misreporting
+
+UP government announced Rs 30 lakh compensation for families of 135 polling officers who died of COVID-19 during the Panchayat polls. Similarly, Former Uttarakhand CM had on June 2020 announced ex-gratia of Rs 1 lakh for the kin of those who succumb to COVID-19. Similarly, Madhya Pradesh government announced ex-gratia of Rs 50 lakh for families of cops who succumbed to Covid-19 in line of duty. The Centre also declared Rs 50 lakh compensation for Port employees/workers in case of loss of life due to COVID-19.
+
+Also, a plea was recently filed in the SC demanding compensation for families of patients who died of oxygen shortage. But do families still get the benefits if their kin's deaths are misreported and not counted as a COVID death?
+
+"It definitely makes it difficult for families to get compensation in cases of misreporting. Suspected COVID deaths should be registered under COVID because there are a lot of problems with RT-PCR. If compensation is to be given in a fair manner, confirmed clinical diagnosis without an RT-PCR report should be enough," said Dr Sundarararaman.
+
+The ICMR says that robust data is needed from every district and state in India to measure the public health impact of COVID 19 and to plan for timely health interventions and protect communities.
+
+"The data tells us of the true impact of COVID in terms of mortality. We can determine the contribution of pre-existing conditions to the likelihood of dying with a COVID-19 infection if these are assigned correctly, helping us direct attention to such patients in advance," said Gautam Menon, a professor of physics and biology at Ashoka University.
+
+Experts suggest solutions
+
+Weekly data from municipal bodies in urban areas and verbal autopsy in rural areas can help better make data records more robust.
+
+"If every municipal body in India had released weekly data on total deaths in urban areas by age and sex, we could have a record of the pandemic and would have been in a better position to plan vaccination in hotspots. In case of rural India, the solution would be for the Registrar General of India to re-start verbal autopsy study that was successfully conducted until 2014," Dr Jha told FactChecker.
+
+Regarding deaths that occur outside hospitals, Dr Babu said, "To record deaths occurring during shifting patients to hospitals or even before reaching hospitals, the data from the crematoriums or burial grounds should be updated regularly on to the COVID dashboards."

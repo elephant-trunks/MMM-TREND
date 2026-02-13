@@ -1,0 +1,53 @@
+An urgent new warning has gone viral on social media, urging users to check their privacy settings after WhatsApp reportedly having made a secret update. Social media is ablaze with messages suggesting that the platform has suddenly updated group privacy settings and urging users to change these settings. It claims that every group on WhatsApp has now been open to everyone which can lead to scammers and loan sharks scam or cheat you. Further, the message urges users to verify this change and mentions the steps to be followed for the same . The message claims that WhatsApp has made new secret update to breach the privacy of users and requests their users to immediately change their setting in order to be safe.
+
+Fact Crescendo received many fact-check requests about this video on our WhatsApp FactLine (9049053770).
+
+What is the viral message?
+
+The entire message mentions that
+
+“Hi all WhatsApp changed privacy settings last night without warning. This means this group and all other groups you are in are now open to everyone. So please change your settings. Here’s some background and how to change your settings.
+
+WhatsApp settings were updated last night without warning.
+
+Its group settings include “everyone” by default so people you don’t know can add you to a group without you ever knowing. These may include scammers, loan sharks
+
+etc……..
+
+You can change the default settings as follows:
+
+1. Go to WhatsApp:
+
+2. Go into Settings
+
+3. Go to Account
+
+4. Go to Privacy
+
+5. Go to Groups
+
+6. Change from (Everyone) to (My Contacts)
+
+I checked mine and they had all changed to being all open to everyone.
+
+Please share with your other groups.
+
+Facebook Post | Archive Link
+
+Fact Check-
+
+We started our investigation by running a keyword search on Google to find news reported on the latest WhatsApp updates, but we were unable to find any relevant news reports on the same. We also searched on WhatsApp’s official website for such update but we were unable to find any new update on the same.
+
+With another keyword search we found that the update that is being claimed on social media has already been announced by WhatsApp back in 2019. According to their blog
+
+“WhatsApp groups continue to connect family, friends, coworkers, classmates, and more. As people turn to groups for important conversations, users have asked for more control over their experience. Today, we’re introducing a new privacy setting and invite system to help you decide who can add you to groups.
+
+To enable it, go to Settings in your app, then tap Account > Privacy > Groups and select one of three options: “Everyone,” “My Contacts,” or “My Contacts Except.” “My Contacts” means only users you have in your address book can add you to groups and “My Contacts Except” provides additional control for who among your contacts can add you to a group.
+
+In those cases, an admin who can’t add you to a group will be prompted to send a private invite through an individual chat, giving you the choice of joining the group. You’ll have three days to accept the invite before it expires.”
+
+How harmful is this update?
+
+With these features, users will have more control over the group messages they receive. This does not mean that you cannot change your settings or not leave the group. If your setting is set to “Everyone” and you are added to any group, as member you always have the option to leave the group. Also, these changes do not affect your present groups. None of your existing groups will become open to everyone. Thus, the viral message is misleading. Many users must have already changed the settings. There is no compulsion to change the setting in the fear of data loss or any other privacy issue.
+
+Conclusion- Fact Crescendo found that the above-mentioned post to be misleading and being shared out of context. WhatsApp has not made any new secret update to breach the privacy of any group or individual. The update was already available since 2019 for users to have more control over the group messages they receive.

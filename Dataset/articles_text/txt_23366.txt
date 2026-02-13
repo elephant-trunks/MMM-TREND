@@ -1,0 +1,67 @@
+The Global Hunger Index (GHI) 2021 , released on October 14, 2021, ranked India 101 out of a total 116 countries. Although India has slipped seven ranks since last year — 94 in 2020 — it has remained in the "serious" category of GHI's severity scale with a score of 27.5 in 2021 and 27.2 in 2020.
+
+
+
+After this year's report was released, the fact that Bangladesh, Nepal, and Pakistan fared better than India was widely discussed on social media. However, all these three neighbouring countries fared better than India in 2020 as well.
+
+That said, publishers of GHI, a peer-reviewed annual report which is jointly published by Concern Worldwide , and Welthungerhilfe , say that GHI scores are comparable within each year's report, but not between different years' reports. This is because of changing methodologies, ranking systems, and the fact that different countries are included in the calculations every year owing to the data availability of a particular country.
+
+#India under #BJPGovt ranked 101 out of 116 countries in the 2021 #GlobalHungerIndex ! Only 15 countries fare worse than us We are behind Pakistan,Bangladesh & Nepal In 2014 👉 55 rank In 2021 👉 101 rank Anything else to be said about this govt? #GHI #ModiFailsIndia @KTRTRS pic.twitter.com/k70N32vWyG
+
+
+
+
+
+However, to be able to verify the ministry's response, it's important to first understand what the index is and how the score is calculated.
+
+What is GHI and How It's Calculated
+
+GHI is a tool designed to comprehensively measure and track hunger at global, regional, and national levels, and GHI scores are calculated to assess the progress and setbacks associated with combating hunger.
+
+Different factors are used to calculate GHI for each country based on available data. Estimates of these four indicators are used to determine the GHI score:
+
+Undernourishment: Share of population whose caloric intake is insufficient.
+
+Child Undernutrition: This includes child wasting and stunting. Child Wasting represents share of children under five with low weight for their height. Child stunting represents share of children under five with low height for their age.
+
+Child Mortality: Mortality rate of children under five.
+
+The final GHI score is between 0-100, where 0 is the best possible score a country can get, while 100 is the worst. Zero means that a country has next to no undernourished people, no children under five are wasted or stunted, and no child died before their fifth birthday. The GHI scale of the scores between 0-100 are broken down into five categories: low (below 9.9), moderate (10-19.9), serious (20-34.9), alarming (35-49.9) and extremely alarming (above 50). Each of the four component indicators are then given a standardised score, which is then aggregated to calculate the final score .
+
+Claim 1: "It is shocking to find that the Global Hunger Report 2021 has lowered the rank of India on the basis of Food and Agriculture Organisation (FAO) estimate on proportion of undernourished population, which is found to be devoid of ground reality and facts and suffers from serious methodological issues," said the Ministry of Child and Women Development (MWCD). "The methodology used by FAO is unscientific. They have based their assessment on the results of a 'four question' opinion poll, which was conducted telephonically by Gallup. The scientific measurement of undernourishment would require measurement of weight and height."
+
+Fact: This is false since it's explicitly mentioned, as an answer to a frequently asked question , on the GHI website that FAO's Gallup telephone-based opinion indicator is "NOT used in the GHI". In fact, the website reads, "GHI uses the prevalence of undernourishment indicator, which is assessed by FAO using Food Balance Sheet data from each country. It measures the proportion of the population with inadequate access to calories and is based on data regarding the food supply in the country."
+
+There are 208.6 million undernourished people in India according to the State of Food Security and Nutrition in the World 2021 report by the FAO , which considered data from 2018-2020. This means that over 15% of the population of the country is undernourished.
+
+On analysing the report, FactChecker found that the Gallup World Poll (GWP) was conducted to calculate the food insecurity levels in a country, which were measured by the Food Insecurity Experience Scale (FIES) and not the undernourishment levels of countries.
+
+"The WCD press release states that Prevalence of Undernourishment (PoU) is based on a "four question opinion poll, which was conducted telephonically by Gallup". This is not correct," said Eamon Simmons, Media Relations Manager, Concern Worldwide, told FactChecker via email.
+
+Simmons further explained that FAO produces an entire suite of indicators on food security and of those, two are recognised globally as indicators to monitor progress of SDG Target 2.1:
+
+• PoU, which is an estimate of the proportion of population whose habitual dietary intake is less than the minimum dietary energy requirement that is required for normal, active and healthy living
+
+• Prevalence of Moderate or Severe Food Insecurity, which is based on Food Insecurity Experience Scale and estimates the proportion of population that faces constrained access to food of adequate quality and quantity
+
+"Of these two indicators, GHI uses only PoU, which is a measure of proportion of population facing chronic deficiency of dietary energy intake. PoU takes into account average per capita availability of food supply as obtained through carefully constructed food balance sheets. Food balance sheets are based on data officially reported by member countries including India," said Simmons.
+
+PoU also takes into account distribution of calorie intake in the population (as estimated through official consumption surveys conducted by governments including India), as well as calorie requirement of the population (based on data on age distribution for men and women, distribution of heights and other key determinants of dietary energy requirements)," Simmons added.
+
+The estimate of proportion of undernourishment in India has increased from 15% in 2011-13 to 15.3% in 2018-20, but has decreased from 2000-2002 and 2005-07 when the estimates were 18.4% and 19.6%, respectively, according to GHI 2021.
+
+Claim 2: "It is noted with surprise... that other four countries of this region — Afghanistan, Bangladesh, Nepal and Sri Lanka — have not been affected at all by Covid-19 pandemic ... and have been able to improve their position on the indicator 'proportion of undernourished population' by 4.3%, 3.3%, 1.3% and 0.8% points respectively during the period 2018-20 over 2017-19," read the Ministry's statement.
+
+Fact: Misleading. The 2017-19 estimates are according to the State of Food Security and Nutrition in the World report of 2020. But, on page 18 of the 2021 FAO report, it's mentioned that estimates "do not account for the effects of the COVID-19 pandemic" due to the physical distancing measures which limited data collection.
+
+Moreover, India's prevalence of undernourishment in the population increased from 14%, according to the 2020 report, to 15.3%, shows the 2021 report (data from 2018-20).
+
+Claim 3: While claiming that Global Hunger Report 2021 and FAO report have completely ignored the government's efforts to help alleviate the impacts of the pandemic, the MWCD said, "Under Pradhan Mantri Garib Kalyan Anna Yojna, Government of India has made allocation of food grains @5 kg per person per month free of cost for around 80 Crore (800 million) beneficiaries of the 36 States/UTs covered under National Food Security Act (Antyodaya Anna Yojana and Priority Households) including those covered under Direct Benefit Transfer for the period April to November 2O2O and again for the period May to November 2021."
+
+Fact: This is misleading as all official records show that not a single month did the distributed amount of food grains touch the number equal to 5 kg per person. FactChecker already verified this information and reported back in August.
+
+Providing 5kg of food grains to 80 crore people would mean the Centre would have to allocate and distribute a total of 40 lakh metric tonnes (LMT) across all states/UTs. However, the official dashboard of the National Food Security Act (NFSA) mentions that there were a total of 79.28 crore beneficiaries under the Act, as of August 16, 2021, which still brings the allocation and distribution to around 39.641 LMT each month. But not even a single month since April 2020 (until June 2021) has the amount of food grains distributed touched this number.
+
+Between April-June 2021, 101 LMT of food grains were distributed from the allocated 116 LMT, which means 87% of the food grains reached the people. Similarly, in the next phase, (July-November 2020), 91% of food grains were distributed and in the third phase (May-June 2021), during the peak of the second wave of COVID-19, 91% of the total allocated food grains were distributed. Also, the number of beneficiaries in the NFSA reduced from 79.28 crore in August 2021 to 78.94 crore, as of October 18, 2021.
+
+FactChecker tried contacting Vikas Chutia, assistant to Minister of State for Women and Child Development Dr Munjpara Mahendrabhai, but he had not answered our calls till the time of publishing. Also, our email to Welthungerhilfe had not been replied to by then. If and when we do receive a response, this article will be updated.

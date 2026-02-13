@@ -1,0 +1,37 @@
+The PIB fact check has clarified that the FASTag stickers attached to vehicles to collect tolls can not be used to fraudulently steal money from money keep in online wallets. The Fact Checking section of the Press Information Bureau was responding to a video where such a claim was being made. The video, posted on Facebook by a page named BakLol Video has gone viral with around 2.7 lakh views so far.
+
+In the video, a man claims that kids that clean the windshields of vehicles at traffic signals are wearing smart watches that scan the FASTag sticker, and when it is scanned, money kept in Paytm for paying road tolls is automatically deducted.
+
+In the video, a boy is seen cleaning the windshield of a car, who has a digital watch on his wrist. The boy flips his wrist a few times, showing the face of watch with red LCD display. After cleaning the windshield, the boy starts to go away, without asking for money. The man calls him back, saying why he was going without taking money.
+
+The visibly frightened boy asks for the money. The man asked him why he was not taking money, and why he is wearing the watch and asks to see it. Hearing this, the boy runs away, the co-passenger in the car chases him, but can’t catch him and returns to the car.
+
+After that, the man driving the car explains his co-passenger what had happened. He claimed that these boys are cleaning car windshields with watches that have scanners. Every time the tag is scanned using the watch, a predetermined amount is deducted from the FASTag account in Paytm, he claims.
+
+He also said that some people have given such watches to street kids, beggars etc, and probably the kids don’t know what is done with the watches. He claimed that he had faced such an incident before, and advices people to careful about this ‘new scam’.
+
+However, claims made in the viral video are fake, and FASTag stickers can’t be scanned such way to deduct money from account of users. As PIB Factcheck informed, each toll plaza has a unique code, which is mapped with a specific bank account and a geo-code. All these information is mapped on the National Electronic Toll Collection (NEPC) program.
+
+A #viral Video claims that devices like watches are being used to swipe the #Fastag on vehicles, leading to fraudulent deduction of money from prepaid wallets.#PIBFactCheck:
+
+
+
+▶️ This Video is #FAKE
+
+
+
+▶️ Such transactions are not possible
+
+
+
+▶️ Each Toll Plaza has a unique code pic.twitter.com/n7p01AXF4A — PIB Fact Check (@PIBFactCheck) June 25, 2022
+
+The NEPC system enables the customer to make the electronic payment of toll at any NETC-enabled toll plaza on the road without stopping at the toll, as the tag is read using RFID technology and the toll amount is automatically deducted.
+
+Apart from the Geo code mapped to each toll plaza, the IP are also whitelisted by banks and NPCI (National Payments Corporation of India). These means, only the authorised merchants like toll and parking plazas can collect money using the FASTag system. Apart from this, for the transaction to go through, the system needs the toll plaza ID.
+
+The NPCI is linked with the banks with secure network, which can’t be breached. Therefore, by scanning the tag, it is not possible to steal money from the account of an user, as claimed by the video.
+
+Moreover, after a toll is paid using FASTag, the customer receives a message on the registered phone number. Therefore, if there is any ‘stealing’, they will be alerted immediately and will be able to take preventing measures.
+
+Therefore, the claims made in the video are incorrect, and it looks like the video was staged to make the fake claim.

@@ -1,0 +1,37 @@
+As the Israel-Palestine conflict rages on, social media is flooded with gruesome videos and images claiming to show the current situation in the region.
+
+One such video is doing rounds with a claim that it shows the Israel air defence system in action.
+
+Fact Crescendo received many fact-check requests about this video on our WhatsApp Factline (9049053770).
+
+We found that the video is not from Israel neither is it a real video showing any airstrike or defence systems. The video is a part of a video game ARMA-3.
+
+What’s in the claim?
+
+The video posted on social media shows a dramatic exchange of fire between anti-aircraft guns and a fighter plane.
+
+The caption of the post mentions “Israel Defence System”.
+
+Facebook Post | Archive Link
+
+The same video is being widely shared on Facebook garnering thousands of views and hundreds of shares.
+
+Fact Check-
+
+We started our investigation by breaking the video into small keyframes with the help of InVid- We Verify tool and running a reverse image search which led us to a YouTube video posted on 14th May 2021. The title of the post mentions in Arabic “Bombing the Israeli air force.”
+
+The YouTube channel claims to have created the video through ARMA 3 simulation. The description of the video mentions that “I definitely don’t want to give the impression that I glorify war, I am just an enthusiastic gamer. The weapon systems are of course used differently in real life, but I am happy to educate you about these weapons systems, many do not even know that they exist. This video was created using the content of ArmA 3 – A – 10 Warthog vs Anti – Air Tank – Missiles and Tracers firing – GAU – 8 Avenger – Simulation Link no longer available.”
+
+https://www.youtube.com/watch?v=TdH0jWhRZso&ab_channel=%D8%A2%D8%AE%D8%B1%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A2%D8%AE%D8%B1%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1
+
+With a further keyword search we found a longer version of the video on YouTube uploaded on 25 January 2021. The title of the video reads as “ArmA 3 – Counter-Rocket Artillery Mortar System in Action”. Since the video exists way before the Israel and Palestine attacks, it clearly proves that the video is not related neither is it real.
+
+What is ARMA-3?
+
+ARMA 3 is an open-world, realism-based, military tactical shooting video game developed and published by Bohemia Interactive, a Czech video game developer based in Prague.
+
+Further we found that the Israel Defence Forces (IDF) has confirmed they are using the Iron Dome air defence systems against Hamas rocket attacks. The original missile defence system in action can be seen in the following Facebook post by IDF.
+
+Also Read- Old Video Of An Egyptian Oil Fire Viral As An Explosion In Israel Killing 650 Jews
+
+Conclusion- Fact Crescendo found the above-mentioned post to be Partly False. Though Israel’s Iron Dome missile defence system and its air force are in action against Hamas rocket attacks, but the particular video going viral on social media claiming to be a real footage is not real. It is graphical simulation of the ARMA 3 video game.

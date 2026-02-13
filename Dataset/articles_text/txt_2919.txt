@@ -1,0 +1,1 @@
+Hi, NETC FASTag transaction can only be initiated by the registered merchants (Toll & Parking Plaza operators) which are onboarded by NPCI only from the respective geo-locations. No unauthorized device can initiate any financial transactions on NETC FASTag. It is absolutely safe.

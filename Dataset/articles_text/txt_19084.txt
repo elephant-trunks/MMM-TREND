@@ -1,0 +1,53 @@
+Social media is rife with a claim that Rituraj Choudhary, a B.Tech student from IIT Manipur, had hacked Google for 51 seconds. The posts also claim that Choudhary was then offered a job from Google with "a Rs 3.66 crore package".
+
+BOOM found this claim to be false; past news reports on Choudhury state that he had reported a vulnerability with Google, which the tech giant had then accepted. We also spoke to Choudhury who dismissed the claims and called them false. While he was awarded by Google by being placed among its list of researchers, he told us that he had not been offered a job.
+
+"I haven't got any package or job offer from Google or hacked anything. It was just a bug which I have reported, that's it. And currently I'm just in second year of B.Tech. So those news are fake," he said over a text message.
+
+One of the viral posts shared an image of Choudhury with the following caption:
+
+
+
+"This boy from Bihar, Rituraj Choudhary shook Google the day before at 1:05:09. He hacked Google itself for 51 seconds. As soon as the hack was done, Google officials sitting all over the world were blown away. There was chaos in America's office. Before they could understand what was going on Rituraj again restored the services in 51 seconds and mailed to Google that because of your mistake I could hack it.
+
+After doing this, Rituraj slept because it was night here. But after reading the email, the Americans could not sit peacefully, after following all the details given in the email, the officials there also hacked Google for 1 second and realized their mistake. The meeting went on for 12 hours in America and the last decision was to call that boy! At exactly 2 o'clock in the morning an email came to Rituraj saying that "We salute your ability, you work with us... Our officers are coming to pick you up". Immediately in the second mail, Google gave a joining letter to Rituraj, in which a package of 3.66 crores was given.
+
+Rituraj did not have a passport, Google spoke to the Indian government and it came home in just 2 hours. Rituraj will go to America today by private jet. Rituraj is a B.Tech second year student in IIT Manipur. And is a resident of #small #village #Mungerganj near #Begusarai. Jai Bihar..." - Text of the viral message.
+
+
+
+Also Read: Video Of Woman Snatching Bharat Mata Photo Frame Shared With Communal Spin
+
+
+
+
+
+
+
+We also found other posts in Hindi that iterated similar claims about Choudhary hacking Google, and then getting offered a job (here and here).
+
+
+
+
+
+
+
+We also found a report by News Nation which claimed in its headline that Choudhury became a millionaire after finding a bug in Google. However, the rest of the article made no mention of Choudhury becoming a millionaire, nor did the story mention Google being hacked.
+
+Fact Check
+
+We searched for keywords "rituraj choudhary google" and came across a few articles on him. One of the articles, by Times of India, stated that Choudhary had identified a bug in Google, which he had then reported to the company.
+
+The article went on to state that Google had awarded him by placing him among its list of researchers. Choudhury can be been seen as one of Google's 'bughunter'.
+
+Choudhary told Times of India that the vulnerability he exposed "could be enough to allow hackers to breach in and get access to the data and compromise with the privacy associated to it". However, it did not mention that Choudhury himself had hacked Google. Neither did it make any mention of Google offering him a job, or getting him a passport in two hours, as the viral posts claimed.
+
+Looking through the Google search results we also found a LinkedIn account of a Ritu Raj Choudhary who described himself as a cyber security enthusiast, bug hunter and coder, who is in second year of IIT Manipur.
+
+Also Read: Video Of Attack On Former Jharkhand BJP Chief Shared With False Claim
+
+In one of the posts on LinkedIn Choudhary states that he did not get any package or job offer from Google, nor did he hack the company.
+
+
+
+We also reached out to Choudhary through a text message, who then confirmed to us the statement given on LinkedIn.

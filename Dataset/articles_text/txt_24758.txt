@@ -1,0 +1,49 @@
+"text-align: justify;">On completing four years in government, the Bharatiya Janata Party (BJP) released a slew of infographics based on what it offered as achievements. Two such claims relate to the Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS), a 12-year-old rural make-work programme launched in 2006 by the previous United Progressive Alliance (UPA) government, led by the Congress party.
+
+The BJP--whose leader Prime Minister Narendra Modi once said the MGNREGS was “a living monument” to the UPA’s policy failures--has now claimed “payment of wages to workers within 15 days in 85% of the cases as compared to long delays in the past” and “highest ever participation of women in 2016-17 at 56%”.
+
+Rural employment for rural development: Payment of wages to workers within 15 days in 85% of the cases as compared to long delays in the past.https://t.co/Vb2FwWPuks #SaafNiyatSahiVikas pic.twitter.com/3ShWmhHBed — BJP (@BJP4India) May 26, 2018
+
+"text-align: justify;">Both the claims are true, as per government data ( here and here ), but the truth is more complicated: The 85% claim refers not to actual wages but a technical step in the payment process, and an independent study found less than a third were paid on time.
+
+The data for payments within 15 days are for 2017-18 (not mentioned in infographic), while the women’s participation is for 2016-17.
+
+Study shows wage payments are delayed
+
+Although the government claimed in an October 2017 statement that 85% of wages due to about 76 million MGNREGS workers for the year 2017-18 until September 15, 2017, were paid on time, an independent study has shown this is not true, IndiaSpend reported on May 5, 2018. Conducted across 10 states from April to September 2017, the study found that no more than 32% of payments were on time.
+
+The government does not acknowledge the delay in payments after the fund transfer order (FTO)--a demand that is first raised at the district level, and then at the state level for transfer of funds to the worker’s accounts--is generated at the block or panchayat (local government units), the study noted. So, delays after the FTO are unaccounted for. The average time taken to credit payment when FTO generation exceeds 15 days is 52 days, the study noted.
+
+The Mahatma Gandhi Rural Employment Guarantee Act mandates that workers should be paid within 15 days of completion of the work week, failing which a compensation of 0.05% of the unpaid wages per day for the duration of the delay must be paid.
+
+“The government’s calculation of delay is flawed, as we have pointed out in the study, and hence the figure of 85% payments happening on time is a misnomer,” Sakina Dhorajiwala, an independent researcher and one of the co-authors of the study, told FactChecker. “It is merely the percent of FTOs generated within 15 days, whereas it takes much longer for the wage to be credited in the workers account.”
+
+The study describes the stages before a fund-transfer order becomes a wage paid:
+
+Under the National Electronic Fund Management System, on completion of the work week, an FTO is generated at the block/ panchayat.
+
+The Centre approves the FTO digitally and the payment is processed electronically. After passing through a notional state government bank account, the wage is directly transferred to the individual worker’s bank or postal account.
+
+"text-align: justify;">A letter from the department of expenditure, ministry of finance, acknowledges the findings of the study and also states that the full extent of the delays were not accounted for, added Dhorajiwala. “It [letter] goes on to state that ‘payment of compensation for the entire duration of delay will be a heavy financial burden on the government,’’’ she said.
+
+The proportion of payments generated within 15 days almost doubled from 43% in 2016-17 to 85% the next year and increased two times between 2014-15 and 2017-18, according to the MGNREGS dashboard. The rise has been attributed to a Supreme Court order in 2016 to ensure timely payment of MGNREGS wages; the order put pressure on the government to pay wages on time.
+
+We sent emails seeking comment to the minister for rural development Narendra Singh Tomar, on June 2, 2018, and to the joint secretary, MGNREGA, on May 31, 2018. There were no replies. We will update this story if and when they respond.
+
+Women’s participation fell for the first time by three percentage points
+
+The claim about the highest-ever women’s participation of 56% is true. In 2016-17, women’s participation increased by a percentage point to 56.8% compared to the previous year, as IndiaSpend reported on May 7, 2018.
+
+“In the private labour market, women earn a lower wage. In MGNREGA, there tends to be low (or, no) gender-based wage discrimination,” said Reetika Khera, an economics professor at the Indian Institute Management in Ahmedabad. “Additionally, they may feel safer working on
+
+MGNREGA worksites than in the private labour market (e.g., for landlords or construction contractors)."
+
+Over two years to 2016-17, women’s participation increased nearly two percentage points to 56.8%. But in 2017-18, it fell for the first time since 2008-09 to 53.4%.
+
+“I suspect that the participation of women has suffered on account of a lot of other material-intensive government schemes being converged with NREGA--housing, toilet construction, etc,” said Khera. “Another cause could be the massive mess resulting from Aadhaar-integration of wage payments.”
+
+This is the sixth part in our series checking the National Democratic Alliance government’s claims on completion of four years in office. You can read the other parts here: Smart Cities: Rs 2 lakh Cr Budget; 0.09% Of Central Funds Spent
+
+(Paliath is an analyst with IndiaSpend and FactChecker.)
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.

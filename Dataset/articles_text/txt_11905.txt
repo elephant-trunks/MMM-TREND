@@ -1,0 +1,91 @@
+A website, using the logo of The Indian Express to elaborate how Mukesh Ambani uses cryptocurrencies to rake in millions is a impersonating the news outlet and is fake. A Reliance Industries spokesperson confirmed the same to BOOM.
+
+Ambani is the Chairman and Managing Director of Reliance Industries, and is among the wealthiest people in the world.
+
+Further, BOOM found several red flags on the article's website to support this.
+
+This bitcoin scam impersonating The Indian Express has been targeting other big business names too. BOOM has previously debunked a similar story revolving around Azim Premji, the founding chairman and a non-independent director of Wipro.
+
+Also Read: Scam Bitcoin URL Impersonates Indian Express, Peddles Fake Azim Premji Story
+
+The sensational story states that Ambani uses a cryptocurrency autotrading program called 'Bitcoin Loophole' to trade in them, which uses artificial intelligence to trade around the clock, and has urged everybody to adopt it.
+
+Further, Ambani allegedly pulled out his phone and put his bank account with his profits on display. Later, the article states that in an alleged interview with the Indian Express, Ambani says that he uses the program to make tens of thousands a day. The story also quotes him stating that big banks were looking to shut the application down and that he has "already received angry calls and threats from big financial corporations" for bringing this technology to the peoples' attention.
+
+A screenshot of the story can be viewed below.
+
+
+
+
+
+
+
+
+
+Further, BOOM found these links to be active on several advertisements on Facebook that can be accessed through Meta's ad library, that can be seen here and here.
+
+Also Read: How We Tracked Down A Fake Flipkart Racket On Facebook
+
+How can you judge that this article is fake?
+
+While Reliance has officially denied the interview, you too can see a list of red flags thatconfirms that this article and interview is fake.
+
+1. The URL and logo
+
+The URL is one that does not belong the to the Indian Express. The news outlet is available at indianexpress.com. Rather, this article shows the URL 247offers.net.
+
+The logo is also misspelt as the 'Indian Expres' (sic), lacking one 's' in the word 'express'.
+
+This can be seen below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Fake comments
+
+The website has a number of comments at the end of the page, resembling the comments section on Facebook.
+
+Regardless of the number of times that the page is refreshed, the time stamp on the comments and their order will never change.
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Incorrect usage of images
+
+An image of Gita Gopinath, the former Chief Economist and now the First Deputy Managing Director of the International Monetary Fund, is being used to show that a certain Bhagya Deol from Bangalore has earned nearly ₹16 lakh by trading in bitcoin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Incorrect facts
+
+While the interview given by Ambani is fake, the website also states that bitcoin is trading below its lifetime high of $20,000.
+
+This is incorrect, as the current lifetime high of bitcoin is $68,990 which it attained in November 2021, according to data from Coindesk.

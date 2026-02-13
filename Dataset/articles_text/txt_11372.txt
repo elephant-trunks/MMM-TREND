@@ -1,0 +1,55 @@
+A viral message on social media regarding COVID-19 claims that Italian doctors have found that WHO has hatched a conspiracy to mislead people about the disease, vaccinate everyone and reduce world population. The message further claims that Italian doctor’s have finally found a cure for the virus. The viral message further goes on to claim that coronavirus is not a virus but bacteria, and antibiotics can cure COVID-19. Additionally, it also says that the major cause of death in COVID-19 is thrombosis or blood clot and not pneumonia. It further says that intensive care units and ventilators are never needed to treat COVID-19 patients. According to the message China already had the cure for the virus but they did not disclose it so the elderly of the world could get effected and die which would reduce the population to a great extent. The message has multiple claims regarding treatments, nature of the disease, its origin and root cause of death. The message claims to be an authentic information by the Ministry of Health, Italy.
+
+Facebook Post
+
+Fact Check-
+
+We started our investigation by using a relevant keyword search on Google which led us to a website named “Efogator.com” which had posted similar claims as per the viral message. This Nigerian website has not mentioned any proper or credible source to the claims made by them. We went through the other stories on the website which mostly contained gossip stories. The “Terms of Use” section in the website mention’s that” they do not take responsibility for any error in the content. Hence, we can say that the story comes from an unreliable source.”
+
+Archive Link
+
+Next, Fact Crescendo started investigating the claims by the viral message one by one.
+
+Claim 1-
+
+COVID-19 is not a virus but a bacteria which can be treated by antibiotic and anti-inflammatory drugs
+
+Facts-
+
+We referred to the study by Lancet study on genomic characterisation and epidemiology of the new coronavirus which clearly mentions that 2019-nCoV is a novel betacoronavirus from the subgenus Sarbecovirus. 2019-nCoV is most closely related to other betacoronaviruses of bat origin, indicating that these animals are the likely reservoir hosts for this emerging viral pathogen.
+
+A PDF published by the Indian Ministry of Health and Family Welfare also clearly states that Corona viruses are a large family of viruses which may cause illness in animals or humans. The most recently discovered coronavirus causes coronavirus disease COVID-19.
+
+Fact Crescendo contacted Dr. Hira, Director of LNJP Hospital, Delhi who clarified that COVID-19 is not a bacteria but a virus. There is no role of antibiotics in treating the novel coronavirus, but these antibiotics are administered to resist secondary or collateral bacterial infections which is very common in a patient with low immunity. But the antibiotics absolutely cannot cure the COVID-19 virus.
+
+What is the role of antibiotics in treating COVID-19 patients?
+
+According to the Ministry of Health and Family Welfare, India antibiotics do not work against viruses, they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work on it. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection.
+
+According to National Center for Biotechnology Information (NCBI) which is part of the United States National Library of Medicine, a branch of the National Institutes of Health. Bacterial and fungal infections are common complications of viral pneumonia, especially in critically ill patients. They lead to increased need for intensive care and increased mortality. The presence of bacterial and/or fungal secondary infection or coinfection is likely another important factor affecting mortality. In such cases antibiotics are used to treat the secondary infection caused by bacteria.
+
+Claim 2-
+
+Ventilators and Intensive Care Units are never needed to treat COVID-19 patients.
+
+Facts-
+
+According to Dr. Hira from LNJP, Delhi, COVID-19 patients with critical respiratory illness or multi-organ or renal failure are often treated in ICU and ventilators. But not all coronavirus patients require ICU and ventilators. But to say that ICU and ventilators are absolutely not needed would be very wrong, because to save the patient is our ultimate goal. So, in case of a critical patient if ventilators are required I think no one would hesitate to provide the same.
+
+Sergio Harari, director of the Pneumology Operative Unit of San Giuseppe Hospital in Milan, Italy, said in an interview to Italian newspaper “Corriere della Sera” that most deaths are due to interstitial pneumonia and respiratory failure. To say that patients should not be intubated is totally out of the question.”
+
+Claim 3-
+
+The major cause of death for COVID-19 patients is thrombosis and not pneumonia?
+
+Facts-
+
+To understand the facts behind this question we need to know what thrombosis really is? According to the North American Thrombosis Forum thrombosis is the formation of a blood clot, known as a thrombus, within a blood vessel. It prevents blood from flowing normally through the circulatory system.
+
+As per several leading science journal, Nature and scientific studies in the American Journal of Hematology available on Wiley Online Library, thrombosis or coagulation of blood cells or blood clots is a frequent complication found in COVID-19 patients. WHO has also recommended the use of low-molecular-weight heparin in clinical management of patients suspected of being affected by COVID-19 to prevent complications related to “venous thromboembolism”.
+
+According to Lancet, respiratory failure has been found to be the leading cause of death for coronavirus patients. Dr. Hira says that “There is no specific research or studies conducted to prove that thrombosis is the major cause of death among COVID-19 patients in India. But I would say that it is one of the reasons which does not rule out pneumonia as well. Since this disease is new all of us are trying to understand it thus to blankly say that thrombosis is the major or only cause of death is blown way out of proportion. Thrombosis, pneumonia and respiratory failure are certain causes of death among the patients here.
+
+There is no scientific evidence that says thrombosis is the major cause of death for COVID-19 patients.
+
+Conclusion- Fact Crescendo found the above mentioned message to be False. The message is baseless and has no credibility.

@@ -1,0 +1,39 @@
+FASTag is an electronic toll collection system, which employs radio frequency identification technology for making toll payments directly from the prepaid or savings account linked to it or directly to the toll owner. The system is operated by the National Highway Authority of India.
+
+In the above context, a video is widely being shared on social media, in which a trickster poses as a person cleaning cars and scans FASTag wallets. The video is widely circulated with the claim that FASTag wallets can be scanned and tricksters can steal money.
+
+The video is shared with a caption: “#Fastag #scam वाला #viral_video”
+
+The link to the post can be seen here.
+
+FACT CHECK
+
+NewsMobile did the fact-check, and found it to be fake.
+
+Searching through the functioning of a FASTag, we found that around 75% of toll collected on National highways comes via FASTags. As a result, any vehicle without a FASTag or with an invalid FASTag, entering into the specified lane, would be liable to pay two times the fee applicable to the category. The fine has been laid down in the NH Fee Rules, 2008.
+
+The system was introduced in 2014, and the RFID-based FASTags were affixed on vehicle windscreens to enable tolls to be debited from a linked account, without any stoppage of the vehicles for transaction.
+
+We also found that NETC’s website mentioned, “NETC FASTag is an RFID passive tag used for making toll payments directly from the customers linked to prepaid or savings/current account.”
+
+The video in question was first uploaded by a Facebook page, Baklol Video and was later deleted.
+
+FASTag_NETC in a reply had also tweeted: “Hi, NETC FASTag transaction can only be initiated by the registered merchants (Toll & Parking Plaza operators) which are onboarded by NPCI only from the respective geo-locations. No unauthorised device can initiate any financial transactions on NETC FASTag. It is absolutely safe.”
+
+Further, Paytm had also tweeted refuting the viral claim. The tweet reads: “A video is spreading misinformation about Paytm FASTag that incorrectly shows a smartwatch scanning FASTag. As per NETC guidelines, FASTag payments can be initiated only by authorised merchants, onboarded after multiple rounds of testing. Paytm FASTag is completely safe & secure.”
+
+Hence, we can ascertain that the viral claim is fake.
+
+If you want to fact-check any story, WhatsApp it now on +91 11 7127 9799
+
+Your name
+
+Your email
+
+Subject
+
+Your message (optional)
+
+Δ
+
+Click here for Latest News updates and viral videos on our AI-powered smart news

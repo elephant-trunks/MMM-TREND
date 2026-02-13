@@ -1,0 +1,145 @@
+A message on WhatsApp, appearing to be a free streamig pass from Netflix during the COVID-19 isolation period from, is fake. The message carries a spam website which has been flagged by online security tools.
+
+This is further confirmed by explicit red flags such as a spoofed URL, Netflix not mentioning any such offers and a stagnant comments sections on the dodgy website.
+
+BOOM received this WhatsApp forward on its tipline (7700906111). It claims that Netflix is offering a free streaming pass for the period of COVID-19 isolation, and recommends that users hurry due to it being a limited time offer. It also carries a link to the website under question.
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOOM also found users both falling for the same claim on Twitter, with some asking Netflix if it is true. The same can be seen here.
+
+
+
+Another variant of this claim is also being made on WhatsApp through an image, which shows Indian news service ANI allegedly reporting that Netflix and Amazon Prime will be offering subscriptions for free till April 31st.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+These messages are coming at a time when countries around the world are enforcing different degrees of lockdown to combat the spread of the new COVID-19 disease caused by a coronavirus that spreads through close contact. In India, a three-week lockdown has started from March 25, 2020 as announced by Prime Minister Narendra Modi. Due to the lockdown and more people staying at home, the utilisation of streaming services is expected to rise. Companies offering online streaming such as Netflix, Amazon and Disney have decided to stream at lower bit rates with some even turning off high-defintion streaming in jurisdictions such as the European Union and India so as to not overwhelm internet infrastructure.
+
+
+
+Also Read: "Forget Going Out For 21 Days", Says Modi, Announcing A Nationwide Lockdown
+
+FactCheck
+
+
+
+Here are some sanity checks that BOOM performed to see the legitimacy of such website
+
+1. An incorrect URL
+
+
+
+The website has a URL: netflix-usa.net. However, Netflix can only be accessed through their website netflix.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+Netflix also make no mention of any such offer, promotion or scheme on its page. It is offering product pricing that can be seen here.
+
+
+
+
+
+
+
+2. A stagnant Facebook-like comments section
+
+On opening the website and scrolling, one can see a Facebook-like comments section. Regardless of how many times the page is loaded, the number of likes on the page, the order of comments, and the accompanying time-stamps ('Now') does not change.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Link is flagged as spam by trustworthy websites
+
+Protip: You can use the open spam and malware URL detection system by Psafe for checking the authenticity of links before opening them. The system has marked netflix-usa.net as potential phishing website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Transparency Check - offering Google's Safe Browsing service - too has flagged this page as unsafe. It can be seen here.
+
+
+
+
+
+
+
+4. The April 31 subscription offer notification tweeted by a parody account
+
+Image claiming by to offer free subscription by Netflix and Amazon Prime till April 31 appears to be an ANI break at face value, but the handle is not theirs. On looking closely, one can see the handle '@ikryptonian_', which is a parody account. Furthermore, April has 30 and not 31 days.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANI has a verified handle on Twitter, and they can be found with the handle '@ANI'. An archived version of the tweet can be found here.
+
+
+
+However, this is not the first time BOOM is encountering such spam links. During the Indian festive season last year, Cadbury, Honda Motorcycles and Amazon were the targets of such fake links. These messages claims that Cadbury was giving free chocolate baskets, Honda 300 free Activas and Amazon assured gifts online.

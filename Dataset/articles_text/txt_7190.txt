@@ -1,0 +1,35 @@
+The government issued a set of FAQs after criticism from certain quarters about the recommendations on temperature setting of Air Conditioners. The FAQs also mentioned that Japan & USA enforced similar limits. Here is a Fact Check.
+
+[orc]
+
+After criticism from certain quarters, the Government of India has published a set of FAQs regarding the recommendations on temperature setting of Air Conditioners. The government explained the recommendations in more detail and also tried to quantify the savings from such a move. In addition, the government also mentioned that India is not the first country to undertake such a measure. The FAQs make a mention of Japan & USA as countries that have done this earlier. How true is this claim?
+
+What is the actual recommendation made by the government?
+
+Bureau of Energy Efficiency (Ministry of Power) has issued guidelines to major commercial establishments to set the default temperature on Air Conditioners to 24 degree celsius from the conventional 20-21 degree celsius. This move, the government says is to conserve energy and can result in approximately 24% of energy savings. However, users can adjust the temperature as per his/her choice. The government’s guidelines mention that temperatures up to 25 degree celsius are quite comfortable for human body, along with desired humidity and air movement values.
+
+The government estimates that the potential for energy conservation through this measure is to the tune of 20 billion units (worth Rs10,000 crores) annually. As per government’s calculations, even if half (50%) the consumers adopt the recommendations, this would result in about 10 billion units of electricity, which is equivalent to reduction of 8.2 Million tonne of CO 2 per year.
+
+These guidelines have been recommended to major commercial establishments such as Airports, Hotels, Shopping Malls, Offices and Government Buildings (Ministries & attached offices, State Government and Public-Sector Undertakings) and are currently voluntary in nature. The government plans to increase awareness and encourage consumers to adopt the guidelines. A public survey would also be conducted after 4-6 months of awareness campaign.
+
+Did other countries also enforce such limits?
+
+The FAQs released by the government make a mention of Japan and the California state in USA as having enforced such limits. Let us examine these claims.
+
+The case of Japan
+
+Claim: Japan introduced a default setting for air conditioners at 28 degrees Celsius.
+
+Japan, in the aftermath of the Fukushima nuclear disaster, did impose restrictions on power usage and mandated large buildings & businesses to reduce electricity usage by 15%. Fines were also prescribed for companies that use too much power. But these restrictions were withdrawn in September 2011.
+
+Japan also runs a ‘Cool Biz’ campaign during summer where it encourages people to dress more casually without a tie and a jacket so that they can work comfortably even in a room at 28 degrees Celsius. Japan started the ‘Cool Biz” campaign in 2005. Similarly, a ‘Warm Biz’ campaign is run during winters. Both the campaigns are voluntary in nature.
+
+Claim Check: While Japan has campaigns to limit the power usage and have air conditioners run at 28 degree celsius, it is purely voluntary in nature. Unlike what is claimed, Japan did not introduce a default setting for air conditioners, but encouraged people & businesses to set the air conditioners at that temperature. So the claim is only partially true.
+
+The case of USA
+
+Claim: In U.S, states like California have enforced limits on lowering the air condition beyond 26 degrees Celsius.
+
+In the case of California, a New York Times article in 2008 talks about the state seeking to control thermostats through a radio controlled device, by sending temperatures up or down. This was contemplated to manage electricity shortages. But this move never seems to have been implemented.
+
+Instead, the state of California currently issues ‘Flex Alerts‘. A ‘Flex Alert’ is a call for consumers to voluntarily conserve electricity when there is a predicted shortage of energy supply, especially if the grid operator needs to dip into reserves to cover demand. These alerts are issued a day in advance so that consumers can better prepare for the event. The campaign asks consumers to set thermostat at 78° F ( ~ 26 degree celsius) or higher. Since the year 2000, ‘Flex Alerts’ have been issued a total of 104 times, with each alert ranging for a few hours to a day.

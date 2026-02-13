@@ -1,0 +1,55 @@
+Mumbai: Prime Minister Narendra Modi in a television interview to national Hindi channel News Nation on May 11, 2019, claimed that he used a digital camera and email around 1987-88.
+
+This is what Modi said:
+
+“Shayad desh mein...shayad..koi ho sakta hai..mujhe malum nahi..maine pheli bar digital camera ka upyog kiya tha 87-88 mein shayad. Aur us samaya bahut kam logon ke pas email rehatata. To mere yahan Viramgam tehsil mein Advaniji ki sabha thi. Toh maine woh digital camera par unki photo li. Tab digital kamera itna bada ata tha, mere pas tha ussamay. Maine photo nikali aur maine Delhi ko transmit ki. Aur dusre din colour photo chapi. Toh Advaniji ko bada surprise hua ke Delhi mein meri colour photo aaj ki aaj kaise chapi.”
+
+Translation: “I used a digital camera for the first time in 1987-88. At that time very few people had access to email. I took Advaniji’s picture during his address in Viramgam tehsil and transmitted it to Delhi. And the next day a coloured pictured was published. Advaniji was surprised to see the photograph published on the very same day.”
+
+Fact: False. The first commercial digital camera, the Kodak 100 was sold in 1991, India launched its first public internet service--capable of only sending text over email--on August 15, 1995, and privately held companies started services in 1998.
+
+“In 1987, there was no commercially available digital camera that could be used by the public,” said Prasanto Kumar Roy, media and digital consultant.
+
+In 1975, Steven Sasson, an engineer at Kodak invented the world’s first digital camera, which captured black and white images at a resolution of 0.1 megapixels. The first digital camera--called “electronic still camera”--was patented in 1978, but Sasson was not allowed to publicly talk about it outside Kodak.
+
+The first modern digital single-lens reflex camera was created by Steven Sasson and Robert Hills in 1989, according to this 2015 New York Times blog, “Kodak’s first digital moment”.
+
+In 1981, Sony marketed the Pro Mavica, the first commercial electronic still camera, Mashable reported on June 22, 2014.
+
+The first prototype of a megapixel digital camera appeared in 1986, and the first commercial model--the Kodak DCS (Digital Camera System) 100, a 1.3 megapixel charged-coupled device fitted on a Nikon film camera body, in 1991. The DCS 100 is often cited as the first true commercially available digital camera, sold to well-heeled photojournalists for $10,000 to $20,000.
+
+Advent of internet in India
+
+Internet services in India were launched on 15th August, 1995, by the Videsh Sanchar Nigam Limited (acquired in 2008 by the Tata conglomerate and renamed Tata Communications). The government opened the telecommunications sector to private companies in November 1998.
+
+Modi did not clearly mention how he transmitted the photograph to Delhi. Modi’s statement received criticism and trolling on social media. FactChecker sought comment from BJP spokesperson Amit Malviya, head of the party’s information-technology cell, over email on May 13, 2019. This article will be updated if and when we received his response.
+
+The Education and Research Network (ERNET) was started by the department of electronics (DoE) for academic networking, connecting eight institutions: National Centre for Software Technology (NCST) Bombay, Indian Institute of Science, Bangalore, Indian Institutes of Technology in Delhi, Bombay, Kanpur, Kharagpur, Madras and the DoE.
+
+“The year 1986 saw a dial-up link... for email exchange… between NCST and [Indian Institutes of Technology] IIT-Bombay,” wrote Srinivasan Ramani, one of the founders of the Indian academic network, in 1983 in the book Netchakra, an excerpt of which was published by television channel News 18 on August 14, 2015.
+
+IIT-Madras and IIT-Delhi were connected via email using a dial-up connection in 1987. These networks required one computer to dial another through modem and had no capacity to carry photographs.
+
+“Very soon all ERNET partners were on dial-up ERNET email and hundreds of Indian academics in these institutions started using email to talk to colleagues all over the world,” Ramani wrote. “India had arrived on the Internet in 1988, though the umbilical cord was working at only 4800 [bit per second] bps.”
+
+In 1988, links were established from what was then Bombay to Madras and Delhi among ERNET partners. In 1989, this was scaled to an analogue--meaning it ran over copper wires instead of modern fibre-optics--leased line working at 9600 bps, connecting NCST to a (UUNET) hub in the US.
+
+“The line to [worldwide distributed discussion system on computers] USENET was converted to a digital link operating at 64 kbps in 1992.” said Ramani in his book. “The link was leased at what appeared to be exorbitant cost at that time - Rs 16 lakh per year! But it gave India ‘good quality’ TCP/IP connectivity with the world, over a massive 64 kbps link.”
+
+To provide some perspective, Indian companies today commonly offer to home--on the low end--50 mbps (mega bits per second) links, or 50,000 kbps, or more than 780 times faster than the 64 kbps speeds of 1992.
+
+Before 1993, there were only two national email services available in India. One, as we said, was the ERNET, the other was Business India Axcess, mainly used by business users, as prices were high: This allowed user to mainly sent text messages as email with no attachments.
+
+It was only in 1996 that a more expensive account (called TCP/IP, available for Rs 15,000 annually instead of Rs 6,000 for a text-only “shell account”) was introduced to which users could attach images, said Roy.
+
+But these email accounts worked over dial-up modems, and there was no question of uploading a big image file using these accounts, said Roy.
+
+Here are some twitter responses to Modi’s claims:
+
+Indeed. While I was using email in 1992 and we used to publish our emails in PC Quest columns 1993 onward, it was text only, dial-up. This 1993 column by Atul Chitnis mentions the challenges of trying to email senior govt officials, and mentions our then emails. pic.twitter.com/IdWJXyPvql — PKR | প্রশান্ত | پرشانتو (@prasanto) May 13, 2019
+
+1991-1996, when I was doing my PhD at Columbia University, I was using Pine. I would go once a day to my dept computer lab to check my email. Even as a faculty, I used Pine at least until 1998. I first became aware of email in 1990 when I was applying to US universities. — Devashish Mitra (@DevashishMitra_) May 13, 2019
+
+I became aware of Bitnet from a tech-savvy prof in 1988, but didn't use it seriously until Columbia 1990. I recall I used a competition to Pine called Elm! That continued well into the mid-1990s when I was back teaching at Carleton. — Vivek Dehejia (@vdehejia) May 13, 2019
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.

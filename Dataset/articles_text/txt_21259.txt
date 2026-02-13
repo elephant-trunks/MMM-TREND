@@ -1,0 +1,45 @@
+In Uttar Pradesh’s largely bipolar contest between BJP and Samajwadi Party, social media has become a key tool for accusations and counter-accusations between supporters of the two political parties.
+
+And now, many social media users are sharing an apparent envelope with the SP’s symbol printed on it and a 500-rupee note peeping from inside. The message is loud and clear that the SP is distributing money to lure voters.
+
+advertisement
+
+BJP’s social media co-convener Shashi Kumar tweeted the image with the caption, “Samajwadi Vote Kharido Yojana (Samajwadi Vote Purchase Scheme)”.
+
+Many other social media users have posted the same image with “Mission 2022” and SP leader Atul Pradhan’s name purportedly written on the envelope. Pradhan is the SP-RLD candidate from Sardhana constituency in Meerut, UP.
+
+India Today Anti Fake News War Room (AFWA) has found that the viral image has been present on the Internet since at least 2017, and hence, not connected to the upcoming elections in UP. Also, the image with “Mission 2022” and Atul Pradhan’s name on the envelope is doctored.
+
+AFWA probe
+
+First, we checked the image of the envelope with Atul Pradhan’s name on it. We noticed that while the text between the cycle logos is unclear, “Mission 2022” and Pradhan’s name feature prominently.
+
+Next, we used error level analysis, a forensic method that can highlight digitally-modified portions of an image.
+
+Forensically is one such tool that can be used to check the ELA of an image. We uploaded the viral picture on this tool and it highlighted the part where “Mission 2022” and Pradhan’s name is written.
+
+Another tool, FotoForensics, gave similar results.
+
+Evidently, the text mentioning Atul Pradhan’s name and “Mission 2022” has been added using some editing software to create an impression that he is the one distributing money among voters.
+
+We sent this image to Anmol Pradhan, a member of Atul Pradhan’s PR team, who told us that the image is not related to the SP leader in any way.
+
+The Gorakhpur connection
+
+Upon reverse-searching the viral image, we found that it was shared by several social media users in 2017.
+
+We also found a Twitter post from 2017 in which this image was shared along with another picture the front side of an envelope on which the names and photographs of two SP leaders from Gorakhpur are given. These leaders are former MLA Vijay Bahadur Yadav and former minister Ram Bhual Nishad. A date “March 4, 2017” and “Gorakhpur rural assembly constituency” are also mentioned.
+
+However, we could not ascertain the exact story behind this envelope.
+
+Clueless about the envelope: Yadav and Nishad
+
+AFWA contacted both Vijay Bahadur Yadav and Ram Bhual Nishad to get information on this envelope that was widely shared in 2017.
+
+Yadav told us he saw the envelope for the first time. “The photograph used on the envelope is indeed mine, but it is around 15 years old. This is certainly an effort to tarnish my image,” he added.
+
+Yadav too rubbished the claim being made with the image. “I am not aware of the fact that any such envelope was circulated with my name and picture in 2017,” he told AFWA.
+
+An India Today investigation in 2017 had revealed how candidates of SP, BSP, BJP and Peace Party were violating election commission guidelines by bribing voters. The EC had ordered a probe into the ‘cash-for-vote’ scandal.
+
+We could not verify the exact origin of this image. However, it is certain that the picture is old and is being falsely linked with the upcoming UP elections.

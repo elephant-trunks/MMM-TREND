@@ -1,0 +1,35 @@
+What do you think testing laboratories do with your Covid samples before declaring you positive or negative? If you believe the latest conspiracy theory of anti-vaxxers, they just do ‘eenie meenie miney mo’ to declare your results.
+
+In a video being shared on social media, someone is trying to demonstrate that Covid testing kits are a sham. In the video, this person takes out a rapid antigen test kit and pulls out two different packets. On one packet is written “positive control” in red, while the other says “negative control” in green.
+
+advertisement
+
+He then starts humming a rhyme as his fingers move from one packet to another. In the end, he picks the packet with “positive control” and says something in a language we do not understand probably saying that he has chosen positive.
+
+There is no dearth of people who believe this conspiracy theory. An Instagram post says, “PCR tests come with one positive and one negative result. So they can tell you whatever they want it to be. These are created for “controlled studies”. To cheat in studies and get the results they want basically. That’s what a controlled study means. Still trust science?”
+
+Going through the product literature of many rapid antigen test kits, India Today Anti Fake News War Room (AFWA) found that the positive and negative control swabs are just for training and testing the efficacy of the kit. They are not used for testing of the actual samples.
+
+The video is also being shared on Twitter, WhatsApp and Telegram with similar claims. The archived version can be viewed here.
+
+AFWA probe
+
+The kit being shown in the viral video is “Panbio COVID-19 Ag Rapid Test Device (nasopharyngeal)”, manufactured by medical giant Abbott.
+
+The product literature on the official website of Abbott has a list of all items included in the kit. The list also mentions positive and negative control swabs. However, these swabs are included not for testing but for a different purpose.
+
+The detailed procedure of testing through this kit can be seen on the World Health Organization (WHO) document here.
+
+Then what’s the use of control swabs?
+
+The product literature clearly mentions that the purpose of positive and negative control swabs is to ensure the reagents are working properly so that the test results are reliable. The testing kits work on the basis of chemical reactions and there’s a chance that if the kit is not stored properly during transportation, the reagents in it may undergo chemical changes.
+
+advertisement
+
+When an actual sample of a patient is tested through the kit, two lines appear at different places, depending upon whether the sample is Covid positive or negative. These lines appear only when the testing is done. The positive and negative control swabs are also meant for training a new person to demonstrate where and what kind of lines to look for when they are doing the actual testing.
+
+Many Covid-19 rapid antigen test kits do contain positive and negative control swabs. The United States Food & Drug Administration recommends that patient tests should not be performed if the test fails to detect positive and/or negative control swabs accurately. The control tests should instead be repeated in such cases.
+
+Reuters had debunked a similar claim recently.
+
+You can thus be rest assured that the Covid-19 rapid antigen tests are not ‘pre-decided’, as claimed by the conspiracy theorists. The positive and negative control swabs present in these kits are only meant to ensure that the actual testing devices work properly and give accurate results.

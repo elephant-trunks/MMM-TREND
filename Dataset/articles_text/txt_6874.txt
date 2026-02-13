@@ -1,0 +1,27 @@
+Amid news of Ukraine and Russia agreeing to sign a deal to reopen Ukrainian Black Sea ports, whose blockade by the Russian navy had worsened global supply chain disruptions, a supposed scene of the war has been making rounds online.
+
+Per those sharing the video, it shows a Ukrainian drone strike on Russian naval troops. It shows marathon waves of air-to-sea strikes critically hitting numerous harboured ships and submarines.
+
+advertisement
+
+"This morning, Russian ships and submarines were sunk by the Bayraktar TB2 Drone," one such post from July 20 said. The Bayraktar TB2 are Turkish-made drones that are being used by Ukraine to fend off Russian troops.
+
+AFWA’s investigation found that the claim was misleading. The video is not from the Russia-Ukraine conflict at all — it’s from the popular video game “Arma 3”.
+
+AFWA Probe
+
+The visuals looked similar to the gameplay of “Arma 3”, a video game whose clips have often been shared as real visuals of modern conflicts. We found a map/radar option partially visible on the right part of the screen. When cross-checked with “Arma-3” airborne mission gameplay videos available on YouTube, they all looked very similar. The icon used to indicate the aircraft's position and the word “SENS” near it also looked the same.
+
+We then copied and ran the caption of the post on the YouTube search bar and found the viral video uploaded with the same claims to a channel called 'Xadarov' on July 20.
+
+The description box of the video, however, contained a disclaimer message that confirmed that the video was not real. "THIS IS ONLY SIMULATION, NOT REAL LIFE! I make military simulations using the Arma 3 Simulator. Bohemia allows to make YouTube videos from their game and monetize it," it read.
+
+The Facebook page that shared the claim did not carry a similar disclaimer. Neither did the page mention anything about the game. The profile claimed to be political.
+
+Several times in the past AFWA has debunked misleading claims involving “Arma 3” visuals. Some of these can be read here, here, and here.
+
+Were any Russian submarines hit?
+
+We ran an advanced Google search for reports since July 20 about Ukrainian attacks on the Russian navy. But there was no major news on this apart from a Bloomberg story on the Royal British navy having tracked Russian submarines in the North Sea.
+
+Thus, we conclude that the video in question is not a face-off between Ukrainian drones and Russian naval units as claimed. It is pre-recorded footage from the video game “Arma 3”.

@@ -1,0 +1,49 @@
+Scientists from Wuhan Institute of Virology recently released a non-peer reviewed study on a new type of coronavirus called NeoCoV, the coverage of which has put people in a tizzy. This is when the study clearly mentions that there's a rare possibility of the virus, which is found in bats in South Africa, transmitting to humans.
+
+
+
+Several news websites, such as News18 , Times Now and The Tribune , in their coverage of the study, highlighted that NeoCoV had the potential to kill one in every three infected people, without mentioning that no human has been infected with the virus yet and the study hasn't been peer reviewed either.
+
+Health experts said although bat coronaviruses have to be taken seriously, the fears that media reports have elicited are unwarranted. Dr Chandrakant Lahariya, epidemiologist and public health policy expert, told FactChecker that although the research has significance in tracking potential spillover emergencies, news articles have taken it out of context.
+
+Coronaviruses are a large family of viruses that usually cause mild to moderate upper-respiratory tract illnesses. While there are hundreds of coronaviruses in animals, only some jump to humans — called a zoonotic spillover. There were four human coronaviruses before 2002 which were known to cause mild illness in humans. They were not considered to be highly dangerous to humans until the outbreak of SARS in the Guangdong province in China.
+
+Skip ahead another 10 years, Middle East Respiratory Syndrome coronavirus (MERS-CoV) emerged in Middle Eastern countries and Africa with an estimated fatality rate of 35%, according to the World Health Organization (WHO). MERS-CoV transmitted to humans through an animal reservoir in camels and was identified in September 2012, according to the National Institute of Allergy and Infectious Diseases . The current COVID-19 pandemic is the seventh type of coronavirus to infect humans.
+
+Neoromicia, also called NeoCoV, was first detected in bats in 2011 and unlike the current SARS-CoV-2, it has not yet been found in humans. "Neo means new. So the investigators gave a fancy name to a coronavirus found in bats in South Africa. Fruit bats everywhere harbour Beta Coronaviruses," Dr TJ John, virologist and former professor at the Christian Medical College, Vellore told FactChecker. The high similarity in genome sequencing makes it a close relative of MERS.
+
+The Wuhan study warns about the possibility of a single mutation in the NeoCoV genome that could possibly infect human cells. While MERS-CoV and NeoCoV have a high resemblance, they use different receptors to infect cells. Besides, without this particular mutation, the two viruses do not efficiently interact with the human angiotensin converting enzymes ACE2.
+
+"This study seems like a standard study which many scientists conduct," said Lahariya. "This virus is a close relative of MERS which has high mortality. Although this virus does not have the potential to use human ACE2 receptors to infect humans, artificially created mutations could enhance NeoCoV's efficiency to interact with them."
+
+He explained that it's entirely an assumption to say those mutations will happen, the virus will transmit to humans and that will lead to high mortality. Dr Shashank Joshi, Chair (Southeast Asia), International Diabetes Foundation, and Dr Rajeev Jayadevan, Scientific Advisor, Indian Medical Association, also tweeted to clarify that the virus cannot infect or kill any human unless a new mutation occurs.
+
+Neo Cov demystified
+
+1 NeoCov is an old virus closely related to MERS Cov which enter cells via DPP4 receptors
+
+2. What's new : Neo cov can use ace2 receptors of bats but they can't use human ace2 receptor unless a new mutation occurs
+
+
+
+Everything else is hype 🙏 — Dr. Shashank Joshi (@AskDrShashank) January 28, 2022
+
+
+
+
+
+NeoCov is all over the news. Some facts, before we panic.
+
+
+
+This "not so new virus" was identified around 2013 in bats in S Africa, while looking for ancestors of the MERS CoV.
+
+
+
+Note: This virus has not infected man, and has not killed anyone.https://t.co/A6y73xWg9x
+
+
+
+1/ — Rajeev Jayadevan (@RajeevJayadevan) January 28, 2022
+
+When asked if there was a possibility that the virus, which has not infected a human yet, can infect humans in the future, John said the chances were minimal, but nor zero. "We have no evidence that this virus is a threat to humans," he said. Bat viruses do not easily jump to humans — bats are always arboreal (living in trees). But their droppings (guano) and saliva contain these coronaviruses, John concluded.

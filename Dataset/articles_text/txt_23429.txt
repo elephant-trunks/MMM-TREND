@@ -1,0 +1,21 @@
+While chairing the 25th meeting of the Group of Ministers on May 8, 2021 in New Delhi, Union Health Minister Harsh Vardhan claimed that no new COVID-19 cases were reported in 180 districts of the country between May 1 and May 7, 2021. He also said 18 districts had not recorded any new COVID-19 cases since April 24 and 54 districts since April 17.
+
+
+
+His claims are misleading. The Centre doesn't release district-wise data, other than for those districts that show a 20% or more increase in COVID-19 positive cases in a week. So, FactChecker resorted to data released by state governments, which is collated by COVID19INDIA . It is a crowdsourced initiative that collates data from bulletins from state governments and official government handles to update COVID-19 figures.
+
+Kurung Kumey district in Arunachal Pradesh, Hnahthial in Mizoram and Wokha in Nagaland are the only three districts in India that reported zero cases between May 1 and May 7, 2021, according to data aggregated by COVID19INDIA.
+
+Kurung Kumey and Hnahthial reported one case each between April 26 and 29 and Wokha reported three cases between April 30 and May 1. But, data on testing is not available on state governments' or Centre's websites for these three districts to help better understand the dip.
+
+Kurung Kumey in Arunachal Pradesh has a total of 118 confirmed COVID-19 cases, zero active cases and zero deaths till date. The district reported its first COVID-19 case on September 1, 2020 and since November 26, 2020 there hadn't been a single case for almost five months until one new case was reported on April 30, 2021. As of May 9, 2021, 5,282 vaccine doses had been administered in the district.
+
+Similarly, Hnahthial in Mizoram has only 24 confirmed cases, making it the district with the lowest COVID-19 cases. It had also reported zero active cases and deaths as of May 9, 2021. Its first COVID case was reported on August 3, 2020 and its latest case was reported on April 26, 2021. Vaccination related data is not available for this district.
+
+As on May 9, 2021, Wokha district in Nagaland has reported a total of 43 confirmed COVID- 19 cases, four active cases and one death. There has been no increase of new cases since May 1, 2021. A total of 15,445 vaccines have been administered, as per COVID19INDIA data.
+
+The other districts that have reported a percentage increase of less than 1% between May 1 and May 6, 2021 are Shi Yomi and Longding in Arunachal Pradesh. Mizoram, Arunachal Pradesh and Nagaland account for 0.17% of the total active cases in the country.
+
+As on May 10, 2021, India reported 3,66,161 new cases and 3,754 deaths totalling to an active caseload of 37,45,237, over 2.26 crore total confirmed cases and 2,46,116 total deaths in the country.
+
+(With inputs from Shadab Nazmi, visual data journalist, BBC India)

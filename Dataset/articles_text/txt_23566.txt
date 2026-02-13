@@ -1,0 +1,137 @@
+Mumbai's Mahim creek, coloured black with untreated sewage and industrial effluent. The city treats less than half its sewage--one of India's best rates--and the Maharashtra government has declared Mumbai free of open defecation, which, however, continues
+
+Mumbai and New Delhi: As many as 62,329 toilets were built every day over the last four years of the Swachh Bharat Mission (SBM), according to government claims. That’s 2.5 times the toilet-building rate of the previous government, and, if true, India is on track to be open-defecation free over the next 365 days--perhaps even before that, according to the man in charge of the ambitious mission.
+
+“We are very much on track to achieve swachh bharat (Clean India) by the stipulated date (October 2, 2019)... India is well on track to achieve [open-defecation free] status earlier than the proposed deadline,” Parameshwaran Iyer, secretary, ministry of drinking water and sanitation, and head of the SBM’s gramin (rural) programme told FactChecker over email.
+
+With 5 million and 86 million individual toilets built in urban and rural areas, respectively, and 513 districts and 3,062 cities declared “open-defecation free” (ODF), the SBM, or Clean India Mission--Prime Minister Narendra Modi’s pet programme--appears to confirm Iyer’s prediction.
+
+As of October 2, 2018, 25 states and union territories (all except Bihar, Jharkhand, Uttar Pradesh, Odisha, Karnataka, Telangana and Goa) have declared themselves as open defecation free.
+
+While SBM has some strong backers, such as Melinda Gates, who on October 1, 2018, wrote the programme was succeeding because it combined toilets and waste treatment with “community mobilisation”, the mission’s claims have been questioned (here, here, here and here)--particularly over the kind of latrines used, the certification of villages declared ODF and whether constructed toilets are actually used.
+
+Our investigation is second of a FactChecker series evaluating the government’s flagship programmes in the run-up to the 2019 general elections. The first part of this series was a three-part investigation of the government’s rural-jobs scheme, the Mahatma Gandhi National Rural Guarantee Scheme.
+
+Even if the government’s claims are taken to be true, there are two key questions:
+
+Who will clean toilets unconnected to sewer lines?
+
+Where will India’s collective excretions land up?
+
+At a time when 123 sewer workers have died since January 2017, one death every five days-- with pressure growing to enforce a 1993 ban on “manual scavenging”, the collection of excreta by hand--the answer to the first question is unclear. The answer to the second: In rivers, lakes and seas because 63% of India’s sewage is not treated, and the latest available Central Pollution Control Board data indicate that 351 stretches of India’s rivers are “critically polluted”--meaning a high concentration of organic pollutants (mainly sewage)--up from 302 in 2016.
+
+Sewage from a neighbourhood in Mumbai--a city declared open-defecation free in 2017--colours the water of the Mithi river black
+
+But ODF by its government definition means the “termination of faecal oral transmission by no visible faeces found in the environment/village and every household/public or community toilet using safe technology for disposal of faeces”.
+
+As much as 75% of this river pollution is caused by untreated sewage, according to a 2016 study from Water Aid, an advocacy, and there are fears that groundwater is being contaminated by sewage that is not directed to sewer lines and is left instead to seep into the ground or water bodies. The government does not see that as a problem.
+
+“There is very little evidence that sanitation interventions have caused groundwater contamination in recent years,” said Iyer, an assertion that experts dispute.
+
+A 2015 study in Bihar found faecal contamination in groundwater--the leading source of fresh water in India--around toilets with on-site sanitation systems, such as septic tanks and leach pits. Contamination was “inevitable”, said the study, calling for “increase in awareness” in communities regarding the risk.
+
+FactChecker asked Iyer about the contamination issue in a follow-up question. He sought time to respond; we will incorporate his response once he does. We sent another questionnaire to Hardeep Singh Puri, union minister for housing and urban affairs, the department that runs SBM-urban. We will update this story if or when he responds.
+
+Belated recognition of the problems beneath
+
+With Rs 66,757 crore ($9.2 billion) spent till date, the SBM is the best-funded sanitation drive in India’s history, but it does not adequately focus on what happens to the sewage in urban and rural India.
+
+No more than 56.4% of urban homes--where 377 million people live--in India are connected to sewer lines (36.7% of rural areas, where 833 million people live, have drainage), according to a 2017 national sample report, the latest data available. Further, India has the capacity to treat only 37% of the sewage generated in urban areas.
+
+“The target [of SBM] was to build toilets, it has completely overlooked on the septage (sewage), and is only focusing on building toilets,” said Uzra Sultana, project manager of Urban WATSAN (Water and Sanitation), Arghyam Foundation, an advocacy working on groundwater and sanitation.
+
+The SBM stops at construction of toilets and neglects sewage, she contended. “It has now included the parts after collection of sewage, that is transport and treatment in ODF-Plus,” said Sultana.
+
+ODF-Plus focuses sustaining community and public-toilet use by trying to keep toilets clean and working. There is also an ODF-Plus protocol, which addresses the safe containment, processing and disposal of faecal sludge. Both were released in August 2018, almost four years after SBM’s launch, overdue, considering the complications involved in designing the right toilet.
+
+Devils in toilet designs
+
+It is not economical to connect most rural households to sewer lines because homes are spread over large areas, and they do not generate enough sewage to justify such lines. So, experts said, sewage needs to be treated at the toilet site, but those who build toilets do not know enough about technical details.
+
+Training of masons, who build the sanitation structures that deal with household toilet waste, is critical but most of them learn on the job, have little formal training and hardly any understanding of technical standards, as IndiaSpend reported today based on a study in Tamil Nadu. The study found that most on-site systems flouted rules set by the Bureau of Indian Standards. For example, outlets were not always connected to soak pits and 40% of masons reported connecting septic tank outlets to open drains--an unsanitary practice that is polluting for the environment.
+
+The SBM guidelines list single-pit, twin-pit, septic tanks and bio toilets as “safe technologies”, but a septic tank must be cleaned by hand, as must a single-pit toilet, since rural India does not have pumps or sewers. But getting human “scavengers” to do this has been illegal since 1993. The guidelines thus recommend a “twin-pit toilet” for rural areas.
+
+Twin-pit toilets, as the name implies, have two connected pits with brick honeycombs, which let water seep out and keep sludge in. Each pit is good for about three years; once one pit is filled, it is blocked and other pit used. The sludge in the blocked pit decomposes in three years, so it can be removed and used as fertiliser, freeing up the pit for sewage again. Such a toilet “fulfills all sanitary requirement” and need “minimal maintenance”, according to the SBM guidelines.
+
+But twin-pit toilets are not commonly constructed. No more than three homes across nine gram panchayats (village councils) declared ODF in 2017 had twin pits in Udaipur, Rajasthan, IndiaSpend reported in August 2018, quoting a study by Accountability Initiative, a think tank.
+
+No more than 13% of toilets had twin pits, while 38% had septic tanks with soak pits and 20% had single pits--both damaging to the environment--according to an IndiaSpend analysis of raw data from the National Annual Rural Sanitation Survey, 2017-18--an independent verification survey often cited by the government--which surveyed 92,040 households in 6,136 villages.
+
+When septic tanks fill, they must either be abandoned or cleaned. In villages, that means someone must get down and bring the excreta out, a process called “manual scavenging”, which, as we said, is banned. It continues, though, and most manual scavengers are from the lowest castes, work under unhygienic conditions, with meagre or no pay and often die without compensation.
+
+‘Largest man-made calamity in the next few years’
+
+“There will be a large number of people that will get sucked into manual scavenging, and a large number of people are going to die in septic tanks,” said Bezwada Wilson, a 2016 winner of the Magsaysay Award, and national convenor of Safai Karamchari Andolan, a nonprofit that works to eradicate manual scavenging and rehabilitate scavengers. “It will be the largest man-made calamity in the next few years,” he told IndiaSpend.
+
+Apart from toilet type, solid- and liquid-waste management (SLWM) is one of the components of SBM (gramin or rural), with guidelines for low-cost drainage, soak channels/ pits, waste- stabilisation ponds--man-made water bodies to treat sludge by natural processes--and reuse of wastewater.
+
+No more than 8% (4,328 of 54,008) homes in 120 villages were connected to sewer lines, and only one village had a sewage-treatment plant, according to a 2018 report of the government’s auditor, the Comptroller and Auditor General (CAG), which studied these villages--in Gujarat--declared ODF in 2017. In 119 villages, sewage flowed into open land.
+
+In response to these findings, the assistant commissioner of SBM (Gramin) in the state capital of Gandhinagar acknowledged that the government had mainly focused on construction of individual household toilets--adhering to targets set in a baseline survey of 2012.
+
+This is the reality across gram panchayats, districts and states declared ODF, said experts.
+
+In 83% of 4,626 villages surveyed, sewage was let on to open land; in only 9% of these villages was it made less harmful in a sewage-treatment plant or transferred to the nearest sewage treatment facility, according to a 2017 survey released by the ministry of drinking water and sanitation.
+
+While the SBM guidelines describe types of toilets and sewage treatment, implementation has been focussed on building toilets and declaring toilets ODF; ODF-Plus is not followed with the same vigour, said Devashish Deshpande, senior research associate at Accountability Initiative.
+
+“Once that [ODF declaration] is done, the pressure significantly reduces on the frontline officers, at least (the ones) that we spoke to,” said Deshpande. “So, the only pressure is to get the toilets completed, targets completed and get the declaration done.”
+
+Urban India’s missing sewage-treatment plants
+
+If sewage treatment in villages is inadequate, what happens after you flush a toilet in a city or a small town?
+
+As we mentioned, 56.4% of urban households are connected to sewers; the rest do “on-site treatment”, larger versions of septic tanks, holding sludge but does not help it decompose. The sludge needs to be safely collected, treated and disposed off, but these measures are largely absent and have not changed after SBM, said experts.
+
+Indeed, building sewers and sewage-treatment plants are not a part of SBM-Urban, the ministry of housing and urban affairs told Parliament’s lower house, the Lok Sabha, in June 2018.
+
+Further, only 64% (522 of 816) sewage-treatment plants (STP) work, according to a March 2015 report--the latest available data--of the CPCB, which means more than a third of India’s STPs were not being used.
+
+Only 24% of sewage in cities treated
+
+India’s class-I cities (more than 100,000 population) and class-II towns (between 50,000 and 100,000) together generate an estimated 5.4 million tanker-loads--if lined up, they would circle the equator 1.3 times--or 33,212 million litres per day (MLD) of sewage (a tanker carries 7,000 litres) and can only process 24% of it, according to the CPCB website.
+
+"text-align: justify;">The problem of sewage has not been adequately addressed even by one of the richest municipalities in India--the Municipal Corporation of Greater Mumbai ; the city is one of 39 class-I cities with 1 million and above population, and in July 2016, the latest data available, it treated no more than 45% of its sewage--one of the best rates in India. The rest was discharged directly into the sea and creeks, said a 2017 CAG report
+
+Progress was tardy: Only 12 of 65 new sewer lines--a length of 60 km--in Mumbai were completed upto April 2016, and 32 of 101 projects to upgrade sewers were completed over the six years ending 2016, said the CAG report.
+
+The reasons for non completion ranged from giving “undue benefits to contractors (such as overpayment for machinery), blocking of funds for non commissioned works to failure to coordinate with the MMRDA [Mumbai Metropolitan Region Development Authority] and delays in finalising tenders”, said the CAG report.
+
+Related programmes are stuttering
+
+Sewage treatment not covered in SBM-urban has found mention in other programmes, such as the National River Conservation Plan (NRCP), Namami Gange and Atal Mission for Rejuvenation and Urban Transformation (AMRUT).
+
+Our assessment:
+
+National River Conservation Plan
+
+Launched in 1995, the NRCP has so far funded various pollution-control measures across polluted stretches of 32 rivers in 76 towns across 14 states: Rs 4,580 crore has been spent, split 50-50 between the Centre and states.
+
+In 2010, BOD levels (which is a proxy for organic pollution--the higher it is, the worse the river) improved, if it was not for the NRCP, it would be worse, so the programme continues.
+
+Namami Gange
+
+The government launched the Namami Gange programme in June 2014 to clean the river Ganga and its tributaries. Upgrading available sewage plants and setting up new ones are among the medium-term goals to be completed by 2022, the government told the Lok Sabha in April 2018.
+
+September 2018 was the deadline to complete sewage-treatment facilities for 106 towns in the seven basin states--Uttar Pradesh, Bihar, Delhi, Haryana, Jharkhand, Uttarakhand and West Bengal--of the Ganga, but the “treatment-capacity gap” was 2,109 MLD, or 300,000 tanker-loads equivalent, according to a 2017 CAG report. No more than 33% of the sewage-treatment capacity required for these 106 towns was under construction in 2016, according to the report’s data.
+
+The National Mission for Clean Ganga (NMCG) replied to the CAG in August 2017, saying there were many small towns where there was not enough sewage to justify the construction of STPs, and it was “exploring various other options”.
+
+"text-align: justify;">In many towns of Bihar, Jharkhand and West Bengal along the Ganga River, more than 75% of sewage is currently not treated.
+
+Atal Mission for Rejuvenation and Urban Transformation
+
+The AMRUT focuses on development of basic urban infrastructure, including sewage management in 500 mission cities and the ministry of housing and urban affairs has approved Rs 66,005 crore in funding.
+
+These projects are under various stages of implementation, according to information provided by the ministry to Parliament’s upper house, the Rajya Sabha in August 2017. “Cities can now include in their city plans funding (requests) for safe collection, safe transport and disposal of sewage,” said Uzra.
+
+--with additional reporting by Shreehari Paliath, a policy analyst at IndiaSpend and Factchecker.
+
+This is the second of an ongoing evaluation of major government programmes ahead of the 2019 elections. You can read the first part here:
+
+As Demand For Rural Jobs Rises, Government Curtails Funding For Key Employment Scheme
+
+(Yadavar is a principal correspondent and Salve is a senior analyst at IndiaSpend and Factchecker.)
+
+Correction: An earlier version of this story mentioned that Uttar Pradesh has been declared open defecation free, it has since been corrected.

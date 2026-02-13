@@ -1,0 +1,105 @@
+A morphed image of a hoarding featuring a message by Delhi Chief Minister Arvind Kejriwal praising his Aam Aadmi Party (AAP)-led government for installing dustbins in Kirtinagar Industrial Area is viral on social media.
+
+The viral photograph shows a hoarding at what appears to be a Delhi metro station. The text on the hoarding reads, "Congratulations Delhi — ten new dustbins have been installed in Kirti Nagar Industrial Area."
+
+(Original Text in Hindi: बधाई हो दिल्ली कीर्तिनगर इंडस्ट्रियल एरिया में दस नए डस्टबिन की व्यवस्था)
+
+Several Bharatiya Janata Party leaders including Kapil Mishra, BJP's Youth National Secretary Tajinder Pal Singh Bagga and BJP Delhi's social media-in-charge Naveen Kumar Jindal shared the morphed image and took a dig at Kejriwal for 'congratulating himself for installing 10 dustbins.'
+
+The Aam Aadmi Party and Bharatiya Janata Party have traded barbs and accused each other of spending crores on publicity rather than carrying out public works.
+
+Click here, here and here to see the archives of the posts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The photo is viral on Facebook as well. Click here to see an archive of one such post.
+
+
+
+Also Read: Ministry Of Civil Aviation Shares Image Of Bangkok Airport As Chennai
+
+Fact Check
+
+BOOM found several replies to the tweets by the verified handles which pointed out that the viral image has been edited. Netizens also posted an original image of the hoarding showing a Delhi government advertisement about financial help provided to the families who lost their loved ones to COVID-19.
+
+Its clear Photoshop.
+
+
+
+Actual pic below pic.twitter.com/QidLkLhwnB — AAP Ka Vikram 🏹 🇮🇳 (@vikrameffects) August 1, 2021
+
+Fact-checker SM Hoaxslayer who fact-checked this image earlier found that a Twitter handle named "@drapr007" had tweeted a higher resolution of the doctored image (2048 x 2048 pixels). Using the same doctored photo used in the tweet, we found several anomalies in the image.
+
+We found that the original text has been photoshopped by blending the blue background of the hoarding. The smidges of the original text can be seen in the far left corner of the photo.
+
+Also Read: Photo Claiming Delhi CM Kejriwal Appealed For Coal Donations Is Fake
+
+Additionally the Hindi word हो (बधाई हो) is not covered by the light reflecting on the hoarding. This suggests it has been digitally added on top of the image.
+
+
+
+
+
+
+
+Another noticeable difference is that when zoomed in, the Delhi government (दिल्ली सरकार) logo at the top right corner of the photo is blurred. However, the morphed text is clear. The contrast in clarity is also an indication that the image has been tampered with.
+
+
+
+
+
+
+
+Performing Digital Forensics On the Image
+
+We performed a digital forensics on the high resolution image using the InVid tool. We ran an Error Level Analysis (ELA) and JPEG Ghosts Algorithm analysis of the viral image.
+
+Below is the ELA result of the morphed hoarding, which show pixel irregularities in various parts of the image. The inconsistency of the pixels were higher on the text part of the image suggesting the image underwent digital manipulation.
+
+ELA Output From InVid
+
+The next image below is the result of a Ghost Algorithm Analysis. A Ghost Algorithm Analysis shows if the picture has traces of tampering by highlighting the regions that stand out - these regions are likely to originate from a different JPEG image.
+
+On performing the Ghosts Algorithm Analysis we found that the pixels of the texts were highlighted with yellow as well as red shades which suggested that part of the image has undergone digital manipulation
+
+Ghost Output From InVid
+
+Also Read: स्पीड ब्रेकर निर्माण की बधाई देते हुए केजरीवाल के पोस्टर का सच क्या है?
+
+Additionally, BOOM went to 5 Delhi metro stations to check the hoardings by the state government. Below is an image from one such metro station.
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is not the first time a morphed photo of an AAP hoarding has gone viral. Earlier BOOM Hindi fact-checked a viral photo of a poster claiming Arvind Kejriwal was celebrating installation of speed breakers in Delhi.
+
+
+
+(Additional Reporting Sujith A)

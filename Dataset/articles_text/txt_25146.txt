@@ -1,0 +1,49 @@
+Spread the truth:
+
+News claiming that “Pakistan has finally accepted Kashmir as a part of India” has been going around on social media since the last two days. This has been supported by various news articles published by several media agencies claiming the same.
+
+This particular map was embedded in Pakistan Government’s official website for Covid-19. It is a Bing map that has since been pulled off the website. It can still be found on the official Bing Covid-19 tracker.
+
+Facebook
+
+This piece of news can be seen circulating on Facebook with several claims revolving around the fact that Pakistan has given up on Kashmir.
+
+Twitter
+
+The same claim can be seen circulating on Twitter as well.
+
+Pakistan surrenders on #Pok…
+
+Accepts entire Jammu and Kashmir and PoK as part of India at Map published by Pakistan. — Karanjit 🇮🇳 (@connect2karanji) May 21, 2020
+
+Pakistan accepts entire Kashmir as part of India. Ghabrana Bilkul Nai..#Covid19 #ghabranabilkulnaihai pic.twitter.com/PMuWubAxdW — Rohitashw Trivedi – Astro logically Yours… (@jyotishkart) May 21, 2020
+
+Various reputed news agencies have published several news articles supporting the claim that Pakistan has shown Jammu and Kashmir, including Pakistan-occupied Kashmir (PoK) as a part of India.
+
+This news article can be read here.
+
+This news article can be read here.
+
+Truth
+
+The Bing map shows the entire region of J&K as a part of India only when it is accessed from India.
+
+The Government of Pakistan did not create this particular map. It is a Bing map that was embedded in their website. Bing has a feature where it shows the country boundaries based on the country it is accessed from.
+
+All the residents of India accessed this map from India, and thus they could see a map that looks like this:
+
+Since Kashmir has been part of India but currently is under talks, the entire boundary of Jammu and Kashmir is incorporated within India.
+
+We merely turned on the Proxy and selected the accessing country as Canada, refreshed the Map, it changed
+
+Simultaneously, when a citizen of Pakistan was contacted in order to verify this claim, he sent a screenshot of the map which looks like this:
+
+Here, we can clearly see that a major chunk of J&K has been incorporated in the map of Pakistan. This supports the statement that Bing maps show territories and boundaries based on the country they are accessed from.
+
+For a clearer view, a person from UAE was contacted to send a screenshot of what the map accessed from there looks like.
+
+Jammu and Kashmir is showcased in dotted lines in this map. The map when accessed from any country apart from India and Pakistan shows J&K in dotted lines. Dotted lines are indicators of a disputed territory.
+
+Hence, the claim that Pakistan accepted the incorporation of the entire region of J&K as a part of India is False.
+
+Related

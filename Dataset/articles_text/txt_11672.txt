@@ -1,0 +1,29 @@
+Claim
+
+An image of a menu card is going viral claiming to show that beef and pork dishes are served at Silly Souls Cafe and Bar, which is allegedly operated by Union Minister Smriti Irani’s daughter Zoish Irani.
+
+Screenshot of Tweet by @kamaalrkhan
+
+Archived linked to the same can be found here.
+
+Fact
+
+We looked up the menu of Silly Soul Cafe and Bar on Zomato. On carefully analysing the menu, we found it to be different from the viral image. Following this, we conducted a Google reverse image search of the viral image claiming to show the menu at the cafe allegedly run by Irani, which led us to a website called eazydiner. It featured the menu card of the Upper Deck restaurant at Radisson Blu Resort, Goa. On comparing the viral image with the menu card of Upper Deck restaurant, we found them to be the same.
+
+Further, we found an image of the same menu card on Zomato which was identified as the menu card of the Upper Deck restaurant. Both -the viral image and the Zomato image- are alike.
+
+(L-R) Menu card of Silly Souls Cafe and menu card of Upper Deck Restaurant | Source: Zomato
+
+A quick search for “beef” in Upper Deck’s menu on Justdial also yielded the same dishes in the “Beef and Pork” section.
+
+Screenshot of Just Dial website
+
+Additionally, the news website The Lallantop quoted an employee at the Upper Deck saying, “This is a picture of our restaurant. Although this menu is a year old. Beef has been removed from the new menu and now beef has to be ordered separately from the menu.”
+
+We can thus conclude that the viral image of the food menu card does not belong to a cafe allegedly run by Smriti Irani’s daughter. However, we could not independently verify whether beef or pork is served at Silly Souls cafe or not.
+
+Result: False
+
+If you liked this and want to read more such fact checks then click here.
+
+If you would like us to fact-check a claim, give feedback, or lodge a complaint, WhatsApp us at 9999499044 or email us at checkthis@newschecker.in. You can also visit the Contact Us page and fill out the form.

@@ -1,0 +1,77 @@
+Findings of research conducted by IIT Gandhinagar made headlines recently and caused huge panic everywhere.
+
+Citing this research, news media websites reported that scientists found “traces of Coronavirus” in the Sabarmati River in the city of Ahmedabad in Gujarat.
+
+This led to viral messages and posts claiming “coronavirus was found in drinking water” on social media furthering the general fear of getting a Covid-19 infection through the water.
+
+Screenshot taken from Google results.
+
+Fact Crescendo got in touch with the lead researcher of this study to understand what actually the findings of their study are and whether the media reported correctly on their scientific paper.
+
+WHO DID THE RESEARCH?
+
+Last year, researchers from IIT-Gandhinagar conducted a study to detect the presence of SARS-CoV-2 genetic material in the natural water in two urban cities of India.
+
+They had done a SARS-CoV-2 titre monitoring in various surface waters in Ahmedabad, Gujarat and Guwahati, Assam.
+
+Professor Manish Kumar of the Earth Sciences department in IIT-Gandhinagar led this study.
+
+“This study was done to substantiate the wastewater surveillance capacities in low sanitation cities without wastewater treatments and rural areas as well,” told Prof. Manish Kumar.
+
+UNICEF (Gujarat) and UK-India Education and Research Initiative (UKIERI) had funded this project.
+
+WHAT WAS THE REASON?
+
+Covid-19 positive patients can shed live coronavirus through fecal matter and urine, which poses a severe health risk of fecal-oral transmission or aerosolisation of water droplets containing the virus.
+
+The prevalence of such viruses in the waterbodies is likely to increase considerably during the ongoing Covid-19 pandemic. These worries are heightened in India; where raw sewage is often dumped into surface waterways and open defecation betide.
+
+“India is on the verge of facing a third wave of COVID-19. Therefore, surface waters receiving direct sewage can be targeted for surveillance of SARS-CoV-2 genome and it can provide a lot of insights on rising in transmissions, sanitation, future risks and management,” notes the paper.
+
+WHAT DID THEY FIND?
+
+The main objective of the study was to understand the frequency of positive occurrence of coronavirus titre in water bodies.
+
+The team collected the water samples once every week between 3 September and 29 December 2020 from Kankaria Lake, Chandola Lake, Vastrapur Lake and the Sabarmati River in Ahmedabad.
+
+The analogy of qRT-PCR assay analysis confirmed that the coronavirus genetic materials (N, S, and ORF 1ab genes) were present in the samples collected in Ahmedabad.
+
+“We found N-gene copies in the waters of the Sabarmati river, Chandola and Kankaria lakes. The ORF lab-gene was not found in Chandola, while S-gene copies were present in all the three water bodies,” Prof. Kumar told PTI.
+
+The water samples collected from Guwahati showed negative results for Covid-19 virus RNA.
+
+WHERE IT WAS PUBLISHED?
+
+The research paper detailing the methodology and findings was first published on the medRxiv website as a preprint on 16 June 2021.
+
+“The Spectre of SARS-CoV-2 in Ambient Urban Natural Water in Ahmedabad and Guwahati: A Tale of Two Cities” is the title of the paper.
+
+While publishing the paper, medRxiv put up a clear disclaimer that reads: “This paper is a preprint and has not been certified by peer review.”
+
+Screenshot is taken from medRxiv.
+
+Simply means that readers should be aware that the paper has not been finalized by authors, might contain errors, and report information that has not yet been accepted or endorsed in any way by the scientific or medical community.
+
+Journalists should emphasize that it has yet to be evaluated by the medical community and the information presented may be erroneous while reporting on the paper.
+
+WHAT WAS THE RESPONSE?
+
+After the findings of the research published, the Ahmedabad Municipal Corporation (AMC) decided to send water samples to the Gujarat Biotechnology Research Centre (GBRC).
+
+Harpalsinh Zala, city engineer for Water Resources at AMC, told Fact Crescendo that the finding of the research is being misinterpreted.
+
+“The unnecessary panic has caused rumors that coronavirus is spreading through drinking water. This is not true. The IIT-Gandhinagar research does not confirm that live Covid-19 virus has been found in Sabarmati River,” said Zala.
+
+He further said, “We regularly send wastewater samples to GBRC. Now we have sent a clear water sample as well. We will get the report in the next 2-3 days. But I assure people that drinking water in Ahmedabad is safe.”
+
+Dr. Bhavin Solanki, Head of Health Department in AMC, told Fact Crescendo that Ahmedabad city gets its drinking water from the Narmada river canal, not the Sabarmati River. Sabarmati River is just for beautification and used for irrigation. People should not worry or fear about the Sabarmati River being infected.
+
+WHAT IS THE FINAL WORD?
+
+The original scientific paper clearly mentions in the conclusion that only “SARS-CoV-2 genetic material” has been identified in water samples. The research paper also does not explicitly mention that they have found transmissible Covid-19 virus in the river water.
+
+“We have not found alive coronavirus in the water samples taken from the Sabarmati River or other lakes. We only found “fragmented genes” in the water. The news reports and general public misinterpreted our findings,” Prof. Kumar told Fact Crescendo.
+
+He added that the high concentration of gene found in natural waters only indicates low sanitation and have various health and ecological consequences that should be investigated further.
+
+There is no need to panic and spread rumours about Sabarmati River being infected with Coronavirus.

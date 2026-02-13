@@ -1,0 +1,23 @@
+A picture of Prime Minister Narendra Modi in a banner congratulating the toppers of the Government Engineering College in Thiruvananthapuram is going viral in different languages on social media. The photo of the banner has been shared by multiple users with captions like “Height of Narcissism” on platforms like Twitter.
+
+Here is one such post uploaded on Twitter by handle @aftabistan on August 12, 2021 at 03.32pm :
+
+Original Link- Twitter | Archived Link
+
+But when we researched this viral image we found out that this banner is edited. Let’s see what the reality is.
+
+Fact Check Methodology
+
+At first, we ran a reverse image search on Google for this image and found the original image on the Government Engineering College, Thiruvananthapuram page on the Just Dial website. The same car is parked in the same spot as the viral image but the banner is missing.
+
+Original Link- Just Dial | Archived Link
+
+Following this, we checked the edit history of the page with the help of Rex Swain HTTP Viewer tool. We checked the HTTP Header of the web page and found that the web page on Just Dial website was last modified in March 2020. This makes it clear that this image is old.
+
+Fact Crescendo Malayalam team contacted the Government Engineering College, Thiruvananthapuram for further clarification. Senior Clerk of the College Mr. T.A. Nishad clarified that this photo is fake. “No such incident has taken place in our College,” he said.
+
+You can see in the image comparison given below the real and the fake images.
+
+Conclusion
+
+The investigation has revealed that the viral claim that such a banner with PM Modi’s image was hung outside the Government Engineering College, Thiruvananthapuram is False. It is clear from the investigation that the viral image is morphed.

@@ -1,0 +1,41 @@
+Amid the deadly second wave of Covid-19, pulse oximeters have become a household gadget in India. However, a viral video showing an oximeter displaying the “oxygen level” of a sketch pen has left many puzzled and shocked. People sharing the video are calling oximeters a scam that are fooling people and creating unnecessary panic.
+
+The video shows a child inserting a sketch pen inside an oximeter and turning it on. The oximeter shows a reading. An adult standing close to him comments, “Oh, a sketch pen also has a heartbeat! Vande Mataram friends! See this, a sketch pen’s heartbeat and its oxygen level! Media is unnecessarily scaring people. Sketch pen has a heartbeat of 200 and oxygen level of 98. What sort of hypocrisy is this? Beware of this. Why is this unnecessary panic of falling oxygen levels?”
+
+advertisement
+
+A Facebook user shared this video with the caption, “Beware, don’t be tricked. Oximeter scam: A lifeless pen is also showing signs of life. Shows O2 and BPM in a sketch pen.”
+
+The video is being widely circulated on Facebook and WhatsApp. The archived version can be seen here.
+
+India Today Anti Fake News War Room (AFWA) has found it absurd to call oximeters a scam. Oximeters detect oxygen levels based on the amount of red and infrared light falling on its sensors, and if somehow, an object is placed in a way that some amount of light can reach the sensor, it might display a reading, mistaking the object to be a human finger or earlobe.
+
+In order to understand this properly, let us first know the functioning of a pulse oximeter. A basic pulse oximeter has a light source and a light detector.
+
+According to the British Lung Foundation, an oximeter shines two lights through your fingertip or earlobe: one red light and one infrared light. Blood containing lots of oxygen absorbs more infrared light and lets more red light pass through it. On the other hand, blood without enough oxygen absorbs more red light and lets more infrared light pass through it. If your blood cells do not have enough oxygen, they will appear bluer.
+
+Is it possible to trick the oximeter?
+
+The answer is yes. Oximeter is a simple device which, though not 100 per cent accurate, can give you a rough idea about your blood oxygen level.
+
+Dr Ishan Gupta, pulmonologist and chest specialist at Indraprastha Apollo Hospital in New Delhi, told India Today, “If a pen or any such object is loosely inserted in an oximeter and its photo sensor is able to detect light, it might show some reading. This does not mean the oximeter is faulty. This happens because it has been tricked to believe that the object is a human finger or earlobe.”
+
+Oximeter manufacturer’s take
+
+One of the major oximeter manufacturing companies in India, BPL, has dedicated a blog to clarify misconceptions related to oximeters. The reason behind oximeters giving a reading when used with a pen or pencil has been explained here.
+
+advertisement
+
+As per this blog, “The patient’s condition is detected based on the sensitivity of the amount of red and infrared light falling on the sensor of the pulse oximeter or probe in other machines. When this is obstructed by increasing the distance between the LED and the detector, or by inserting some object inside the probe, the module will think the finger is inserted and will start searching for a pulse. In this condition, the varying intensity of diffused light falling on the detector can cause a pulsating effect and lead to a reading on the pulse oximeter.”
+
+In an attempt to test the viral claim ourselves, we also inserted a pen in two different oximeters and did not get any reading in both cases.
+
+The Indian government has recommended people with Covid-19 symptoms and Covid-positive patients undergoing home treatment to monitor their oxygen levels with a pulse oximeter 3-4 times a day.
+
+Thus, it is clear that there is no evidence to support the fact that oximeters are a scam. They sometimes could show a reading when an object like pen is inserted in them because the varying intensity of diffused light falling on the detector can cause a pulsating effect and lead to a reading on the pulse oximeter.
+
+advertisement
+
+READ | Fact Check: Is it safe to use oxygen concentrator in a closed room?
+
+READ | Fact Check: Beware of ‘Covipri’, the fake Remdesivir injection circulating on social media

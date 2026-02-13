@@ -1,0 +1,123 @@
+"In one year and eight months, we have brought Bharat Sanchar Nigam (BSNL) on par with private players. Under National Democratic Alliance (NDA), BSNL, for the first time, had an operative profit of Rs 672 crore," former Minister for Communication and Information Technology Ravi Shankar Prasad said in May 2016 when the NDA government was about to complete two years in power.
+
+"BSNL has reversed the trend of operating loss," Prasad said in February 2016, answering a question in the Rajya Sabha (upper house of Parliament).
+
+On June 2, 2016, he also put out tweets on a supposed BSNL turnaround.
+
+Prasad did not appear sure about the public sector undertaking's success.
+
+In 2004 @BSNLCorporate was in profit of 10KCr. In 2014 it was in loss of 8KCr. In first year of @narendramodi govt it made operating profits — Ravi Shankar Prasad (@rsprasad) June 2, 2016
+
+On one occasion, he said it was the first time in "seven years" that BSNL had made an operating profit. On another occasion, he said it was the first time in "five years." Once, he insisted it was the first time.
+
+A fact-check of the minister's claims revealed they were either wrong or exaggerated.
+
+Neither the telecom secretary nor the minister's office replied to e-mail questionnaires and remainders sent by FactChecker.in on June 30, 2016 and July 5, 2016.
+
+1. BSNL has reported operating profit, but that doesn't mean it is profitable
+
+Claim: BSNL has reversed the trend of operating losses.
+
+Fact: A company making an 'operating profit' does not necessarily mean it has turned profitable.
+
+For instance, BSNL made an operating profit for the financial year 2014-15 but continued to be a loss-making company.
+
+A FactChecker.in right to information (RTI) request, made on June 16, 2016, seeking information on BSNL's operating profits over last five years, did not provide any details on the operating profit.
+
+"It was never calculated," a public information officer with BSNL's head office said on condition of anonymity since he is not authorised to give out such information. The annual reports make no mention of operating profits.
+
+A second RTI request, made on June 24, 2016, asking for copies of documents related to parliamentary questions on the 2014-15 operating profit of Rs 672 crore provided details of how BSNL had arrived at the figure. (Operating profit = profit before prior period item + financial expenses + depreciation)
+
+We used the same methodology to arrive at the operating profit figures for the previous four years.
+
+We found that the operating profit of Rs 672 crore was the lowest in the "last five years", barring 2013-14. Also, over the last five years, BSNL made an operating loss only in 2013-14.
+
+So, Prasad's claims of "reversing the trend of operating loss" of BSNL, and the company making an operating profit for the first time in "seven years", are not true.
+
+2. Congress rule Vs BJP rule: For same period, loss blamed on UPA, profit credited to NDA
+
+Claim: When NDA left office in 2004, BSNL had a net profit of Rs 10,000 crore but after 10 years of United Progressive Alliance (UPA) rule, it had a loss of Rs 8,000 crore. In one year of (Narendra) Modi rule, BSNL made an operating profit.
+
+Fact: The financial year for the loss of Rs 8,000 crore is not clearly mentioned in Prasad's tweets.
+
+According to official figures, the net loss for 2013-14 was Rs 7,020 crore, and was Rs 8,234 crore for 2014-15. It appears the latter figure was rounded off to Rs 8,000 crore.
+
+The NDA government came to office in May 2014. The net loss of Rs 8,000 crore for the financial year ended March 31, 2015—attributed to the UPA government—included 10 months of the NDA administration.
+
+The operating profit of Rs 672 crore for the same period (April 1, 2014 – March 31, 2015) was attributed to the NDA's "good governance".
+
+It is not clear how the net loss of a particular period is the previous government's fault and the operating profit for the same period a result of the current government's "good governance".
+
+From losses of 8000Cr to Operating Profit of 2000Cr. in two years. Transforming @BSNLCorporate by #GoodGovernance pic.twitter.com/LmbBVM180V — Ravi Shankar Prasad (@rsprasad) June 2, 2016
+
+
+
+
+
+When Vajpayee govt left office @BSNLCorporate was in profit of ₹10K Cr. When Modi govt came it was in loss of ₹8K Cr. — Ravi Shankar Prasad (@rsprasad) May 27, 2016
+
+3. Subscriber additions misleading; minister considered only new customers, not ones leaving BSNL
+
+Claim: "BSNL added 2–2.2 million new mobile connections in February last," the minister was quoted as saying by the Press Trust of India, a news agency, in May 2016.
+
+The "average monthly gross mobile connections added from July 2015" by BSNL has gone up to an average of 1.5 million, the minister said while answering a question in the Rajya Sabha, Parliament's upper house, during February 2016.
+
+Fact: The increase in BSNL's subscribers was neither 2–2.2 million nor 1.5 million as the minister claimed.
+
+The minster, on both occasions, mentioned only "new subscribers" and did not consider those who left BSNL.
+
+"Net addition in subscriber base" for a month provides the actual increase, as it takes into account new customers and those leaving.
+
+Telecom regulator Telecom Regulatory Authority of India (TRAI) also uses this criterion to analyse increase or decrease in subscribers.
+
+The net addition in the wireless subscriber base of BSNL for February 2016 was about 1.4 million (1,393,827), according to TRAI data, a figure 33.6% lesser than the 2 million to 2.2 million that the minister claimed.
+
+Source: Telecom Regulatory Authority of India (TRAI) telecom subscription data for July, August, September, October, November, December, January, February and March
+
+Also, the average net addition in the BSNL wireless subscriber base from July 2015 is nearly one million (868,004), a figure 42.1% lower than the 1.5 million Prasad claimed in Parliament.
+
+4. Success story of BSNL: Net loss has increased under NDA
+
+Claim: Prasad has spoken about BSNL's turnaround under Modi rule on many occasions.
+
+Fact: The overall performance of BSNL has not improved for several reasons:
+
+a) Net loss of BSNL increased under the present government.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: Lok Sabha
+
+b) BSNL's market share has declined in wireline, wireless and broadband sectors under NDA rule.
+
+Source: Lok Sabha
+
+c) Customers have been leaving BSNL's wireline service every month for the past year, while private-sector service providers, such as Airtel—the market leader—and Vodafone have added customers.
+
+Source: Telecom Regulatory Authority of India (TRAI) telecom subscription data for July, August, September, October, November, December, January, February and March
+
+5. Growth rate claim of highest monthly wireless subscribers partially true
+
+Claim: BSNL boasted of the highest monthly growth in wireless subscribers (1.67%) in February.
+
+Fact: True. But the net addition in subscriber base of BSNL in February was lower than other service providers.
+
+Source: Telecom Regulatory Authority of India (TRAI) telecom subscription data for February
+
+BSNL officers we spoke to said the government had made no major policy change but they did report heightened monitoring by the telecom ministry.
+
+(Babu is a Delhi-based independent journalist and a member of 101Reporters, a pan-India network of grassroots reporters)

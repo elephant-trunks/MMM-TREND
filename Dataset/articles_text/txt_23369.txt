@@ -1,0 +1,39 @@
+Union Home Minister Amit Shah, while addressing BJP workers in Taleigao, Goa on October 16, 2021, claimed that Prime Minister Narendra Modi has "enhanced the value" of Indian passports abroad.
+
+
+
+"Now after seeing an Indian passport, there is a smile on the face of the officer from any foreign country and they say you have come from Modi's country," Shah was quoted as saying by PTI . "Modi has increased the value of Indian passports and this was possible because the BJP has won with a majority in general elections," Shah added.
+
+This claim does not check out against the global ranking of India's passports. FactChecker looked at two sources — Henley Passport Index 2021 , a report by London-based global citizenship and residence advisory firm Henley & Partners, and Passport Index , an interactive real-time passport ranking tool by Arton Capital.
+
+India's Passport Value Lowest Since 2006
+
+India's rank fell by eight positions from 82 in 2020 to 90 in 2021, according to the Henley Passport Index 2021 , which was released on October 5, 2021. The Indian passport got a score of 58 which means that Indian passport holders are allowed to travel visa-free to 58 countries. India shares the rank with Tajikistan in Central Asia and Burkina Faso in West Africa.
+
+Henley & Partners, a London-based global citizenship and residence advisory firm have based their rankings on data provided by the International Air Transport Association (IATA) , a trade association for the world's airlines, representing around 290 airlines or 82% of total air traffic. The index, which is updated quarterly, includes 199 different passports and 227 travel destinations.
+
+Japan and Singapore topped this year's list with their passport holders permitted to travel visa-free to 192 countries across the world while Germany and South Korea (permitted to 190 countries) share the second spot. Notably, Japan has been holding the top position for the third consecutive year. Meanwhile, Afghanistan has ranked last (116) with its passport holders having access to only 26 countries.
+
+India's rank has slipped 14 places since PM Modi came to power — from 76 position in 2014 to 90 in 2021 — the lowest value of the Indian passport since 2006, according to the Henley Passport Index for the last 16 years.
+
+However, with a rank of 71 in 2006, Indian passport holders had access only to 25 countries, whereas visa-free entry has gradually increased to 58 countries in 2021. While the United States ranked first in 2006, it has fallen by seven positions in 2021 with access to 185 countries.
+
+India Toppled Down 18 Ranks Since COVID-19
+
+When it comes to the second source, India is placed at the 68th position and has a mobility score of 58. A mobility score is the total number of countries that can be accessed with a given passport. It is a calculated total based on Visa-free, Visa-on-arrival, Electronic Travel Authority (ETA), and eVisa issued within three days. For instance, an Indian passport allows a person to travel to 19 countries visa-free, 36 countries with a visa-on-arrival and 3 countries with an ETA. This means that their mobility score would be 19+36+3 = 58 which would allow them to travel to 58 countries with their passport.
+
+India's rank has slipped by 18 places from 48 in 2019 (beginning of the COVID-19 pandemic) to 68 in 2021. According to the Passport Index, the United Arab Emirates has the most powerful passport in the world allowing visa-free travel to 116 countries and visa-on-arrival travel to 57, for a total mobility score of 173 countries. Whereas, Afghanistan ranks the lowest in this index as well.
+
+
+
+FactChecker tried to contact Shah for a clarification via calls and email, but had not received a response by the time of publishing. If and when we do, this article will be updated.
+
+How is a Passport's Power Measured?
+
+"Passport value is defined as the difference between national income net of capital charges, wage costs and taxes when divided equally among the population; and is shown to depend on per capita income, the rate of growth and the parameters of the production function," according to a 1997 study titled 'The Economic Value of A Passport: A Model of Citizenship and the Social Dividend in a Global Economy'.
+
+The Henley Passport Index mainly ranks the passports of countries according to the number of destinations their holders can visit without a prior visa. The firm states that their research team uses publicly available and reliable online sources to cross-check each passport against all 227 possible travel destinations throughout the year amidst constant updates or shifts to visa policies across the globe.
+
+"For each travel destination, if no visa is required for passport holders from a country or territory, then a score with value = 1 is created for that passport. A score with value = 1 is also applied if passport holders can obtain a visa on arrival, a visitor's permit, or an electronic travel authority (ETA) when entering the destination. These visa-types require no pre-departure government approval, because of the specific visa-waiver programs in place," according to the index .
+
+On the other hand, where a visa is required, or where a passport holder has to obtain a government-approved electronic visa (e-Visa) before departure, a score with value = 0 is assigned. The same applies if travellers need pre-departure approval for a visa on arrival, adds the report.

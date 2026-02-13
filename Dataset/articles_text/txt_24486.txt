@@ -1,0 +1,53 @@
+The Union Coal Ministry had recently claimed that there has been a major fall in internet data costs since Prime Minister Narendra Modi-led BJP government came to power in 2014.
+
+
+
+"Surprising fall in data prices in Modi government! It is the result of visionary thinking of PM Shri Narendra Modi ji that today the digital technology gap is shrinking very fast. Today data is available to everyone at very low prices and very easily," the tweet read when translated.
+
+मोदी सरकार में डाटा कीमतों में आश्चर्यजनक गिरावट!
+
+
+
+यह PM श्री @narendramodi जी की दूरदर्शी सोच का परिणाम है कि आज digital technology gap बहुत तेजी से कम हो रहा है। आज डाटा, सबको बेहद कम कीमतों पर और बेहद आसानी से मिल रहा है। #8YearsOfTechPoweredIndia pic.twitter.com/Tgh4L2nl6v — Coal Ministry (@CoalMinistry) June 10, 2022
+
+Fact-check
+
+
+
+The ministry claimed that per GB data cost had reduced from Rs 308 in 2014 to Rs 9.53 now in 2022. FactChecker looked at the records of Telecom Regulatory Authority (TRAI) of India to verify this claim and found it to be partially true.
+
+According to TRAI's analytical report on Wireless Data Services in India, "The average cost to subscriber for wireless data in the year 2014 was Rs 269 per GB and in the year 2015, it was Rs 226 per GB."
+
+This proves that the first part of the ministry's claim is off by Rs 39 as per GB cost of data was Rs 269 in 2014 and not Rs 308 as the ministry claimed.
+
+The second part of the claim is correct though. The price per gigabyte of data was Rs 9.53 in July-September 2021, according to the latest 'Indian Telecom Services Performance Indicator Report' published in January 2022.
+
+The country has seen a significant decline — 96.4% in data prices in the last eight years. On introduction of 4G (LTE) technology in India, the average cost to a subscriber for wireless data usage sharply declined to Rs 75.57 per GB during 2016.
+
+While the 4G network was first introduced in India back in 2012 in the form of dongles and modems, it was available for mobile networks only in 2016. In 2015, average cost to a subscriber for wireless data usage was Rs 226 per GB. Since then, the average cost sharply declined to Rs 75.57 per GB in 2016 and further dropped to Rs 19.35 per GB in 2017 and Rs 11.78 in 2018.
+
+According to the Indian Telecom Services Performance Indicator Report for the quarter ending December 31, 2019, the average cost had reduced to Rs 8.45 per subscriber per GB.
+
+Later, data costs increased to Rs 10.55 per GB in the first half of 2020-21. In June 2021, the average cost to a subscriber for wireless data usage was Rs 9.8 and by September 2021, it dipped to Rs 9.53.
+
+FactChecker tried contacting Dr Anil Kumar Jain, Secretary, Union Ministry of Coal, via email and phone call for clarification on the ministry's claim, but had not received a response by the time of publishing this article. If and when we do, the response will be updated here.
+
+More Subscribers, More Shutdowns
+
+India has 788.77 million broadband subscribers, as on April 30, 2022, according to the June 16, 2022 press release by the Telecom Regulatory Authority of India (TRAI). This includes wired subscribers, mobile devices users (phones & dongles), fixed wireless subscribers (WiFi, point-to-point radio, etc).
+
+Reliance Jio Infocomm Ltd (411.31 million), Bharti Airtel (215.28 million), Vodafone Idea (122.06 million), BSNL (26.10 million) and Atria Convergence (2.08 million) were the top five internet service providers covering 98.49% market share of the total broadband subscribers at the end of April 2022.
+
+Internet connections saw a 231% spike since 2014 — 25.15 crore in March 2014 to 83.37 crore in June 2021, according to Union Ministry of Communications' December 2021 press release .
+
+Average monthly data consumption per wireless data subscriber increased manifold too. It was 61.66 MB in March 2014 and jumped to 14 GB in June 2021. Broadband connections rose from 6.1 crore in March 2014 to 79 crore in June 2021, read the press note.
+
+However, as per the 'Digital Quality of Life Index 2021' , which researches the quality of digital wellbeing in 110 countries, India ranked 109th — one of the worst in internet speed. The country also fared poorly (Rank 91) in electronic infrastructure. The index is prepared by Surfshark , a virtual private network provider based in the Netherlands. The index is based on the five core 'digital quality of life' pillars — internet affordability, internet quality, electronic infrastructure, electronic security, and electronic government.
+
+Although India fared well in internet and mobile affordability (Rank 24) and broadband internet stability (Rank 21), overall the country dropped by two ranks — 57th position in 2020 to 59th in 2021 .
+
+Moreover, India has already witnessed 60 internet shutdowns in 2022, according to data maintained by Software Freedom Law Center (SFLC), a legal services organisation based in Delhi. There has been a 900% increase in internet clampdowns — 60 by June this year from six in 2014. However, 2018 saw the highest number of shutdowns (135). In 2019, it reduced to 109 shutdowns, then rose to 132 in 2020 and dipped to 101 in 2021.
+
+In India, internet shutdowns are not always announced officially. This way consumers are not able to determine if there is an issue with their device or if a shutdown has been imposed. Raman Jit Singh Chima, Senior International Counsel at Access Now, which works for securing an "open Internet", told The Indian Express that some telecom companies alert people through SMS, but there is no requirement for it.
+
+While governments justify shutdowns by arguing that misinformation and rumours spread through the internet can disrupt law and order, many experts believe that absence of authentic information sources help rumours spread even more.

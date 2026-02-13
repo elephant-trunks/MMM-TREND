@@ -1,0 +1,11 @@
+On October 6,2021, many users on Twitter and Facebook began posting an image of a boy stating that this 13 year old boy hacked into Facebook servers which led to a worldwide shutdown of Facebook, Whatsapp and Instagram. They claimed that many outlets such as Reuters have reported that this boy’s name is Sun Jisu and also collectively blamed China for the outages.
+
+Many posted the claim over and over again on twitter and Facebook.
+
+Fact-Check:
+
+We found various statements made by Facebook executives who addressed the outage that ended up lasting 6 hours. As per their reports the outage took place due to a ‘faulty configuration change’ that affected its DNS. You can read the full statement here .
+
+Additionally, we reverse image searched the picture of the boy and found several articles dated 2014 about a 12 year old chinese hacker named Wang Zhengyang. He was 12 years old in 2014 which means the boy is close to 20 years old now. Even state-owned Chinese media site reported on the boy along with his pictures.
+
+After establishing the above mentioned facts, this claim is hence fake.

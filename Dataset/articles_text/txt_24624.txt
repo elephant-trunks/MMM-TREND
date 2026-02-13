@@ -1,0 +1,85 @@
+With 2.64 million tuberculosis (TB) cases in 2019, India sees 275 cases every hour and has the largest share of the global burden (27%), according to the World Health Organization's 2020 Global Tuberculosis Report . India is followed by China (14%) and the Russian Federation (8%).
+
+
+
+In India, Uttar Pradesh (20%) has the highest cases of TB, followed by Maharashtra (9%). Madhya Pradesh (8%), Rajasthan (7%) and Bihar (7%).
+
+TB is an air-borne disease caused by bacteria called 'mycobacterium tuberculosis' that most often affects the lungs. The disease kills an estimated 4,45,000 Indians every year and more than 1,200 every day. According to the India TB Report, an estimated 2.7 million people contract TB every year.
+
+This theme of this year's World Tuberculosis Day, observed on March 24 to raise public awareness, is ' The Clock is Ticking '. This is to convey "the sense that the world is running out of time to act on the commitments to end TB made by global leaders". Although the global target is to eliminate TB by 2030, the Indian government wants to achieve it by 2025.
+
+While TB is one of the most common diseases in the country, it is also one of the most misinterpreted diseases.
+
+To debunk myths surrounding the disease, FactChecker spoke to Dr Debadutta Parija, a public health professional with more than two decades of experience of working in TB control programmes and a former medical officer at FIND, a global health diagnostics non-profit based in Geneva, Switzerland. Here are 11 myths he busted:
+
+Myth 1: TB infection and TB disease are the same
+
+TB is an air borne disease caused by bacteria. The bacteria can be transmitted via droplets through air and can infect anyone coming in contact. The bacteria can exist in the air for up to six hours , during which another person may inhale it. However, not all those who are infected get the disease. The disease occurs only when the bacteria is actively multiplying in the human body.
+
+If, however, the TB bacteria remains inactive in the body without producing any signs or symptoms of TB, the person is said to have TB infection or latent TB. Hence, all infected persons will not have the disease. The probability of an infected person breaking down into active TB disease is remote unless the immunity of the infected person is compromised.
+
+Myth 2: TB is genetic/hereditary
+
+There is no specific gene that can cause TB. Instead, it's caused by bacteria called mycobacterium tuberculosis. It can only spread when a person with active TB disease coughs, laughs or sneezes. TB can also lay dormant in persons and the symptoms may not be obvious right away. Symptoms like fever, cough, chest pain, night sweats and weight loss may show up only in mild capacity.
+
+Myth 3: Every person with TB is infectious
+
+For TB to be infectious, it should affect the lungs and the patient should be symptomatic (active TB case). This will lead to the patient coughing out droplets laden with bacteria, which is how TB is transmitted.
+
+In addition, various other factors affect transmission of infection – the environment (open air, sunlight inhibits transmission), the immunity of the exposed person and so on. The chances of transmission from an extra pulmonary (affecting organs or tissues other than lungs) TB case are much lower.
+
+Myth 4: There is only one kind of TB
+
+Apart from lungs (pulmonary TB), the bacteria can affect any part of the body including the bone, spine, meninges , intestine, eye, skin, brain and any living tissue except hair and nails. Another type of TB is Drug Sensitive TB (if the disease is sensitive to all first line anti-TB drugs) or Drug Resistant (if the patient is resistant to one or more anti TB Drugs).
+
+Myth 5: TB is incurable
+
+TB can be treated, prevented and cured. There are effective drugs (a combination of 4-6 drugs) for treating TB. If diagnosed early and followed by a full course of the correct medicines, a complete cure is almost guaranteed in the vast majority of patients.
+
+"The only way to treat the disease is by administering a combination of proven drugs that kill the bacteria. Hence, the mainstay of treatment is always going to be allopathy," said Parija.
+
+However, immunity plays an important role in determining the susceptibility of the human body to get infected by the bacillus, the probability of this infection breaking down into active disease and the speed of recovery with the use of drugs. That's why any therapy that has been proven to improve the immunity of the patient should help. But Parija reiterated that the mainstay of treatment should be proven drugs, nutritious food and adequate rest.
+
+Myth 6: Once cured (with medicines) of TB, there are no chances of developing it again
+
+Recurrence of TB can take place in a cured TB patient. In fact, the chances of relapse are the highest within two years of successful completion of treatment, Parija said.
+
+Myth 7: BCG vaccinated people will not develop the disease
+
+BCG or bacille Calmette-Guerin, at best, provides protection against certain serious forms of the illness. For example, the vaccine has a documented protective effect against meningitis and disseminated TB in children. It does not prevent primary infection and, more importantly, does not prevent reactivation of latent pulmonary infection, which is the major source of bacillary spread in the community.
+
+Thus, the impact of the vaccine in preventing transmission of TB is at best, limited.
+
+Myth 8: TB causes infertility
+
+This is partially true. Genital TB can affect the fallopian tubes causing stiffening or even obstruction leading to infertility as well as increased chances of an ectopic pregnancy (when the foetus grows outside the uterus). It can also affect the endometrium (inner layer) of the uterus leading to difficulties in conceiving or can cause complications.
+
+Myth 9: TB can be transmitted through sexual contact
+
+This too is partially true. According to Dr Parija, transmission through sex, although possible, is extremely rare. However, if the patient has Pulmonary TB (TB in lungs), close contact may lead to TB in the exposed person as to infected droplets may be released by coughing, sneezing, talking, kissing and so on.
+
+Myth 10: TB only occurs among lower socioeconomic groups – is a disease of the poor.
+
+"This is, in fact, one of the most common misconceptions. TB affects all stratas of society and can occur in people of all age groups and classes. But yes, certain populations such as immigrants, people with reduced immunity (including PLHIV), elderly, inmates, homeless etc. are at a greater risk," said Parija.
+
+Myth 11: Animals can't spread TB
+
+Bovine TB is a rare condition caused by a specific type of Mycobacteria (M. bovis) that primarily affects cattle but can be transmitted from animals to humans. This can be transmitted by the usual inhalation of infected droplets or by consumption of unpasteurised dairy products. However, this is extremely rare.
+
+Other facts about TB
+
+When asked if newborns can contract TB, Parija said the disease can be transmitted to a newborn from an infected mother, which is also known as congenital infection. "This happens by vertical transmission — through umbilical veins to the foetal liver and lungs; swallowing of infected amniotic fluid inside the uterus (in utero) or during the process of birth (intrapartum) may cause primary infection of foetal lungs and gut. However, this too is extremely rare. The newborn is more likely to get TB during nursing and due to bad cough hygiene practised by the infected mother," said Parija.
+
+Did you know that a healthcare provider can be fined or imprisoned or both under the Indian Penal Code (IPC) section 269 and 270 for failing to register a TB case with the government? "Most private sector doctors have been reporting their TB cases to the TB Program in India. Mainly because the law has made reporting of TB cases mandatory," Dr Srikanth Tripathy, Director, Medical Research, Dr DY Patil Medical College, Hospital and Research Centre, Pune, told Factchecker.
+
+Way forward
+
+Indian TB deaths represented 32% of global TB mortality and that it is unlikely for India to meet its 2025 target of eliminating the disease, read a 2019 report published by The Lancet. However, experts FactChecker spoke to said they were hopeful of India achieving the goal by 2025 provided the country strictly abides by the National Strategy Plan (NSP) 2017- 2025, to eliminate the disease.
+
+"The main aim of NSP is to reduce estimated TB incidence, prevalence and mortality (per 100,000) and to achieve zero catastrophic cost for affected families due to TB," said Tripathy.
+
+"Elimination here, means 80% reduction in the incidence and 90% reduction in TB-related mortality. However, we need to understand that this will not be possible with the efforts of the health department only. Eliminating TB will require active community participation, rapid development of effective vaccines, access to the latest molecular diagnostics in the remotest corners of the country, active advocacy at all levels," explained Parija.
+
+He added that elected representatives should roll out effective air-borne control measures in health setups as well as communities and should spread awareness created by COVID-19 on use of masks and social distancing.
+
+There should also be massive drives to diagnose and treat TB infections before they break down into active disease and to detect and manage malnutrition and so on, Parija ended.

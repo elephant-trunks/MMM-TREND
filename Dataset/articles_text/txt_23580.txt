@@ -1,0 +1,103 @@
+Mumbai: Up to 55% of all accounts opened under the Pradhan Mantri Mudra Yojana (PMMY or the Prime Minister’s Small Business Finance Scheme) belong to individuals from scheduled castes (SC), scheduled tribes (ST) and other backward classes (OBC), the Bharatiya Janata Party (BJP) recently claimed on Twitter.
+
+In fact, 63% of the loan amount actually disbursed in 2017-18--as against the accounts opened as shown in the infographic that accompanied the tweet--has gone to individuals from the “general” category, according to government statistics accessed by FactChecker. The pattern has remained unchanged since the scheme started in 2015-16.
+
+Together, SCs, STs and OBCs form 78.4% of the India’s population, so if 55% of PMMY accounts are in their name this is an under-representation.
+
+Further, conflating the number of accounts opened with improved access to finance ignores several important points. The largest-value loans, of above Rs 10 lakh, have been given disproportionately to general category individuals, to the extent of 88.7%. And the average loan size, Rs 45,203, may be too small to have a meaningful impact on job creation, according to experts.
+
+“Majority of loan amounts have been disbursed under the Shishu category, these are quite small to create a new business unit," Happy Pant, head of advocacy at the Centre for Budget and Governance Accountability, a nonprofit, told FactChecker.
+
+PMMY: A brief background
+
+The PMMY scheme was launched by Prime Minister Narendra Modi in April 2015 to improve access to microfinance for non-corporate, non-farm small/micro enterprises and stimulate job creation. Individuals can apply to private or public banks for loans of up to Rs 10 lakh without having to provide collateral.
+
+Traditionally, financial institutions have prefered to lend to larger companies that are able to provide collateral, instead of lending to Micro, Small & Medium Enterprises (MSMEs), which are often run by first-time entrepreneurs often believed to represent greater credit risk.
+
+MUDRA encourages banks and micro-finance institutions (MFIs) to lend to MSMEs by providing funds to public and private banks to service them. MSMEs can secure loans without collateral, and are expected to use the borrowed funds to support their business activities such as buying equipment, renting premises or financing other immediate needs.
+
+Has PMMY improved inclusivity?
+
+Many micro and small enterprises in India belong to those from marginalised groups who lack access to formal credit. Forced to deal mostly in cash, they rely on informal sources of finance such as small-time moneylenders who often charge 60%-100% interest, according to the Asian Development Bank.
+
+Historically disadvantaged groups in India are today categorised under three sub-categories: ‘scheduled castes’, who are Hindu communities previously deemed to have a low status within the caste system; ‘scheduled tribes’, geographically remote communities marginalised as a result of isolation; and ‘Other Backward Classes’, communities that do not fall into either of the two previous categories but are considered to have a lower status in the caste hierarchy.
+
+All other caste and religious groups come under the ‘general’ category.
+
+The majority of those receiving MUDRA loans belong to the general category, according to data provided by the MUDRA head office to FactChecker in response to an emailed questionnaire, and this has not changed in the three years since the scheme has been operational.
+
+Individuals in the general class received 63% of the total loan amount disbursed in 2017-18, followed by OBCs (22%), SCs (11%) and STs (4%). The breakdown in previous years shows minor fluctuations, but no significant change.
+
+Source: Data supplied by MUDRA head office on request from FactChecker.
+
+Additionally, the proportion of OBC, SC and ST groups accessing higher-value loan amounts has not increased since the scheme’s inception.
+
+The majority of loan amounts disbursed under the two highest-value categories--Kishor (loan value between Rs 50,000 and Rs 5 lakh) and Tarun (Rs 5-10 lakh)--went to those in the general category, and by a substantial margin.
+
+In fact, the percentage share of loan amounts disbursed to the general class under the Kishor category has increased from 73.7% in 2015-16 to 76.8% in 2017-18. Similarly, under the Tarun category, loan amounts disbursed to general category account holders have risen from 83.6% in 2015-16 to 88.7% in 2017-18.
+
+Source: Data was supplied by MUDRA head office on request from IndiaSpend.
+
+Has PMMY boosted job creation and entrepreneurship?
+
+The PMMY’s objective is to spur entrepreneurship and ultimately support the growth of MSMEs, thereby enabling them to create jobs and contribute to economic growth. However, the average size of a MUDRA loan since the scheme’s inception is just Rs 45,203. No more than 1.4% of loans disbursed have been larger than Rs 5 lakh, according to MUDRA data.
+
+MUDRA Loans By Size Loan Type 2015-16 % Share Of Total No. Of Loans 2016-17 % Share Of Total No. Of Loans 2017-18 % Share Of Total No. Of Loans 2015-18 Combined % Share Of Total No. Of Loans Shishu Loans 3,24,01,046 92.90% 3,64,97,813 91.90% 4,26,69,795 88.70% 11,15,68,654 90.90% Kishor Loans 20,69,461 5.90% 26,63,502 6.70% 46,53,874 9.70% 93,86,837 7.60% Tarun Loans 4,10,417 1.20% 5,39,732 1.40% 8,06,924 1.90% 17,57,074 1.40% Total Loans 3,48,80,924 3,97,01,047 4,81,30,593 12,27,12,564 Total Amount Disbursed 1,32,954.00 1,75,312 2,46,437 5,54,703 Average Loan Size (Rs) 38,117 44,158 51,202 45,203
+
+Source: 2015-16 and 2016-17 data available on mudra.org.in; 2017-18 data were supplied by MUDRA head office on request from FactChecker.
+
+Commentators have questioned whether the small size of the average loan can enable employment generation and economic growth. Some critics have also pointed out that most self-employed people may not have full-time work--they may actually be underemployed--so the quality of jobs created by MUDRA loans may be sub-par.
+
+“It is difficult to understand how important MUDRA is as a source of job creation, since no count of the number of ‘created’ jobs exists,” said Pant. “There is no formal data on employment generated due to these loans.”
+
+Women beneficiaries make up 44% of all loans sanctioned under the PMMY scheme, according to the MUDRA 2016-17 annual report. However, 98% of loan accounts belonging to women are for loans under the ‘Shishu’ category--valued up to Rs 50,000--again raising doubts about their capacity to support entrepreneurship and generate jobs.
+
+Earlier in 2018, the labour ministry proposed to include people self-employed under PMMY under the employed category when computing government statistics, a move that would give the government’s job-creation credentials a boost ahead of the 2019 general election, The Economic Times reported on January 30, 2018.
+
+When FactChecker asked the MUDRA Head Office to share data on jobs directly created through the disbursement of loans under the scheme, they were unable to provide any.
+
+“The details of jobs generated under the scheme are not being captured on the MUDRA portal,” said Ramakant Babu Rahate, deputy general manager at MUDRA, in an email response. “However, the portal captures data pertaining to new loan accounts/entrepreneurs. Total 3.50 crore new entrepreneurs have availed loans under MUDRA Yojana in last three years.”
+
+This response was based on the assumption that the number of loan accounts opened equals the number of entrepreneurs, which, as we have said before, may be inaccurate.
+
+MUDRA loans, fraud and NPAs
+
+In February 2018, the CBI filed a case against a Punjab National Bank official, accusing him of fraudulently disbursing 26 MUDRA loans amounting to Rs 60.2 lakh, the Business Standard reported in February 2018.
+
+The bank official was able to exploit the fact that MUDRA loan applications do not require collateral, and allegedly did not conduct a thorough verification of the business model and the loan’s purpose.
+
+When asked to share data on the number and amount of loans known to have been fraudulently disbursed or used for non-business purposes, Rahate said they were not aware of any such cases.
+
+“Simple documentation and zero collateral has been prescribed so as to enable Micro Entrepreneurs to avail such Loans,” Rahate said in response to our request for comment on whether the absence of collateral makes PMMY prone to fraud.
+
+However, critics have pointed out, this may be good politics but bad economics.
+
+Nearly 3.91 million MUDRA loan accounts had turned into non-performing assets (NPAs) since the inception of the scheme as of June 2017, as per a response to a question in the Lok Sabha (lower house of parliament) by the finance minister.
+
+The NPA ratio for PMMY loans of up to Rs 10 lakh, which the government includes under MUDRA, was 11.5% in December 2017, according to a March 2018 report of the Small Industries Development Bank of India.
+
+This is the ninth part in our series checking the National Democratic Alliance government's claims on completion of four years in office. You can read the other parts here:
+
+Smart Cities: Rs 2 lakh Cr Budget; 0.09% Of Central Funds Spent
+
+Ujjwala Yojana Performs As Per Claim, But Challenges Evident
+
+20 New AIIMs Coming Up: BJP. Fact: 11 Get 3% Funding
+
+Foreign Direct Investment Up: Govt. True, But Not When Compared To GDP
+
+Least Train Mishaps In 2017-18, But 3 Times More People Dead In NDA’s 4 Years
+
+85% Rural Work Wages Paid On Time: BJP. Claim Reflects Pay Orders Not Wages
+
+8 Of BJP’s 15 Claims On Rural Sector Check Out, 5 Do Not
+
+10 Million Youth Trained: Govt. Skills Dubious: Govt Committee
+
+(Sanghera, a graduate of King's College, London, is an intern with IndiaSpend and FactChecker.)
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.
+
+__________________________________________________________________
+
+“Liked this story? Indiaspend.org is a non-profit, and we depend on readers like you to drive our public-interest journalism efforts. Donate Rs 500; Rs 1,000, Rs 2,000.”

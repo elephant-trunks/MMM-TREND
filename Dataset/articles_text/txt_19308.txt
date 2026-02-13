@@ -1,0 +1,57 @@
+Several messages on social media are falsely amplifying the narrative that in the price buildup of petrol, state taxes and levies are higher than the Central taxes and thus should take the blame for the recent surges in retail prices.
+
+However, according to publicly data available with the Petroleum and Planning Analysis Cell (PPAC), a body under the Ministry of Petroleum and Natural Gas, the central excise of ₹32.90 exceeds that of state taxies and levies across four states/cities - Delhi, Mumbai, Chennai and Kolkata.
+
+This has been circulating as a WhatsApp message, a screenshot of which can be seen below. It shows that out of a potential price of ₹103.05, the state government is charging ₹41.55 as its taxes, versus the central government that is charging just ₹19.50. The rest of the breakup is the base price of petrol and the dealer's commission.
+
+
+
+
+
+A similar message was also tweeted by Tathagatha Roy, a former Governor of Tripura, who blamed the Mamata Bannerjee led government in West Bengal.
+
+It translates to:
+
+"This rate chart should be hanged every petrol pump. Basic rate- Rs 30.50, Central Govt Tax- Rs 16.50, West Bengal Govt's tax- Rs 38.50 and Distributer's charge- Rs 06.50. Total Price of Petrol- 92.05. Now public must understand for price hike who is responsible and how much responsible?"
+
+Also Read: Explained: Why LPG Cost More During UPA Than Post 2014 NDA Regime
+
+FactCheck
+
+The retail prices of petrol for Mumbai, Delhi, Chennai and Kolkata are available as a daily time series with the PPAC, though the buildup of these prices are only available for Delhi.
+
+Though the PPAC retail prices are daily singular price point; the ultimate end pricing depends on various oil marketing companies - namely Hindustan Petroleum Corporation Limited (HPCL) Limited, Bharat Petroleum Corporation Limited (BPCL) and the Indian Oil Corporation (IOC). This means that the final prices for petrol can vary across pumps of different oil-marketing companies, though only slightly. For example, price of petrol by IOC on July 1 in Delhi was ₹98.81, it was ₹₹98.85 by BPCL and ₹98.87 by HPCL.
+
+Nonetheless, these buildups for Delhi across all companies commonly show that the end consumer pays:
+
+The price to the dealer Central Excise (which is a union government levy) Value-added tax [VAT] (which is a state government tax) Any other taxes or levies like cess or per litre charges that may be imposed by the state government (which is not the case of Delhi) Dealer commissions
+
+
+
+
+
+Even through the actual buildup is available only for Delhi, the data on the components mentioned above for each state is available with the PPAC, from where the buildup of the price of petrol for all can be estimated.
+
+The dealer commissions in this case are taken as constant ₹3.82 per litre. This commission changes with the price of petrol.
+
+Per litre of petrol, ₹1.40 is charged as basic excise duty, ₹11 as special additional excise duty, ₹2.50 as agriculture, infrastructure and development cess and ₹18 as additional excise duty (road and infrastructure cess). Together, they sum up to ₹32.90 of central excise, which is constant in prices of petrol across states.
+
+The above mentioned breakup of excise charged on petrol and diesel can be found here (initiates download).
+
+Here's how the price of petrol are calculated in these four cities/states. In all four states, state levies are close to, but still less than central excise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The data of all the VAT and state level data can be found with the PPAC here (triggers download).
+
+The time series of the retail prices of petrol across all metros can be found with the PPAC here.

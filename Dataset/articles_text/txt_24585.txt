@@ -1,0 +1,63 @@
+While addressing the nation on June 7, 2021, Prime Minister Narendra Modi said that during his term the government managed to cross 90% immunisation coverage in India as compared to just 60% in 2014.
+
+
+
+"In 2014, India had 60% vaccine coverage, we managed to take it past 90% during our term," said Modi. He added that the central government, through initiatives like Mission Indradhanush (MI) and Intensified Mission Indradhanush (IMI), expanded the coverage to reach over 90% children.
+
+However, his claim is misleading because the 2014 data is sourced from the National Family Health Survey NFHS-4, whereas the current 90% coverage data is from the Health Management Information System (HMIS). According to health policy experts FactChecker spoke to, the latter is not reliable for policy purposes and not comparable with the NFHS data.
+
+Further, Modi's claim does not even show the whole picture as India has been unsuccessful in reaching the target of 90% coverage for routine immunisations for the last four years . To add to this, the NFHS-5, 2019-20 report only covers 22 states and Union territories of which only 17 saw more than 70% vaccination coverage.
+
+While releasing National Family Health Survey's (NFHS-5) report for the first phase on December 12, 2020 , Union Health Minister Harsh Vardhan said, "On comparing NFHS-4 and NFHS-5 data, the increase in full immunisation coverage is observed to be expeditious in many states and UTs; in 11 out of the 22 states/UTs, the increase was to the tune of over 10 percentage point and in another 4 states/UTs between 5 to 9 percentage point over the short span of 4 years. This can be attributed to the flagship initiative of Mission Indradhanush launched by the government since 2015."
+
+
+
+To this, T Sundararaman, former Executive Director, National Health Systems Resource Centre, said Vardhan's statement indicates that the actual achievement would be maximally about 10% more than 2014, perhaps much less. "In effect, therefore the PM's statement is misleading and not borne out by facts," he said.
+
+Under the various phases of Mission Indradhanush, 3.8 crore children have been vaccinated so far in the country, as per a Lok Sabha response on March 19, 2021.
+
+The Universal Immunization Programme (UIP) which was launched in 1978, currently targets 26.7 million (2.67 crore) infants and 29 million (2.9 crore) mothers annually. Under UIP, the government provides free vaccines against 12 vaccine preventable diseases: Diphtheria, Pertussis, Tetanus, Polio, Measles, Rubella, severe form of childhood Tuberculosis, Rotavirus Diarrhea, Meningitis, Hepatitis B and Pneumonia.
+
+FactChecker had emailed the Prime Minister's Office for his clarification and will update the story as and when we receive a response.
+
+National Family Health Survey most reliable
+
+
+
+There are three main systems to measure full immunisation coverage, according to the 2019-20 annual report released by the Ministry of Health and Family Welfare (MoHFW).
+
+1.Online web-based Health Management Information System (HMIS), which the NITI Aayog referred to in its SDG (Sustainable Development Goals) India Index 2020-21 report released on June 3, 2021, shows that full immunisation coverage of the country stands at 91.76%. For 2013-14, the HMIS report only provides that 16,976,106 children were fully immunised in the age group of 9-11 months and not the percentage.
+
+2. National Family Health Survey (NFHS): According to NFHS-4, 2015-16, in India the national average for full immunisation is 62%, DPT-3 coverage is 78.4% and for measles first dose it is 81.1%.
+
+3. Concurrent monitoring of the Universal Immunization Programme which is conducted through session as well as community monitoring shows a full immunisation coverage of 83%.
+
+Of these three, NFHS data is the most credible source of information, experts say. According to KS James, Director, International Institute for Population Sciences (IIPS), NFHS data is reliable because sources like HMIS give data based on the percentage of children fully immunised, but only in the age group of 9-11 months.
+
+"NFHS is the best source of information to understand immunisation. Immunisation is always computed for 12-23 months. Any other calculation will provide a wrong picture as this is a rate we compute for one year. So, 12-23 months means immunisation for a one-year period as well as age and period also go together," said James.
+
+"HMIS is based on a reporting system mainly from public hospitals and cannot be trusted for computing immunisation rate. If we consider HMIS, many times, the immunisation rate may come more than 100% as well," he added.
+
+
+
+Another data point that shows the immunisation level differently is the 2015 report published by Gavi during the meeting of the Strategic Advisory Group of Experts on Immunization in October 2015. This report, which includes the "Routine immunisation coverage in Gavi countries", lists India along with 15 other countries that had reached 80 to 89 per cent coverage in 2014.
+
+
+
+What does immunisation data show?
+
+India's national immunisation coverage has improved from 36% in NFHS-1 (1992-93) to 42% in NFHS-2 (1998-99) to 43.5% in NFHS-3 (2005-06) and 62% in NFHS-4 (2015-2016). Only the Union territories of Dadra and Nagar Haveli and Daman and Diu have managed to achieve 94.9% coverage (just once), according to NHFS-5, 2019-20 report.
+
+While the HMIS data puts the coverage at 100%, NFHS data puts it at 81.7%. Similarly, for Bihar, the figures are 94% in HMIS and 82.7% in NHFS. For Kerala, it is 92% and 85.2 %. In Assam, 85% and 71.8% and for Himachal Pradesh, 86% and 96.4%, respectively. Moreover, States and Union territories like Maharashtra, Jammu and Kashmir, Haryana, Delhi, Chandigarh have crossed the 100% immunisation coverage in the HMIS survey.
+
+When asked about the reason for the wide gap between both data sources, Sundararaman said, "NFHS data is based on a well-tested sample survey and therefore captures public and private coverage and those who have never been covered by health care programs. Whereas, HMIS data tends to report only on children registered and being followed up by the public sector. Private sector data is based on hearsay or missing, and many children are in areas where there is no coverage-like in urban slums."
+
+Challenges
+
+
+
+The MoHFW, in January 2019, released a roadmap highlighting insufficient demand due to vaccine hesitancy as one of the main challenges in immunisation targets. Strategies such as building 'vaccine confidence' or mitigating the fear of post vaccination effects, conducting gap assessments to identify issues in key processes such as micro-planning and headcount survey, using school children and religious leaders as ambassadors for immunisation, improving interpersonal communications skill training for frontline workers among many others have been chalked out to increase demand.
+
+"There are also vast inter-state differences. These are due to low levels of health awareness and due to skewed deployment of human resources and infrastructure. There is a great need to ensure that the density of public health care facilities and infrastructure is adequate to achieve universal immunization," said Sundararaman.
+
+The COVID-19 pandemic has only added to the existing challenges. Immunisation programmes existing before the COVID-19 vaccination drive have been affected severely. With the third iteration of IMI 3.0, the central government has again resolved to increase immunisation coverage to 90%. In a press conference on February 19, 2021, Vardhan said beneficiaries from migration areas and those who were left out during internal migrations will be targeted as they may have missed their vaccine doses during COVID-19.

@@ -1,0 +1,65 @@
+A government-led scheme to improve energy efficiency and cut emissions in some of India’s most energy-intensive industrial units has purportedly exceeded targets, saving enough energy to avoid capacity addition equal to India’s entire nuclear-power capacity as of end 2016, and preventing as much CO2 from being released into the air as would have been discharged by 19.4 million Indians in one year at 2013 levels. For perspective, this is equivalent to the population of Delhi and Bengaluru.
+
+However, the government is not making the relevant data public, citing companies’ right to keep them confidential. Releasing the data even partially--by sector, if not by individual unit, for instance--would encourage good performers while creating pressure on under-achievers to do better during subsequent cycles.
+
+Targets surpassed
+
+The first cycle of the government’s Perform, Achieve and Trade (PAT) energy efficiency scheme, which ran from 2012 to 2015, contributed to an emissions reduction of 31 million tonnes of CO2, energy savings of 8.67 million tonnes of oil equivalent, and avoided capacity addition of about 5.6 gigawatt (GW), the ministry of power said in a March 2017 press release.
+
+One tonne of oil equivalent (toe) is equal to the approximate amount of energy that can be extracted from one tonne of crude oil. It is used to compare energy from different sources.
+
+The scheme also resulted in monetary savings of Rs 37,685 crore, and channeled an investment of Rs 24,517 crore into energy-efficient technologies by the participating industrial units, the ministry said.
+
+The PAT scheme uses a market-based mechanism to enhance energy efficiency. Large industrial consumers of energy (called designated consumers or DCs) are given energy efficiency targets. Those who exceed their targets are awarded energy savings certificates, or ESCerts, which they can sell to those who fail to meet theirs. At the end of the first cycle, 3.8 million certificates were issued, one tonne of oil equivalent being equal to one ESCert.
+
+The scheme was launched under the National Mission for Enhanced Energy Efficiency (NMEEE), one of the eight missions announced under India’s National Action Plan on Climate Change in 2008. The NMEEE is run by the Bureau of Energy Efficiency (BEE), which functions under the ministry of power.
+
+Perform, Achieve and Trade Scheme: Industry-wise Targets For Energy Saving Sector Annual Energy Consumption (In mtoe) Target Energy Saving (In mtoe) Power (thermal) 104.56 3.211 Iron & steel 25.32 1.486 Cement 15.01 0.815 Aluminium 7.71 0.456 Fertilizer 8.2 0.478 Paper & pulp 2.09 0.119 Textile 1.2 0.066 Chlor-alkali 0.88 0.054
+
+Source: Bureau of Energy Efficiency; mtoe: million tonnes of oil equivalent
+
+Under cycle 1 of the Perform, Achieve and Trade scheme
+
+The first PAT cycle, PAT-I, covered eight energy-intensive sectors, in which 478 designated consumers (DCs) took part. These sectors--aluminium, cement, chlor-alkali, fertilizer, iron and steel, pulp and paper, textiles, and thermal power--account for one-third of India’s total energy consumption.
+
+Lowering energy intensity (energy consumption per unit of gross domestic product, measured in megajoule per rupee) through efficiency measures remains intrinsic to solving the country’s dual challenge of rising energy requirements and falling energy security.
+
+Source: Ministry of Power
+
+Source: Ministry of Statistics and Programme Implementation
+
+Energy efficiency measures are also vital because a unit of energy saved is greater than a unit produced, since it saves on losses during production, transmission and distribution, thereby creating what is known as a ‘Negawatt’, greater in value than a megawatt, according to the 2006 Integrated Energy Policy report released by the erstwhile Planning Commission.
+
+For the second cycle, PAT-II, which began in 2016 and will run until 2019, the number of designated consumers rose to 621 and sectors to 11 (with the addition of petroleum refineries, railways and electricity distribution companies), which account for close to 45% of India’s industrial energy consumption.
+
+“We do not have actual energy consumption [statistics] for the industrial sector. The main reason for this is that substantial consumption happens in the small and medium enterprises, and it is not possible to gauge the consumption happening at the micro level, and the estimate varies from 150 million tonnes of oil equivalent to 200 million tonnes of oil equivalent,” Shubhashis Dey, Manager of the Energy Efficiency Program at the Shakti Sustainable Energy Foundation, a not-for-profit organisation based in New Delhi, told IndiaSpend.
+
+The DCs are given targets for decreasing their specific energy consumption (SEC), which is the net energy input divided by the net quantity of output measured in tonne of oil equivalent per unit of product.
+
+“The mandated decrease in the specific energy consumption under PAT programme has led to a decline of 4-5% in their specific energy consumption in 2015 as compared to that in 2012,” this 2015 report from the ministry of statistics and programme implementation stated.
+
+The SEC reduction targets under the PAT scheme are unit-specific, and not uniform across the board for every sector, which makes comparisons difficult especially as energy consumption varies widely even within sectors.
+
+“A homogeneous baseline was not possible under this programme because every unit within each industry has a different kind of set up, with variations in technology, age and size. Hence, all the DCs were given individual targets based on three years of base data provided by DCs since 2009,” Sanjay Dube, Director for South Asia at the International Institute for Energy Conservation, an NGO that works across Asia, told IndiaSpend.
+
+Audit data not released
+
+Energy auditors accredited by the BEE verified energy use reductions by DCs, based on which the ministry of power issued ESCerts on February 16, 2017--nearly two years after the end of the first cycle, and after the second cycle had already begun.
+
+However, none of the savings information verified by energy auditors is in public domain. “The declaration from BEE is on the basis of the data they have received from the designated consumers, which is supposed to be verified, but it is not shared in the market, neither is it available on their website,” Dube said. “Accredited auditors were to cross-check the savings, based on which the ESCerts were to be issued. How much of this information has been verified and how it is going to be documented for future reference remains unclear.”
+
+In response, SK Khandare, Energy Economist at the BEE, said all the savings data have been verified. “We have all of the individual audit reports but these are confidential files so we cannot release them. Information about how many DCs have achieved their targets and how many have not are only given out to certain stakeholders since this is restricted information. The participating industrial units have requested confidentiality because this is highly sensitive information, and they are right, because this is where their business interest lies,” Khandare told IndiaSpend in a telephonic interview.
+
+Businesses are increasingly mindful of environmental costs, and going green presents a lucrative opportunity. India’s oldest stock exchange, the Bombay Stock Exchange, for instance, launched a green index in 2012 to enable businesses and investors to assess companies’ carbon performance. The government could tap this increasing awareness to encourage more and more businesses to reduce their emissions and overall carbon footprint.
+
+Trading delayed
+
+The second aspect of the programme--trading of ESCerts--has been delayed due to technical problems, leaving doubts over the potential prices ESCerts will fetch as well as whether there will be an oversupply given that the energy saving target has been overshot.
+
+Dey said PAT-I offered plenty of low-hanging fruit--for example, an iron and steel plant could install a waste recovery unit to utilise the gases coming out of the blast furnace to generate electricity for use within the plant. Achieving targets during PAT-II will be technologically and financially more difficult and will entail process innovation to save energy along the production line.
+
+Therefore, some businesses may hoard their ESCerts to sell or use during the next cycle--businesses can carry forward their ESCerts to PAT-II, though not beyond--as tougher targets will mean fewer ESCerts, which may fetch higher prices. Since targets for PAT-II are more stringent, saving ESCerts now and utilising them during PAT-II makes economic sense.
+
+This is why there is a need to strengthen the trading part of the programme, Dey said, expressing confidence that the programme will work: “Every industrial unit that was part of the first PAT cycle has actually saved money in the long run by using energy efficiency interventions, which means that the incentives are already built into the system. The focus now should be to expand the PAT scheme by including more industries and creation of an energy efficiency fund to support innovation.”
+
+(Patil is an analyst with IndiaSpend and FactChecker.)

@@ -1,0 +1,35 @@
+Since the bloody clashes between Indian and Chinese troops at Galwan Valley in Ladakh calls to boycott “Made in China” products have grown louder in India. Amid this, a viral post on social media purportedly gives a handy tip to differentiate between Chinese and Indian products just by the product barcode.
+
+According to the post, “barcode starting with number 690 to 699 is country code of China” and “barcode starting with number 890 is country code of India”. This is going viral on Facebook with the hashtag “#boycottchinaproducts”.
+
+advertisement
+
+India Today Anti Fake News War Room (AFWA) has found the viral post to be misleading. The first three digits of the barcode number do not indicate the country where the product was manufactured. It is true that prefixes 690 to 699 are assigned to China, but that doesn’t mean products with those prefixes are all made in China.
+
+The archive version of the post can be seen here. Several Facebook users have shared the post.
+
+How do barcodes work?
+
+The thin black and white stripes called barcodes, found on almost all consumer products worldwide, is a method of representing data in a visual, machine-readable form. This is accompanied by a product number, usually printed just below it. This unique number, called Global Trade Item Number (GTIN), identifies trade items, products or services.
+
+GS1 is a global non-profit organisation that works with manufacturers to assign this unique number used with the barcode.
+
+What do barcode prefixes indicate?
+
+The first three digits in a barcode number are significant. They do not imply which country the product was manufactured in, but the country in which the company is based.
+
+When a company applies for a GS1 prefix, they simply state where they are located to receive the prefix, and can choose to manufacture their product anywhere in the world.
+
+This means, the company is headquartered or has an office in that location, but the product could have been made in another country.
+
+According to the GS1 website, “The GS1 Prefix does not indicate that the product was manufactured in a specific country or by a specific manufacturer; it may have been produced anywhere in the world.”
+
+It is true that prefixes 690 to 699 are assigned to GS1 China, and ‘890’ is assigned to GS1 India, but that doesn’t mean products with those prefixes are made there. GS1 assigns prefixes to companies based on a set of country codes.
+
+For example, if an Indian company imports a product from China and then re-packages it and sends it to Bangladesh, the product will have India’s barcode. In that case, a buyer in Bangladesh would not know the original manufacturer of the product.
+
+advertisement
+
+Conclusion
+
+Since the prefix of the barcode number does not indicate the manufacturing destination, the viral message asking people to boycott Chinese products just by identifying its first three digits is misleading.

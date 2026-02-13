@@ -1,0 +1,109 @@
+A viral message, stating that states levy a hefty 55% tax on the prices of liquified petroleum gas (LPG), a common household cooking fuel, is false.
+
+Unlike petrol and diesel, where the central government and the respective state governments set their own indirect taxation, domestic LPG falls under the Goods and Services Tax, and is thus taxed uniformly at 5%.
+
+The message claims to show that since states have a larger share of the taxation in the pricing of LPG, they are more to blame for the rising retail prices. Compared to this, the message also claims that the central taxation on LPG is a mere 5%.
+
+This is being shared on social media and WhatsApp through a fictitious breakup of prices of a gas cylinder worth ₹861.18, with the state allegedly levying ₹291.36 as taxes on a base price of ₹495, but the Centre only ₹24.75. The remaining components of this breakup are transportation and dealers' commission.
+
+Also Read: Explained: Why LPG Cost More During UPA Than Post 2014 NDA Regime
+
+The claim can be seen below.
+
+"GAS (LPG) ^^^^^^^^ Basic price ..........Rs. 495.00 Central Govt Tax..Rs. 24.75 Transportation. Rs. 10.00 -------------------- Total price...........Rs. 529.75 State Govt Tax....Rs. 291.36 State transport...Rs. 15.00 Dealers commission. 5.50 Subsidies ..........Rs. 19.57 -------------------- Consumer pays.Rs. 861.18 -------------------- Central Govt. Tax 5%, State Govt. Tax 55% so Please find which Government is guilty for hiking the cooking gas price."
+
+This can be found widely on social media.
+
+
+
+
+
+
+
+
+
+FactCheck
+
+1. Do the states and the central government have differential levies on the price of LPG?
+
+Unlike petrol and diesel, which have different levies by both the state and central governments, LPG falls under a singular GST.
+
+Petrol and diesel have two taxation components, one each levied by the central and state governments, both of which factor into the pricing mechanics of these products :
+
+Central excise, currently at ₹32.90 per litre of petrol and ₹31.80 per litre on diesel. State Value-Added Tax [VAT], whose percentage can vary from state to state. Some states may also levy per litre charges, or a cess on both these products over and above VAT. Some jurisdictions like Delhi may also tax the dealer's commission, while other states do not.
+
+
+
+
+
+However, LPG falls under GST, which has an overall 5% levy on the price of domestic LPG. That's 2.5% to the state government (SGST), and 2.5% to the central government (CGST).
+
+
+
+This can be seen below, in data published by the Petroleum Planning and Analysis Cell (PPAC), a body under the Ministry of Petroleum and Natural Gas. it frequently releases a snapshot of oil, petroleum and gas data data for the Indian market, which can be read here. The data given below was released in June 2021.
+
+GST, Excise and Customs Duty on a variety of energy products Credit: PPAC
+
+
+
+
+
+Earlier, BOOM debunked a claim where similar breakups were shared, showing that states had a higher share in taxes than the Centre in the prices of petrol, and were thus to blame in the recent rises in its prices. BOOM found that while the taxes and charges levied by states did come close to central excise levied in a number of states, it did not exceed it.
+
+The excise duties imposed on petrol and diesel can also be found in the screenshot above. The states taxes and charges can be found with the PPAC here (triggers download).
+
+Our story can be read by clicking on the link below.
+
+2. How is LPG priced?
+
+Information on the price buildup of LPG cylinder is also publicly available with the PPAC.
+
+Numerous factors go into the pricing of LPG. The largest of them is the "free on board" price, which is linked to the price of energy internationally. The PPAC defines this as:
+
+FOB (free on board) of LPG is weighted average of Saudi Aramco contract price (CP) for butane (60%) & propane (40%) for previous month and also includes daily quotes of premium / discount (published by Platts Gaswire) averaged for the previous month.
+
+Further, there are components like customs, transportation, commissions, GST, and bottling costs.
+
+
+
+The entire breakup of the LPG prices in Delhi as of November 2018 can be seen below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Further, an explanation from the November 2018 ready reckoner of the PPAC can be found below. It further reinforces that the GST imposed on LPG is 5%.
+
+
+
+
+
+
+
+
+
+The data can be found here.
+
+3. What is GST as a share of LPG's retail selling price?
+
+The PPAC's ready reckoner's also give us a glance into how GST stacks up as a percentage of what LPG retails at.
+
+In its November 2020 ready reckoner, PPAC data shows GST worth ₹28.30 was 4.8% of the retail selling price of LPG worth ₹594 as of November 1 at Delhi. This can be seen on page 67 of this document.
+
+
+
+
+
+
+
+
+
+In its June 2020 ready reckoner, PPAC data shows GST worth ₹28.25, again 4.8% of the retail selling price of LPG worth ₹593 as of June 1 at Delhi. This can be seen on page 63 of this document.

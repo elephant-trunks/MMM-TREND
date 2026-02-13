@@ -1,0 +1,29 @@
+Mumbai: The top 20 countries with the most COVID-19 cases together have as much population as India, but have 84 times the cases reported and 200 times the deaths in India, said Lav Agarwal, joint secretary, Ministry of Health & Family Welfare, on April 28, citing the World Health Organization's (WHO) data. While the claim is true, it fails to mention the fact that these 20 countries have conducted 28 times the tests conducted in India, FactChecker.in analysis reveals.
+
+Claim: “The World Health Organization data shows that the combined population of 20 nations where maximum COVID-19 cases have been found is almost the same as India’s population. Further, these nations have together reported 84 times the number of cases reported in India.”
+
+“In addition, compared to the 20 nations where maximum COVID-19 cases have been reported, India has reported only 1/200 times [0.5%] the number of deaths as the total number of deaths in these 20 countries.”
+
+In addition, compared to the 20 nations where maximum #COVID19 cases have been reported, India has reported only 1/200 times the no. of deaths as the total no. of deaths in these 20 countries - @MoHFW_INDIA https://t.co/CQWuvYZ3gx #IndiaFightsCorona https://t.co/eNjUUGlXdj — PIB India #StayHome #StaySafe (@PIB_India) April 28, 2020
+
+Fact: Partly true. The population of just one of these 20 countries, China, is more than that of India. So, on that count, Agarwal’s contention is incorrect.
+
+Further, the combined population of the top 20 countries--excluding China--that report the most COVID-19 cases, is 1.35 billion, as much as that of India, according to data from the WHO and the World Bank. The figures cited by the government official comparing India with these countries in terms of cases and deaths reported hold true. However, these 20 countries have conducted over 20 million tests by April 28, which is 28 times the number conducted by India (716,733 tests), as per Our World In Data, an initiative by the University of Oxford.
+
+These countries together reported 2,400,663 COVID-19 cases or 86 times those of India (27,892), as on April 27, according to WHO’s situation report. Likewise, these 20 nations reported 181,435 deaths or 208 times the number of India (872).
+
+However, it is important to note that in terms of testing, the United States of America has tested more people than any other country--5 million tests--and also has the highest number of total confirmed cases and COVID-19 deaths in the world, according to the WHO bulletin of April 27.
+
+COVID-19: Top 20 Countries And India Countries Confirmed Cases Deaths Population (in millions) Total Testing Tests Per Million United States of America 931698 47980 326 5793162 17770 Spain* 207634 23190 46.7 1,035,522 22174 Italy 197675 26644 60.4 1,846,934 30578 Germany** 155193 5750 82.9 2547052 30724 The United Kingdom 152844 20732 66.4 599339 9026 France 123279 22821 66.9 724574 10831 Turkey 110130 2805 82.3 948,115 11520 Iran (Islamic Republic)*** 90481 5710 81.8 432,329 5285 Russian Federation 87147 794 144.4 3,139,258 21740 Brazil 58509 4016 209.4 339,552 1622 Belgium 46134 7094 11.4 233081 20446 Canada 45778 2489 37 740859 20023 Netherlands 37845 4475 17.2 215169 12510 Switzerland 28978 1336 8.5 264781 31151 Peru 25331 700 31.9 239,563 7510 Portugal 23864 903 10.2 395771 38801 Ecuador 22719 576 17 50961 2998 Ireland 19262 1087 4.8 153,054 31886 Sweden** 18640 2194 10.1 119,200 11802 Saudi Arabia 17522 139 33.6 200,000 5952 Total 2400663 181435 1349 20018276 14839 India 27892 872 1352 716733 530 China 84341 4643 1392 NA
+
+
+
+Source: Our World In Data, WHO and Indian Council of Medical Research; World Bank; Worldometer
+
+Note: Testing figures as on April 28; *April 23, **April 26, ***April 27
+
+Data for Brazil and Saudi Arabia are from Worldometer and are as of April 30
+
+Indian states and union territories that have more testing centres and are testing more samples are reporting higher numbers of confirmed COVID-19 cases, an IndiaSpend analysis of testing and case data from 11 states showed on March 25.
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.

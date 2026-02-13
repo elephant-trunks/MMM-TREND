@@ -1,0 +1,83 @@
+New Delhi: In November 2017, the environment ministry urged the Supreme Court to push a deadline to cut emissions of oxides of nitrogen (NOx) from thermal power plants to 2022 saying there is no proven technology available for emission control. But indigenous technology developed by a private firm yielded ‘excellent results’ as far back as in June 2012, according to a FactChecker investigation.
+
+NOx is a toxic gas that can cause respiratory infections and sicken or kill people after it takes the form of PM 2.5--airborne particles 30 times finer than a human hair that enter their lungs.
+
+Thermal power plants were expected to cut their NOx emissions by December 7, 2017, according to a 2015 law, but they did not, as IndiaSpend reported on December 21, 2017. Justifying the delay, the Centre claimed that there is no proven technology for reducing the NOx emissions in line with the new norms.
+
+However, India does have indigenous technology available to cap NOx emissions, according to the Central Pollution Control Board (CPCB), India’s apex pollution control authority.
+
+FactChecker’s repeated calls and emails over 45 days to the ministry of environment and the ministry of power--which controls environmental compliance by power plants--yielded no response. We will update the story if and when we receive a reply.
+
+“[T]he indigenous technology for 'Selective Catalytic Reduction' (SCR) adaptable to both low and high levels of NOx emissions developed by ACC's R&D (research & development) Division at Thane, is a significant step,” this June 2012 bulletin from CPCB noted.
+
+The technology was also tested at the National Thermal Power Corporation’s (NTPC) Badarpur thermal power plant and “has given excellent results of >95% NOx reduction”, the bulletin said.
+
+In a decade to 2015, thermal power plants--among India’s chief polluters--pushed nationwide levels of NOx up by 20%. The secondary particulates--formed through transformation of gaseous emissions, unlike primary particles such as dust--formed from aerosols such as NOx are the key cause for the recent increase in PM 2.5 levels across India, leading to a potential health emergency in India.
+
+The new emission norms
+
+In December 2015, the environment ministry notified new air pollution regulations under the Environment Protection Act, 2015. More than 300 thermal plants nationwide were expected to adopt technologies to curb their NOx emissions along with sulphur dioxide (SO2) and mercury. The ministry also introduced stricter norms for particulate pollution.
+
+Source: Environment Protection Act, 2015
+
+According to the new rules, coal power plants installed before December 2003 are expected to cap their NOx emissions to 600 milligrams per cubic metre (or mg/Nm3 where ‘N’ refers to normal temperature and pressure).
+
+For plants installed between 2003 and 2016, the emissions should be capped at 300 mg/Nm3. For the plants installed after December 2016 the limit is 100 mg/Nm3.
+
+NOx emissions range around 800 mg/Nm3 in Indian coal-based power plants.
+
+Source: Centre for Science and Environment, 2016 study
+
+The ministry’s November 2017 affidavit, as we said, urged the apex court to permit an extension of the deadline, citing the lack of India-proven technology to curb NOx emissions as an important reason for the delay in retrofitting--installing new components on existing plants--the power plants among other reasons.
+
+Concerns around SCR technology ‘do not have merit’
+
+To meet NOx emission norms, an SCR or SNCR (Selective Non-Catalytic Reduction) system needs to be installed in some units, Piyush Goyal, then power minister, said in a July 2017 reply to the Rajya Sabha (upper house of Parliament). “These technologies are not yet proven under indigenous conditions.”
+
+SCR and SNCR are methods employed globally to reduce NOx emissions by using ammonia or urea to break NOx into nitrogen and water.
+
+These technologies have not been tested for India’s coal which contains high ash content, the environment ministry said in its affidavit to the Supreme Court.
+
+The SCR system developed by ACC, as we said, showed ‘excellent results’ five years before the minister’s reply. The CPCB had also informed all the stakeholders--the government and the power industry--that the SCR is a proven technology, shows a December 7, 2015, document reviewed by FactChecker.
+
+“It is clear from the CPCB documents that SCR technology was tested in India and has given good results,” Nandikesh Sivalingam, climate and energy campaigner at Greenpeace India, an advocacy, told FactChecker. “So, saying there is no technology is misleading since other countries are operating SCRs for coal with high ash content and there are technologies like SNCR which does not interfere with the ash in coal.”
+
+The NTPC plant where the pilot of the technology was successfully conducted uses 100% Indian coal.
+
+SCRs are generally installed after the scrubbers and filters--which remove almost all the ash from coal before gases move into the SCR for removal of NOx, said Sivalingam. So, the argument of Indian coal having high ash and lack of technology to deal with it is not a sound one, he said.
+
+Even where a SCR is installed right after the boiler, the ash content in coal could only reduce the life span of the SCR. “Even then, it has impact only on the operational cost of the SCR and not a technological issue,” Sivalingam said.
+
+The high-ash problem is not specific to India; China also faced the same problem until it started using what is called honeycomb technology-based based SCR--to intensify the performance of the SCR against the high-ash coal by using a honeycomb-shaped design.
+
+Meeting NOx emission norms with SCR using ammonia may not be feasible, and storage of ammonia may cause hazards, the Association of Power Producers, a Delhi-based group of 27 private firms, told the CPCB in a representation made in December 2015.
+
+The CPCB dismissed these concerns, saying they “do not have merit”.
+
+“SCR is a proven technology ...is being adopted worldwide,” CPCB said in its response. “A power plant can handle storage of ammonia as it already used for flue gas conditioning by number of plants in India.”
+
+Source: Central Pollution Control Board document, December 7, 2015
+
+SCR tech in one NTPC plant, proposed in at least 4 more
+
+The NTPC has installed the SCR technology in its Singrauli power plant in Madhya Pradesh, revealed a November 2017 CPCB inspection report examined by FactChecker.
+
+The environment ministry has cleared at least four new thermal power plant projects, whose environment impact assessment reports say they will employ SCR and SNCR technology to cut NOx emissions.
+
+Projects Proposing To Use SCR Technology To Cut NOx Emissions Project Ownership Capacity Environment Clearance/ Environment Impact Assessment Report Khurja Super Power Plant – Uttar Pradesh Joint Venture of Govt of India & Govt of UP 1,320 MW Click Here Barethi Super Thermal Power Project – Madhya Pradesh NTPC 2,650 MW Click Here Buxar Thermal Power Project – Bihar SJVN thermal Private Limited 1,320 MW Click Here Shahdol Thermal Power Project – Madhya Pradesh SJK Powergen Limited 1,320 MW Click Here
+
+Source: Environment Clearance Portal under Ministry of Environment, Forest and Climate Change
+
+Clearing power projects for stricter NOx limits on the one hand and claiming that there is no technology for retrofitting on the other proves that these are delay tactics by the ministry to help power companies at the cost of public health for many years to come, said Sivalingam.
+
+On December 11, 2017, the CPCB, which reports to the environment ministry, wrote letters to more than 400 thermal power units in the country, allowing them to release pollutants like NOx in violation of the limits set by the government till 2022, Scroll.in reported on January 20, 2018. If the ministry wanted to relax the deadline, it should have amended the rules, said the report.
+
+Hearing about the developments on February 1, 2018, the Supreme Court directed the environment ministry to address concerns related to the CPCB’s letter. The next hearing is due on February 16, 2018.
+
+(Tripathi is a principal correspondent with IndiaSpend and FactChecker.)
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.
+
+__________________________________________________________________
+
+“Liked this story? Indiaspend.org is a non-profit, and we depend on readers like you to drive our public-interest journalism efforts. Donate Rs 500; Rs 1,000, Rs 2,000.”

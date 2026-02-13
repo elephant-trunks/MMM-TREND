@@ -1,0 +1,89 @@
+An image showing the photo of PM Modi, with the claim that India fell from being the 3rd largest economy in 2011 to the 164th fastest-growing nation in 2021, is going viral on social media platforms. Several users who shared the image criticised the government for this steep fall of the economy. Newschecker found the claim to be misleading.
+
+A July 11, 2022 tweet by BJP leader Subramanian Swamy featuring the viral image revived over 10k retweets. The screenshot of the same has found its way to Facebook as well. Several other users also shared the same claim.
+
+Screenshot of Tweet by @swamy39
+
+Screenshot of Facebook post by @OfficialFekuexpress
+
+Screenshot of Facebook post by @shashi.pal.3591
+
+Links to such posts can be found here, here and here.
+
+Notably, the same image earlier did the rounds in 2021.
+
+Screenshot of Tweet by @BanBJP
+
+Screenshot of FB post by @ProudToBeAnIndian.in
+
+Links to such posts can be found here, here and here.
+
+What Is GDP?
+
+The Gross Domestic Product or GDP is an important economic indicator for any country. As per the IMF, GDP measures the monetary value of final goods and services—that is, those that are bought by the final user—produced within a country in a given period of time.
+
+What Is Constant Price GDP?
+
+Constant Price GDP measures the value of the goods and services produced by an economy in a specific period, adjusted for inflation. It is also called Real GDP, inflation-corrected GDP, or constant dollar GDP.
+
+What Is PPP?
+
+As per the IMF, PPP or Purchasing Power Parity is the rate at which the currency of one country would have to be converted into that of another country to buy the same amount of goods and services in each country.
+
+Also Read: Morphed Pictures Of Indian Actors Used For Promoting Online Trading App
+
+Fact Check/Verification
+
+Newschecker began the investigation by conducting a keyword search for “India ranked 3rd largest world economy 2011” which led us to several reports from 2014.
+
+The official website of the Ministry of External Affairs also carried a report by Al Jazeera dated April 30, 2014 titled ‘India becomes world’s third-largest economy.’ As per the report, “The 2011 International Comparison Program (ICP), which involves the World Bank, ranked India before Japan and after the US and China.”
+
+Screenshot of MEA website
+
+Following this, we looked up for the 2011 ICP and found a report by the World Bank “Purchasing Power Parities and the Real Size of World Economies A Comprehensive Report Of The 2011 International Comparison Program.”
+
+Screenshot from 2011 ICP report
+
+The report did rank India at third position in a table listing the twelve largest economies by share of world GDP. The rankings were based on GDP in terms of Purchase Price Parity (PPP).
+
+The section on ranking of economies by size stated, “The ranking of India rose from fifth in 2005 to third in 2011…”
+
+The claim that India was the 3rd largest economy in 2011 was verified to be true.
+
+We continued our investigation to find out more about India’s 164th rank in terms of economic growth and conducted a keyword search for “India 164th fastest growing economy” which led us to a tweet by Kaushik Basu, a Professor of Economics, Cornell University, and former Chief Economist of the World Bank.
+
+Screenshot of Tweet by @kaushikcbasu
+
+The link directed us to a report by Statistics Times titled ‘List of Countries by Projected GDP Growth,’ based on IMF’s World Economic Outlook October-2021 edition.
+
+On looking up the archived version of the link on the WayBack machine, we found that the report was based on the International Monetary Fund World Economic Outlook, October-2020 edition.
+
+India ranked at 164th place in 2020 while 8th in 2021 on the basis of projected growth in the GDP.
+
+It is this ranking by Statistics Times based on World Economic Outlook, October-2020 edition that has been mentioned in the viral post, noting that India has dropped to 164th position in terms of change in the GDP.
+
+Further, we scanned through the data by the IMF in the October 2020 edition of the World Economic Outlook. As per the report, the percent change in constant price GDP of India was projected at -10.289 in 2020 while 8.804 in 2021. Notably, the economy contracted by 7.3% in the FY2020 – 21.
+
+The ICP 2011 ranked India 3rd in the category of the size of economies based on GDP in PPP terms, while the Statistics Times report ranked the country 164th in a table of countries on the basis of projected GDP growth as per IMF’s World Economic Outlook, October 2020 edition based on constant price GDP.
+
+These two parameters measure two different aspects of the economy (GDP level and growth in the GDP). While the former indicates how large the economy is, the latter determines at what rate the GDP is increasing.
+
+Newschecker also spoke to renowned Economist Prof Arun Kumar for further clarification who also told us that we can’t compare the size of the economy to its rate of growth. “They are two different things, the rate of growth is different and the size of the economy is different.” He further explained by pointing out that the US economy, though the largest economy in the world, is not necessarily the fastest growing one.
+
+Current Status Of The Indian Economy
+
+As per the recent IMF data, India’s real GDP is estimated to grow at 8.2% in 2022 while projected percentage change in inflation at 6.1. As per the 2017 ICP, the latest edition India has retained and consolidated its global position, as the third largest economy.
+
+Conclusion
+
+Two incomparable and different metrics have been mentioned to falsely demonstrate a sharp decline in the Indian economy.
+
+Result: Missing Context
+
+Sources 2011 International Comparison Program Report
+
+Report By Statistics Times
+
+Telephonic Conversation With Prof Arun Kumar On July 12, 2022
+
+If you would like us to fact check a claim, give feedback or lodge a complaint, WhatsApp us at 9999499044 ​or email us at ​checkthis@newschecker.in​. You can also visit the Contact Us​ page and fill the form.

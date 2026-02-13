@@ -1,0 +1,55 @@
+"The weather was not good on the day of airstrikes. There was a thought that crept in the minds of the experts that the day of strike should be changed. However, I suggested that the clouds could actually help our planes escape the radars."
+
+That was India’s Prime Minister Narendra Modi, leader of the Bharatiya Janata Party (BJP), in an interview with national Hindi news television channel News Nation on May 11, 2019. Modi was referring to an Indian Air Force (IAF) strike on Balakot, Pakistan, on February 26, 2019, on a suspected terrorist base in retaliation for a terrorist attack 12 days earlier in Pulwama, Kashmir, where more than 40 troopers of the Central Reserve Police Force were killed.
+
+Experts were hesitant to carry out the air strike on Balakot because of adverse weather, and wanted to defer the attack, Modi said in the interview, adding that he was not an expert, as he revealed details of discussions before the IAF crossed the line of control, the de facto border between India and Pakistan.
+
+Up for re-election from Varanasi, which votes in the final phase of the on-going general elections on Sunday, May 19, 2019, Modi claimed he overruled the experts to maintain the secrecy of the mission and because he felt the clouds would help the IAF planes escape detection by Pakistani radars.
+
+Following the interview, a tweet of this statement was put out by the Gujarat BJP’s twitter handle, and later deleted.
+
+Fact: The prime minister’s claim is false.
+
+Not only do clouds not hinder radar, cloudy conditions can adversely affect the ability of air-launched weapons to strike targets, experts told Factchecker.
+
+On Monday, May 13, 2019, Factchecker sent an email and text message seeking comment from BJP spokesperson Amit Malviya. We will update the story if and when we receive a response.
+
+“In brief, I would say the radar is not affected by clouds,” Air Marshal VK Jimmy Bhatia (retd.), former chief of the western air command, told Factchecker. He added that too much was being made of an innocent or unintentional statement the Prime Minister made in a TV interview.
+
+“Does your mobile get affected by cloud cover? It still works doesn’t it? Radar technology works on radio waves -- they move up and down and left and right to scan the area,” Air Marshal A K Ahluwalia (retd.), another former chief of the western air command told Factchecker.
+
+These waves bounce off an object, and the signal that returns is picked up by a receiver and shows up on a scope, giving the pilot a visual of the atmosphere.
+
+“There may be a little bit of degradation if there is rain, lightening and thunder, but radar works under most weather conditions, and there is definitely no degradation in cloudy weather,” Ahluwalia said.
+
+“Radar is nothing but radio waves -- transmitted at a certain frequency for a range of about 100 kms,” Pushpinder Singh, founding editor of the Vayu Aerospace and Defence Review, told Factchecker. “Even aircraft have radars, scanning the sky in front of you. These do not have the same power as radars used in a control room on the ground, but if you are airborne, you can still get information on whether there is an object in front of you.”
+
+“Clouds have nothing to do with it--radar may tell the aircraft that the cloud ahead has rain or ice and it is best to avoid a bumpy ride,” said Pushpinder Singh. “To say clouds could prevent an enemy from spotting our aircraft is ludicrous--It’s not like the first world war, where you could only hear the hum of the aircraft in the cloud and not see it.”
+
+Clouds can affect weaponry
+
+While radar can see through cloud, there are weapon systems, said experts, that are affected by clouds, such as television-guided missiles.
+
+A TV-guided missile is an air-to-ground missile, controlled remotely by a pilot, who steers it using the live images it sends. Clouds could also affect “scene-matching weapons” fired from an aircraft. The missile matches pre-programmed images to its live feed.
+
+“You won’t be able to feed in target images, and the weapon will not be able to accurately hit the intended target in cloudy weather,” Bhatia said, adding that clouds also affect “visual targeting”, limiting a pilot’s line of sight.
+
+“The effect of cloudy weather depends on the type of weapon used in an airstrike,” said Bhatia. “During the Kargil war, we used laser-guided bombs, which were sent to the target riding on a laser beam directed at the target through a pod. So, from the ground or from the air, if the pilot is pointing a laser at the target, and there are clouds over the target, the pilot cannot see the target and release the weapon.”
+
+In Balakot specifically, the air force’s SPICE-2000 missile--made in Israel--was used for the air strike. This is a precision weapon that uses satellite data in the initial phase of its flight after release; towards the terminal phases of the flight, it uses a digital map to strike the target. Such missiles, said Ahluwalia, use a combination of satellite and pre-programmed guidance and may be affected by low-lying clouds during its “terminal stage”.
+
+Was Modi’s decision right?
+
+“No,” said Ahluwalia of Modi’s assertion that the air strike carry on despite clouds. “Tactically speaking as a professional, it was not the right decision.”
+
+“If the defence experts wanted to defer the strike it must have been because of the weather affecting the electro-optical and laser designation targeting systems-- and not for avoiding detection of the strike aircraft by the adversary’s radars,” Air Marshal Harish Masand (retd.) told Factchecker.
+
+“Secrecy was most important and the more you delay it, the higher the possibility of it getting leaked out,” said Masand. “This is perhaps why the experts may have have eventually agreed with the prime minister.”
+
+“Weather plays a prominent role in strike planning so when you are planning to strike a particular target-- the discussion and deliberation on the weather can make the operation successful or unsuccessful,” said Ahluwalia. “If the latest weather systems and technology we are using today advise us to avoid an attack, then it should be avoided. We have a lot of state-of-the-art facilities to give us an accurate description of weather conditions.”
+
+“The enemy may have even been deluded into thinking that we would not take the risk,” Masand said. “Finally, it is obvious that weather did not affect the targeting because the air chief himself came on TV and stated that they hit the intended targets and provided the proof with pictures… Obviously, I don’t expect the chief to give out all the proof he may have because that would reveal our capabilities in that area and may adversely affect future operations.”
+
+(Saldanha is an assistant editor with IndiaSpend and FactChecker.)
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.

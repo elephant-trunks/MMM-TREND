@@ -1,0 +1,39 @@
+Delhi Chief Minister Arvind Kejriwal inaugurated a genome sequencing laboratory at Lok Nayak Jai Prakash Narayan Hospital (LNJP) on July 7, 2021. During the inauguration, he said he had been told that this is north India's third such lab.
+
+
+
+"I've been told that this is the third such facility in north India after National Centre for Disease Control in Delhi and National Institute of Virology (NIV) in Pune," said Kejriwal while speaking to the press. He inaugurated another such lab the next day (June 8, 2021) in Delhi's Institute of Liver and Biliary Sciences.
+
+But this claim is misleading.
+
+There are 28 laboratories under the Centre's Indian SARS-CoV-2 Genomics Consortium (INSACOG) that are carrying out genomic sequencing and analysis of circulating COVID-19 viruses and correlating epidemiological trends with genomic variants. INSACOG was launched with 10 labs, which was later expanded to 28 in June 2021.
+
+While the list of the latest 18 labs has not been released on its dashboard yet, the record of the first 10 labs shows there are two labs each in Delhi, Pune, Bengaluru and Hyderabad, one in West Bengal's Kalyani and one in Bhubaneswar.
+
+So, there are three ways to fact-check Kejriwal's claim:
+
+1. If Kejriwal considers Maharashtra to be a north Indian state, which is usually considered a part of western India, the LNJP lab is the fifth one in north India. Two genome sequencing labs in Pune and two in Delhi are already part of INSACOG. Namely, National Centre for Cell Science, NIV and Delhi's NCDC and Institute of Genomics and Integrative Biology (IGIB).
+
+2. If Maharashtra is kept out of the list of north Indian states, the Lok Nayak Hospital lab can be considered the third such facility in north India. But the first two wouldn't include NIV. Instead, it'd have IGIB.
+
+3. If the region or states the INSACOG labs are to take samples from is considered, the LNJP lab would be Delhi's second lab. This is because, till now all samples from the Capital could only be sent to NCDC. "So far, we have been dependent on the central government's National Centre for Disease Control and had to send our samples there," said the Delhi CM.
+
+In fact, a researcher from IGIB, who did not wish to be named, told FactChecker that genome sequencing has been their "bread and butter for two decades now". "We have been doing it from before COVID and during the pandemic, we have been testing 10,000 samples every month. We are one of the founding members of INSACOG and we work with both Centre and state governments to sequence SARS-CoV-2 genome," said the researcher.
+
+FactChecker called up Kejriwal's office but was told that he was busy and could only reply on email. We have dropped an email but had not received a response at the time this article was published. If and when we do, the article will be updated.
+
+When did INSACOG begin?
+
+INSACOG was launched to monitor the emergence and community circulation of viral variants and variants of concern of COVID-19. By June 28, 2021, the labs under the consortium had processed more than 45,000 samples and found the Delta variant to be the dominant lineage now as a vast majority of the new samples being sequenced from all parts of India were of Delta lineage.
+
+"The proportion of cases with variants of concern (VoC) has risen from 10.31% in May 2021 to 51% as on June 20, 2021. These VoCs are distributed across 174 districts in 35 states, with highest numbers being reported from districts in Maharashtra, Delhi, Punjab, Telangana, West Bengal and Gujarat," read the June 28 INSACOG bulletin.
+
+But the date on which the consortium was established is unclear. In three different press releases, three different launch dates have been mentioned.
+
+The latest Q&A on INSACOG released by the Ministry of Health & Family Welfare (MoHFW) on July 7, 2021 reads, "The INSACOG is a national multi-agency consortium of Genome Sequencing Laboratories (RGSLs) laboratories established by the Government of India on 30th December 2020,"
+
+According to the June 18, 2021 bulletin released by the Department of Biotechnology (DBT), the launch date is January 18, 2021. "The INSACOG is a consortium of 10 RGSLs established on 18 January 2021," it read.
+
+Before this, the MoHFW had, in a press release highlighting how genome sequencing by INSACOG had showed variants of concern and a Novel variant in India, mentioned December 25, 2020 as the date of commencement for the consortium. "The INSACOG is a grouping of 10 National Laboratories that was established by Ministry of Health and Family Welfare, Govt of India on 25/12/2020," read the release.
+
+FactChecker called up the offices of DBT Secretary Dr Renu Swarup, NCDC Director Dr Sujit Kumar and DBT Scientist Dr Onkar Tiwari, and was told to only interact over email. While Dr Tiwari responded to the email saying Dr Kumar is the correct person to comment on the matter, the other two have not replied yet. We have also asked them for the list of the 18 labs that were added to INSACOG recently. If and when they do reply, this article will be updated.

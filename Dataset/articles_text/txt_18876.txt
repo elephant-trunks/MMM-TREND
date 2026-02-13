@@ -1,0 +1,101 @@
+A scam webpage impersonating the Indian Express and peddling a fake story about Wipro founder Azim Premji advising people to invest in bitcoin, is being promoted through sponsored ads on Facebook.
+
+The webpage which looks like the news outlet's website at first glance, has a fake interview of Premji advising people to invest in bitcoin through a website called 'Bitcoin Loophole' The interview falsely claims Premji has invested in the cryptocurrency using Bitcoin Loophole.
+
+
+
+Bitcoin is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries.
+
+
+
+
+
+Also Read: Scammers, Spammers Promise Free Netflix, Amazon Prime Streaming During Lockdown
+
+The Indian Express tweeted on September 4, 2021, stating that the website - (primenews.to) has nothing to do with it and is misusing its masthead.
+
+#FakeNewsAlert | A website called https://t.co/e4FzYarnIt has posted a story trying to look like an https://t.co/XYlZoUMMsK page. This has nothing to do with The Indian Express and is a misuse of our masthead. pic.twitter.com/smZurJsXmA — The Indian Express (@IndianExpress) September 4, 2021
+
+BOOM analysed the webpage and found several red flags to indicate it is a malicious link.
+
+
+
+The headline of the article reads "SPECIAL REPORT: Azim Hashim Premji's Latest Investment Has The Government And Big Banks Terrified". The article goes on to claim that in an interview Premji revealed that he has found a new cryptocurrency auto-trading program called Bitcoin Loophole.
+
+However, the interview being cited is nonexistent and there is no recent interview given by Premji to the show 'Good morning India'.
+
+
+
+Fake website
+
+Click here to view an archive
+
+Additionally, the link has a fake Indian Express masthead, as it has misspelled the paper's name as, 'Indian Expres'.
+
+The URL of the webpage is mediaweb.to whereas the actual news outlet's website is indianexpress.com
+
+
+
+
+
+The fake article claims that it has also got an exclusive interview with Premji as he 'ran out of time' in the other interview to elaborate on the new cryptocurrency investment he has invested in.
+
+
+
+
+
+
+
+The article then goes on to guide users and to sign up and invest money on a site 'Bitcoin Loophole' claiming that users would make a profit and using the fake Azim Premji interview as a plug to get people to invest.
+
+Spam webiste
+
+We also found the same fake article being shared on Facebook, with some pages promoting the webpage through ads.
+
+
+
+
+
+
+
+Click here to view
+
+A search through Facebook's ad Library, shows that a page named 'Pizza Fix' which has 2 likes is currently running an ad with the fake article on Facebook.
+
+Facebook Ad Library
+
+We also found older tweets from users dating back to August 23, 2021, alerting people to the fake article on Premji, being shared on social media
+
+#BitCoinLoopholeScam Issued in #publicInterest
+
+A targeted sponsored post on FB is running, with a #FakeNews masked as an article by @IndianExpress featuring #azimpremji but really a different link (not putting any links here) since it could spread from here too (OR #not :D ) pic.twitter.com/gsv7x5sKmF — KK (@vaiguru) September 3, 2021
+
+
+
+
+
+Next level scam - A completely fake article looking like an @IndianExpress report.
+
+
+
+Fake news says Premji invested in Bitcoin related something and there is limited offer for you to invest.
+
+
+
+The website is allnews(.)to.
+
+
+
+How do get this reported? Link below: pic.twitter.com/cHWq3TaYkW — Naimish Sanghvi (@ThatNaimish) August 23, 2021
+
+With the help of the online tool - VirusTotal, a website used to analyse and detect suspicious files and URLs, we looked up the two sites showing up in the URL (mediaweb.to) and the site appearing in the source code (primenews.to) The results showed that these links have been previously flagged as malicious.
+
+
+
+
+
+
+
+
+
+Also Read: No, Bigg Boss Contestant Urfi Javed Is Not Related To Javed Akhtar

@@ -1,0 +1,7 @@
+We extracted several keyframes from the video with the help of InVid, a video verification tool, and conducted a reverse image search on some of them.
+
+A Google reverse image search led us to a Facebook post (archive here) from 2020 by a user who said that it was UAE's Princess Hend Al Qassimi who performed pooja at a temple.
+
+Next, taking this as cue, we conducted a keyword search on Google and came across a video on YouTube on a channel named 'Sripuram TV,' the official channel of the Vellore temple, published on 3 June 2019.
+
+The title read, "Her Highness Sheikha Hend Faisal Al Qassemi Visited Sripuram, on 22-02-2019."

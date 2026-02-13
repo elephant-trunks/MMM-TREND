@@ -1,0 +1,41 @@
+The Union Minister of State for Micro, Small and Medium Enterprises (MSME) Bhanu Pratap Singh Verma, on May 5, 2022, claimed that there was no shortage of coal across the country, reported the PTI .
+
+
+
+While answering a journalist's question at the National Coir Conclave in Coimbatore on how scarcity of coal leads to power outages, Verma said if such a problem arose, the government would tackle it.
+
+This statement came after a number of states, including Maharashtra, Jharkhand, Haryana, Punjab, Bihar, Uttar Pradesh, and Andhra Pradesh, have faced power outages. FactChecker referred to official data and records to assess the validity of his claim.
+
+Status of Coal-Run Power Plants
+
+India has 173 coal-fired power plants with an installed capacity of 2.03 lakh MegaWatts (MW). According to the Daily Coal Report by Central Electricity Authority (CEA) released on May 7, two days after Verma's statement, 109 out of these 173 plants (63%) were running on 'critical levels' of coal stock.
+
+The CEA defined a critical level as when a plant's actual stock of coal runs lower than 25% of its normative stock. Of the total 173 power plants, 150 are designed on domestic coal, out of which 91 were at a critical level. Moreover, 10 out of 15 power plants based on imported coal were running on critical stock and eight plants were not currently in operation.
+
+According to FactChecker's analysis of the report, 40 out of the 109 'critical' power plants (36.7%) have less than two days of coal stock left, and 34 plants have between 2-4 days of coal left for electricity generation.
+
+The power plants, on an average, keep between 17 to 26 days of coal stocked as reserves according to their individual capacity. Currently, 24.6% or 43 power plants of the total 173 have more than 10 days of coal stockpiled.
+
+
+
+The power plants are divided by ownership into Central sector, State sector, Private sector and Joint Ventures. 82.5% of the state sector power plants, and nearly 70% of private sector plants, are functioning on critically low coal reserves. Collectively, in power plants across India, the stock levels are at 21.25 million tonnes (MT) of coal or 32% of the normative stock of 66.53 MT.
+
+As reported by the ANI , Indian Railways cancelled 657 trains on April 29, 2022 to provide freer passage for coal carrying goods trains. The cancelled trains include mail, express, as well as passenger trains. Up to 1,100 trains are further set to be cancelled in the next 20 days to facilitate transportation of coal to the power plants, with 165 trains cancelled on May 7 itself.
+
+India's Coal Dependence and Power Crisis
+
+Coal accounts for 51.1% of the installed power generation capacity in India, according to the Ministry of Power's records . During 2020-21, the share of energy generated from coal was nearly 73% of the total energy, showed the Energy Statistics 2020-21.
+
+Even though domestic production has been amped up this year according to a Lok Sabha response , India is still facing a coal shortage in power plants due to the increase in peak demand during March-April 2022.
+
+Demand for power rose in April by 13.2% to 135.4 billion kilowatt hours (kWh), reported Reuters . The power supply then fell short of demand by 2.41 billion units (BU), the worst since October 2015. According to the power ministry, the peak demand is expected to be pushed up by as much as 8% in May.
+
+A variety of reasons are responsible for this rise in demand for electricity. India recorded its warmest March this year since the Indian Meteorological Department (IMD) began keeping records 122 years ago. This year's heat waves began early in March, continued into April, and have affected at least 15 Indian states and Union territories, showed the Centre for Science and Environment's (CSE) analysis of IMD data. Consequently, the demand for power has skyrocketed throughout the country.
+
+In a letter to the states and private sector utilities on May 3, 2022, the Ministry of Power set a target for coal imports at 19 million tonnes by June-end, to ease the pressure on domestic production. State government-run power plants have not imported for blending, more than 7.1 million tonnes and private companies not more than 13.1 million tonnes since at least 2016-17, reported Reuters.
+
+India's year-on-year dependence on imported coal has been near-constant— in the range of 75%-78% — despite an increase in domestic production and power generation through renewable sources. It is expected to increase in this financial year, given the country's power crunch. This is a step back on India's efforts to cut down on coal imports and reduce coal dependency by 2030.
+
+
+
+FactChecker tried calling the Ministry of MSME but that went unanswered. So, we then emailed Bhanu Pratap Verma and the MSME web information manager Maya Pandey for clarification on the statement. If and when we receive a response, it will be updated here.

@@ -1,0 +1,43 @@
+Popular social networking platforms Facebook, WhatsApp and Instagram faced a global outage for around six hours on October 4 that saw Mark Zuckerberg’s net worth plunge by $6 billion.
+
+And now, if some social media users are to be believed, a 13-year-old Chinese hacker named Sun Jisu was behind the outage. The information has been attributed to global news agency Reuters.
+
+advertisement
+
+The archived versions of the posts can be seen here and here.
+
+India Today Anti Fake News War Room (AFWA) has found the claim to be false. Neither Reuters nor any other credible media outlet has blamed a 13-year-old Chinese hacker for the outage.
+
+WHAT FACEBOOK, EXPERTS SAID
+
+AFWA could not find any report by Reuters linking the outage to China. Neither has any other credible media outlet reported about the involvement of a 13-year-old Chinese hacker in the incident.
+
+According to a Facebook blog post dated October 4, 2021, the issue arose due to a “faulty configuration change”.
+
+Santosh Janardhan, vice-president of infrastructure at Facebook, wrote in a post that the initial problem occurred in a network Facebook calls its “backbone”, which connects its data centres around the world.
+
+During routine maintenance, a command was issued to assess the availability of global backbone capacity. But the command backfired, disconnecting the network and blocking Facebook’s data centres from communicating, Janardhan said.
+
+Ruling out conspiracy theories that the outage happened due to a massive hack, Facebook also said, “We want to make clear that there was no malicious activity behind this outage its root cause was a faulty configuration change on our end.”
+
+Quoting Facebook employees, a Reuters report published on October 4 also said the outage was caused by an “internal mistake” in how Internet traffic is routed to Facebook’s systems.
+
+“The failures of internal communication tools and other resources that depend on that same network to work compounded the error,” the report said quoting Facebook employees.
+
+Multiple cyber security experts also said a misconfiguration by Facebook led to the outage.
+
+Speaking to “Wired”, John Graham-Cumming, the CTO of Internet infrastructure company Cloudflare, said, “It appears that Facebook has done something to their routers, the ones that connect the Facebook network to the rest of the internet.”
+
+Alex Stamos, a former chief security officer at Facebook, also told “Wired” that the outage was due to an error in Facebook’s Domain Name System (DNS) that allows web addresses to take users to their destinations.
+
+WHO'S THE BOY IN VIRAL PIC?
+
+advertisement
+
+We could not find any credible report about a young Chinese hacker named Sun Jisu as mentioned in the viral posts. Reverse-searching the boy’s picture, we found it on a “Daily Mail” report published in 2014.
+
+According to the report, the boy in the image is indeed considered a “hacking prodigy” in China. However, his name is Wang Zhengyang and not Sun Jisu. Also, as per reports, he was already at least 13 years old in 2014, and would have turned 20 by now.
+
+According to Chinese state-affiliated media “China.org.cn”, the boy made news in 2014 after he participated at the China Internet Security Conference held in Beijing in September that year. He had reportedly hacked into his school’s online system to steal the answers to his homework.
+
+Hence, it is clear that social media claims of a 13-year-old behind the global Facebook outage are false. Reuters has reported no such news as is being claimed.

@@ -1,0 +1,35 @@
+Safety of women using Public Transport remains one of the biggest safety worries. But is there any way a woman commuter can ensure GPS based emergency assistance by just sending an SMS?
+
+A post claiming one touch assistance for women travellers recently went viral, with over 53,000 shares on Facebook soon after a woman in Panchkula near Chandigarh alleged gang-rape by 40 men.
+
+advertisement
+
+The post has a photo of Punjab Director General of Police (DGP) Suresh Arora with a message for solo women travellers. It reads "Suchna: Akele Safar Karne Vali Mahilaon Ke Hit Main Jankari. Aap jab Bhi Akele Taxi Main baithe Ho To 9969777888 Per SMS Ker De, Aapke Vahan Per GPRS Se Nazar Rakhi Jayegi' (Information: Good news for women travelling alone. If you travel alone then SMS the vehicle number to 9969777888 and then your vehicle will be tracked via GPRS. The message is regularly shared on social media after reports of any heinous crime against women, which gets widespread publicity.)"
+
+The message looked factually incorrect technically since the location of any phone can be detected using Global Positioning System (GPS) and not through General Packet Radio Service (GPRS) as mentioned in the message.
+
+India Today Viral Test team sent an SMS to this so-called helpline number only to get this automated response from 'MM-MUMPOL' which read 'Thanks for your information. CALL 100 if any emergency - Mumbai Police in your service - MTNL'.
+
+From our investigation we found that Mumbai Police had started this service in the year 2014 under their 'Travel safe when alone' initiative. The then police commissioner Rakesh Maria had told media persons 'Police will keep the track of the vehicles that the woman is taking and would get location through GPS'. The launch of this service was covered by many media organisations.
+
+So is Mumbai Police still running such a service where emergency assistance if required can be given? Their spokesperson Deepak Deoraj told us ' The service was withdrawn in March 2017, we will ask our service provider MTNL to remove our name from the servers.'
+
+The automated response from the helpline number.
+
+We reached out to Punjab Police via twitter asking them if the claims made in the message were correct. 'Please note that this is a fake news. Please don't spread it' the department tweeted back from its official handle.
+
+Please note that this is a fake news. Please don't spread it. Punjab Police (@PunjabPolice) July 24, 2018
+
+advertisement
+
+
+
+
+
+Punjab Police had instead launched Dial 181 helpline dedicated to women and children in distress in 2013.
+
+From our investigation, it is clear that the message is a misinformation and the details mentioned are factually incorrect.
+
+If you want us to fact check a viral message, image or video send it to us at viralfact@aajtak.com
+
+Also read: WhatsApp now adds Forwarded labels to messages people reshare, hopes to fight fake news with it

@@ -1,0 +1,157 @@
+To mark the one year anniversary of the COVID-19 vaccination drive in India that started on 16 January 2021, a commemorative stamp was released by the government to mark the day. As per the Press Information Bureau the country’s vaccination numbers in January 2022 stood at over 69.8% fully vaccinated and 93% adult population inoculated with at least one dose of a COVID-19 vaccine.
+
+However, ever since the COVID-19 vaccines were rolled out in India in January 2021, misinformation about how they work and their potential side effects have been rife on social media. A top factor for vaccine hesitancy was indicated as the population wishes to “to wait and see if [the COVID19 vaccine] is safe and get it later”, as per the COVID19 Trends and Impact Survey conducted by Meta.
+
+From the alleged use of ‘Dangerous Drug’ in Pfizer Vaccine For Kids To Prevent Vaccine Related Heart Attacks’ to ‘COVID-19 vaccines giving people magnetic power’s Newschecker has debunked many claims related to COVID-19 vaccines in the past 3 years of this pandemic. (All these claims debunked can be found here)
+
+A recent claim has surfaced on the internet links COVID-19 booster shots to AIDS. These viral claims alleged that “…Official data suggests that the triple vaccinated are just a few weeks away from developing Acquired Immune Deficiency Syndrome (AIDS)…”
+
+Screenshot of post by Facebook user ‘RW Kaiser’
+
+The caption by the user RW Kaiser mentioned the source for this claim as ‘The Exposé’.
+
+We found some users sharing the screenshot of an article by The Exposé titled “INVESTIGATION: The Covid-19 Vaccines cause AIDS; here’s all the evidence…”
+
+Screenshot of post by Facebook user ‘Jayvee Medina’
+
+This post also contained the link to the article by The Exposé , and can be found here. (Archived link here)
+
+“The Exposé was set up due to a lack of alternatives to the lying mainstream media, and a lack of alternatives which report only the facts.” reads the about section of the website ‘The ‘Exposé’.
+
+Screenshot About us section of website ‘The Exposé
+
+The same website was also fact checked by Newschecker previously in January 2022 for spreading misinformation which alleged that ‘Bill Gates calls for COVID-19 vaccine withdrawal’.
+
+This article by The Exposé claims that COVID-19 vaccines are causing what they call “Vaccine Induced Acquired Immune Deficiency Syndrome (VAIDS)”; a condition which is allegedly similar to Acquired Immunodeficiency Syndrome (AIDS) but caused due to the COVID-19 vaccines.
+
+Twitter also put out a consolidation of fact checks on the platform in response to the misinformation on the theme.
+
+What is Acquired Immunodeficiency Syndrome (AIDS)?
+
+The WHO website says “The human immunodeficiency virus (HIV) targets the immune system and weakens people’s defence against many infections and some types of cancer that people with healthy immune systems can fight off.”
+
+Further, it says that AIDS or Acquired Immunodeficiency Syndrome is the most advanced stage of HIV infection.
+
+“If HIV is not treated, it can lead to AIDS (acquired immunodeficiency syndrome). Learning the basics about HIV can keep you healthy and prevent HIV transmission.” says the USA’s Centre for Disease Control’s (CDC) website.
+
+CDC’s website mentions AIDS as the third and most severe stage of the HIV infection.
+
+Screenshot Center for Disease Control’s website
+
+How does one get Human immunodeficiency virus (HIV)?
+
+As per the WHO’s website “HIV can be transmitted via the exchange of a variety of body fluids from infected people, such as blood, breast milk, semen and vaginal secretions.”.
+
+Moreover, HIV does not get transmitted through day to day contact, such as kissing, hugging, shaking hands, or sharing personal objects, food or water, as per the WHO’s website page on HIV/AIDS.
+
+Context to the rumours
+
+Moderna Inc., the American Biotechnology company has announced the start of its Phase 1 human trials for its mRNA vaccine for HIV around 3 weeks ago.
+
+Screenshot website Moderna Inc
+
+The vaccine is based on the same mRNA or messenger-RNA technology used by the company in its COVID-19 vaccine.
+
+The misinformation on the internet relating COVID-19 vaccines and HIV can possibly be seen related to the announcement of the mRNA vaccine trials by Moderna.
+
+The article by The Exposé
+
+The article by The Exposé makes two claims. Firstly, it claims that “Vaccine Effectiveness doesn’t wane; Immune System Performance does”.
+
+Secondly, “UK Data shows the Covid-19 Vaccines have a real-world Negative Effectiveness”
+
+Factcheck/Verification
+
+First Claim
+
+The article goes on to explain how “…when the authorities state that the effectiveness of the vaccines weaken over time, what they really mean is that the performance of your immune system weakens over time…”
+
+To understand this claim, Newschecker contacted Heath Desk by Meedan.
+
+“What they mean is that your immune system’s protection against COVID-19 specifically (in this case) decreases over time. This is natural and found across many vaccines, which is part of why it’s important to “re-up” vaccines (that is, take another vaccine) after a certain period of time (for instance every 10 years for tetanus shots, once a year for flu shots).” The heath desk at Meedan informed Newschecker via an email.
+
+The interpretation of the effectiveness of vaccines waning over time by The Exposé is incorrectly worded. Instead of talking about the waning immunity against COVID-19 infection over time, The Exposé mis-contextualises it to imply the weakening of the immune system itself.
+
+Second Claim
+
+Further, the article refers to the UK Health Security Agency’s (UKHSA) weekly Vaccine Surveillance Report to claim that COVID-19 case rates per 100,00 population is higher in vaccinated individuals than in unvaccinated individuals.
+
+This article refers to the 2022 week 5 report of the UKHSA.
+
+Screenshot of Data used by The Exposé
+
+On analysing the same report, Newschecker found that the numbers were interpreted out of context.
+
+The footnote below the statistics in the UKHSA report indicates that “The case rates in the vaccinated and unvaccinated populations are unadjusted crude rates that do not take into account underlying statistical biases in the data and there are likely to be systematic differences between these 2 population groups.”
+
+Crude rates as per Eurostat explained is a statistical number calculated against the average population of the year rather than the actual population numbers. Furthermore, underlying statistical biases would imply a deviation from the actual value that should be calculated versus the value that is obtained.
+
+This implies that the UKHSA report expresses that the COVID-19 case rates for the vaccinated and unvaccinated populations in the report have not been calculated taking into consideration the whole population but the average population for the time period.
+
+Also, what they mean by underlying statistical biases is that the figures stated could be different from the actual numbers due to the many underlying factors that might not be taken into consideration while making these calculations.
+
+The report further states examples of why it is incorrect to compare rates of infection between vaccinated and unvaccinated individuals. Various reasons for this are stated, one of these being how people who are vaccinated can be assumed to indulge in more social activities owing to their vaccination status versus unvaccinated individuals which would make vaccinated people more susceptible to catching the coronavirus.
+
+The whole list of instances can be seen below and the report can be found here.
+
+Screenshot of UKHSA report
+
+Further, the report also states that the higher rate of infection of vaccinated populations in the UK can be attributed to a higher percentage of the population being vaccinated. This implies that anyone out there getting infected with the coronavirus is more likely to be vaccinated against it because a larger portion of the population is vaccinated.
+
+It further added that, ‘No vaccine is 100% effective’.
+
+The report states that queries of vaccine effectiveness need to be separately addressed and which are mentioned on the Page 14 of the report which can be read here.
+
+Vaccine Effectiveness Formula
+
+The article by The Exposé further goes on to use an alleged vaccine effectiveness formula by Pfizer to work out real world vaccine effectiveness.
+
+The website uses the alleged formula by Pfizer to calculate the real world effectiveness of the vaccine in the adult population of England, “average real-world Covid-19 vaccine effectiveness in England for all adults as a whole in January 2022 was MINUS-183%.”
+
+The Heath Desk at Meedan informed Newschecker that “The immune cells and antibodies built up from vaccines (and regular infection) that essentially act as the ‘frontline fighters’ against an unknown antigen in the body (like the COVID-19 virus) naturally wane over time, but don’t reduce to zero.”
+
+Newschecker could not find the source for this formula, as the website does not give the source for this formula in the article nor could we find it during a preliminary search on the internet ourselves.
+
+Thus, the authenticity of the method behind the negative percentage for vaccine effectiveness as stated by The Exposé is not verifiable. However, as clarified by experts at the Meedan’s Heath Desk, vaccine effectiveness cannot be in negative numbers.
+
+Connection with AIDS
+
+Using all this data The Exposé attempts to justify the possibility of vaccinated individuals being susceptible to what they call ‘Vaccine Acquired Immunodeficiency Syndrome’ (VAIDS), a vaccine induced version of AIDS.
+
+Speaking with Newschecker, HIV specialist Dr Janak Maniar of Jaslok Hospital, Mumbai said
+
+“This is absolutely not true. Neither COVID infection, nor the vaccine/booster doses make you susceptible to HIV infection. HIV will occur only if there is high risk behaviour. This claim is absolutely false,”
+
+Further, experts at Meedan’s Heath Desk also refuted the possibility that individuals can get AIDS without catching the HIV infection. “AIDS is stage 3 of HIV, the final, most severe stage of HIV infection” they added.
+
+Further, an explainer by Meedan Health Desk’s website on the matter says that a new needle is used every time an individual is vaccinated against the coronavirus which eliminates the possibility of infection due to the usage of infected needles. No data is also available to show an increase in HIV cases among vaccinated individuals.
+
+AIDS is the stage 3 of HIV which develops when an HIV infection gets severe enough that it starts damaging the immune system.
+
+Additionally, they also highlight that clinical trials of WHO-approved COVID-19 vaccines have not shown any increase in the development of AIDS among individuals with HIV.
+
+Rating- False Context/ False
+
+Conclusion
+
+The claims made by The Exposé linking COVID-19 vaccinations with the possibility of getting infected with AIDS are false.
+
+There is no data to support these claims. Further, experts refute the possibility of any such infection like VAIDS infecting vaccinated individuals since AIDS only affects people with HIV, and that too being is a severe stage of infection.
+
+Our Sources UK Health Security Agency’s (UKHSA) weekly Vaccine Surveillance Report- https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1052353/Vaccine_surveillance_report_-_week_5.pdf
+
+
+
+Meedan Heath Desk
+
+
+
+Dr Janak Maniar of Jaslok Hospital, Mumbai
+
+
+
+
+
+
+
+If you would like us to fact check a claim, give feedback or lodge a complaint, WhatsApp us at 9999499044 ​or email us at ​checkthis@newschecker.in​. You can also visit the Contact Us​ page and fill out the form.

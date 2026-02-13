@@ -1,0 +1,35 @@
+A viral post on Facebook warns against malware being released by WhatsApp. The post says WhatsApp is releasing a video called "Martinelli" which when opened will hack one's phone.
+
+It also says one should ignore messages to update to WhatsApp Gold. Another video called "Dance of the Pope" shouldn't be opened either as it is a virus that will format one's phone, the post further says. The viral message says these warnings have been given by BBC Radio.
+
+advertisement
+
+India Today Anti Fake News War Room (AFWA) has found the claim to be misleading. "WhatsApp Gold" is indeed a scam. But the warnings about other video viruses mentioned in the viral message are old hoaxes that have been going around for several years.
+
+Multiple Facebook users have shared the post believing it to be true. The archived versions can be seen here and here.
+
+Martinelli, an old hoax
+
+Part of the viral message says, "If you know anyone using WhatsApp, you might pass on this. Be advised that a video comes out tomorrow from WhatsApp called Martinelli. Do not open it - it hacks your phone and nothing will fix it. Spread the word."
+
+This warning is a hoax. It seems to have appeared on WhatsApp forwards first in Spanish sometime in 2017. Spain's national police had issued a tweet debunking it on July 29, 2017.
+
+This was also reported by international fact-check website "Snopes" in 2018.
+
+Dance of the Pope
+
+This hoax is even older than the "Martinelli" one. Back in 2015, this rumour had spread on social media with the claim that the warning was issued by a prominent radio station.
+
+But "Snopes" found no evidence of this virus or any alert about this virus on any media. Their article debunking the claim, published on April 15, 2015, can be seen here.
+
+Even years ago, the viral warnings had said the viruses would come "tomorrow", which never appeared till today.
+
+British cyber security firm "Sophos" had recently written an article on these two WhatsApp hoaxes that have resurfaced on social media after years.
+
+The article says, "In theory, playing a deliberately booby-trapped video file on your mobile phone could end up in a malware infection, if your phone has an unpatched bug in its media player software that a crook could exploit." But it also says that practically, this is very rare these days.
+
+Conclusion
+
+The viral warning about "WhatsApp Gold" is real. It was reported by the media last year that WhatsApp had distanced itself, saying it had nothing to do with WhatsApp Gold or WhatsApp Plus.
+
+But the warnings about the other two video viruses are hoaxes. The "Martinelli" hoax has been around since at least 2017, while the "Dance of the Pope" hoax is even older, dating back to at least 2015.

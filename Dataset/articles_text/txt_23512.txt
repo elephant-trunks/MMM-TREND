@@ -1,0 +1,53 @@
+Bengaluru: If greenhouse gas (GHG) emissions were calculated on the basis of consumption in a country, rather than production, the US's global emissions in 2016 would increase by 7.5% (0.4 billion tonnes) to 5.71 billion tonnes, while India’s share would reduce by 7.1% (0.28 billion tonnes) to 2.21 billion tonnes, according to research by Our World in Data, a collaboration between researchers at the University of Oxford and Global Change Data Lab, a non-profit organisation. China’s share in global emissions would reduce by 9.3% (0.9 billion tonnes) to 8.8 billion tonnes.
+
+The consumption-based method highlights the inequality in per capita emissions. By this method, North America, with 5% of the world’s population, would contribute 19% of global emissions while Europe, with 10% of the world’s population, would contribute 17%. Asia, with 61% of the world’s population, would contribute 45% of global emissions, according to emissions data from Our World in Data and population data from the United Nations.
+
+“At the end of the day...the debate that we need to have is about sustainable lifestyles,” said Ulka Kelkar, a climate change researcher at the World Resources Institute, a Washington D.C.-based research organisation.
+
+Despite efforts, CO2 (carbon dioxide) emissions continue to rise at a 2% growth rate. Average global temperatures are already 1 deg C higher since systematic record keeping began in 1850, as IndiaSpend reported in September 2019. The burden of reducing these emissions is disproportionately on developing countries such as China and India.
+
+The current production-based method of ranking countries’ emissions uses territorial emissions that measure GHGs emitted within their borders, and is used by the United Nations Framework Convention on Climate Change (UNFCCC). The reason why emissions are attributed based on territory is because “this is the point at which fuel consumption happens and so allocation is easy,” Kelkar explained. But this method is inequitable, and biased against countries, especially those in Asia, she added.
+
+Production-based methodologies would underestimate emissions in case of high income countries, such as the US, Germany, France and the UK, which import goods in substantial quantities to maintain a certain standard of living. It would overestimate emissions from countries such as India and China which export goods for consumption elsewhere.
+
+Still, five countries, China, US, India, Russia and Japan, would remain the world’s top emitters based on any method of calculation of emissions.
+
+GHG emissions on the basis of consumption
+
+The method to correct the bias in emission calculations, suggested by Our World in Data, and mentioned in a 2019 United Nations Environment Programme (UNEP) report, is: production-based emissions minus CO2 released by exported goods added to CO2 released in imported goods.
+
+By this calculation, China's CO2 emissions during 2016 would reduce by about 0.9 gigatonnes--equivalent to Germany’s total annual CO2 emissions--when compared to the production method. India’s CO2 emissions would reduce by 0.28 gigatonnes, and emissions from the US would increase by 0.4 gigatonnes, as we said.
+
+Source: Emissions Gap report 2019, United Nations Environment Programme
+
+But the claim that rich countries have only managed to reduce emissions through offshoring them to poorer countries, is false, said Hannah Ritchie, a researcher with Our World in Data. Though rich countries’ consumption-based reductions is more modest, meaning some emissions have been offshored, that is not all the reduction in emissions, Ritchie explained. “Genuine, but far too slow, reductions have been made."
+
+Similarly, consumption-based emissions do not let developing countries off the hook. For instance “although China is a net exporter...even when adjusted for consumption it emits more than its population ‘share’,” wrote Ritchie, in a blog post in December 2018. Much of its growth has resulted from very fast development domestically, she wrote.
+
+Still, developed countries like the US and those in Europe have the highest emissions, if calculated since the industrial revolution. “Between 1850 and 2002, countries in the global north emitted three times as many GHGs as did countries in the Global South,” according a 2019 report by civil society organisations across the world.
+
+Why measure consumption emissions
+
+In response to claims that the UK has cut emissions by 37% since 1990, Greta Thunberg, the climate activist, said that the figure is more likely around 10%. Her reasoning? The UK failed to account for aviation, shipping and imports, the BBC reported in April 2019.
+
+The simple methodology of reporting emissions does not take into account that economies such as the UK are basically service-sector driven and import a lot of their food, which is being produced in other countries, Kelkar said.
+
+For instance, the UK imports more than 50% of its food from countries in the EU, Africa, Asia, etc., according to the UK government’s Department of Environment, Food and Rural Affairs. The GHGs emitted would be considered for these other countries but would not be factored in the UK’s emission calculations.
+
+The use of territorially-calculated emissions as part of the UNFCCC agenda penalises developing nations that are export-centric, thereby failing to uphold a key component in climate change negotiations--equity.
+
+"Consumption-based emissions are important because they allow us to distinguish between real or actual reductions in emissions versus those that are simply offshored to other countries, Ritchie of Our World in Data told IndiaSpend. “If based on production, we miss part of this story or can be misled into thinking we're doing better than we are.”
+
+We need to check on the source where coal is being mined or petroleum is being extracted but at the same time, we also need to know all the points at which a behavioural intervention is required, Kelkar said.
+
+If developed countries calculate consumption-based emissions, impose emissions targets and use these for domestic policymaking, it would help achieve the lifestyle changes that we need in the rich countries, said Thomas Spencer a fellow at New-Delhi based The Energy and Resources Institute, an environmental think-tank. At the same time, calculating territory-based emissions would aid a production revolution, he said. “We need both of these to tackle climate change.”
+
+Consumption based GHG should not impact trade
+
+Climate policy should not disrupt and discourage the manner in which goods are currently being traded across countries, Spencer said. Moves like imposing border taxes based on emissions would “again hit countries in the developing world,” which depend on exports to aid their economy he explained.
+
+For instance, India’s exports-to-gross-domestic-product (GDP) ratio (exports as a proportion of India’ GDP) was 11.44% in 2017--meaning border taxes or restrictions on importing from India would adversely impact it’s GDP.
+
+(Pardikar is an independent journalist based in Bengaluru.)
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.

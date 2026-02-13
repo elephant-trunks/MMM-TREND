@@ -1,0 +1,39 @@
+Several social media users are complaining about a pop-up notification on their Apple iphone browser, warning them that their phone was hacked and their activity was being tracked. The pop-up reads ‘Your Apple iPhone is hacked. All operations on your device are being tracked by the hacker. Immediate action is required.’ Newschecker found this pop-up to be false, please read further for more details.
+
+A screenshot of the alleged notification from Apple has been shared on Twitter by user @vinodjose who is the Executive Editor of The Caravan Magazine, a popular Indian English-language, long-form narrative journalism magazine covering politics and culture. The user has 42,600 followers on Twitter. The screenshot of the pop-up has been shared along with the caption ‘This message appeared on my screen now:’
+
+This message appeared on my screen now: pic.twitter.com/dW0qinSL0z — Vinod K. Jose (@vinodjose) June 11, 2022
+
+Newschecker found similar claims on Twitter and Facebook showing the same pop-up.
+
+https://twitter.com/KuraDark_/status/1531069743427248130
+
+Fact Check /Verification
+
+Upon conducting a keyword search with the words “Your iPhone has been hacked pop-up” Newschecker found an article by PC risk titled How to avoid being scammed by sites claiming “Your iPhone Has Been Hacked” uploaded on 9th May, 2022.
+
+According to the article “Your iPhone Has Been Hacked” is a scam promoted by deceptive websites. As the title implies, the scheme claims that users’ devices have been compromised and were accessed without authorization. “Your iPhone Has Been Hacked” also promotes other scams, which endorse untrusted and possibly malicious software.”
+
+The article further states that “Once this window is closed, users are presented with various other scams that promote fake anti-virus software, adware, browser hijackers and other PUAs, however, the schemes might also endorse Trojans, ransomware, cryptominers and other malware.
+
+Therefore, trusting “Your iPhone Has Been Hacked” and the scams it promotes can result in system infections, financial loss, serious privacy issues and even identity theft. Additionally, note that no website can detect threats present on a device, and any that make such claims are scams.”
+
+Using this as a clue, we checked the Apple website for more information and found an article on the website in the How To section titled Remove “Your iPhone has been hacked” pop-up ad uploaded on 8th August, 2020. This suggests that similar claims have been made in the past which was addressed by the tech giant in 2020
+
+According to the Dos and Don’ts section of the article, it is imperative to remember that the phone hasn’t been hacked and the virus might have only affected the browser. The article states “First things first, keep in mind that your device hasn’t been hacked for real. This is a stubborn fake popup triggered by a harmful site or a PUA that slithered its way into your system. Secondly, installing any apps pushed by this alert and the subsequent related web pages is not a good idea. This campaign is all about pressuring users into authorising the infiltration of extra threats. So, ignoring the information on this ad is half the battle. It won’t stop deluging the device on its own, though, and therefore malware cleaning is on a victim’s to-do list.”
+
+The website also has point-by-point instructions on how to sort out this problem and restore the respective browsers to the factory settings.
+
+Courtesy: Apple website
+
+Courtesy: Apple website
+
+Courtesy: Apple website
+
+Newschechecker has reached out to representatives of Apple in India and the article will be updated after we get a response.
+
+Conclusion
+
+Newschecker’s investigation reveals that the pop-up which claims that your iPhone has been hacked and all your activities are being monitored by hackers is a scam used by deceptive websites to promote dubious softwares on your phone.
+
+If you would like us to fact-check a claim, give feedback, or lodge a complaint, WhatsApp us at 9999499044 or email us at checkthis@newschecker.in. You can also visit the Contact Us page and fill out the form.

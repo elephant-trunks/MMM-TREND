@@ -1,0 +1,89 @@
+Indian media outlets including Times Now and NDTV Hindi have amplified a fake Twitter account impersonating Pakistani javelin thrower Arshad Nadeem after he lost in the Tokyo Olympics final to India's Neeraj Chopra.
+
+BOOM found that the account in question is an impostor and had earlier also impersonated former Pakistan cricketer Saeed Anwar.
+
+On Saturday, Chopra bagged India's first Olympic gold medal in athletics when he won the javelin event. After Chopra's historic win, a tweet by the account @ArshadNadeemPak congratulating Chopra for his win and calling him his idol went viral.
+
+Also Read: Ministers, News Outlets Share Image Of Paramvir Chakra As Khel Ratna Award
+
+
+
+
+
+An archive of the tweet can be accessed here.
+
+
+
+The tweet received over 2,000 retweets and 10,000 likes before it was deleted. The account put out another tweet where it simply congratulated Chopra.
+
+Before being deleted, the tweet was picked up by several news organisations like Times Now, NDTV Hindi, Hindustan Times Bangla, News18 Lokmat, Zee Bangla, Free Press Journal, TV9 Bharatvarsh, Ananda Bazar, News9 and On Manorama.
+
+
+
+
+
+Hindustan Times Bangla reported on Nadeem deleting his tweet due to the reaction from Pakistani users.
+
+At the time of writing this fact-check, none of the above mentioned websites apart from On Manorama and NDTV Hindi had retracted their article.
+
+
+
+Actors Richa Chadha and Rahul Ravindran also fell for the fake account's tweet and quote-tweeted it. While Chadha deleted her tweet, Ravindran later acknowledged that the account was fake.
+
+Pakistani social media users also fell for the fake account.
+
+An archive of the tweet can be found here.
+
+Great going @ArshadNadeemPak we are all rooting for you.... #Tokyo2020 — Tania Aidrus (@taidrus) August 7, 2021
+
+An archive of the tweet can be found here.
+
+Other tweets by the account also went viral including one before the start of the event where Nadeem and Chopra were pictured together at the 2018 Asian Games.
+
+
+
+Also Read: Video Of Attack On Hindu Temple In Pakistan Falsely Shared As West Bengal
+
+Fact Check
+
+We found Twitter replies calling out the account @ArshadNadeemPak as fake and one of the replies also said the account was previously called @css_25. Using this, we ran a Twitter search for '@css_25' and found a reply which matched the handle name of the fake account - @arshadnadeempak.
+
+This showed that the account was in fact previously called '@css_25' and later changed its name to @arshadnadeempak
+
+
+
+
+
+We found a Google cache of the @css_25 account which had the profile name Saaed Anwar. The bio read "Professional cricketer , played for @TheRealPCB".
+
+
+
+
+
+An archive of the cached account can be found here.
+
+
+
+On checking the source code of the @css_25 account, we found that its Twitter id was 1393466073975083008.
+
+
+
+
+
+We then checked for the Twitter id of the account @ArshadNadeemPak on two different online social media tools — Comment Picker and find my fb id. Both websites identified @ArshadNadeemPak's Twitter id as 1393466073975083008, same as the one we found in the cache of @css_25.
+
+Twitter assigns a unique numeric id to each account. This id remains the same even if the account changes the handle.
+
+
+
+
+
+The Twitter search result and the Twitter ids we found from online tools show that the @css_25 and @arshadnadeempak Twitter accounts are the same.
+
+Also Read: Is India Presiding Over The UNSC For The First Time Ever? A FactCheck
+
+Dawn News reporter Abdul Ghaffar tweeted that Arshad Nadeem's original Twitter account is @Arshadnadeem76.
+
+However, this account is not verified by Twitter. While BOOM found that the account @ArshadNadeemPak was fake, we could not independently verify if @Arshadnadeem76 is indeed Nadeem's original account.
+
+Additional inputs by Sujith A

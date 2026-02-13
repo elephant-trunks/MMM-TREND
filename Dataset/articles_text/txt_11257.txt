@@ -1,0 +1,55 @@
+After WhatsApp announced their new privacy policy on 4th January 2021 which is to be enforced from 8th February 2021, Signal messaging app has become a trending topic among social media users. While users on social media platforms continue debating on how the privacy settings of the Signal App is better than WhatsApp a viral message on social media claims to reveal details of the Signal application. The message carries details about the founder and language in which the app is claimed to have been coded in. According to the message the app has been created by a poor villager’s son from Uttar Pradesh who is an IIT graduate. It claims to be a huge boose to “Atmanirbhar Bharat”. It further continues to claim that organisations like NASA and UNESCO have awarded the app the ‘Best New App of 2021’ because it is the first app to be coded in Sanskrit. Lastly, the message also claims that WhatsApp is going to shut down in six months.
+
+Fact Crescendo has received this message for verification on our WhatsApp Fact Line Number-9049053770. This message is also going viral on Facebook.
+
+Fact Check-
+
+Fact Crescendo found that all the claims made in the viral message are false and misleading.
+
+We started our investigation by breaking down the viral message on social media and addressing them individually.
+
+Claim 1- The Signal App was created by a UP villager’s son.
+
+Upon searching for the official website of Signal we found the names of the board members of the organisation namely Brian Acton, Moxie Marlinspike and Meredith Whittaker.
+
+According to the website Brian Acton founded the Signal Foundation alongwith Moxie Marlinspike.
+
+We could not find any credible media report which would suggest that the app was created by the son of a villager from Uttar Pradesh. We also searched for Brian Acton, Moxie Marlinspike and Meredith Whittaker’s link with Uttar Pradesh but could not find any information.
+
+Claim 2- WhatsApp will shut down in six-months
+
+We could not find any media report related to the above-mentioned claim. We also searched for information related to the viral claim on WhatsApp’s official Twitter handle, Facebook handle and their website, but could not find anything. Usually they update every announcement on their social media handles and their website and if something as important as the company shutting down was going to take place, there would be a notice or some information about it.
+
+Claim 3- Signal App was coded in Sanskrit
+
+We went to the official website of Signal which mentions the following under its software libraries: Signal Protocol Java library, Signal Protocol C library, Signal Protocol JavaScript library. There is no mention of Sanskrit Language here.
+
+We found a list of translations for the Signal Android app and found that the original code has not been translated into Sanskrit. We understood that when a code gets translated, it’s just for understanding the original code. The list included 117 languages out of which Indian languages for which the code has been translated into are as follows-
+
+Bengali,
+
+Hindi,
+
+Kannada,
+
+Malayalam,
+
+Marathi,
+
+Telugu,
+
+Punjabi,
+
+Gujarati.
+
+Signal is an open-source software and its code is available in the public domain. Next, we went to the Github link of the Signal app which mentions the top languages used to code are: Java, Objective-C, Rust, C and Swift.
+
+Upon searching for the repository of programming languages used to code the app we found that they included Assembly, C, C++, Groovy, Java, Java Script, Objective-C, Python, Ruby, Rust, Swift, TypeScript.
+
+There was no mention of Sanskrit language.
+
+Claim 4- App awarded by NASA and UNESCO
+
+The viral message claims that the Signal app has been awarded by NASA and UNESCO as the “Best New App of 2021”. We could not find any award with the name as “Best New App of 2021” on the UNESCO and NASA website.
+
+Conclusion- Fact Crescendo found the above-mentioned message to be False. Signal app was not created by any villager in UP neither was it coded in the Sanskrit language. Also, the claim that WhatsApp is closing down in six months is a hoax.

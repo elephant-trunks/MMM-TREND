@@ -1,0 +1,27 @@
+There is a video going viral on social media and WhatsApp, claiming to show a roll of steel wool catch fire from an incoming call from an iPhone that is placed in between. After scrutinizing the video and trying out the experiment ourselves, we concluded that the viral video was digitally altered to add fake flames on the steel wool.
+
+We received the following video on our helpline with the caption: "रात को सोते समय सीर (मस्तक)के पास मोबाइल रखकर ना सोये । *मोबाईल का रेडिएशन देखिए (Do not keep a mobile fine next to your head while sleeping in the night. Look at the radiation from the mobile phone)".
+
+A quick Facebook search with the caption revealed that the video is massively viral on the social media platform.
+
+
+
+
+
+Upon performing a few Google searches with relevant keywords, BOOM found that the video originated from a YouTube page called Viral Video Lab, where it was uploaded on December 27, 2019.
+
+Steel wool is highly flammable, and can react strongly in the presence of fire and oxygen. However, can it ignite from the radio-waves received by the phone?
+
+
+
+Fact Check
+
+To test the validity of the claim BOOM decided to recreate the experiment exactly as shown and described in the YouTube video. Despite multiple trials, the end result was the same - there was no fire.
+
+
+
+Since the steel wool does not catch fire spontaneously, we hypothesised that flames and smoke in the viral video were digitally added. To test this hypothesis, we slowed the video down by 30% and looked for digital effects in the keyframes of the video.
+
+We found the the "dissolve transition" effect has been used to fade-in the flames and smoke on the steel wool.
+
+This was previously fact checked by Snopes.
