@@ -1,0 +1,629 @@
+2026-03-09 08:48:58,100 - root - INFO - ==================== season: 1 ====================
+2026-03-09 08:48:58,100 - root - INFO - start training......
+2026-03-09 08:48:58,174 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 400ba14f-a282-4ef6-b230-b1c07d295091)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-09 08:48:58,174 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2026-03-09 08:48:59,209 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: cfc7f253-a108-4644-a005-3da8aa961842)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-09 08:48:59,209 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2026-03-09 08:49:01,246 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 62126338-aefd-48d2-848d-7fa8d20d7a23)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-09 08:49:01,246 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2026-03-09 08:49:05,285 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 456f6803-0d8f-4711-ab90-bcde88ad2228)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-09 08:49:05,285 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2026-03-09 08:49:13,330 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 9b8aaeb2-8d83-470d-b2f1-4e1c657cf832)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-09 08:49:13,331 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2026-03-09 08:49:21,363 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 647efa36-78fa-4e6c-9b31-c79fcff68ba6)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-09 08:49:21,396 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: a0a0a416-7c74-4b46-8f1a-ad2c8ef0f752)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-09 08:49:21,396 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2026-03-09 08:49:22,431 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 5d8456e3-a419-4a4c-a472-804233233bda)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-09 08:49:22,431 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2026-03-09 08:49:24,469 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 93f6eb79-ba72-442c-a76d-8149e3a97850)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-09 08:49:24,469 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2026-03-09 08:49:28,552 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: f29348ee-e23d-462f-8efe-37e7782eea05)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-09 08:49:28,552 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2026-03-09 08:49:36,591 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 45edbb9c-293f-498c-bec5-49ac93470894)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-09 08:49:36,591 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2026-03-09 08:49:44,639 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 46b302ed-ed4a-44ce-a143-cc1ea9a0caa2)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-10 07:52:16,255 - root - INFO - ==================== season: 1 ====================
+2026-03-10 07:52:16,255 - root - INFO - start training......
+2026-03-10 07:52:16,333 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: a3fea35a-aa76-43c6-a6b9-62ad5c972197)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-10 07:52:16,333 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2026-03-10 07:52:17,367 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 967ba8b7-4f4e-4387-8d98-43b8b01f37bd)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-10 07:52:17,367 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2026-03-10 07:52:19,401 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: cc6fcad1-17ae-429e-bb19-2734e3d0f744)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-10 07:52:19,401 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2026-03-10 07:52:23,436 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 3ba5dc04-21c9-4524-b83e-b984e8840714)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-10 07:52:23,436 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2026-03-10 07:52:31,475 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 3e15b2f6-45f6-4eb7-81c2-27bbd11f86fb)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-10 07:52:31,475 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2026-03-10 07:52:39,514 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: eac84ca2-ba78-4a03-9a6c-769cf4011497)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-10 07:52:39,546 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: e31c6670-118a-4709-8036-86c7707016f6)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-10 07:52:39,546 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2026-03-10 07:52:40,579 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 1f18d904-11ef-45ae-bf05-2935b3555175)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-10 07:52:40,579 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2026-03-10 07:52:42,613 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 97e30489-c8fa-4a98-9cc4-0377fd48ac94)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-10 07:52:42,614 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2026-03-10 07:52:46,789 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 91d6cac7-92a4-4a22-94c9-305f6fe5fb9e)')' thrown while requesting HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json
+2026-03-10 07:52:46,789 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2026-03-10 08:04:42,779 - root - INFO - ==================== season: 1 ====================
+2026-03-10 08:04:42,779 - root - INFO - start training......
+2026-03-10 08:10:22,916 - root - INFO - ==================== season: 1 ====================
+2026-03-10 08:10:22,916 - root - INFO - start training......
+2026-03-10 11:03:48,740 - root - INFO - ==================== season: 1 ====================
+2026-03-10 11:03:48,740 - root - INFO - start training......
+2026-03-10 11:10:43,631 - root - INFO - ==================== season: 1 ====================
+2026-03-10 11:10:43,631 - root - INFO - start training......
+2026-03-10 11:14:55,316 - root - INFO - ==================== season: 1 ====================
+2026-03-10 11:14:55,316 - root - INFO - start training......
+2026-03-10 11:18:42,048 - root - INFO - ==================== season: 1 ====================
+2026-03-10 11:18:42,048 - root - INFO - start training......
+2026-03-10 11:32:14,469 - root - INFO - ==================== season: 1 ====================
+2026-03-10 11:32:14,469 - root - INFO - start training......
+2026-03-10 11:33:40,971 - root - INFO - ---------- epoch 0 ----------
+2026-03-10 11:33:40,971 - root - INFO - train loss: 0.5366881665859075
+2026-03-10 11:33:40,971 - root - INFO - val result: {'auc': 0.5895293753105583, 'spauc': 0.49538912071679536, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:34:32,575 - root - INFO - ---------- epoch 1 ----------
+2026-03-10 11:34:32,576 - root - INFO - train loss: 0.5270523921118442
+2026-03-10 11:34:32,577 - root - INFO - val result: {'auc': 0.5871914657227559, 'spauc': 0.490248621349592, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:35:24,052 - root - INFO - ---------- epoch 2 ----------
+2026-03-10 11:35:24,053 - root - INFO - train loss: 0.5214109122934816
+2026-03-10 11:35:24,053 - root - INFO - val result: {'auc': 0.5813711176743173, 'spauc': 0.4906479208802911, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:36:15,630 - root - INFO - ---------- epoch 3 ----------
+2026-03-10 11:36:15,630 - root - INFO - train loss: 0.5186930236901449
+2026-03-10 11:36:15,631 - root - INFO - val result: {'auc': 0.5777609665406754, 'spauc': 0.4940807728846271, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:37:07,224 - root - INFO - ---------- epoch 4 ----------
+2026-03-10 11:37:07,225 - root - INFO - train loss: 0.5175319298765442
+2026-03-10 11:37:07,225 - root - INFO - val result: {'auc': 0.5734864303540222, 'spauc': 0.49993638241310173, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:37:58,725 - root - INFO - ---------- epoch 5 ----------
+2026-03-10 11:37:58,726 - root - INFO - train loss: 0.5166719842722935
+2026-03-10 11:37:58,726 - root - INFO - val result: {'auc': 0.5795649952823079, 'spauc': 0.5007687002647844, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:44:08,159 - root - INFO - ==================== season: 1 ====================
+2026-03-10 11:44:08,159 - root - INFO - start training......
+2026-03-10 11:45:35,510 - root - INFO - ---------- epoch 0 ----------
+2026-03-10 11:45:35,510 - root - INFO - train loss: 0.5366881665859075
+2026-03-10 11:45:35,510 - root - INFO - val result: {'auc': 0.5895293753105583, 'spauc': 0.49538912071679536, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:46:27,756 - root - INFO - ---------- epoch 1 ----------
+2026-03-10 11:46:27,756 - root - INFO - train loss: 0.5270523921118442
+2026-03-10 11:46:27,756 - root - INFO - val result: {'auc': 0.5871914657227559, 'spauc': 0.490248621349592, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:47:19,552 - root - INFO - ---------- epoch 2 ----------
+2026-03-10 11:47:19,554 - root - INFO - train loss: 0.5214109122934816
+2026-03-10 11:47:19,555 - root - INFO - val result: {'auc': 0.5813711176743173, 'spauc': 0.4906479208802911, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:48:11,209 - root - INFO - ---------- epoch 3 ----------
+2026-03-10 11:48:11,209 - root - INFO - train loss: 0.5186930236901449
+2026-03-10 11:48:11,209 - root - INFO - val result: {'auc': 0.5777609665406754, 'spauc': 0.4940807728846271, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:49:02,796 - root - INFO - ---------- epoch 4 ----------
+2026-03-10 11:49:02,797 - root - INFO - train loss: 0.5175319298765442
+2026-03-10 11:49:02,797 - root - INFO - val result: {'auc': 0.5734864303540222, 'spauc': 0.49993638241310173, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:49:54,364 - root - INFO - ---------- epoch 5 ----------
+2026-03-10 11:49:54,365 - root - INFO - train loss: 0.5166719842722935
+2026-03-10 11:49:54,365 - root - INFO - val result: {'auc': 0.5795649952823079, 'spauc': 0.5007687002647844, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:52:22,270 - root - INFO - ==================== season: 1 ====================
+2026-03-10 11:52:22,270 - root - INFO - start training......
+2026-03-10 11:53:49,975 - root - INFO - ---------- epoch 0 ----------
+2026-03-10 11:53:49,975 - root - INFO - train loss: 0.5366881665859075
+2026-03-10 11:53:49,975 - root - INFO - val result: {'auc': 0.5895293753105583, 'spauc': 0.49538912071679536, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:54:42,862 - root - INFO - ---------- epoch 1 ----------
+2026-03-10 11:54:42,865 - root - INFO - train loss: 0.5270523921118442
+2026-03-10 11:54:42,865 - root - INFO - val result: {'auc': 0.5871914657227559, 'spauc': 0.490248621349592, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:55:35,067 - root - INFO - ---------- epoch 2 ----------
+2026-03-10 11:55:35,067 - root - INFO - train loss: 0.5214109122934816
+2026-03-10 11:55:35,067 - root - INFO - val result: {'auc': 0.5813711176743173, 'spauc': 0.4906479208802911, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:56:27,261 - root - INFO - ---------- epoch 3 ----------
+2026-03-10 11:56:27,261 - root - INFO - train loss: 0.5186930236901449
+2026-03-10 11:56:27,261 - root - INFO - val result: {'auc': 0.5777609665406754, 'spauc': 0.4940807728846271, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:57:19,477 - root - INFO - ---------- epoch 4 ----------
+2026-03-10 11:57:19,477 - root - INFO - train loss: 0.5175319298765442
+2026-03-10 11:57:19,477 - root - INFO - val result: {'auc': 0.5734864303540222, 'spauc': 0.49993638241310173, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:58:11,612 - root - INFO - ---------- epoch 5 ----------
+2026-03-10 11:58:11,613 - root - INFO - train loss: 0.5166719842722935
+2026-03-10 11:58:11,613 - root - INFO - val result: {'auc': 0.5795649952823079, 'spauc': 0.5007687002647844, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-10 11:58:17,072 - root - INFO - start testing......
+2026-03-10 11:58:17,072 - root - INFO - test score: {'auc': 0.5666576086956522, 'spauc': 0.5019591551342123, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}.
+2026-03-10 11:58:17,072 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.3705408515535098.
+
+
+2026-03-10 11:58:17,075 - root - INFO - best model path:./param_model/bert_roll_full_seed-2378/1/parameter_bert.pkl
+2026-03-10 11:58:17,075 - root - INFO - best param lr: 2e-05
+2026-03-10 11:58:17,075 - root - INFO - best metric:{'auc': 0.5666576086956522, 'spauc': 0.5019591551342123, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-10 11:58:17,075 - root - INFO - ==================================================
+
+
+2026-03-10 11:58:17,076 - root - INFO - ==================== season: 2 ====================
+2026-03-10 11:58:17,076 - root - INFO - start training......
+2026-03-10 11:59:55,699 - root - INFO - ---------- epoch 0 ----------
+2026-03-10 11:59:55,699 - root - INFO - train loss: 0.5288873051025431
+2026-03-10 11:59:55,699 - root - INFO - val result: {'auc': 0.5185783298826777, 'spauc': 0.4925583887254368, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-10 12:00:53,896 - root - INFO - ---------- epoch 1 ----------
+2026-03-10 12:00:53,896 - root - INFO - train loss: 0.5242394113643444
+2026-03-10 12:00:53,896 - root - INFO - val result: {'auc': 0.5148503278122843, 'spauc': 0.490723184773528, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-10 12:01:51,471 - root - INFO - ---------- epoch 2 ----------
+2026-03-10 12:01:51,473 - root - INFO - train loss: 0.5234024017036254
+2026-03-10 12:01:51,473 - root - INFO - val result: {'auc': 0.5203368702553486, 'spauc': 0.4882777596164324, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-10 12:02:49,033 - root - INFO - ---------- epoch 3 ----------
+2026-03-10 12:02:49,033 - root - INFO - train loss: 0.5225289844549743
+2026-03-10 12:02:49,033 - root - INFO - val result: {'auc': 0.5200530538302277, 'spauc': 0.48668864189459154, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-10 12:03:46,545 - root - INFO - ---------- epoch 4 ----------
+2026-03-10 12:03:46,546 - root - INFO - train loss: 0.5216447891873831
+2026-03-10 12:03:46,546 - root - INFO - val result: {'auc': 0.5212914078674947, 'spauc': 0.48573834949693073, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-10 12:04:44,048 - root - INFO - ---------- epoch 5 ----------
+2026-03-10 12:04:44,048 - root - INFO - train loss: 0.5213761722372006
+2026-03-10 12:04:44,048 - root - INFO - val result: {'auc': 0.5165890269151138, 'spauc': 0.4850441320693037, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-10 12:04:51,256 - root - INFO - start testing......
+2026-03-10 12:04:51,256 - root - INFO - test score: {'auc': 0.4953658531658253, 'spauc': 0.49329767934353447, 'metric': 0.3909524797675867, 'f1_real': 0.7819049595351734, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.320954003407155, 'precision_real': 0.64190800681431, 'precision_fake': 0.0, 'acc': 0.64190800681431}.
+2026-03-10 12:04:51,256 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.3909524797675867.
+
+
+2026-03-10 12:04:51,261 - root - INFO - best model path:./param_model/bert_roll_full_seed-2378/2/parameter_bert.pkl
+2026-03-10 12:04:51,261 - root - INFO - best param lr: 2e-05
+2026-03-10 12:04:51,261 - root - INFO - best metric:{'auc': 0.4953658531658253, 'spauc': 0.49329767934353447, 'metric': 0.3909524797675867, 'f1_real': 0.7819049595351734, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.320954003407155, 'precision_real': 0.64190800681431, 'precision_fake': 0.0, 'acc': 0.64190800681431}
+2026-03-10 12:04:51,261 - root - INFO - ==================================================
+
+
+2026-03-10 12:04:51,262 - root - INFO - ==================== season: 3 ====================
+2026-03-10 12:04:51,262 - root - INFO - start training......
+2026-03-10 12:06:40,355 - root - INFO - ---------- epoch 0 ----------
+2026-03-10 12:06:40,355 - root - INFO - train loss: 0.5597579481022584
+2026-03-10 12:06:40,355 - root - INFO - val result: {'auc': 0.5506458311869598, 'spauc': 0.5320817862166187, 'metric': 0.3909524797675867, 'f1_real': 0.7819049595351734, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.320954003407155, 'precision_real': 0.64190800681431, 'precision_fake': 0.0, 'acc': 0.64190800681431}
+2026-03-10 12:07:45,822 - root - INFO - ---------- epoch 1 ----------
+2026-03-10 12:07:45,823 - root - INFO - train loss: 0.5547999085408615
+2026-03-10 12:07:45,824 - root - INFO - val result: {'auc': 0.5490012039893257, 'spauc': 0.5275239785148934, 'metric': 0.3909524797675867, 'f1_real': 0.7819049595351734, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.320954003407155, 'precision_real': 0.64190800681431, 'precision_fake': 0.0, 'acc': 0.64190800681431}
+2026-03-10 12:08:50,682 - root - INFO - ---------- epoch 2 ----------
+2026-03-10 12:08:50,684 - root - INFO - train loss: 0.5535655443480807
+2026-03-10 12:08:50,685 - root - INFO - val result: {'auc': 0.5533883916035885, 'spauc': 0.531832727138955, 'metric': 0.3909524797675867, 'f1_real': 0.7819049595351734, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.320954003407155, 'precision_real': 0.64190800681431, 'precision_fake': 0.0, 'acc': 0.64190800681431}
+2026-03-10 12:09:55,470 - root - INFO - ---------- epoch 3 ----------
+2026-03-10 12:09:55,470 - root - INFO - train loss: 0.5527106806053776
+2026-03-10 12:09:55,471 - root - INFO - val result: {'auc': 0.551269542100234, 'spauc': 0.532700313936708, 'metric': 0.4007842640308637, 'f1_real': 0.7827715355805244, 'f1_fake': 0.018796992481203006, 'recall': 0.5039611955856418, 'recall_real': 0.9984076433121019, 'recall_fake': 0.009514747859181731, 'precision': 0.7064839677776023, 'precision_real': 0.6437371663244353, 'precision_fake': 0.7692307692307693, 'acc': 0.6442930153321976}
+2026-03-10 12:11:01,115 - root - INFO - ---------- epoch 4 ----------
+2026-03-10 12:11:01,117 - root - INFO - train loss: 0.5519727226194442
+2026-03-10 12:11:01,118 - root - INFO - val result: {'auc': 0.5545229394308524, 'spauc': 0.5337451925218696, 'metric': 0.4249463874722984, 'f1_real': 0.7858488591166004, 'f1_fake': 0.06404391582799634, 'recall': 0.5147930592843536, 'recall_real': 0.9962845010615711, 'recall_fake': 0.03330161750713606, 'precision': 0.7410703998156469, 'precision_real': 0.6488074662979606, 'precision_fake': 0.8333333333333334, 'acc': 0.6514480408858603}
+2026-03-10 12:12:06,753 - root - INFO - ---------- epoch 5 ----------
+2026-03-10 12:12:06,755 - root - INFO - train loss: 0.5516364700897001
+2026-03-10 12:12:06,755 - root - INFO - val result: {'auc': 0.551199595572713, 'spauc': 0.5323619444533932, 'metric': 0.45076307756489087, 'f1_real': 0.7883519729900823, 'f1_fake': 0.11317418213969939, 'recall': 0.5262009086483199, 'recall_real': 0.9915074309978769, 'recall_fake': 0.060894386298763085, 'precision': 0.7271453590192645, 'precision_real': 0.6542907180385289, 'precision_fake': 0.8, 'acc': 0.6582623509369676}
+2026-03-10 12:13:12,432 - root - INFO - ---------- epoch 6 ----------
+2026-03-10 12:13:12,433 - root - INFO - train loss: 0.5509417381721768
+2026-03-10 12:13:12,433 - root - INFO - val result: {'auc': 0.5527197331022321, 'spauc': 0.5316969008970274, 'metric': 0.46327874593808605, 'f1_real': 0.7904318374259103, 'f1_fake': 0.13612565445026178, 'recall': 0.5325958393684308, 'recall_real': 0.9909766454352441, 'recall_fake': 0.07421503330161751, 'precision': 0.7392234988880653, 'precision_real': 0.657394366197183, 'precision_fake': 0.8210526315789474, 'acc': 0.6626916524701874}
+2026-03-10 12:14:18,089 - root - INFO - ---------- epoch 7 ----------
+2026-03-10 12:14:18,090 - root - INFO - train loss: 0.5507052192855044
+2026-03-10 12:14:18,090 - root - INFO - val result: {'auc': 0.5510084420660942, 'spauc': 0.5338305158558398, 'metric': 0.46076731829752177, 'f1_real': 0.7901861252115059, 'f1_fake': 0.13134851138353767, 'recall': 0.5314340199708699, 'recall_real': 0.9915074309978769, 'recall_fake': 0.071360608943863, 'precision': 0.740498601258095, 'precision_real': 0.6568213783403657, 'precision_fake': 0.8241758241758241, 'acc': 0.6620102214650767}
+2026-03-10 12:15:22,846 - root - INFO - ---------- epoch 8 ----------
+2026-03-10 12:15:22,848 - root - INFO - train loss: 0.5499310688326122
+2026-03-10 12:15:22,848 - root - INFO - val result: {'auc': 0.5513834261576782, 'spauc': 0.5320161324362741, 'metric': 0.46076731829752177, 'f1_real': 0.7901861252115059, 'f1_fake': 0.13134851138353767, 'recall': 0.5314340199708699, 'recall_real': 0.9915074309978769, 'recall_fake': 0.071360608943863, 'precision': 0.740498601258095, 'precision_real': 0.6568213783403657, 'precision_fake': 0.8241758241758241, 'acc': 0.6620102214650767}
+2026-03-10 12:16:27,585 - root - INFO - ---------- epoch 9 ----------
+2026-03-10 12:16:27,587 - root - INFO - train loss: 0.5498028325965624
+2026-03-10 12:16:27,587 - root - INFO - val result: {'auc': 0.555039584179257, 'spauc': 0.5332135829644229, 'metric': 0.46506972330569196, 'f1_real': 0.7907666243117324, 'f1_fake': 0.13937282229965156, 'recall': 0.533547314154349, 'recall_real': 0.9909766454352441, 'recall_fake': 0.07611798287345385, 'precision': 0.7412999571354881, 'precision_real': 0.6578576462297393, 'precision_fake': 0.8247422680412371, 'acc': 0.6633730834752981}
+2026-03-10 12:17:33,266 - root - INFO - ---------- epoch 10 ----------
+2026-03-10 12:17:33,267 - root - INFO - train loss: 0.548986501265978
+2026-03-10 12:17:33,268 - root - INFO - val result: {'auc': 0.5521652111728593, 'spauc': 0.5310273386594232, 'metric': 0.46417492465316085, 'f1_real': 0.7905991954266356, 'f1_fake': 0.13775065387968613, 'recall': 0.5330715767613899, 'recall_real': 0.9909766454352441, 'recall_fake': 0.07516650808753568, 'precision': 0.7402712956440061, 'precision_real': 0.6576259246213455, 'precision_fake': 0.8229166666666666, 'acc': 0.6630323679727428}
+2026-03-10 12:18:38,007 - root - INFO - ---------- epoch 11 ----------
+2026-03-10 12:18:38,008 - root - INFO - train loss: 0.5480740239090851
+2026-03-10 12:18:38,010 - root - INFO - val result: {'auc': 0.554245678466166, 'spauc': 0.5313319509358402, 'metric': 0.46309135523891043, 'f1_real': 0.7901757357611687, 'f1_fake': 0.13600697471665216, 'recall': 0.5323304465871145, 'recall_real': 0.9904458598726115, 'recall_fake': 0.07421503330161751, 'precision': 0.7348868439591405, 'precision_real': 0.6572736879182811, 'precision_fake': 0.8125, 'acc': 0.662350936967632}
+2026-03-10 12:19:42,904 - root - INFO - ---------- epoch 12 ----------
+2026-03-10 12:19:42,906 - root - INFO - train loss: 0.5472798610443964
+2026-03-10 12:19:42,906 - root - INFO - val result: {'auc': 0.5532255197254258, 'spauc': 0.531460866253521, 'metric': 0.4644495511688096, 'f1_real': 0.7888818162529174, 'f1_fake': 0.14001728608470182, 'recall': 0.5318999092967773, 'recall_real': 0.9867303609341825, 'recall_fake': 0.07706945765937202, 'precision': 0.7106368007896651, 'precision_real': 0.6571226581831036, 'precision_fake': 0.7641509433962265, 'acc': 0.6609880749574105}
+2026-03-10 12:20:47,981 - root - INFO - ---------- epoch 13 ----------
+2026-03-10 12:20:47,983 - root - INFO - train loss: 0.5461431853394297
+2026-03-10 12:20:47,983 - root - INFO - val result: {'auc': 0.5464255556834963, 'spauc': 0.5310799680056104, 'metric': 0.4687940327145497, 'f1_real': 0.7866126625452996, 'f1_fake': 0.15097540288379982, 'recall': 0.5319903095020211, 'recall_real': 0.9792993630573248, 'recall_fake': 0.08468125594671741, 'precision': 0.6762989290167438, 'precision_real': 0.6572853580334878, 'precision_fake': 0.6953125, 'acc': 0.6589437819420784}
+2026-03-10 12:21:53,765 - root - INFO - ---------- epoch 14 ----------
+2026-03-10 12:21:53,766 - root - INFO - train loss: 0.5445016746581023
+2026-03-10 12:21:53,767 - root - INFO - val result: {'auc': 0.5458993153825797, 'spauc': 0.5319228349589422, 'metric': 0.48996078714603697, 'f1_real': 0.7763473707178704, 'f1_fake': 0.20357420357420358, 'recall': 0.5344553564394238, 'recall_real': 0.9442675159235668, 'recall_fake': 0.12464319695528069, 'precision': 0.6071088789947312, 'precision_real': 0.6591330122267507, 'precision_fake': 0.5550847457627118, 'acc': 0.6507666098807495}
+2026-03-10 12:22:59,576 - root - INFO - ---------- epoch 15 ----------
+2026-03-10 12:22:59,577 - root - INFO - train loss: 0.5435631619029976
+2026-03-10 12:22:59,578 - root - INFO - val result: {'auc': 0.5463573767577538, 'spauc': 0.5321493006304145, 'metric': 0.49449005854161987, 'f1_real': 0.7724774675752912, 'f1_fake': 0.2165026495079485, 'recall': 0.5343255639659732, 'recall_real': 0.9325902335456475, 'recall_fake': 0.13606089438629876, 'precision': 0.5944583420193177, 'precision_real': 0.6592870544090056, 'precision_fake': 0.5296296296296297, 'acc': 0.6473594548551959}
+2026-03-10 12:24:05,372 - root - INFO - ---------- epoch 16 ----------
+2026-03-10 12:24:05,372 - root - INFO - train loss: 0.5418513143545662
+2026-03-10 12:24:05,373 - root - INFO - val result: {'auc': 0.5443160492181139, 'spauc': 0.5305552693724105, 'metric': 0.4923415640916393, 'f1_real': 0.764418811002662, 'f1_fake': 0.22026431718061673, 'recall': 0.528632371151931, 'recall_real': 0.9145435244161358, 'recall_fake': 0.142721217887726, 'precision': 0.5694731050505842, 'precision_real': 0.6566310975609756, 'precision_fake': 0.48231511254019294, 'acc': 0.638160136286201}
+2026-03-10 12:25:10,383 - root - INFO - ---------- epoch 17 ----------
+2026-03-10 12:25:10,384 - root - INFO - train loss: 0.5391268929960381
+2026-03-10 12:25:10,384 - root - INFO - val result: {'auc': 0.5436625415891447, 'spauc': 0.532520629906291, 'metric': 0.5087939773852014, 'f1_real': 0.7422632794457275, 'f1_fake': 0.2753246753246753, 'recall': 0.5273425268826979, 'recall_real': 0.8529723991507431, 'recall_fake': 0.2017126546146527, 'precision': 0.5452644190172344, 'precision_real': 0.6569910057236305, 'precision_fake': 0.4335378323108384, 'acc': 0.6197614991482112}
+2026-03-10 12:26:16,244 - root - INFO - ---------- epoch 18 ----------
+2026-03-10 12:26:16,245 - root - INFO - train loss: 0.5378094017256593
+2026-03-10 12:26:16,245 - root - INFO - val result: {'auc': 0.5382678209611309, 'spauc': 0.5299888393889509, 'metric': 0.504271209131631, 'f1_real': 0.754246885617214, 'f1_fake': 0.25429553264604815, 'recall': 0.5298903985891508, 'recall_real': 0.8837579617834395, 'recall_fake': 0.17602283539486205, 'precision': 0.5578817709902164, 'precision_real': 0.6578427499012248, 'precision_fake': 0.45792079207920794, 'acc': 0.6303236797274276}
+2026-03-10 12:27:21,140 - root - INFO - ---------- epoch 19 ----------
+2026-03-10 12:27:21,140 - root - INFO - train loss: 0.5360867328617477
+2026-03-10 12:27:21,141 - root - INFO - val result: {'auc': 0.5378218802838667, 'spauc': 0.5313688978000827, 'metric': 0.5146455110524156, 'f1_real': 0.7261509254864738, 'f1_fake': 0.30314009661835745, 'recall': 0.5254610410467435, 'recall_real': 0.8121019108280255, 'recall_fake': 0.23882017126546146, 'precision': 0.5357641967864364, 'precision_real': 0.6566523605150214, 'precision_fake': 0.41487603305785126, 'acc': 0.6068143100511073}
+2026-03-10 12:27:26,393 - root - INFO - start testing......
+2026-03-10 12:27:26,393 - root - INFO - test score: {'auc': 0.506238344988345, 'spauc': 0.4948779290884554, 'metric': 0.4832149167479115, 'f1_real': 0.703538023586824, 'f1_fake': 0.26289180990899896, 'recall': 0.4973484848484849, 'recall_real': 0.7863636363636364, 'recall_fake': 0.20833333333333334, 'precision': 0.4963309040692693, 'precision_real': 0.6364974245768947, 'precision_fake': 0.3561643835616438, 'acc': 0.5771461716937355}.
+2026-03-10 12:27:26,393 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.4832149167479115.
+
+
+2026-03-10 12:27:26,396 - root - INFO - best model path:./param_model/bert_roll_full_seed-2378/3/parameter_bert.pkl
+2026-03-10 12:27:26,396 - root - INFO - best param lr: 2e-05
+2026-03-10 12:27:26,396 - root - INFO - best metric:{'auc': 0.506238344988345, 'spauc': 0.4948779290884554, 'metric': 0.4832149167479115, 'f1_real': 0.703538023586824, 'f1_fake': 0.26289180990899896, 'recall': 0.4973484848484849, 'recall_real': 0.7863636363636364, 'recall_fake': 0.20833333333333334, 'precision': 0.4963309040692693, 'precision_real': 0.6364974245768947, 'precision_fake': 0.3561643835616438, 'acc': 0.5771461716937355}
+2026-03-10 12:27:26,396 - root - INFO - ==================================================
+
+
+2026-03-10 12:27:26,397 - root - INFO - ==================== season: 4 ====================
+2026-03-10 12:27:26,397 - root - INFO - start training......
+2026-03-10 12:29:21,267 - root - INFO - ---------- epoch 0 ----------
+2026-03-10 12:29:21,267 - root - INFO - train loss: 0.5784337661804703
+2026-03-10 12:29:21,267 - root - INFO - val result: {'auc': 0.5340238927738927, 'spauc': 0.49884600049073735, 'metric': 0.3895184135977337, 'f1_real': 0.7790368271954674, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.3190255220417633, 'precision_real': 0.6380510440835266, 'precision_fake': 0.0, 'acc': 0.6380510440835266}
+2026-03-10 12:30:31,594 - root - INFO - ---------- epoch 1 ----------
+2026-03-10 12:30:31,595 - root - INFO - train loss: 0.5737972016666034
+2026-03-10 12:30:31,597 - root - INFO - val result: {'auc': 0.5343473193473193, 'spauc': 0.49958594037541404, 'metric': 0.38930216082182084, 'f1_real': 0.7786043216436417, 'f1_fake': 0.0, 'recall': 0.49954545454545457, 'recall_real': 0.9990909090909091, 'recall_fake': 0.0, 'precision': 0.3189204875217644, 'precision_real': 0.6378409750435288, 'precision_fake': 0.0, 'acc': 0.6374709976798144}
+2026-03-10 12:31:41,272 - root - INFO - ---------- epoch 2 ----------
+2026-03-10 12:31:41,273 - root - INFO - train loss: 0.5724822473183542
+2026-03-10 12:31:41,273 - root - INFO - val result: {'auc': 0.5357036713286714, 'spauc': 0.49763449270028215, 'metric': 0.39593585927741926, 'f1_real': 0.7704976727533118, 'f1_fake': 0.02137404580152672, 'recall': 0.4946998834498834, 'recall_real': 0.9781818181818182, 'recall_fake': 0.011217948717948718, 'precision': 0.4306823161785721, 'precision_real': 0.635558180744241, 'precision_fake': 0.22580645161290322, 'acc': 0.6281902552204176}
+2026-03-10 12:32:51,775 - root - INFO - ---------- epoch 3 ----------
+2026-03-10 12:32:51,775 - root - INFO - train loss: 0.5709812129401283
+2026-03-10 12:32:51,776 - root - INFO - val result: {'auc': 0.5280055361305361, 'spauc': 0.4944677033492823, 'metric': 0.3989824710483598, 'f1_real': 0.7706093189964157, 'f1_fake': 0.02735562310030395, 'recall': 0.4958479020979021, 'recall_real': 0.9772727272727273, 'recall_fake': 0.014423076923076924, 'precision': 0.4504002784545771, 'precision_real': 0.636094674556213, 'precision_fake': 0.2647058823529412, 'acc': 0.62877030162413}
+2026-03-10 12:34:02,341 - root - INFO - ---------- epoch 4 ----------
+2026-03-10 12:34:02,342 - root - INFO - train loss: 0.5700969839767716
+2026-03-10 12:34:02,343 - root - INFO - val result: {'auc': 0.5302199883449884, 'spauc': 0.4958632376395534, 'metric': 0.3989824710483598, 'f1_real': 0.7706093189964157, 'f1_fake': 0.02735562310030395, 'recall': 0.4958479020979021, 'recall_real': 0.9772727272727273, 'recall_fake': 0.014423076923076924, 'precision': 0.4504002784545771, 'precision_real': 0.636094674556213, 'precision_fake': 0.2647058823529412, 'acc': 0.62877030162413}
+2026-03-10 12:35:12,173 - root - INFO - ---------- epoch 5 ----------
+2026-03-10 12:35:12,175 - root - INFO - train loss: 0.5693839824210228
+2026-03-10 12:35:12,176 - root - INFO - val result: {'auc': 0.5262893356643357, 'spauc': 0.4980255490123911, 'metric': 0.39922353160599383, 'f1_real': 0.7710498029380151, 'f1_fake': 0.0273972602739726, 'recall': 0.4963024475524475, 'recall_real': 0.9781818181818182, 'recall_fake': 0.014423076923076924, 'precision': 0.45451857427020054, 'precision_real': 0.6363098758131284, 'precision_fake': 0.2727272727272727, 'acc': 0.6293503480278422}
+2026-03-10 12:36:22,790 - root - INFO - ---------- epoch 6 ----------
+2026-03-10 12:36:22,791 - root - INFO - train loss: 0.5690274844539251
+2026-03-10 12:36:22,791 - root - INFO - val result: {'auc': 0.5235336538461538, 'spauc': 0.498830664949086, 'metric': 0.40086065082633365, 'f1_real': 0.7713261648745519, 'f1_fake': 0.0303951367781155, 'recall': 0.4971037296037296, 'recall_real': 0.9781818181818182, 'recall_fake': 0.016025641025641024, 'precision': 0.465402018795684, 'precision_real': 0.6366863905325444, 'precision_fake': 0.29411764705882354, 'acc': 0.6299303944315545}
+2026-03-10 12:37:33,932 - root - INFO - ---------- epoch 7 ----------
+2026-03-10 12:37:33,933 - root - INFO - train loss: 0.5682624149909369
+2026-03-10 12:37:33,935 - root - INFO - val result: {'auc': 0.5325823135198134, 'spauc': 0.498899674886517, 'metric': 0.40061731787191274, 'f1_real': 0.7708856220867694, 'f1_fake': 0.030349013657056143, 'recall': 0.49664918414918413, 'recall_real': 0.9772727272727273, 'recall_fake': 0.016025641025641024, 'precision': 0.46109278524909075, 'precision_real': 0.6364712847838958, 'precision_fake': 0.2857142857142857, 'acc': 0.6293503480278422}
+2026-03-10 12:38:44,585 - root - INFO - ---------- epoch 8 ----------
+2026-03-10 12:38:44,586 - root - INFO - train loss: 0.5678863257154076
+2026-03-10 12:38:44,587 - root - INFO - val result: {'auc': 0.5348543123543124, 'spauc': 0.4970402404612931, 'metric': 0.40061731787191274, 'f1_real': 0.7708856220867694, 'f1_fake': 0.030349013657056143, 'recall': 0.49664918414918413, 'recall_real': 0.9772727272727273, 'recall_fake': 0.016025641025641024, 'precision': 0.46109278524909075, 'precision_real': 0.6364712847838958, 'precision_fake': 0.2857142857142857, 'acc': 0.6293503480278422}
+2026-03-10 12:39:54,467 - root - INFO - ---------- epoch 9 ----------
+2026-03-10 12:39:54,469 - root - INFO - train loss: 0.5674629358839729
+2026-03-10 12:39:54,469 - root - INFO - val result: {'auc': 0.5368924825174826, 'spauc': 0.49841660532450005, 'metric': 0.40061731787191274, 'f1_real': 0.7708856220867694, 'f1_fake': 0.030349013657056143, 'recall': 0.49664918414918413, 'recall_real': 0.9772727272727273, 'recall_fake': 0.016025641025641024, 'precision': 0.46109278524909075, 'precision_real': 0.6364712847838958, 'precision_fake': 0.2857142857142857, 'acc': 0.6293503480278422}
+2026-03-10 12:41:04,193 - root - INFO - ---------- epoch 10 ----------
+2026-03-10 12:41:04,194 - root - INFO - train loss: 0.5670547324818157
+2026-03-10 12:41:04,194 - root - INFO - val result: {'auc': 0.5432801573426573, 'spauc': 0.49833225984541774, 'metric': 0.40037389678709623, 'f1_real': 0.7704447632711622, 'f1_fake': 0.030303030303030304, 'recall': 0.49619463869463865, 'recall_real': 0.9763636363636363, 'recall_fake': 0.016025641025641024, 'precision': 0.457016850974197, 'precision_real': 0.6362559241706162, 'precision_fake': 0.2777777777777778, 'acc': 0.62877030162413}
+2026-03-10 12:42:13,839 - root - INFO - ---------- epoch 11 ----------
+2026-03-10 12:42:13,841 - root - INFO - train loss: 0.5667385853003257
+2026-03-10 12:42:13,842 - root - INFO - val result: {'auc': 0.5484127331002332, 'spauc': 0.49907986750092015, 'metric': 0.40061731787191274, 'f1_real': 0.7708856220867694, 'f1_fake': 0.030349013657056143, 'recall': 0.49664918414918413, 'recall_real': 0.9772727272727273, 'recall_fake': 0.016025641025641024, 'precision': 0.46109278524909075, 'precision_real': 0.6364712847838958, 'precision_fake': 0.2857142857142857, 'acc': 0.6293503480278422}
+2026-03-10 12:42:14,450 - root - INFO - start testing......
+2026-03-10 12:42:14,450 - root - INFO - test score: {'auc': 0.9912767644726407, 'spauc': 0.9540882340665303, 'metric': 0.46859903381642515, 'f1_real': 0.9371980676328503, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.4409090909090909, 'precision_real': 0.8818181818181818, 'precision_fake': 0.0, 'acc': 0.8818181818181818}.
+2026-03-10 12:42:14,450 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.46859903381642515.
+
+
+2026-03-10 12:42:14,453 - root - INFO - best model path:./param_model/bert_roll_full_seed-2378/4/parameter_bert.pkl
+2026-03-10 12:42:14,453 - root - INFO - best param lr: 2e-05
+2026-03-10 12:42:14,453 - root - INFO - best metric:{'auc': 0.9912767644726407, 'spauc': 0.9540882340665303, 'metric': 0.46859903381642515, 'f1_real': 0.9371980676328503, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.4409090909090909, 'precision_real': 0.8818181818181818, 'precision_fake': 0.0, 'acc': 0.8818181818181818}
+2026-03-10 12:42:14,453 - root - INFO - ==================================================
+
+
+2026-03-11 19:43:10,433 - root - INFO - ==================== season: 1 ====================
+2026-03-11 19:43:10,434 - root - INFO - start training......
+2026-03-11 19:44:38,374 - root - INFO - ---------- epoch 0 ----------
+2026-03-11 19:44:38,374 - root - INFO - train loss: 0.5366881665859075
+2026-03-11 19:44:38,374 - root - INFO - val result: {'auc': 0.5895293753105583, 'spauc': 0.49538912071679536, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-11 19:45:30,853 - root - INFO - ---------- epoch 1 ----------
+2026-03-11 19:45:30,853 - root - INFO - train loss: 0.5270523921118442
+2026-03-11 19:45:30,854 - root - INFO - val result: {'auc': 0.5871914657227559, 'spauc': 0.490248621349592, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-11 19:46:23,006 - root - INFO - ---------- epoch 2 ----------
+2026-03-11 19:46:23,006 - root - INFO - train loss: 0.5214109122934816
+2026-03-11 19:46:23,006 - root - INFO - val result: {'auc': 0.5813711176743173, 'spauc': 0.4906479208802911, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-11 19:47:15,200 - root - INFO - ---------- epoch 3 ----------
+2026-03-11 19:47:15,200 - root - INFO - train loss: 0.5186930236901449
+2026-03-11 19:47:15,200 - root - INFO - val result: {'auc': 0.5777609665406754, 'spauc': 0.4940807728846271, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-11 19:48:07,410 - root - INFO - ---------- epoch 4 ----------
+2026-03-11 19:48:07,411 - root - INFO - train loss: 0.5175319298765442
+2026-03-11 19:48:07,413 - root - INFO - val result: {'auc': 0.5734864303540222, 'spauc': 0.49993638241310173, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-11 19:48:59,603 - root - INFO - ---------- epoch 5 ----------
+2026-03-11 19:48:59,604 - root - INFO - train loss: 0.5166719842722935
+2026-03-11 19:48:59,604 - root - INFO - val result: {'auc': 0.5795649952823079, 'spauc': 0.5007687002647844, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-11 19:49:05,126 - root - INFO - start testing......
+2026-03-11 19:49:05,126 - root - INFO - test score: {'auc': 0.5666576086956522, 'spauc': 0.5019591551342123, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}.
+2026-03-11 19:49:05,126 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.3705408515535098.
+
+
+2026-03-11 19:49:05,127 - root - INFO - best model path:./param_model/bert_roll_full_seed-2378/1/parameter_bert.pkl
+2026-03-11 19:49:05,127 - root - INFO - best param lr: 2e-05
+2026-03-11 19:49:05,127 - root - INFO - best metric:{'auc': 0.5666576086956522, 'spauc': 0.5019591551342123, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-11 19:49:05,127 - root - INFO - ==================================================
+
+
+2026-03-11 19:49:05,128 - root - INFO - ==================== season: 2 ====================
+2026-03-11 19:49:05,128 - root - INFO - start training......
+2026-03-11 19:50:44,045 - root - INFO - ---------- epoch 0 ----------
+2026-03-11 19:50:44,046 - root - INFO - train loss: 0.5288873051025431
+2026-03-11 19:50:44,046 - root - INFO - val result: {'auc': 0.5185783298826777, 'spauc': 0.4925583887254368, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-11 19:51:42,532 - root - INFO - ---------- epoch 1 ----------
+2026-03-11 19:51:42,534 - root - INFO - train loss: 0.5242394113643444
+2026-03-11 19:51:42,534 - root - INFO - val result: {'auc': 0.5148503278122843, 'spauc': 0.490723184773528, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-11 19:52:40,216 - root - INFO - ---------- epoch 2 ----------
+2026-03-11 19:52:40,217 - root - INFO - train loss: 0.5234024017036254
+2026-03-11 19:52:40,218 - root - INFO - val result: {'auc': 0.5203368702553486, 'spauc': 0.4882777596164324, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-11 19:53:37,892 - root - INFO - ---------- epoch 3 ----------
+2026-03-11 19:53:37,893 - root - INFO - train loss: 0.5225289844549743
+2026-03-11 19:53:37,893 - root - INFO - val result: {'auc': 0.5200530538302277, 'spauc': 0.48668864189459154, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-11 19:54:35,561 - root - INFO - ---------- epoch 4 ----------
+2026-03-11 19:54:35,562 - root - INFO - train loss: 0.5216447891873831
+2026-03-11 19:54:35,562 - root - INFO - val result: {'auc': 0.5212914078674947, 'spauc': 0.48573834949693073, 'metric': 0.3705408515535098, 'f1_real': 0.7410817031070196, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2943327239488117, 'precision_real': 0.5886654478976234, 'precision_fake': 0.0, 'acc': 0.5886654478976234}
+2026-03-11 19:58:44,150 - root - INFO - ==================== season: 1 ====================
+2026-03-11 19:58:44,150 - root - INFO - start training......
+2026-03-11 20:00:11,953 - root - INFO - ---------- epoch 0 ----------
+2026-03-11 20:00:11,953 - root - INFO - train loss: 0.5366881665859075
+2026-03-11 20:00:11,954 - root - INFO - val result: {'auc': 0.5895293753105583, 'spauc': 0.49538912071679536, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-11 20:01:10,105 - root - INFO - ---------- epoch 1 ----------
+2026-03-11 20:01:10,105 - root - INFO - train loss: 0.5270523921118442
+2026-03-11 20:01:10,105 - root - INFO - val result: {'auc': 0.5871914657227559, 'spauc': 0.490248621349592, 'metric': 0.336078431372549, 'f1_real': 0.672156862745098, 'f1_fake': 0.0, 'recall': 0.5, 'recall_real': 1.0, 'recall_fake': 0.0, 'precision': 0.2531010041346722, 'precision_real': 0.5062020082693444, 'precision_fake': 0.0, 'acc': 0.5062020082693444}
+2026-03-11 20:02:05,044 - root - INFO - ==================== season: 1 ====================
+2026-03-11 20:02:05,044 - root - INFO - start training......
+2026-03-11 20:03:33,907 - root - INFO - ---------- epoch 0 ----------
+2026-03-11 20:03:33,907 - root - INFO - train loss: 0.5366881665859075
+2026-03-11 20:03:33,907 - root - INFO - val result: {'auc': 0.5895293753105583, 'spauc': 0.49538912071679536, 'metric': 0.39471076699918684, 'f1_real': 0.1144114411441144, 'f1_fake': 0.6750100928542593, 'recall': 0.530338389731622, 'recall_real': 0.060676779463243874, 'recall_fake': 1.0, 'precision': 0.7547227300426569, 'precision_real': 1.0, 'precision_fake': 0.5094454600853139, 'acc': 0.5245126993502658}
+2026-03-11 20:04:26,958 - root - INFO - ---------- epoch 1 ----------
+2026-03-11 20:04:26,958 - root - INFO - train loss: 0.5270523921118442
+2026-03-11 20:04:26,958 - root - INFO - val result: {'auc': 0.5871914657227559, 'spauc': 0.490248621349592, 'metric': 0.42824563347959027, 'f1_real': 0.17428267800212538, 'f1_fake': 0.6822085889570552, 'recall': 0.546645134635677, 'recall_real': 0.09568261376896149, 'recall_fake': 0.9976076555023924, 'precision': 0.7472624226819379, 'precision_real': 0.9761904761904762, 'precision_fake': 0.5183343691733996, 'acc': 0.5410513880685174}
+2026-03-11 20:05:20,029 - root - INFO - ---------- epoch 2 ----------
+2026-03-11 20:05:20,029 - root - INFO - train loss: 0.5214109122934816
+2026-03-11 20:05:20,029 - root - INFO - val result: {'auc': 0.5813711176743173, 'spauc': 0.4906479208802911, 'metric': 0.42824563347959027, 'f1_real': 0.17428267800212538, 'f1_fake': 0.6822085889570552, 'recall': 0.546645134635677, 'recall_real': 0.09568261376896149, 'recall_fake': 0.9976076555023924, 'precision': 0.7472624226819379, 'precision_real': 0.9761904761904762, 'precision_fake': 0.5183343691733996, 'acc': 0.5410513880685174}
+2026-03-11 20:06:12,232 - root - INFO - ---------- epoch 3 ----------
+2026-03-11 20:06:12,233 - root - INFO - train loss: 0.5186930236901449
+2026-03-11 20:06:12,233 - root - INFO - val result: {'auc': 0.5777609665406754, 'spauc': 0.4940807728846271, 'metric': 0.42824563347959027, 'f1_real': 0.17428267800212538, 'f1_fake': 0.6822085889570552, 'recall': 0.546645134635677, 'recall_real': 0.09568261376896149, 'recall_fake': 0.9976076555023924, 'precision': 0.7472624226819379, 'precision_real': 0.9761904761904762, 'precision_fake': 0.5183343691733996, 'acc': 0.5410513880685174}
+2026-03-11 20:07:04,387 - root - INFO - ---------- epoch 4 ----------
+2026-03-11 20:07:04,388 - root - INFO - train loss: 0.5175319298765442
+2026-03-11 20:07:04,389 - root - INFO - val result: {'auc': 0.5734864303540222, 'spauc': 0.49993638241310173, 'metric': 0.42824563347959027, 'f1_real': 0.17428267800212538, 'f1_fake': 0.6822085889570552, 'recall': 0.546645134635677, 'recall_real': 0.09568261376896149, 'recall_fake': 0.9976076555023924, 'precision': 0.7472624226819379, 'precision_real': 0.9761904761904762, 'precision_fake': 0.5183343691733996, 'acc': 0.5410513880685174}
+2026-03-11 20:07:56,552 - root - INFO - ---------- epoch 5 ----------
+2026-03-11 20:07:56,553 - root - INFO - train loss: 0.5166719842722935
+2026-03-11 20:07:56,553 - root - INFO - val result: {'auc': 0.5795649952823079, 'spauc': 0.5007687002647844, 'metric': 0.4337519309279487, 'f1_real': 0.18658280922431864, 'f1_fake': 0.6809210526315789, 'recall': 0.5471406318915991, 'recall_real': 0.10385064177362893, 'recall_fake': 0.9904306220095693, 'precision': 0.7181613828385396, 'precision_real': 0.9175257731958762, 'precision_fake': 0.518796992481203, 'acc': 0.5416420555227407}
+2026-03-11 20:08:49,630 - root - INFO - ---------- epoch 6 ----------
+2026-03-11 20:08:49,631 - root - INFO - train loss: 0.5156826638356665
+2026-03-11 20:08:49,631 - root - INFO - val result: {'auc': 0.567562097670186, 'spauc': 0.5042294676074821, 'metric': 0.4304609573351958, 'f1_real': 0.17815482502651114, 'f1_fake': 0.6827670896438804, 'recall': 0.5478119957792008, 'recall_real': 0.09801633605600933, 'recall_fake': 0.9976076555023924, 'precision': 0.7478618254439153, 'precision_real': 0.9767441860465116, 'precision_fake': 0.5189794648413192, 'acc': 0.542232722976964}
+2026-03-11 20:09:41,760 - root - INFO - ---------- epoch 7 ----------
+2026-03-11 20:09:41,761 - root - INFO - train loss: 0.5146632525262426
+2026-03-11 20:09:41,762 - root - INFO - val result: {'auc': 0.5773024571080826, 'spauc': 0.5045864900928464, 'metric': 0.4352277244836229, 'f1_real': 0.18736842105263157, 'f1_fake': 0.6830870279146142, 'recall': 0.5495329763892068, 'recall_real': 0.10385064177362893, 'recall_fake': 0.9952153110047847, 'precision': 0.738494623655914, 'precision_real': 0.956989247311828, 'precision_fake': 0.52, 'acc': 0.5440047253396337}
+2026-03-11 20:10:34,732 - root - INFO - ---------- epoch 8 ----------
+2026-03-11 20:10:34,733 - root - INFO - train loss: 0.5134016252546598
+2026-03-11 20:10:34,734 - root - INFO - val result: {'auc': 0.5666018100305393, 'spauc': 0.5055179808571302, 'metric': 0.44198099071765967, 'f1_real': 0.20268872802481905, 'f1_fake': 0.6812732534105003, 'recall': 0.5499991625398492, 'recall_real': 0.11435239206534423, 'recall_fake': 0.9856459330143541, 'precision': 0.7057198644690748, 'precision_real': 0.8909090909090909, 'precision_fake': 0.5205306380290587, 'acc': 0.544595392793857}
+2026-03-11 20:11:27,776 - root - INFO - ---------- epoch 9 ----------
+2026-03-11 20:11:27,777 - root - INFO - train loss: 0.5132123495762766
+2026-03-11 20:11:27,777 - root - INFO - val result: {'auc': 0.5769018720025905, 'spauc': 0.5097662545872982, 'metric': 0.4613625098795697, 'f1_real': 0.24151696606786427, 'f1_fake': 0.6812080536912751, 'recall': 0.5562410321975513, 'recall_real': 0.1411901983663944, 'recall_fake': 0.9712918660287081, 'precision': 0.6795152811191303, 'precision_real': 0.8344827586206897, 'precision_fake': 0.524547803617571, 'acc': 0.5510927347903131}
+2026-03-11 20:12:20,802 - root - INFO - ---------- epoch 10 ----------
+2026-03-11 20:12:20,803 - root - INFO - train loss: 0.513369590320743
+2026-03-11 20:12:20,804 - root - INFO - val result: {'auc': 0.5674134484934092, 'spauc': 0.5095605626204216, 'metric': 0.438471396436218, 'f1_real': 0.19435736677115992, 'f1_fake': 0.6825854261012761, 'recall': 0.5500724403030489, 'recall_real': 0.10851808634772463, 'recall_fake': 0.9916267942583732, 'precision': 0.7252008788449467, 'precision_real': 0.93, 'precision_fake': 0.5204017576898933, 'acc': 0.544595392793857}
+2026-03-11 20:13:12,923 - root - INFO - ---------- epoch 11 ----------
+2026-03-11 20:13:12,924 - root - INFO - train loss: 0.511445657744147
+2026-03-11 20:13:12,924 - root - INFO - val result: {'auc': 0.5694924433179055, 'spauc': 0.5053086158194166, 'metric': 0.4459752538895726, 'f1_real': 0.2136317395727365, 'f1_fake': 0.6783187682064087, 'recall': 0.5487004014225656, 'recall_real': 0.12252042007001167, 'recall_fake': 0.9748803827751196, 'precision': 0.6767177196341204, 'precision_real': 0.8333333333333334, 'precision_fake': 0.5201021059349075, 'acc': 0.5434140578854105}
+2026-03-11 20:14:05,055 - root - INFO - ---------- epoch 12 ----------
+2026-03-11 20:14:05,056 - root - INFO - train loss: 0.5100934313951826
+2026-03-11 20:14:05,057 - root - INFO - val result: {'auc': 0.5723719104699267, 'spauc': 0.5044307518893542, 'metric': 0.4735533905407938, 'f1_real': 0.2677012609117362, 'f1_fake': 0.6794055201698515, 'recall': 0.5589823184246816, 'recall_real': 0.16102683780630106, 'recall_fake': 0.9569377990430622, 'precision': 0.6598828630451068, 'precision_real': 0.7931034482758621, 'precision_fake': 0.5266622778143516, 'acc': 0.5540460720614294}
+2026-03-11 20:14:58,106 - root - INFO - ---------- epoch 13 ----------
+2026-03-11 20:14:58,107 - root - INFO - train loss: 0.5090955135190816
+2026-03-11 20:14:58,108 - root - INFO - val result: {'auc': 0.5756414944755545, 'spauc': 0.5030474734121094, 'metric': 0.4853851056527921, 'f1_real': 0.2887189292543021, 'f1_fake': 0.6820512820512821, 'recall': 0.5653707436087833, 'recall_real': 0.176196032672112, 'recall_fake': 0.9545454545454546, 'precision': 0.6647634526623889, 'precision_real': 0.798941798941799, 'precision_fake': 0.5305851063829787, 'acc': 0.5605434140578854}
+2026-03-11 20:15:51,185 - root - INFO - ---------- epoch 14 ----------
+2026-03-11 20:15:51,185 - root - INFO - train loss: 0.5062023477549868
+2026-03-11 20:15:51,186 - root - INFO - val result: {'auc': 0.55741905947642, 'spauc': 0.5013189262761791, 'metric': 0.46603405286737465, 'f1_real': 0.2544031311154599, 'f1_fake': 0.6776649746192893, 'recall': 0.5549129599749879, 'recall_real': 0.1516919486581097, 'recall_fake': 0.9581339712918661, 'precision': 0.6560467237823259, 'precision_real': 0.7878787878787878, 'precision_fake': 0.5242146596858639, 'acc': 0.5499113998818665}
+2026-03-11 20:16:43,330 - root - INFO - ---------- epoch 15 ----------
+2026-03-11 20:16:43,332 - root - INFO - train loss: 0.5039297530350139
+2026-03-11 20:16:43,332 - root - INFO - val result: {'auc': 0.5620655675467442, 'spauc': 0.5017332486666018, 'metric': 0.4780522782779276, 'f1_real': 0.27889207258834764, 'f1_fake': 0.6772124839675076, 'recall': 0.558865074003562, 'recall_real': 0.17036172695449242, 'recall_fake': 0.9473684210526315, 'precision': 0.647683580208005, 'precision_real': 0.7684210526315789, 'precision_fake': 0.5269461077844312, 'acc': 0.5540460720614294}
+2026-03-11 20:17:35,450 - root - INFO - ---------- epoch 16 ----------
+2026-03-11 20:17:35,451 - root - INFO - train loss: 0.5016332949532885
+2026-03-11 20:17:35,451 - root - INFO - val result: {'auc': 0.5658250657406219, 'spauc': 0.5012616263711206, 'metric': 0.4885993802740047, 'f1_real': 0.2967863894139887, 'f1_fake': 0.6804123711340206, 'recall': 0.5652828102929436, 'recall_real': 0.18319719953325556, 'recall_fake': 0.9473684210526315, 'precision': 0.6559628132794473, 'precision_real': 0.7810945273631841, 'precision_fake': 0.5308310991957105, 'acc': 0.5605434140578854}
+2026-03-11 20:18:28,509 - root - INFO - ---------- epoch 17 ----------
+2026-03-11 20:18:28,511 - root - INFO - train loss: 0.4975479114638598
+2026-03-11 20:18:28,512 - root - INFO - val result: {'auc': 0.5512839659879517, 'spauc': 0.5022981669613449, 'metric': 0.4783649802678398, 'f1_real': 0.2851782363977486, 'f1_fake': 0.6715517241379311, 'recall': 0.5545905378169088, 'recall_real': 0.17736289381563594, 'recall_fake': 0.9318181818181818, 'precision': 0.6261026709139916, 'precision_real': 0.7272727272727273, 'precision_fake': 0.5249326145552561, 'acc': 0.5499113998818665}
+2026-03-11 20:19:20,684 - root - INFO - ---------- epoch 18 ----------
+2026-03-11 20:19:20,686 - root - INFO - train loss: 0.4954756054288538
+2026-03-11 20:19:20,687 - root - INFO - val result: {'auc': 0.5571343230251293, 'spauc': 0.5039238681138369, 'metric': 0.4947704987920989, 'f1_real': 0.3225806451612903, 'f1_fake': 0.6669603524229075, 'recall': 0.5577686990894016, 'recall_real': 0.2100350058343057, 'recall_fake': 0.9055023923444976, 'precision': 0.6114373488850476, 'precision_real': 0.694980694980695, 'precision_fake': 0.5278940027894002, 'acc': 0.5534554046072061}
+2026-03-11 20:20:13,802 - root - INFO - ---------- epoch 19 ----------
+2026-03-11 20:20:13,803 - root - INFO - train loss: 0.4907380139504031
+2026-03-11 20:20:13,803 - root - INFO - val result: {'auc': 0.542404096855058, 'spauc': 0.5024443551806608, 'metric': 0.4656405415165535, 'f1_real': 0.26490066225165565, 'f1_fake': 0.6663804207814513, 'recall': 0.5457951125825596, 'recall_real': 0.1633605600933489, 'recall_fake': 0.9282296650717703, 'precision': 0.6098794373744139, 'precision_real': 0.7, 'precision_fake': 0.5197588747488279, 'acc': 0.5410513880685174}
+2026-03-11 20:20:19,301 - root - INFO - start testing......
+2026-03-11 20:20:19,301 - root - INFO - test score: {'auc': 0.4986024844720497, 'spauc': 0.49356679742835347, 'metric': 0.4235795594319579, 'f1_real': 0.27552275522755226, 'f1_fake': 0.5716363636363636, 'recall': 0.5236231884057971, 'recall_real': 0.17391304347826086, 'recall_fake': 0.8733333333333333, 'precision': 0.5437933791779945, 'precision_real': 0.6627218934911243, 'precision_fake': 0.42486486486486486, 'acc': 0.4616087751371115}.
+2026-03-11 20:20:19,301 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.4235795594319579.
+
+
+2026-03-11 20:20:19,304 - root - INFO - best model path:./param_model/bert_roll_full_seed-2378/1/parameter_bert.pkl
+2026-03-11 20:20:19,304 - root - INFO - best param lr: 2e-05
+2026-03-11 20:20:19,304 - root - INFO - best metric:{'auc': 0.4986024844720497, 'spauc': 0.49356679742835347, 'metric': 0.4235795594319579, 'f1_real': 0.27552275522755226, 'f1_fake': 0.5716363636363636, 'recall': 0.5236231884057971, 'recall_real': 0.17391304347826086, 'recall_fake': 0.8733333333333333, 'precision': 0.5437933791779945, 'precision_real': 0.6627218934911243, 'precision_fake': 0.42486486486486486, 'acc': 0.4616087751371115}
+2026-03-11 20:20:19,304 - root - INFO - ==================================================
+
+
+2026-03-11 20:20:19,305 - root - INFO - ==================== season: 2 ====================
+2026-03-11 20:20:19,305 - root - INFO - start training......
+2026-03-11 20:21:59,194 - root - INFO - ---------- epoch 0 ----------
+2026-03-11 20:21:59,195 - root - INFO - train loss: 0.5286884965574487
+2026-03-11 20:21:59,195 - root - INFO - val result: {'auc': 0.5238897515527952, 'spauc': 0.4927617957938324, 'metric': 0.2914507772020726, 'f1_real': 0.0, 'f1_fake': 0.5829015544041452, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.2056672760511883, 'precision_real': 0.0, 'precision_fake': 0.4113345521023766, 'acc': 0.4113345521023766}
+2026-03-11 20:22:57,698 - root - INFO - ---------- epoch 1 ----------
+2026-03-11 20:22:57,699 - root - INFO - train loss: 0.5242115975964349
+2026-03-11 20:22:57,700 - root - INFO - val result: {'auc': 0.5202721704623877, 'spauc': 0.49217336820311647, 'metric': 0.2914507772020726, 'f1_real': 0.0, 'f1_fake': 0.5829015544041452, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.2056672760511883, 'precision_real': 0.0, 'precision_fake': 0.4113345521023766, 'acc': 0.4113345521023766}
+2026-03-11 20:23:55,375 - root - INFO - ---------- epoch 2 ----------
+2026-03-11 20:23:55,376 - root - INFO - train loss: 0.5227688747271257
+2026-03-11 20:23:55,376 - root - INFO - val result: {'auc': 0.5204261559696343, 'spauc': 0.4885311103846573, 'metric': 0.2914507772020726, 'f1_real': 0.0, 'f1_fake': 0.5829015544041452, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.2056672760511883, 'precision_real': 0.0, 'precision_fake': 0.4113345521023766, 'acc': 0.4113345521023766}
+2026-03-11 20:24:53,037 - root - INFO - ---------- epoch 3 ----------
+2026-03-11 20:24:53,039 - root - INFO - train loss: 0.5221968488394304
+2026-03-11 20:24:53,039 - root - INFO - val result: {'auc': 0.5144099378881988, 'spauc': 0.48750227016817405, 'metric': 0.2914507772020726, 'f1_real': 0.0, 'f1_fake': 0.5829015544041452, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.2056672760511883, 'precision_real': 0.0, 'precision_fake': 0.4113345521023766, 'acc': 0.4113345521023766}
+2026-03-11 20:25:50,629 - root - INFO - ---------- epoch 4 ----------
+2026-03-11 20:25:50,630 - root - INFO - train loss: 0.522030051294668
+2026-03-11 20:25:50,631 - root - INFO - val result: {'auc': 0.5140394237405107, 'spauc': 0.48710862300679236, 'metric': 0.292320984694443, 'f1_real': 0.0015515903801396431, 'f1_fake': 0.5830903790087464, 'recall': 0.500388198757764, 'recall_real': 0.0007763975155279503, 'recall_fake': 1.0, 'precision': 0.7057613168724279, 'precision_real': 1.0, 'precision_fake': 0.411522633744856, 'acc': 0.4117915904936015}
+2026-03-11 20:26:49,047 - root - INFO - ---------- epoch 5 ----------
+2026-03-11 20:26:49,048 - root - INFO - train loss: 0.5214059129051678
+2026-03-11 20:26:49,048 - root - INFO - val result: {'auc': 0.5144940476190476, 'spauc': 0.4859331299262649, 'metric': 0.301344111006839, 'f1_real': 0.018433179723502304, 'f1_fake': 0.5842550422901757, 'recall': 0.5035472739820566, 'recall_real': 0.009316770186335404, 'recall_fake': 0.9977777777777778, 'precision': 0.6351031673018793, 'precision_real': 0.8571428571428571, 'precision_fake': 0.41306347746090155, 'acc': 0.41590493601462525}
+2026-03-11 20:27:47,436 - root - INFO - ---------- epoch 6 ----------
+2026-03-11 20:27:47,437 - root - INFO - train loss: 0.521536897743862
+2026-03-11 20:27:47,437 - root - INFO - val result: {'auc': 0.5078493788819876, 'spauc': 0.4855235915876648, 'metric': 0.2914507772020726, 'f1_real': 0.0, 'f1_fake': 0.5829015544041452, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.2056672760511883, 'precision_real': 0.0, 'precision_fake': 0.4113345521023766, 'acc': 0.4113345521023766}
+2026-03-11 20:28:45,019 - root - INFO - ---------- epoch 7 ----------
+2026-03-11 20:28:45,020 - root - INFO - train loss: 0.5212058255104497
+2026-03-11 20:28:45,020 - root - INFO - val result: {'auc': 0.503537784679089, 'spauc': 0.48397896916203553, 'metric': 0.33533767020258265, 'f1_real': 0.08259587020648967, 'f1_fake': 0.5880794701986756, 'recall': 0.515072463768116, 'recall_real': 0.043478260869565216, 'recall_fake': 0.9866666666666667, 'precision': 0.6211986681465038, 'precision_real': 0.8235294117647058, 'precision_fake': 0.4188679245283019, 'acc': 0.43144424131627057}
+2026-03-11 20:29:43,472 - root - INFO - ---------- epoch 8 ----------
+2026-03-11 20:29:43,473 - root - INFO - train loss: 0.5207778620174137
+2026-03-11 20:29:43,474 - root - INFO - val result: {'auc': 0.4999495341614907, 'spauc': 0.48593585412807383, 'metric': 0.314249952072627, 'f1_real': 0.043773584905660384, 'f1_fake': 0.5847263192395936, 'recall': 0.5068133195307108, 'recall_real': 0.02251552795031056, 'recall_fake': 0.9911111111111112, 'precision': 0.599237312626434, 'precision_real': 0.7837837837837838, 'precision_fake': 0.41469084146908414, 'acc': 0.4209323583180987}
+2026-03-11 20:30:41,075 - root - INFO - ---------- epoch 9 ----------
+2026-03-11 20:30:41,076 - root - INFO - train loss: 0.5206630551306622
+2026-03-11 20:30:41,077 - root - INFO - val result: {'auc': 0.4975534851621808, 'spauc': 0.48418328429770074, 'metric': 0.3063413928223229, 'f1_real': 0.028941355674028942, 'f1_fake': 0.583741429970617, 'recall': 0.5040424430641822, 'recall_real': 0.014751552795031056, 'recall_fake': 0.9933333333333333, 'precision': 0.5866574202496533, 'precision_real': 0.76, 'precision_fake': 0.4133148404993065, 'acc': 0.4172760511882998}
+2026-03-11 20:31:38,674 - root - INFO - ---------- epoch 10 ----------
+2026-03-11 20:31:38,676 - root - INFO - train loss: 0.5196828040889638
+2026-03-11 20:31:38,677 - root - INFO - val result: {'auc': 0.4998887163561076, 'spauc': 0.4850913515673241, 'metric': 0.3472312050992254, 'f1_real': 0.10587382160986222, 'f1_fake': 0.5885885885885885, 'recall': 0.5183385093167702, 'recall_real': 0.056677018633540376, 'recall_fake': 0.98, 'precision': 0.6113993302834505, 'precision_real': 0.8021978021978022, 'precision_fake': 0.4206008583690987, 'acc': 0.43647166361974404}
+2026-03-11 20:32:37,117 - root - INFO - ---------- epoch 11 ----------
+2026-03-11 20:32:37,118 - root - INFO - train loss: 0.5195856356494886
+2026-03-11 20:32:37,118 - root - INFO - val result: {'auc': 0.5050060386473431, 'spauc': 0.4860339253931931, 'metric': 0.36714291333257226, 'f1_real': 0.13980028530670474, 'f1_fake': 0.5944855413584398, 'recall': 0.5291545893719807, 'recall_real': 0.07608695652173914, 'recall_fake': 0.9822222222222222, 'precision': 0.6429393155018694, 'precision_real': 0.8596491228070176, 'precision_fake': 0.4262295081967213, 'acc': 0.44881170018281535}
+2026-03-11 20:33:35,577 - root - INFO - ---------- epoch 12 ----------
+2026-03-11 20:33:35,578 - root - INFO - train loss: 0.5185752438259468
+2026-03-11 20:33:35,578 - root - INFO - val result: {'auc': 0.5009808488612837, 'spauc': 0.48701554611165593, 'metric': 0.3398788668034019, 'f1_real': 0.09097578870139399, 'f1_fake': 0.5887819449054098, 'recall': 0.5168461007591442, 'recall_real': 0.04813664596273292, 'recall_fake': 0.9855555555555555, 'precision': 0.6232244833569964, 'precision_real': 0.8266666666666667, 'precision_fake': 0.4197823000473261, 'acc': 0.4337294332723949}
+2026-03-11 20:34:33,168 - root - INFO - ---------- epoch 13 ----------
+2026-03-11 20:34:33,170 - root - INFO - train loss: 0.5177659383494834
+2026-03-11 20:34:33,170 - root - INFO - val result: {'auc': 0.501850845410628, 'spauc': 0.48729250662889106, 'metric': 0.3477787197523841, 'f1_real': 0.10602759622367466, 'f1_fake': 0.5895298432810936, 'recall': 0.5194496204278813, 'recall_real': 0.056677018633540376, 'recall_fake': 0.9822222222222222, 'precision': 0.6206888245338872, 'precision_real': 0.8202247191011236, 'precision_fake': 0.42115292996665077, 'acc': 0.4373857404021938}
+2026-03-11 20:35:30,776 - root - INFO - ---------- epoch 14 ----------
+2026-03-11 20:35:30,777 - root - INFO - train loss: 0.5165116468514173
+2026-03-11 20:35:30,777 - root - INFO - val result: {'auc': 0.5156081780538302, 'spauc': 0.4895358868184955, 'metric': 0.3881177417587193, 'f1_real': 0.18005540166204984, 'f1_fake': 0.5961800818553888, 'recall': 0.5360213940648724, 'recall_real': 0.10093167701863354, 'recall_fake': 0.9711111111111111, 'precision': 0.6317257217847769, 'precision_real': 0.8333333333333334, 'precision_fake': 0.4301181102362205, 'acc': 0.45886654478976235}
+2026-03-11 20:36:29,219 - root - INFO - ---------- epoch 15 ----------
+2026-03-11 20:36:29,219 - root - INFO - train loss: 0.5152214410913074
+2026-03-11 20:36:29,220 - root - INFO - val result: {'auc': 0.5174361628709455, 'spauc': 0.49118856924920995, 'metric': 0.37837794398637803, 'f1_real': 0.16643550624133147, 'f1_fake': 0.5903203817314246, 'recall': 0.5276949620427881, 'recall_real': 0.09316770186335403, 'recall_fake': 0.9622222222222222, 'precision': 0.6024914122259255, 'precision_real': 0.7792207792207793, 'precision_fake': 0.4257620452310718, 'acc': 0.4506398537477148}
+2026-03-11 20:37:26,796 - root - INFO - ---------- epoch 16 ----------
+2026-03-11 20:37:26,797 - root - INFO - train loss: 0.5135798979175431
+2026-03-11 20:37:26,798 - root - INFO - val result: {'auc': 0.5199521221532091, 'spauc': 0.4925779121717337, 'metric': 0.4082400164349336, 'f1_real': 0.2267633487145682, 'f1_fake': 0.589716684155299, 'recall': 0.535103519668737, 'recall_real': 0.13354037267080746, 'recall_fake': 0.9366666666666666, 'precision': 0.5907066478530397, 'precision_real': 0.7510917030567685, 'precision_fake': 0.43032159264931086, 'acc': 0.4638939670932358}
+2026-03-11 20:38:25,282 - root - INFO - ---------- epoch 17 ----------
+2026-03-11 20:38:25,283 - root - INFO - train loss: 0.5107533404497953
+2026-03-11 20:38:25,284 - root - INFO - val result: {'auc': 0.5191420807453416, 'spauc': 0.49360675238821694, 'metric': 0.39145051091359817, 'f1_real': 0.19731543624161074, 'f1_fake': 0.5855855855855856, 'recall': 0.5265096618357488, 'recall_real': 0.11413043478260869, 'recall_fake': 0.9388888888888889, 'precision': 0.5766005603581505, 'precision_real': 0.7277227722772277, 'precision_fake': 0.4254783484390735, 'acc': 0.453382084095064}
+2026-03-11 20:39:22,856 - root - INFO - ---------- epoch 18 ----------
+2026-03-11 20:39:22,856 - root - INFO - train loss: 0.5099046008084851
+2026-03-11 20:39:22,857 - root - INFO - val result: {'auc': 0.5119811076604555, 'spauc': 0.49289119537975373, 'metric': 0.3840421971337576, 'f1_real': 0.1850101282916948, 'f1_fake': 0.5830742659758203, 'recall': 0.5220721187025535, 'recall_real': 0.1063664596273292, 'recall_fake': 0.9377777777777778, 'precision': 0.5664511018478839, 'precision_real': 0.7098445595854922, 'precision_fake': 0.4230576441102757, 'acc': 0.4483546617915905}
+2026-03-11 20:40:20,446 - root - INFO - ---------- epoch 19 ----------
+2026-03-11 20:40:20,447 - root - INFO - train loss: 0.5073090143009448
+2026-03-11 20:40:20,447 - root - INFO - val result: {'auc': 0.5133475672877847, 'spauc': 0.4945602230213214, 'metric': 0.3728288446526151, 'f1_real': 0.1653005464480874, 'f1_fake': 0.5803571428571428, 'recall': 0.5164164941338855, 'recall_real': 0.09394409937888198, 'recall_fake': 0.9388888888888889, 'precision': 0.5537400596421471, 'precision_real': 0.6875, 'precision_fake': 0.41998011928429424, 'acc': 0.44149908592321757}
+2026-03-11 20:40:27,674 - root - INFO - start testing......
+2026-03-11 20:40:27,674 - root - INFO - test score: {'auc': 0.48920374085139817, 'spauc': 0.4967031701685383, 'metric': 0.35983565461809336, 'f1_real': 0.2043204320432043, 'f1_fake': 0.5153508771929824, 'recall': 0.5074373107403524, 'recall_real': 0.12048832271762208, 'recall_fake': 0.8943862987630827, 'precision': 0.516776868166045, 'precision_real': 0.6715976331360947, 'precision_fake': 0.36195610319599536, 'acc': 0.39761499148211243}.
+2026-03-11 20:40:27,674 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.35983565461809336.
+
+
+2026-03-11 20:40:27,676 - root - INFO - best model path:./param_model/bert_roll_full_seed-2378/2/parameter_bert.pkl
+2026-03-11 20:40:27,677 - root - INFO - best param lr: 2e-05
+2026-03-11 20:40:27,677 - root - INFO - best metric:{'auc': 0.48920374085139817, 'spauc': 0.4967031701685383, 'metric': 0.35983565461809336, 'f1_real': 0.2043204320432043, 'f1_fake': 0.5153508771929824, 'recall': 0.5074373107403524, 'recall_real': 0.12048832271762208, 'recall_fake': 0.8943862987630827, 'precision': 0.516776868166045, 'precision_real': 0.6715976331360947, 'precision_fake': 0.36195610319599536, 'acc': 0.39761499148211243}
+2026-03-11 20:40:27,677 - root - INFO - ==================================================
+
+
+2026-03-11 20:40:27,678 - root - INFO - ==================== season: 3 ====================
+2026-03-11 20:40:27,678 - root - INFO - start training......
+2026-03-11 20:42:19,021 - root - INFO - ---------- epoch 0 ----------
+2026-03-11 20:42:19,021 - root - INFO - train loss: 0.5598151567379971
+2026-03-11 20:42:19,021 - root - INFO - val result: {'auc': 0.5447188099090745, 'spauc': 0.5319882229345082, 'metric': 0.2636728549924736, 'f1_real': 0.0, 'f1_fake': 0.5273457099849472, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.17904599659284498, 'precision_real': 0.0, 'precision_fake': 0.35809199318568996, 'acc': 0.35809199318568996}
+2026-03-11 20:43:24,798 - root - INFO - ---------- epoch 1 ----------
+2026-03-11 20:43:24,799 - root - INFO - train loss: 0.5549499141681282
+2026-03-11 20:43:24,799 - root - INFO - val result: {'auc': 0.5487986873284163, 'spauc': 0.5344918381453035, 'metric': 0.2636728549924736, 'f1_real': 0.0, 'f1_fake': 0.5273457099849472, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.17904599659284498, 'precision_real': 0.0, 'precision_fake': 0.35809199318568996, 'acc': 0.35809199318568996}
+2026-03-11 20:44:29,701 - root - INFO - ---------- epoch 2 ----------
+2026-03-11 20:44:29,702 - root - INFO - train loss: 0.5541552337604828
+2026-03-11 20:44:29,703 - root - INFO - val result: {'auc': 0.5485481929049474, 'spauc': 0.5327098829087421, 'metric': 0.2636728549924736, 'f1_real': 0.0, 'f1_fake': 0.5273457099849472, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.17904599659284498, 'precision_real': 0.0, 'precision_fake': 0.35809199318568996, 'acc': 0.35809199318568996}
+2026-03-11 20:45:34,585 - root - INFO - ---------- epoch 3 ----------
+2026-03-11 20:45:34,585 - root - INFO - train loss: 0.5529447341144464
+2026-03-11 20:45:34,586 - root - INFO - val result: {'auc': 0.5466096387830011, 'spauc': 0.5335373331849079, 'metric': 0.26408443956100114, 'f1_real': 0.0010604453870625662, 'f1_fake': 0.5271084337349398, 'recall': 0.4997896553883573, 'recall_real': 0.0005307855626326964, 'recall_fake': 0.9990485252140818, 'precision': 0.42899761336515513, 'precision_real': 0.5, 'precision_fake': 0.35799522673031026, 'acc': 0.35809199318568996}
+2026-03-11 20:46:40,299 - root - INFO - ---------- epoch 4 ----------
+2026-03-11 20:46:40,300 - root - INFO - train loss: 0.5524880310227764
+2026-03-11 20:46:40,300 - root - INFO - val result: {'auc': 0.5469631591387032, 'spauc': 0.532041118085474, 'metric': 0.2710109059507124, 'f1_real': 0.01369141653501843, 'f1_fake': 0.5283303953664065, 'recall': 0.5024986313711943, 'recall_real': 0.006900212314225053, 'recall_fake': 0.9980970504281637, 'precision': 0.6129566210045663, 'precision_real': 0.8666666666666667, 'precision_fake': 0.35924657534246573, 'acc': 0.361839863713799}
+2026-03-11 20:47:45,991 - root - INFO - ---------- epoch 5 ----------
+2026-03-11 20:47:45,993 - root - INFO - train loss: 0.551933484171067
+2026-03-11 20:47:45,993 - root - INFO - val result: {'auc': 0.5489794877389039, 'spauc': 0.5323446671427762, 'metric': 0.2788239316944257, 'f1_real': 0.0272108843537415, 'f1_fake': 0.5304369790351099, 'recall': 0.506424474921266, 'recall_real': 0.013800424628450107, 'recall_fake': 0.9990485252140818, 'precision': 0.6620179326506699, 'precision_real': 0.9629629629629629, 'precision_fake': 0.3610729023383769, 'acc': 0.3666098807495741}
+2026-03-11 20:48:51,756 - root - INFO - ---------- epoch 6 ----------
+2026-03-11 20:48:51,758 - root - INFO - train loss: 0.5512015390274282
+2026-03-11 20:48:51,758 - root - INFO - val result: {'auc': 0.5529462386444212, 'spauc': 0.5338464641425632, 'metric': 0.27296688738035396, 'f1_real': 0.016833245660178853, 'f1_fake': 0.5291005291005291, 'recall': 0.5037705471081025, 'recall_real': 0.008492569002123142, 'recall_fake': 0.9990485252140818, 'precision': 0.6505059871789702, 'precision_real': 0.9411764705882353, 'precision_fake': 0.3598355037697053, 'acc': 0.36320272572402046}
+2026-03-11 20:49:56,603 - root - INFO - ---------- epoch 7 ----------
+2026-03-11 20:49:56,604 - root - INFO - train loss: 0.5505078012812656
+2026-03-11 20:49:56,604 - root - INFO - val result: {'auc': 0.55110843782385, 'spauc': 0.5310430211413678, 'metric': 0.30149936309592856, 'f1_real': 0.06850715746421268, 'f1_fake': 0.5344915687276445, 'recall': 0.5154026293833999, 'recall_real': 0.03556263269639066, 'recall_fake': 0.9952426260704091, 'precision': 0.6479532929716304, 'precision_real': 0.9305555555555556, 'precision_fake': 0.3653510303877052, 'acc': 0.37921635434412265}
+2026-03-11 20:51:02,356 - root - INFO - ---------- epoch 8 ----------
+2026-03-11 20:51:02,358 - root - INFO - train loss: 0.5499962420220967
+2026-03-11 20:51:02,359 - root - INFO - val result: {'auc': 0.5525422153807615, 'spauc': 0.5329926991933037, 'metric': 0.27979588429886537, 'f1_real': 0.029258098223615463, 'f1_fake': 0.5303336703741153, 'recall': 0.5064795230909396, 'recall_real': 0.014861995753715499, 'recall_fake': 0.9980970504281637, 'precision': 0.6472174411933448, 'precision_real': 0.9333333333333333, 'precision_fake': 0.3611015490533563, 'acc': 0.36695059625212945}
+2026-03-11 20:52:07,175 - root - INFO - ---------- epoch 9 ----------
+2026-03-11 20:52:07,178 - root - INFO - train loss: 0.5494069399350849
+2026-03-11 20:52:07,178 - root - INFO - val result: {'auc': 0.5525621640294048, 'spauc': 0.531126483841887, 'metric': 0.3165050601841924, 'f1_real': 0.09480584972264247, 'f1_fake': 0.5382042706457423, 'recall': 0.5225682344789413, 'recall_real': 0.049893842887473464, 'recall_fake': 0.9952426260704091, 'precision': 0.6591621432947243, 'precision_real': 0.9494949494949495, 'precision_fake': 0.3688293370944993, 'acc': 0.38841567291311757}
+2026-03-11 20:53:12,912 - root - INFO - ---------- epoch 10 ----------
+2026-03-11 20:53:12,912 - root - INFO - train loss: 0.549451736530135
+2026-03-11 20:53:12,913 - root - INFO - val result: {'auc': 0.553017700259181, 'spauc': 0.5310387682649083, 'metric': 0.2825039556962025, 'f1_real': 0.034374999999999996, 'f1_fake': 0.530632911392405, 'recall': 0.5073307496045623, 'recall_real': 0.01751592356687898, 'recall_fake': 0.9971455756422455, 'precision': 0.6390853167758997, 'precision_real': 0.9166666666666666, 'precision_fake': 0.3615039668851328, 'acc': 0.36831345826235096}
+2026-03-11 20:54:17,736 - root - INFO - ---------- epoch 11 ----------
+2026-03-11 20:54:17,737 - root - INFO - train loss: 0.5484382055178822
+2026-03-11 20:54:17,738 - root - INFO - val result: {'auc': 0.5512836829144622, 'spauc': 0.5312112755662998, 'metric': 0.3248084822800976, 'f1_real': 0.11155378486055777, 'f1_fake': 0.5380631796996375, 'recall': 0.524015142791922, 'recall_real': 0.059447983014861996, 'recall_fake': 0.9885823025689819, 'precision': 0.6364225794975958, 'precision_real': 0.9032258064516129, 'precision_fake': 0.3696193525435788, 'acc': 0.39216354344122656}
+2026-03-11 20:55:23,508 - root - INFO - ---------- epoch 12 ----------
+2026-03-11 20:55:23,509 - root - INFO - train loss: 0.5476423737514186
+2026-03-11 20:55:23,509 - root - INFO - val result: {'auc': 0.5481777540750796, 'spauc': 0.5306719045093142, 'metric': 0.33984112611854883, 'f1_real': 0.14055636896046853, 'f1_fake': 0.5391258832766291, 'recall': 0.5282260752574134, 'recall_real': 0.07643312101910828, 'recall_fake': 0.9800190294957184, 'precision': 0.6222842139809649, 'precision_real': 0.8727272727272727, 'precision_fake': 0.37184115523465705, 'acc': 0.4}
+2026-03-11 20:56:29,254 - root - INFO - ---------- epoch 13 ----------
+2026-03-11 20:56:29,255 - root - INFO - train loss: 0.5468159680691937
+2026-03-11 20:56:29,255 - root - INFO - val result: {'auc': 0.5450473313253377, 'spauc': 0.5298655059716233, 'metric': 0.3353292600605089, 'f1_real': 0.13241785188818048, 'f1_fake': 0.5382406682328373, 'recall': 0.5263132776185253, 'recall_real': 0.07165605095541401, 'recall_fake': 0.9809705042816366, 'precision': 0.6209155256440009, 'precision_real': 0.8709677419354839, 'precision_fake': 0.370863309352518, 'acc': 0.39727427597955706}
+2026-03-11 20:57:34,107 - root - INFO - ---------- epoch 14 ----------
+2026-03-11 20:57:34,108 - root - INFO - train loss: 0.5450110899866549
+2026-03-11 20:57:34,108 - root - INFO - val result: {'auc': 0.544286252502419, 'spauc': 0.5297304771440319, 'metric': 0.35208282743548425, 'f1_real': 0.17525773195876287, 'f1_fake': 0.5289079229122056, 'recall': 0.5196569943497347, 'recall_real': 0.09925690021231423, 'recall_fake': 0.9400570884871551, 'precision': 0.5579851024208566, 'precision_real': 0.748, 'precision_fake': 0.3679702048417132, 'acc': 0.40034071550255534}
+2026-03-11 20:58:39,896 - root - INFO - ---------- epoch 15 ----------
+2026-03-11 20:58:39,897 - root - INFO - train loss: 0.5431784956931243
+2026-03-11 20:58:39,898 - root - INFO - val result: {'auc': 0.541431323115585, 'spauc': 0.5295781178448676, 'metric': 0.3616720336883825, 'f1_real': 0.20181818181818184, 'f1_fake': 0.5215258855585831, 'recall': 0.5141978825140752, 'recall_real': 0.1178343949044586, 'recall_fake': 0.9105613701236918, 'precision': 0.5339691446633897, 'precision_real': 0.7025316455696202, 'precision_fake': 0.3654066437571592, 'acc': 0.40170357751277685}
+2026-03-11 20:59:45,622 - root - INFO - ---------- epoch 16 ----------
+2026-03-11 20:59:45,623 - root - INFO - train loss: 0.5414888785089078
+2026-03-11 20:59:45,624 - root - INFO - val result: {'auc': 0.5404669700881377, 'spauc': 0.5294210803815979, 'metric': 0.35322604881682895, 'f1_real': 0.18707015130674004, 'f1_fake': 0.5193819463269178, 'recall': 0.50989654984334, 'recall_real': 0.10828025477707007, 'recall_fake': 0.9115128449096099, 'precision': 0.5250112956708862, 'precision_real': 0.6868686868686869, 'precision_fake': 0.36315390447308565, 'acc': 0.3959114139693356}
+2026-03-11 21:00:50,471 - root - INFO - ---------- epoch 17 ----------
+2026-03-11 21:00:50,472 - root - INFO - train loss: 0.5397721902097123
+2026-03-11 21:00:50,473 - root - INFO - val result: {'auc': 0.541482331052622, 'spauc': 0.5307764189483083, 'metric': 0.368942283874164, 'f1_real': 0.2109090909090909, 'f1_fake': 0.5269754768392371, 'recall': 0.5216091842568296, 'recall_real': 0.12314225053078556, 'recall_fake': 0.9200761179828735, 'precision': 0.5517010550939822, 'precision_real': 0.7341772151898734, 'precision_fake': 0.36922489499809086, 'acc': 0.40851788756388413}
+2026-03-11 21:01:56,148 - root - INFO - ---------- epoch 18 ----------
+2026-03-11 21:01:56,149 - root - INFO - train loss: 0.5372697901019445
+2026-03-11 21:01:56,149 - root - INFO - val result: {'auc': 0.5377329951658617, 'spauc': 0.5301052618820318, 'metric': 0.35687006970240825, 'f1_real': 0.19230769230769232, 'f1_fake': 0.5214324470971242, 'recall': 0.5129161187101153, 'recall_real': 0.11146496815286625, 'recall_fake': 0.9143672692673644, 'precision': 0.5323529411764706, 'precision_real': 0.7, 'precision_fake': 0.36470588235294116, 'acc': 0.3989778534923339}
+2026-03-11 21:03:00,998 - root - INFO - ---------- epoch 19 ----------
+2026-03-11 21:03:00,999 - root - INFO - train loss: 0.5351101612191085
+2026-03-11 21:03:00,999 - root - INFO - val result: {'auc': 0.5337104385470515, 'spauc': 0.5296424957622744, 'metric': 0.3415926948971221, 'f1_real': 0.16347501167678652, 'f1_fake': 0.5197103781174577, 'recall': 0.5074332705077158, 'recall_real': 0.09288747346072186, 'recall_fake': 0.9219790675547098, 'precision': 0.5213855220371786, 'precision_real': 0.6809338521400778, 'precision_fake': 0.3618371919342793, 'acc': 0.389778534923339}
+2026-03-11 21:03:05,374 - root - INFO - start testing......
+2026-03-11 21:03:05,374 - root - INFO - test score: {'auc': 0.5218145396270396, 'spauc': 0.494061311495522, 'metric': 0.38298673899939717, 'f1_real': 0.21835443037974683, 'f1_fake': 0.5476190476190476, 'recall': 0.5418939393939394, 'recall_real': 0.12545454545454546, 'recall_fake': 0.9583333333333334, 'precision': 0.6123983739837399, 'precision_real': 0.8414634146341463, 'precision_fake': 0.38333333333333336, 'acc': 0.42691415313225056}.
+2026-03-11 21:03:05,374 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.38298673899939717.
+
+
+2026-03-11 21:03:05,382 - root - INFO - best model path:./param_model/bert_roll_full_seed-2378/3/parameter_bert.pkl
+2026-03-11 21:03:05,382 - root - INFO - best param lr: 2e-05
+2026-03-11 21:03:05,382 - root - INFO - best metric:{'auc': 0.5218145396270396, 'spauc': 0.494061311495522, 'metric': 0.38298673899939717, 'f1_real': 0.21835443037974683, 'f1_fake': 0.5476190476190476, 'recall': 0.5418939393939394, 'recall_real': 0.12545454545454546, 'recall_fake': 0.9583333333333334, 'precision': 0.6123983739837399, 'precision_real': 0.8414634146341463, 'precision_fake': 0.38333333333333336, 'acc': 0.42691415313225056}
+2026-03-11 21:03:05,383 - root - INFO - ==================================================
+
+
+2026-03-11 21:03:05,384 - root - INFO - ==================== season: 4 ====================
+2026-03-11 21:03:05,384 - root - INFO - start training......
+2026-03-11 21:05:01,933 - root - INFO - ---------- epoch 0 ----------
+2026-03-11 21:05:01,933 - root - INFO - train loss: 0.5784005244713348
+2026-03-11 21:05:01,933 - root - INFO - val result: {'auc': 0.5553809731934731, 'spauc': 0.49761915715863086, 'metric': 0.2657580919931857, 'f1_real': 0.0, 'f1_fake': 0.5315161839863713, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.18097447795823665, 'precision_real': 0.0, 'precision_fake': 0.3619489559164733, 'acc': 0.3619489559164733}
+2026-03-11 21:06:12,414 - root - INFO - ---------- epoch 1 ----------
+2026-03-11 21:06:12,415 - root - INFO - train loss: 0.5736939395519995
+2026-03-11 21:06:12,416 - root - INFO - val result: {'auc': 0.5512900641025642, 'spauc': 0.4982555821371611, 'metric': 0.2657580919931857, 'f1_real': 0.0, 'f1_fake': 0.5315161839863713, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.18097447795823665, 'precision_real': 0.0, 'precision_fake': 0.3619489559164733, 'acc': 0.3619489559164733}
+2026-03-11 21:07:22,131 - root - INFO - ---------- epoch 2 ----------
+2026-03-11 21:07:22,132 - root - INFO - train loss: 0.5723889025260083
+2026-03-11 21:07:22,133 - root - INFO - val result: {'auc': 0.5483930652680653, 'spauc': 0.4978108514292725, 'metric': 0.2657580919931857, 'f1_real': 0.0, 'f1_fake': 0.5315161839863713, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.18097447795823665, 'precision_real': 0.0, 'precision_fake': 0.3619489559164733, 'acc': 0.3619489559164733}
+2026-03-11 21:08:31,803 - root - INFO - ---------- epoch 3 ----------
+2026-03-11 21:08:31,805 - root - INFO - train loss: 0.5712612530574875
+2026-03-11 21:08:31,806 - root - INFO - val result: {'auc': 0.5327447552447552, 'spauc': 0.49788752913752915, 'metric': 0.2657580919931857, 'f1_real': 0.0, 'f1_fake': 0.5315161839863713, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.18097447795823665, 'precision_real': 0.0, 'precision_fake': 0.3619489559164733, 'acc': 0.3619489559164733}
+2026-03-11 21:09:41,416 - root - INFO - ---------- epoch 4 ----------
+2026-03-11 21:09:41,419 - root - INFO - train loss: 0.5699752258382423
+2026-03-11 21:09:41,419 - root - INFO - val result: {'auc': 0.5268079836829838, 'spauc': 0.49794887130413445, 'metric': 0.2657580919931857, 'f1_real': 0.0, 'f1_fake': 0.5315161839863713, 'recall': 0.5, 'recall_real': 0.0, 'recall_fake': 1.0, 'precision': 0.18097447795823665, 'precision_real': 0.0, 'precision_fake': 0.3619489559164733, 'acc': 0.3619489559164733}
+2026-03-11 21:10:51,021 - root - INFO - ---------- epoch 5 ----------
+2026-03-11 21:10:51,022 - root - INFO - train loss: 0.5692711497594417
+2026-03-11 21:10:51,022 - root - INFO - val result: {'auc': 0.5214415792540792, 'spauc': 0.4979412035333088, 'metric': 0.26881793596452397, 'f1_real': 0.00543970988213962, 'f1_fake': 0.5321961620469083, 'recall': 0.5013636363636363, 'recall_real': 0.0027272727272727275, 'recall_fake': 1.0, 'precision': 0.6812899477048228, 'precision_real': 1.0, 'precision_fake': 0.3625798954096456, 'acc': 0.3636890951276102}
+2026-03-11 21:12:01,467 - root - INFO - ---------- epoch 6 ----------
+2026-03-11 21:12:01,468 - root - INFO - train loss: 0.5692537153025251
+2026-03-11 21:12:01,468 - root - INFO - val result: {'auc': 0.5227032342657343, 'spauc': 0.4962197889829469, 'metric': 0.27388688327316485, 'f1_real': 0.014440433212996389, 'f1_fake': 0.5333333333333333, 'recall': 0.5036363636363637, 'recall_real': 0.007272727272727273, 'recall_fake': 1.0, 'precision': 0.6818181818181819, 'precision_real': 1.0, 'precision_fake': 0.36363636363636365, 'acc': 0.3665893271461717}
+2026-03-11 21:13:11,924 - root - INFO - ---------- epoch 7 ----------
+2026-03-11 21:13:11,925 - root - INFO - train loss: 0.56836878382739
+2026-03-11 21:13:11,927 - root - INFO - val result: {'auc': 0.5262179487179487, 'spauc': 0.49710925039872406, 'metric': 0.27287615180010555, 'f1_real': 0.012646793134598013, 'f1_fake': 0.533105510465613, 'recall': 0.5031818181818182, 'recall_real': 0.006363636363636364, 'recall_fake': 1.0, 'precision': 0.6817122888759464, 'precision_real': 1.0, 'precision_fake': 0.36342457775189285, 'acc': 0.3660092807424594}
+2026-03-11 21:14:21,528 - root - INFO - ---------- epoch 8 ----------
+2026-03-11 21:14:21,528 - root - INFO - train loss: 0.5678710173363304
+2026-03-11 21:14:21,529 - root - INFO - val result: {'auc': 0.5371423368298369, 'spauc': 0.49766516378358483, 'metric': 0.29833129833129834, 'f1_real': 0.058201058201058205, 'f1_fake': 0.5384615384615384, 'recall': 0.514198717948718, 'recall_real': 0.03, 'recall_fake': 0.9983974358974359, 'precision': 0.6696136442742777, 'precision_real': 0.9705882352941176, 'precision_fake': 0.36863905325443785, 'acc': 0.3805104408352668}
+2026-03-11 21:15:32,060 - root - INFO - ---------- epoch 9 ----------
+2026-03-11 21:15:32,062 - root - INFO - train loss: 0.5674543840009049
+2026-03-11 21:15:32,062 - root - INFO - val result: {'auc': 0.5448484848484849, 'spauc': 0.499861980125138, 'metric': 0.3143087011227256, 'f1_real': 0.08680555555555555, 'f1_fake': 0.5418118466898956, 'recall': 0.5211247086247086, 'recall_real': 0.045454545454545456, 'recall_fake': 0.9967948717948718, 'precision': 0.666774015458226, 'precision_real': 0.9615384615384616, 'precision_fake': 0.37200956937799046, 'acc': 0.38979118329466356}
+2026-03-11 21:16:42,609 - root - INFO - ---------- epoch 10 ----------
+2026-03-11 21:16:42,610 - root - INFO - train loss: 0.5672303502201234
+2026-03-11 21:16:42,610 - root - INFO - val result: {'auc': 0.5427534965034966, 'spauc': 0.4990415286467918, 'metric': 0.30124253741141654, 'f1_real': 0.0633245382585752, 'f1_fake': 0.5391605365642579, 'recall': 0.5155623543123543, 'recall_real': 0.03272727272727273, 'recall_fake': 0.9983974358974359, 'precision': 0.6711337893910508, 'precision_real': 0.972972972972973, 'precision_fake': 0.36929460580912865, 'acc': 0.3822505800464037}
+2026-03-11 21:17:52,240 - root - INFO - ---------- epoch 11 ----------
+2026-03-11 21:17:52,242 - root - INFO - train loss: 0.5666387495252375
+2026-03-11 21:17:52,243 - root - INFO - val result: {'auc': 0.5443560606060607, 'spauc': 0.4993367378235799, 'metric': 0.354407045304658, 'f1_real': 0.15705931495405176, 'f1_fake': 0.5517547756552642, 'recall': 0.5403234265734266, 'recall_real': 0.08545454545454545, 'recall_fake': 0.9951923076923077, 'precision': 0.6753781230396847, 'precision_real': 0.9690721649484536, 'precision_fake': 0.3816840811309158, 'acc': 0.4147331786542923}
+2026-03-11 21:19:02,764 - root - INFO - ---------- epoch 12 ----------
+2026-03-11 21:19:02,764 - root - INFO - train loss: 0.5662441582495132
+2026-03-11 21:19:02,764 - root - INFO - val result: {'auc': 0.5376143648018648, 'spauc': 0.4986658078763342, 'metric': 0.27154564155637284, 'f1_real': 0.01084010840108401, 'f1_fake': 0.5322511747116617, 'recall': 0.5019259906759906, 'recall_real': 0.005454545454545455, 'recall_fake': 0.9983974358974359, 'precision': 0.6099925118562276, 'precision_real': 0.8571428571428571, 'precision_fake': 0.3628421665695981, 'acc': 0.3648491879350348}
+2026-03-11 21:20:12,374 - root - INFO - ---------- epoch 13 ----------
+2026-03-11 21:20:12,375 - root - INFO - train loss: 0.5652735157598482
+2026-03-11 21:20:12,376 - root - INFO - val result: {'auc': 0.5329931526806527, 'spauc': 0.4984894491473439, 'metric': 0.3385249396049453, 'f1_real': 0.12903225806451613, 'f1_fake': 0.5480176211453744, 'recall': 0.5329428904428904, 'recall_real': 0.06909090909090909, 'recall_fake': 0.9967948717948718, 'precision': 0.6761223790385394, 'precision_real': 0.9743589743589743, 'precision_fake': 0.3778857837181045, 'acc': 0.4048723897911833}
+2026-03-11 21:21:21,998 - root - INFO - ---------- epoch 14 ----------
+2026-03-11 21:21:21,999 - root - INFO - train loss: 0.5644553714656021
+2026-03-11 21:21:22,000 - root - INFO - val result: {'auc': 0.5344310897435898, 'spauc': 0.4999424917188075, 'metric': 0.3616041863765374, 'f1_real': 0.17052980132450332, 'f1_fake': 0.5526785714285715, 'recall': 0.5428117715617716, 'recall_real': 0.09363636363636364, 'recall_fake': 0.9919871794871795, 'precision': 0.6683741290795746, 'precision_real': 0.9537037037037037, 'precision_fake': 0.38304455445544555, 'acc': 0.41879350348027844}
+2026-03-11 21:22:32,500 - root - INFO - ---------- epoch 15 ----------
+2026-03-11 21:22:32,501 - root - INFO - train loss: 0.563763548438366
+2026-03-11 21:22:32,501 - root - INFO - val result: {'auc': 0.538790064102564, 'spauc': 0.49878849220954485, 'metric': 0.3734756836205643, 'f1_real': 0.19249592169657423, 'f1_fake': 0.5544554455445544, 'recall': 0.5472261072261072, 'recall_real': 0.10727272727272727, 'recall_fake': 0.9871794871794872, 'precision': 0.6609948944116654, 'precision_real': 0.9365079365079365, 'precision_fake': 0.3854818523153942, 'acc': 0.425754060324826}
+2026-03-11 21:23:43,031 - root - INFO - ---------- epoch 16 ----------
+2026-03-11 21:23:43,032 - root - INFO - train loss: 0.5632138709237794
+2026-03-11 21:23:43,032 - root - INFO - val result: {'auc': 0.5413738344988345, 'spauc': 0.5003488835725678, 'metric': 0.3428543855798871, 'f1_real': 0.13816343723673125, 'f1_fake': 0.5475453339230429, 'recall': 0.533266317016317, 'recall_real': 0.07454545454545454, 'recall_fake': 0.9919871794871795, 'precision': 0.6603297312858537, 'precision_real': 0.9425287356321839, 'precision_fake': 0.37813072693952354, 'acc': 0.4066125290023202}
+2026-03-11 21:24:52,668 - root - INFO - ---------- epoch 17 ----------
+2026-03-11 21:24:52,670 - root - INFO - train loss: 0.5623290444877505
+2026-03-11 21:24:52,670 - root - INFO - val result: {'auc': 0.5419762529137528, 'spauc': 0.5015412219359587, 'metric': 0.3545225385527877, 'f1_real': 0.15833333333333333, 'f1_fake': 0.5507117437722421, 'recall': 0.539175407925408, 'recall_real': 0.08636363636363636, 'recall_fake': 0.9919871794871795, 'precision': 0.6655788177339901, 'precision_real': 0.95, 'precision_fake': 0.3811576354679803, 'acc': 0.41415313225058004}
+2026-03-11 21:26:02,298 - root - INFO - ---------- epoch 18 ----------
+2026-03-11 21:26:02,299 - root - INFO - train loss: 0.5610053881515034
+2026-03-11 21:26:02,299 - root - INFO - val result: {'auc': 0.5512580128205128, 'spauc': 0.5064869341185131, 'metric': 0.36875168187894, 'f1_real': 0.18494271685761046, 'f1_fake': 0.5525606469002695, 'recall': 0.544152097902098, 'recall_real': 0.10272727272727272, 'recall_fake': 0.9855769230769231, 'precision': 0.6550623196414318, 'precision_real': 0.9262295081967213, 'precision_fake': 0.3838951310861423, 'acc': 0.4222737819025522}
+2026-03-11 21:27:11,918 - root - INFO - ---------- epoch 19 ----------
+2026-03-11 21:27:11,919 - root - INFO - train loss: 0.5606531930761983
+2026-03-11 21:27:11,919 - root - INFO - val result: {'auc': 0.5542285839160839, 'spauc': 0.5046620046620046, 'metric': 0.3739814966470963, 'f1_real': 0.19496344435418358, 'f1_fake': 0.552999548940009, 'recall': 0.5457313519813519, 'recall_real': 0.10909090909090909, 'recall_fake': 0.9823717948717948, 'precision': 0.6504195358510276, 'precision_real': 0.916030534351145, 'precision_fake': 0.38480853735091025, 'acc': 0.4251740139211137}
+2026-03-11 21:27:13,494 - root - INFO - start testing......
+2026-03-11 21:27:13,495 - root - INFO - test score: {'auc': 0.9904837430610626, 'spauc': 0.9499144371634877, 'metric': 0.9590773809523809, 'f1_real': 0.9895833333333333, 'f1_fake': 0.9285714285714286, 'recall': 0.9896907216494846, 'recall_real': 0.979381443298969, 'recall_fake': 1.0, 'precision': 0.9333333333333333, 'precision_real': 1.0, 'precision_fake': 0.8666666666666667, 'acc': 0.9818181818181818}.
+2026-03-11 21:27:13,495 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.9590773809523809.
+
+
+2026-03-11 21:27:13,502 - root - INFO - best model path:./param_model/bert_roll_full_seed-2378/4/parameter_bert.pkl
+2026-03-11 21:27:13,502 - root - INFO - best param lr: 2e-05
+2026-03-11 21:27:13,502 - root - INFO - best metric:{'auc': 0.9904837430610626, 'spauc': 0.9499144371634877, 'metric': 0.9590773809523809, 'f1_real': 0.9895833333333333, 'f1_fake': 0.9285714285714286, 'recall': 0.9896907216494846, 'recall_real': 0.979381443298969, 'recall_fake': 1.0, 'precision': 0.9333333333333333, 'precision_real': 1.0, 'precision_fake': 0.8666666666666667, 'acc': 0.9818181818181818}
+2026-03-11 21:27:13,502 - root - INFO - ==================================================
+
+

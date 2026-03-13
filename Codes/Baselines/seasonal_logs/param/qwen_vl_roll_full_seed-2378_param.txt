@@ -1,0 +1,93 @@
+2026-03-12 22:04:17,485 - root - INFO - ==================== season: 1 ====================
+2026-03-12 22:04:17,485 - root - INFO - start training......
+2026-03-12 22:04:17,576 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: ff768462-14e6-44db-acfd-0b5f68d09b48)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-VL-2B/resolve/main/config.json
+2026-03-12 22:04:17,576 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2026-03-12 22:04:18,608 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 9130c6e8-2e00-4a96-a411-9a9af9c5c0a3)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-VL-2B/resolve/main/config.json
+2026-03-12 22:04:18,608 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2026-03-12 22:04:20,641 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: aa57cdea-c225-4eb7-b921-0c54688f5475)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-VL-2B/resolve/main/config.json
+2026-03-12 22:04:20,641 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2026-03-12 22:04:24,675 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 6012b3fd-c889-40a0-a3ef-14f349aa4781)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-VL-2B/resolve/main/config.json
+2026-03-12 22:04:24,675 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2026-03-12 22:07:15,490 - root - INFO - ==================== season: 1 ====================
+2026-03-12 22:07:15,490 - root - INFO - start training......
+2026-03-12 22:17:51,824 - root - INFO - ==================== season: 1 ====================
+2026-03-12 22:17:51,824 - root - INFO - start training......
+2026-03-12 22:23:14,565 - root - INFO - ==================== season: 1 ====================
+2026-03-12 22:23:14,565 - root - INFO - start training......
+2026-03-12 22:28:12,819 - root - INFO - ==================== season: 1 ====================
+2026-03-12 22:28:12,819 - root - INFO - start training......
+2026-03-12 22:35:55,300 - root - INFO - ==================== season: 1 ====================
+2026-03-12 22:35:55,300 - root - INFO - start training......
+2026-03-12 22:40:06,381 - root - INFO - ==================== season: 1 ====================
+2026-03-12 22:40:06,381 - root - INFO - start training......
+2026-03-12 22:49:38,823 - root - INFO - ==================== season: 1 ====================
+2026-03-12 22:49:38,823 - root - INFO - start training......
+2026-03-12 22:57:43,421 - root - INFO - ==================== season: 1 ====================
+2026-03-12 22:57:43,422 - root - INFO - start training......
+2026-03-12 23:13:23,623 - root - INFO - ---------- epoch 0 ----------
+2026-03-12 23:13:23,624 - root - INFO - train loss: 0.7296281926960021
+2026-03-12 23:13:23,624 - root - INFO - val result: {'auc': 0.49320750029311106, 'spauc': 0.49595998603818703, 'metric': 0.47018388936629585, 'f1_real': 0.2986899563318777, 'f1_fake': 0.641677822400714, 'recall': 0.5297905512162713, 'recall_real': 0.19953325554259044, 'recall_fake': 0.8600478468899522, 'precision': 0.5527468861209964, 'precision_real': 0.59375, 'precision_fake': 0.5117437722419929, 'acc': 0.5256940342587123}
+2026-03-12 23:17:48,446 - root - INFO - ==================== season: 1 ====================
+2026-03-12 23:17:48,446 - root - INFO - start training......
+2026-03-12 23:33:27,289 - root - INFO - ---------- epoch 0 ----------
+2026-03-12 23:33:27,290 - root - INFO - train loss: 0.7296281926960021
+2026-03-12 23:33:27,290 - root - INFO - val result: {'auc': 0.49320750029311106, 'spauc': 0.49595998603818703, 'metric': 0.47018388936629585, 'f1_real': 0.2986899563318777, 'f1_fake': 0.641677822400714, 'recall': 0.5297905512162713, 'recall_real': 0.19953325554259044, 'recall_fake': 0.8600478468899522, 'precision': 0.5527468861209964, 'precision_real': 0.59375, 'precision_fake': 0.5117437722419929, 'acc': 0.5256940342587123}
+2026-03-12 23:35:03,036 - root - INFO - start testing......
+2026-03-12 23:35:03,036 - root - INFO - test score: {'auc': 0.548222481021394, 'spauc': 0.5025523105123056, 'metric': 0.4298529145705575, 'f1_real': 0.2771535580524344, 'f1_fake': 0.5825522710886806, 'recall': 0.5350690131124913, 'recall_real': 0.17236024844720496, 'recall_fake': 0.8977777777777778, 'precision': 0.5690848282565988, 'precision_real': 0.7070063694267515, 'precision_fake': 0.4311632870864461, 'acc': 0.47074954296160876}.
+2026-03-12 23:35:03,037 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.4298529145705575.
+
+
+2026-03-12 23:35:03,507 - root - INFO - best model path:./param_model/qwen_vl_roll_full_seed-2378/1/parameter_bert.pkl
+2026-03-12 23:35:03,507 - root - INFO - best param lr: 2e-05
+2026-03-12 23:35:03,508 - root - INFO - best metric:{'auc': 0.548222481021394, 'spauc': 0.5025523105123056, 'metric': 0.4298529145705575, 'f1_real': 0.2771535580524344, 'f1_fake': 0.5825522710886806, 'recall': 0.5350690131124913, 'recall_real': 0.17236024844720496, 'recall_fake': 0.8977777777777778, 'precision': 0.5690848282565988, 'precision_real': 0.7070063694267515, 'precision_fake': 0.4311632870864461, 'acc': 0.47074954296160876}
+2026-03-12 23:35:03,508 - root - INFO - ==================================================
+
+
+2026-03-12 23:35:03,528 - root - INFO - ==================== season: 2 ====================
+2026-03-12 23:35:03,528 - root - INFO - start training......
+2026-03-12 23:52:22,514 - root - INFO - ---------- epoch 0 ----------
+2026-03-12 23:52:22,514 - root - INFO - train loss: 0.7450047288061552
+2026-03-12 23:52:22,515 - root - INFO - val result: {'auc': 0.5421984989648032, 'spauc': 0.5037173608192324, 'metric': 0.3633300661602548, 'f1_real': 0.13636363636363635, 'f1_fake': 0.5902964959568733, 'recall': 0.5239337474120083, 'recall_real': 0.07453416149068323, 'recall_fake': 0.9733333333333334, 'precision': 0.611798839458414, 'precision_real': 0.8, 'precision_fake': 0.42359767891682787, 'acc': 0.44424131627056673}
+2026-03-12 23:54:27,002 - root - INFO - start testing......
+2026-03-12 23:54:27,003 - root - INFO - test score: {'auc': 0.5428986851062885, 'spauc': 0.5031107110251659, 'metric': 0.3412393267312813, 'f1_real': 0.1491101491101491, 'f1_fake': 0.5333685043524136, 'recall': 0.5221063853856704, 'recall_real': 0.08227176220806794, 'recall_fake': 0.961941008563273, 'precision': 0.5819249485307879, 'precision_real': 0.7948717948717948, 'precision_fake': 0.368978102189781, 'acc': 0.39727427597955706}.
+2026-03-12 23:54:27,003 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.3412393267312813.
+
+
+2026-03-12 23:54:27,533 - root - INFO - best model path:./param_model/qwen_vl_roll_full_seed-2378/2/parameter_bert.pkl
+2026-03-12 23:54:27,534 - root - INFO - best param lr: 2e-05
+2026-03-12 23:54:27,534 - root - INFO - best metric:{'auc': 0.5428986851062885, 'spauc': 0.5031107110251659, 'metric': 0.3412393267312813, 'f1_real': 0.1491101491101491, 'f1_fake': 0.5333685043524136, 'recall': 0.5221063853856704, 'recall_real': 0.08227176220806794, 'recall_fake': 0.961941008563273, 'precision': 0.5819249485307879, 'precision_real': 0.7948717948717948, 'precision_fake': 0.368978102189781, 'acc': 0.39727427597955706}
+2026-03-12 23:54:27,534 - root - INFO - ==================================================
+
+
+2026-03-12 23:54:27,557 - root - INFO - ==================== season: 3 ====================
+2026-03-12 23:54:27,557 - root - INFO - start training......
+2026-03-13 00:13:54,285 - root - INFO - ---------- epoch 0 ----------
+2026-03-13 00:13:54,285 - root - INFO - train loss: 0.7557998436557078
+2026-03-13 00:13:54,285 - root - INFO - val result: {'auc': 0.535055583500498, 'spauc': 0.5031107110251659, 'metric': 0.3436344600174868, 'f1_real': 0.15779467680608364, 'f1_fake': 0.52947424322889, 'recall': 0.5183653824787231, 'recall_real': 0.0881104033970276, 'recall_fake': 0.9486203615604186, 'precision': 0.5608823036999833, 'precision_real': 0.7545454545454545, 'precision_fake': 0.36721915285451195, 'acc': 0.396252129471891}
+2026-03-13 00:15:09,677 - root - INFO - start testing......
+2026-03-13 00:15:09,677 - root - INFO - test score: {'auc': 0.5680827505827506, 'spauc': 0.505016873259312, 'metric': 0.3729062883151608, 'f1_real': 0.19903691813804175, 'f1_fake': 0.5467756584922798, 'recall': 0.5387354312354312, 'recall_real': 0.11272727272727273, 'recall_fake': 0.9647435897435898, 'precision': 0.6154053162491102, 'precision_real': 0.8493150684931506, 'precision_fake': 0.38149556400506973, 'acc': 0.4211136890951276}.
+2026-03-13 00:15:09,677 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.3729062883151608.
+
+
+2026-03-13 00:15:10,288 - root - INFO - best model path:./param_model/qwen_vl_roll_full_seed-2378/3/parameter_bert.pkl
+2026-03-13 00:15:10,288 - root - INFO - best param lr: 2e-05
+2026-03-13 00:15:10,288 - root - INFO - best metric:{'auc': 0.5680827505827506, 'spauc': 0.505016873259312, 'metric': 0.3729062883151608, 'f1_real': 0.19903691813804175, 'f1_fake': 0.5467756584922798, 'recall': 0.5387354312354312, 'recall_real': 0.11272727272727273, 'recall_fake': 0.9647435897435898, 'precision': 0.6154053162491102, 'precision_real': 0.8493150684931506, 'precision_fake': 0.38149556400506973, 'acc': 0.4211136890951276}
+2026-03-13 00:15:10,288 - root - INFO - ==================================================
+
+
+2026-03-13 00:15:10,319 - root - INFO - ==================== season: 4 ====================
+2026-03-13 00:15:10,319 - root - INFO - start training......
+2026-03-13 00:35:49,719 - root - INFO - ---------- epoch 0 ----------
+2026-03-13 00:35:49,719 - root - INFO - train loss: 0.7685180529360969
+2026-03-13 00:35:49,719 - root - INFO - val result: {'auc': 0.5716083916083916, 'spauc': 0.5081717272566284, 'metric': 0.4276666922035803, 'f1_real': 0.3157894736842105, 'f1_fake': 0.53954391072295, 'recall': 0.5450582750582751, 'recall_real': 0.1990909090909091, 'recall_fake': 0.8910256410256411, 'precision': 0.5749916953389635, 'precision_real': 0.7630662020905923, 'precision_fake': 0.3869171885873347, 'acc': 0.4495359628770302}
+2026-03-13 00:36:00,507 - root - INFO - start testing......
+2026-03-13 00:36:00,507 - root - INFO - test score: {'auc': 0.7525773195876289, 'spauc': 0.610167369255812, 'metric': 0.6258503401360545, 'f1_real': 0.9183673469387756, 'f1_fake': 0.33333333333333337, 'recall': 0.6177636796193497, 'recall_real': 0.9278350515463918, 'recall_fake': 0.3076923076923077, 'precision': 0.6363636363636364, 'precision_real': 0.9090909090909091, 'precision_fake': 0.36363636363636365, 'acc': 0.8545454545454545}.
+2026-03-13 00:36:00,507 - root - INFO - lr: 2e-05, aug_prob: 0.1, avg test score: 0.6258503401360545.
+
+
+2026-03-13 00:36:01,786 - root - INFO - best model path:./param_model/qwen_vl_roll_full_seed-2378/4/parameter_bert.pkl
+2026-03-13 00:36:01,786 - root - INFO - best param lr: 2e-05
+2026-03-13 00:36:01,786 - root - INFO - best metric:{'auc': 0.7525773195876289, 'spauc': 0.610167369255812, 'metric': 0.6258503401360545, 'f1_real': 0.9183673469387756, 'f1_fake': 0.33333333333333337, 'recall': 0.6177636796193497, 'recall_real': 0.9278350515463918, 'recall_fake': 0.3076923076923077, 'precision': 0.6363636363636364, 'precision_real': 0.9090909090909091, 'precision_fake': 0.36363636363636365, 'acc': 0.8545454545454545}
+2026-03-13 00:36:01,786 - root - INFO - ==================================================
+
+

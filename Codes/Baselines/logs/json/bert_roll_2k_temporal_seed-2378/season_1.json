@@ -1,0 +1,19 @@
+[
+    {
+        "lr": 2e-05,
+        "metric": {
+            "auc": 0,
+            "spauc": 0,
+            "metric": 1.0,
+            "f1_real": 1.0,
+            "f1_fake": 0,
+            "recall": 1.0,
+            "recall_real": 1.0,
+            "recall_fake": 0,
+            "precision": 1.0,
+            "precision_real": 1.0,
+            "precision_fake": 0,
+            "acc": 1.0
+        }
+    }
+]
