@@ -7,26 +7,25 @@ import gc
 from tqdm import tqdm
 import sys
 import time
-import signal  # <--- NEW: Required for catching crashes/interrupts
+import signal  
 
-# ---------------- CONFIGURATION ----------------
+
 INPUT_FILE = r"/home/gudahvr_iitp/task2/textpro/txts.xlsx"
 OUTPUT_FILE = r"/home/gudahvr_iitp/task2/txts_processed.xlsx"
 TEXT_FOLDER = r"/home/gudahvr_iitp/task2/textpro/articles_txt"
 
-# SAFETY SETTINGS
-# MAX_ROWS_LIMIT = 5500      
-SAVE_EVERY_N_ROWS = 500    # LOWERED: Saves more often to minimize data loss risk
+     
+SAVE_EVERY_N_ROWS = 500    
 
-# Check GPU
+
 device = 0 if torch.cuda.is_available() else -1
 device_name = torch.cuda.get_device_name(0) if device == 0 else "CPU"
 print(f"Running on: {device_name}")
 
-# ---------------- GLOBAL VARIABLES ----------------
+
 translator = None
 summarizer = None
-df = None  # Global reference for the signal handler
+df = None  
 
 def load_models():
     """Loads models safely."""
@@ -63,13 +62,9 @@ def clear_memory():
         torch.cuda.empty_cache()
         gc.collect()
 
-# ---------------- SAFETY & ERROR HANDLING ----------------
 
 def emergency_save(signum=None, frame=None):
-    """
-    Called when script is killed (Ctrl+C) or finishes.
-    Ensures data is saved to disk before process dies.
-    """
+    
     print("\n STOPPING... Saving progress to disk immediately...")
     try:
         if df is not None:
@@ -83,12 +78,10 @@ def emergency_save(signum=None, frame=None):
     if signum is not None:
         sys.exit(0)
 
-# Register the signal handlers (Catches Ctrl+C and Kill signals)
-signal.signal(signal.SIGINT, emergency_save)   # Handle Ctrl+C
-signal.signal(signal.SIGTERM, emergency_save)  # Handle termination signals
+signal.signal(signal.SIGINT, emergency_save)   
+signal.signal(signal.SIGTERM, emergency_save)  
 
 def check_fatal_error(e, row_idx, df):
-    """Detects fatal errors and auto-restarts."""
     error_str = str(e)
     fatal_errors = ["device-side assert", "CUDA error", "out of memory", "CUBLAS", "illegal memory access"]
     
@@ -99,7 +92,6 @@ def check_fatal_error(e, row_idx, df):
         python = sys.executable
         os.execl(python, python, *sys.argv)
 
-# ---------------- PROCESSING FUNCTIONS ----------------
 
 def split_text(text, max_len=400):
     if not isinstance(text, str): return []
@@ -119,7 +111,7 @@ def process_row(text, idx, df):
     
     # 1. Translate
     chunks = split_text(text)
-    chunks = chunks[:30] # Hard cap
+    chunks = chunks[:30] 
     
     english_chunks = []
     try:
@@ -152,11 +144,9 @@ def process_row(text, idx, df):
         check_fatal_error(e, idx, df)
         return "Summarization Failed"
 
-# ---------------- MAIN LOGIC ----------------
 
 load_models()
 
-# Load Data
 if os.path.exists(OUTPUT_FILE):
     print(f"Resuming from: {OUTPUT_FILE}")
     df = pd.read_excel(OUTPUT_FILE)
@@ -166,10 +156,8 @@ else:
         print("Input file not found.")
         sys.exit(1)
 
-# Ensure columns exist
 if "english_summary" not in df.columns: df["english_summary"] = ""
 
-# Identify Work
 rows_to_process = []
 for idx, row in df.iterrows():
     eng_summary = str(row.get("english_summary", "")).strip()
@@ -179,12 +167,8 @@ for idx, row in df.iterrows():
     if summary_bad:
         rows_to_process.append(idx)
 
-# Apply Limit
 print(f"Total Pending Rows: {len(rows_to_process)}")
-# if len(rows_to_process) > MAX_ROWS_LIMIT:
-#     rows_to_process = rows_to_process[:MAX_ROWS_LIMIT]
 
-# --- PROCESSING LOOP WITH SAFETY NET ---
 try:
     pbar = tqdm(total=len(rows_to_process), desc="Processing", unit="row", mininterval=2.0)
     batch_save_counter = 0
@@ -192,7 +176,6 @@ try:
     for idx in rows_to_process:
         row = df.loc[idx]
 
-        # Process Row
         current_summary = str(row.get("english_summary", "")).strip()
         bad_status = ["nan", "Read Error", "Summarization Failed", "File Not Found"]
         
@@ -218,7 +201,6 @@ try:
         pbar.update(1)
         batch_save_counter += 1
 
-        # Periodic Save (Now safer at 200 rows)
         if batch_save_counter >= SAVE_EVERY_N_ROWS:
             df.to_excel(OUTPUT_FILE, index=False)
             clear_memory()
@@ -227,8 +209,6 @@ try:
     pbar.close()
 
 finally:
-    # THE SAFETY NET
-    # This block ALWAYS runs, even if the loop crashes or you press Ctrl+C
     print("\nFinalizing and saving data...")
     df.to_excel(OUTPUT_FILE, index=False)
     print(f"All progress saved to: {OUTPUT_FILE}")

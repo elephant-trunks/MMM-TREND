@@ -28,7 +28,7 @@ class CLIPImageModel(nn.Module):
         # CLIP image embedding dimension
         hidden_dim = self.clip.config.projection_dim   # usually 512
 
-        # Classifier head
+        
         self.mlp = MLP(hidden_dim, mlp_dims, dropout)
 
     def forward(self, **kwargs):
@@ -52,13 +52,13 @@ class CLIPImageModel(nn.Module):
         device = images.device
         inputs = {k: v.to(device) for k, v in inputs.items()}
 
-        # Forward pass through CLIP
+        
         with torch.no_grad():
             image_features = self.clip.get_image_features(**inputs)
 
         image_features = image_features.float()
 
-        # Classification head
+        
         output = self.mlp(image_features)
 
         return torch.sigmoid(output.squeeze(1))

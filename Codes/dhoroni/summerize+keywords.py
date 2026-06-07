@@ -5,25 +5,18 @@ from keybert import KeyBERT
 from datetime import datetime
 import re
 
-# Initialize all models from Hugging Face
 print("Initializing models... (This may take a while on the first run)")
 
-# 1. Summarizer
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn", device=-1)
 
-# 2. Bengali to English Translator
 bn_to_en_translator = pipeline("translation", model="Helsinki-NLP/opus-mt-bn-en", device=-1)
 
-# 3. English to Bengali Translator (CORRECTED MODEL NAME)
-# Using a reliable, publicly available model for this translation direction.
 en_to_bn_translator = pipeline("translation", model="csebuetnlp/banglat5_nmt_en_bn", device=-1)
 
-# 4. Keyword Extractor
 kw_model = KeyBERT()
 
 print("Models initialized.")
 
-# --- HELPER FUNCTION ---
 def split_text_for_translation(text, max_len=400):
     """
     Splits text into smaller, safer chunks to stay under the model's 512 token limit.
@@ -40,16 +33,12 @@ def split_text_for_translation(text, max_len=400):
     if current_chunk: chunks.append(current_chunk)
     return chunks
 
-# --- CORE PROCESSING FUNCTION (WITH BENGALI KEYWORD TRANSLATION) ---
 def process_text(text, keyword_count=5):
-    """
-    Translates, summarizes, extracts English keywords, and translates them back to Bengali.
-    """
+    
     original_chunks = split_text_for_translation(text)
     if not original_chunks:
         return "Text could not be processed", [], []
 
-    # Step 1: Translate (Bn -> En) and Summarize each chunk
     summarized_chunks = []
     print(f"    -> Translating and summarizing {len(original_chunks)} chunks...")
     try:
@@ -66,7 +55,6 @@ def process_text(text, keyword_count=5):
     except Exception as e:
         return f"Processing Error on Chunk: {e}", [], []
 
-    # Step 2: Combine and create a final summary
     combined_summary = " ".join(summarized_chunks)
     final_summary = ""
     try:
@@ -78,7 +66,6 @@ def process_text(text, keyword_count=5):
     except Exception:
         final_summary = combined_summary
 
-    # Step 3: Extract English Keywords
     if not final_summary:
         return "Failed to generate summary", [], []
 
@@ -90,14 +77,12 @@ def process_text(text, keyword_count=5):
     except Exception:
         return final_summary, [], []
 
-    # Step 4: Translate English Keywords back to Bengali
     if not english_keywords:
         return final_summary, [], []
 
     print("    -> Translating keywords to Bengali...")
     bengali_keywords = []
     try:
-        # The new model works well with a list of keywords
         bengali_results = en_to_bn_translator(english_keywords)
         bengali_keywords = [item['translation_text'] for item in bengali_results]
     except Exception as e:
@@ -107,7 +92,6 @@ def process_text(text, keyword_count=5):
     return final_summary, english_keywords, bengali_keywords
 
 
-# ---------- PROCESS EXCEL FILE (UPDATED) ----------
 excel_file = r"C:\Users\DELL\Downloads\Task\tests\testd.xlsx"
 text_folder = r"C:\Users\DELL\Downloads\Task\tests\text_files"
 
@@ -138,7 +122,7 @@ for index, row in df.iterrows():
             summary, eng_keywords, ben_keywords = process_text(text_content)
             summaries.append(summary)
             keywords_column.append(", ".join(eng_keywords))
-            bengali_keywords_column.append(", ".join(ben_keywords)) # Add Bengali keywords
+            bengali_keywords_column.append(", ".join(ben_keywords)) 
             print("    -> Successfully processed.")
         except Exception as e:
             print(f"    -> An unexpected error occurred: {e}")
@@ -153,7 +137,7 @@ for index, row in df.iterrows():
 
 df["summary"] = summaries
 df["keywords"] = keywords_column
-df["keywords_in_bengali"] = bengali_keywords_column # Add the new column to the DataFrame
+df["keywords_in_bengali"] = bengali_keywords_column 
 
 try:
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")

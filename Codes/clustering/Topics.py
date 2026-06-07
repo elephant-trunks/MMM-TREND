@@ -15,12 +15,7 @@ from transformers import SiglipModel, SiglipProcessor
 from tqdm import tqdm
 from sklearn.manifold import TSNE
 
-# -----------------------------
-# CONFIGURATION
-# -----------------------------
 INPUT_EXCEL = r"/home/gudahvr_iitp/task2/dataset_clustered_elbow.xlsx"
-# If you already have coordinates, uncomment the line below for FAST plotting
-# INPUT_EXCEL = "dataset_viz_ready.xlsx"
 
 IMAGE_DIR = r"/home/gudahvr_iitp/task2/downloaded_images"
 MODEL_PATH = "./siglip_model_offline"
@@ -29,7 +24,6 @@ OUTPUT_DATA_WITH_COORDS = "dataset_viz_ready.xlsx"
 
 IMAGE_COLUMN_NAME = "Best Match Image (CLIP)"
 
-# YOUR TOPIC MAPPING
 TOPIC_MAP = {
     0: "General Social & Miscellaneous Claims",
     1: "Urban Governance & Civic Issues",
@@ -40,9 +34,6 @@ TOPIC_MAP = {
     6: "Climate, Weather & Air Pollution"
 }
 
-# -----------------------------
-# SETUP & DATASET
-# -----------------------------
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 torch.set_float32_matmul_precision('high')
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -87,9 +78,6 @@ def collate_fn(batch):
     inputs = processor(text=list(texts), images=list(images), padding="longest", truncation=True, max_length=64, return_tensors="pt")
     return inputs, torch.tensor(valid_mask)
 
-# -----------------------------
-# MAIN PIPELINE
-# -----------------------------
 def main():
     print(f"Reading Data: {INPUT_EXCEL}")
     df = pd.read_excel(INPUT_EXCEL)
@@ -97,7 +85,7 @@ def main():
     if 'cluster_label' in df.columns:
         df['cluster_label'] = df['cluster_label'].fillna(-1).astype(int)
 
-    # --- CHECK IF COORDINATES ALREADY EXIST ---
+    
     if 'x' in df.columns and 'y' in df.columns:
         print("Found existing t-SNE coordinates! Skipping model generation...")
     else:
@@ -133,7 +121,6 @@ def main():
         print(f"Saving coordinates to {OUTPUT_DATA_WITH_COORDS}...")
         df.to_excel(OUTPUT_DATA_WITH_COORDS, index=False)
 
-    # --- PLOTTING ---
     print(f"Plotting Named Clusters...")
     plt.figure(figsize=(16, 12)) # Slightly smaller figure size as we save space
 
@@ -146,17 +133,14 @@ def main():
         cluster_data = df[df['cluster_label'] == label]
         plt.scatter(cluster_data['x'], cluster_data['y'], color=cmap(i), s=15, alpha=0.6)
 
-    # Add Legend & Centroids
     legend_handles = []
     for i, label in enumerate(unique_labels):
         if label == -1: continue
 
         topic_name = TOPIC_MAP.get(label, f"Cluster {label}")
 
-        # Legend Entry
         legend_handles.append(mpatches.Patch(color=cmap(i), label=f"{label}: {topic_name}"))
 
-        # Map Annotation (Wrapped Text)
         mean_x = df[df['cluster_label'] == label]['x'].mean()
         mean_y = df[df['cluster_label'] == label]['y'].mean()
         wrapped_label = "\n".join(textwrap.wrap(topic_name, width=20))
@@ -165,8 +149,6 @@ def main():
                  horizontalalignment='center', verticalalignment='center',
                  bbox=dict(facecolor='white', alpha=0.8, edgecolor='#333', boxstyle='round,pad=0.3'))
 
-    # MODIFIED LEGEND POSITION: Placed inside the plot
-    # loc="best" automatically finds the least crowded location
     plt.legend(handles=legend_handles, loc="best", fontsize=10, title="Identified Topics")
 
     plt.title('t-SNE Visualization with Topic Names', fontsize=18)

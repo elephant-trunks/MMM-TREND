@@ -199,7 +199,6 @@ class Trainer():
                 continue
 
         # ---------- test process ----------
-        # get path
         test_dir = os.path.join(
             './logs/test/',
             self.config['model_name'] + '_' + self.config['data_name']
@@ -209,10 +208,10 @@ class Trainer():
             test_dir,
             self.config['time_str']+'_'+ str(self.config['time_index']) + '.json'
         )
-        # load in model
+        
         self.model.load_state_dict(torch.load(os.path.join(self.save_path, 'parameter_bert.pkl')))
 
-        # predict
+        
         future_results, label, pred, id, ae, acc = self.predict(test_future_loader)
         process_test_results(test_path, test_res_path, label, pred, id, ae, acc)
 

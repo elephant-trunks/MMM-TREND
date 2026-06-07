@@ -2,14 +2,11 @@ import os
 import sys
 import matplotlib
 
-# -----------------------------
-# HPC / HEADLESS CONFIG
-# -----------------------------
-# These must be set before importing transformers or torch
+
 os.environ["TRANSFORMERS_OFFLINE"] = "1"
 os.environ["HF_DATASETS_OFFLINE"] = "1"
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
-matplotlib.use("Agg")  # Non-GUI backend for saving plots on HPC
+matplotlib.use("Agg")  
 
 import torch
 import pandas as pd
@@ -24,28 +21,25 @@ from tqdm import tqdm
 from sklearn.cluster import KMeans
 from sklearn.manifold import TSNE
 
-# -----------------------------
-# CONFIGURATION
-# -----------------------------
-# PATHS (Update these if filenames change)
+
 INPUT_RAW_EXCEL = r"/home/gudahvr_iitp/task2/datasetnew.xlsx"
 IMAGE_DIR = r"/home/gudahvr_iitp/task2/downloaded_images"
 MODEL_PATH = "./siglip_model_offline"
 
-# OUTPUT FILES
+
 OUTPUT_FINAL_EXCEL = "dataset_final_complete.xlsx"
 PLOT_ELBOW = "1_elbow_method.png"
 PLOT_CLUSTERS = "2_cluster_visualization.png"
 
-# COLUMN SETTINGS
+
 IMAGE_COLUMN_NAME = "Best Match Image (CLIP)"
 
-# CLUSTERING PARAMETERS
+
 MIN_CLUSTERS = 2
 MAX_CLUSTERS = 20
 BATCH_SIZE = 64
 
-# TOPIC MAPPING (Valid ONLY if Optimal K = 7)
+
 TOPIC_MAP_7 = {
     0: "General Social & Miscellaneous Claims",
     1: "Urban Governance & Civic Issues",
@@ -56,21 +50,19 @@ TOPIC_MAP_7 = {
     6: "Climate, Weather & Air Pollution"
 }
 
-# -----------------------------
-# DEVICE & DATASET SETUP
-# -----------------------------
+
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 torch.set_float32_matmul_precision('high')
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
-# Initialize processor as None (will be loaded in main)
+
 processor = None
 
 class MultimodalDataset(Dataset):
     def __init__(self, dataframe, img_dir):
         self.df = dataframe
         self.img_dir = img_dir
-        # Combine title and summary for richer text context
+    
         self.texts = (
             self.df["Translated_title"].fillna("").astype(str) + " " +
             self.df["Summary"].fillna("").astype(str)
@@ -90,16 +82,14 @@ class MultimodalDataset(Dataset):
         img_id = self.img_ids[idx]
         image = None
         
-        # Try to load image
         if isinstance(img_id, str) and img_id.strip():
             img_path = os.path.join(self.img_dir, img_id)
             if os.path.exists(img_path):
                 try:
                     image = Image.open(img_path).convert("RGB")
                 except:
-                    pass # Keep image as None if corrupt
+                    pass 
 
-        # Handle missing images (Black square placeholder)
         if image is None:
             image = Image.new("RGB", (384, 384), color=(0, 0, 0))
             valid_image = False
@@ -109,7 +99,6 @@ class MultimodalDataset(Dataset):
         return text, image, valid_image
 
 def collate_fn(batch):
-    # Uses the global 'processor' loaded in main()
     texts, images, valid_mask = zip(*batch)
     inputs = processor(
         text=list(texts), 
@@ -121,9 +110,7 @@ def collate_fn(batch):
     )
     return inputs, torch.tensor(valid_mask)
 
-# -----------------------------
-# MAIN PIPELINE
-# -----------------------------
+
 def main():
     global processor
     print(f"Starting Unified Pipeline on Device: {device}")
@@ -146,7 +133,6 @@ def main():
     df = pd.read_excel(INPUT_RAW_EXCEL)
     dataset = MultimodalDataset(df, IMAGE_DIR)
     
-    # Determine safe number of workers
     num_workers = min(2, os.cpu_count() // 2)
     dataloader = DataLoader(dataset, batch_size=BATCH_SIZE, shuffle=False, 
                             num_workers=num_workers, collate_fn=collate_fn)
@@ -163,20 +149,17 @@ def main():
             with torch.amp.autocast(device_type=("cuda" if device=="cuda" else "cpu"), enabled=(device=="cuda")):
                 outputs = model(**inputs)
                 
-                # Normalize features
                 text_embeds = outputs.text_embeds / outputs.text_embeds.norm(dim=-1, keepdim=True)
                 image_embeds = outputs.image_embeds / outputs.image_embeds.norm(dim=-1, keepdim=True)
 
-                # Multimodal Fusion: Average Text + Image (if image exists)
                 mask_expanded = valid_mask.unsqueeze(1).float()
                 combined_embeds = (text_embeds + (image_embeds * mask_expanded)) / (1 + mask_expanded)
 
             all_embeddings.append(combined_embeds.float().cpu().numpy())
 
-    # Stack into a single matrix (N_samples x Hidden_dim)
     X = np.vstack(all_embeddings)
     
-    # FREE GPU MEMORY
+    
     print("Cleaning up GPU memory...")
     del model
     del inputs
@@ -193,7 +176,6 @@ def main():
         kmeans.fit(X)
         inertias.append(kmeans.inertia_)
 
-    # --- Geometric Elbow Calculation ---
     x_points = np.array(list(K_range))
     y_points = np.array(inertias)
     p1 = np.array([x_points[0], y_points[0]])
@@ -202,14 +184,13 @@ def main():
     distances = []
     for i in range(len(x_points)):
         p = np.array([x_points[i], y_points[i]])
-        # Perpendicular distance from point to line P1-P2
+        
         dist = np.abs(np.cross(p2-p1, p1-p)) / np.linalg.norm(p2-p1)
         distances.append(dist)
 
     optimal_k = x_points[np.argmax(distances)]
     print(f"\nOptimal K determined: {optimal_k}")
 
-    # Plot Elbow Curve
     plt.figure(figsize=(10, 6))
     plt.plot(K_range, inertias, 'bo-', linewidth=2)
     plt.axvline(x=optimal_k, color='r', linestyle='--', label=f'Optimal K={optimal_k}')
@@ -234,7 +215,6 @@ def main():
     df['x'] = X_2d[:, 0]
     df['y'] = X_2d[:, 1]
 
-    # Save Final Excel
     df.to_excel(OUTPUT_FINAL_EXCEL, index=False)
     print(f"Clustered data saved to: {OUTPUT_FINAL_EXCEL}")
 
@@ -244,33 +224,27 @@ def main():
     
     unique_labels = sorted(df['cluster_label'].unique())
     
-    # Choose colormap based on number of clusters
     cmap_name = 'tab10' if len(unique_labels) <= 10 else 'tab20'
     cmap = plt.get_cmap(cmap_name)
 
     legend_handles = []
 
-    # Decide which labels to use
     if optimal_k == 7:
         current_map = TOPIC_MAP_7
         print("Using Pre-defined Topic Names (K=7 match)")
     else:
-        current_map = {} # Empty map, falls back to "Cluster X"
+        current_map = {} 
         print(f"Using Generic Cluster Names (K={optimal_k} != 7)")
 
     for i, label in enumerate(unique_labels):
         cluster_data = df[df['cluster_label'] == label]
         
-        # 1. Scatter Plot
         plt.scatter(cluster_data['x'], cluster_data['y'], color=cmap(i), s=15, alpha=0.6)
 
-        # 2. Determine Name
         topic_name = current_map.get(label, f"Cluster {label}")
 
-        # 3. Add to Legend
         legend_handles.append(mpatches.Patch(color=cmap(i), label=f"{label}: {topic_name}"))
 
-        # 4. Add Annotation on Map (Centroid)
         mean_x = cluster_data['x'].mean()
         mean_y = cluster_data['y'].mean()
         wrapped_label = "\n".join(textwrap.wrap(topic_name, width=20))
@@ -279,10 +253,9 @@ def main():
                  horizontalalignment='center', verticalalignment='center',
                  bbox=dict(facecolor='white', alpha=0.8, edgecolor='#333', boxstyle='round,pad=0.3'))
 
-    # Final Plot Settings
     plt.legend(handles=legend_handles, loc="best", fontsize=10, title="Topics")
     plt.title(f'Cluster Visualization (K={optimal_k})', fontsize=18)
-    plt.axis('off') # Cleaner look without axis numbers
+    plt.axis('off') 
     plt.tight_layout()
     plt.savefig(PLOT_CLUSTERS, dpi=300)
     print(f"Final Visualization saved to: {PLOT_CLUSTERS}")

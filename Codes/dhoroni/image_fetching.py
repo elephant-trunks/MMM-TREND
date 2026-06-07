@@ -5,19 +5,14 @@ import time
 from PIL import Image
 from serpapi import GoogleSearch
 
-# --- 1. Configuration ---
+
 SERPAPI_API_KEYS = [
 
-    # Add more keys here as needed
-    # "your_next_api_key_here",
-    # "another_key_here",
 ]
 
-# --- Internal tracking ---
 api_usage_count = {key: 0 for key in SERPAPI_API_KEYS}
-current_api_index = 0  # which API key we’re currently using
+current_api_index = 0  
 
-# --- Robust Path Configuration ---
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 
@@ -32,7 +27,6 @@ NUM_IMAGES_TO_DOWNLOAD = 10
 print("--- Script running in Download-Only Mode (No Scoring) ---")
 
 
-# --- Helper: get next working API key ---
 def get_current_api_key():
     global current_api_index
     return SERPAPI_API_KEYS[current_api_index]
@@ -44,11 +38,8 @@ def rotate_api_key():
     print(f"Switched to next API key (index {current_api_index + 1}/{len(SERPAPI_API_KEYS)}).")
 
 
-# --- Enhanced download function ---
 def download_google_images(query, output_dir, base_id, num_images=10, starting_index=1):
-    """
-    Downloads images using SerpAPI with key rotation if limit is hit.
-    """
+    
     global api_usage_count
 
     max_retries_per_key = 2
@@ -61,19 +52,18 @@ def download_google_images(query, output_dir, base_id, num_images=10, starting_i
         try:
             search = GoogleSearch(params)
             results = search.get_dict()
-            api_usage_count[api_key] += 1  # count successful call
-
-            # Handle possible errors from SerpAPI
+            api_usage_count[api_key] += 1  
+            
             if "error" in results:
                 error_msg = results["error"].lower()
                 print(f"SerpAPI error: {results['error']}")
 
-                # Match all possible exhaustion messages
+                
                 if any(word in error_msg for word in ["limit", "exceeded", "invalid", "run out of searches", "quota"]):
                     print(f"API key {api_key[:10]}... exhausted or invalid, rotating...")
                     rotate_api_key()
                     time.sleep(1)
-                    continue  # try again with next key
+                    continue  
                 else:
                     return []
 
@@ -115,7 +105,7 @@ def download_google_images(query, output_dir, base_id, num_images=10, starting_i
 
                 time.sleep(0.5)
 
-            return downloaded_paths  # success, exit after first valid response
+            return downloaded_paths  
 
         except Exception as e:
             print(f"API key {api_key[:10]}... failed due to: {e}")
@@ -127,7 +117,7 @@ def download_google_images(query, output_dir, base_id, num_images=10, starting_i
     return downloaded_paths
 
 
-# --- 4. Main Execution Logic ---
+
 if __name__ == "__main__":
     os.makedirs(IMAGE_OUTPUT_DIR, exist_ok=True)
 
@@ -165,7 +155,6 @@ if __name__ == "__main__":
             print("   - Skipping row due to missing original title.")
             continue
 
-        #Phase 1
         
         primary_query = f"{original_bengali_title} {location_bengali} {focus}"
         print(f"   - Pass 1: Searching with query: '{primary_query[:80]}...'")
@@ -182,7 +171,6 @@ if __name__ == "__main__":
             starting_index_pass2 = num_downloaded + 1
             fallback_query = f"{original_bengali_title} {location_bengali}"
             
-        #Phase 2
             print(f"   - Pass 2: Fetching {remaining_needed} more images.")
             downloaded_images_pass2 = download_google_images(
                 fallback_query,
@@ -210,7 +198,6 @@ if __name__ == "__main__":
     df.to_excel(OUTPUT_EXCEL_PATH, index=False)
     print(f"\nProcessing complete! The updated data has been saved to '{OUTPUT_EXCEL_PATH}'")
 
-    # --- Final API usage report ---
     print("\n--- API USAGE SUMMARY ---")
     for key, count in api_usage_count.items():
         print(f"Key {key[:10]}... → {count} requests used.")

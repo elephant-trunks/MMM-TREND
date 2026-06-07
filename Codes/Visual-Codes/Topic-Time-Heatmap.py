@@ -1,15 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# -------------------------------------------------
-# Load dataset
-# -------------------------------------------------
-file_path = "complete_dataset_v1.1.xlsx"   # update if needed
+file_path = "complete_dataset_v1.1.xlsx"   
 df = pd.read_excel(file_path)
 
-# -------------------------------------------------
-# Detect topic column
-# -------------------------------------------------
+
 if "Topics" in df.columns:
     topic_col = "Topics"
 elif "cluster_label" in df.columns:
@@ -17,17 +12,12 @@ elif "cluster_label" in df.columns:
 else:
     raise ValueError("Topic column not found in dataset.")
 
-# -------------------------------------------------
-# Detect time column
-# -------------------------------------------------
 time_candidates = [c for c in df.columns if "date" in c.lower() or "time" in c.lower()]
 if len(time_candidates) == 0:
     raise ValueError("No temporal column found.")
 time_col = time_candidates[0]
 
-# -------------------------------------------------
-# Topic name → Topic ID mapping
-# -------------------------------------------------
+
 TOPIC_MAP = {
     0: "General social narratives and mixed-content claims",
     1: "Urban governance, civic issues, and local administrative claims",
@@ -45,9 +35,6 @@ if df["Topic_ID"].isnull().any():
     unmapped = df[df["Topic_ID"].isnull()][topic_col].unique()
     raise ValueError(f"Unmapped topic labels found: {unmapped}")
 
-# -------------------------------------------------
-# Robust datetime parsing
-# -------------------------------------------------
 df[time_col] = pd.to_datetime(
     df[time_col],
     errors="coerce",
@@ -55,9 +42,6 @@ df[time_col] = pd.to_datetime(
 )
 df = df.dropna(subset=[time_col])
 
-# -------------------------------------------------
-# Year-wise aggregation
-# -------------------------------------------------
 df["Year"] = df[time_col].dt.year
 
 topic_year = (
@@ -66,14 +50,8 @@ topic_year = (
       .reset_index(name="Count")
 )
 
-# -------------------------------------------------
-# Create GLOBAL year range (important fix)
-# -------------------------------------------------
 all_years = list(range(df["Year"].min(), df["Year"].max() + 1))
 
-# -------------------------------------------------
-# Small multiples with consistent year labels
-# -------------------------------------------------
 fig, axes = plt.subplots(2, 4, figsize=(12, 6), sharex=True, sharey=True)
 axes = axes.flatten()
 
@@ -94,7 +72,6 @@ for topic_id in range(7):
     ax.set_xticks(all_years)
     ax.tick_params(axis="x", rotation=45)
 
-# Hide unused subplot
 axes[-1].axis("off")
 
 fig.suptitle("Year-wise Topic Distribution in MMM-TREND Dataset", fontsize=12)
