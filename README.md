@@ -15,4 +15,4 @@ The dataset contains misinformation content collected strictly for academic rese
 
 # Anonymity Notice
 
-This repository is prepared for double-blind review. All identifying information has been removed.
+This repository is prepared for single-blind review. All identifying information has been removed.
