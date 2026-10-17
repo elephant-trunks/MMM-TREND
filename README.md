@@ -132,9 +132,7 @@ Inter-annotator agreement was calculated using Fleiss' kappa across the candidat
 
 Here, \(N\) denotes the number of items, \(m\) the number of annotators, and \(n_j\) the total number of ratings in category \(j\). Fleiss' kappa measures agreement among multiple annotators while accounting for the agreement expected by chance.
 
-**Reproducibility:** The annotation files and the merged annotation data are available in `data/annotations/`, together with the calculation details.
-
-**Note:** Report this coefficient as empirical inter-annotator agreement only after verifying that the underlying ratings are genuine annotator judgements. 
+**Reproducibility:** The annotation files and the merged annotation data are available in 'data/annotations/', together with the calculation details.
 
 ## Results
 
