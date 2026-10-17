@@ -122,7 +122,7 @@ Inter-annotator agreement was calculated using Fleiss' kappa across the candidat
 | Calculation step | Formula / parameter | Value / explanation |
 |---|---|---|
 | Number of items (N\) | `45937` | Number of image–text items with all three ratings |
-| Number of annotators (\(m\)) | `3` | Number of annotators |
+| Number of annotators (m\) | `3` | Number of annotators |
 | Categories | `1, 2, 3, 4, 5` | Categorical rating labels |
 | Per-item agreement | \(P_i = \frac{\sum_{j=1}^{5} n_{ij}^{2}-m}{m(m-1)}\) | \(n_{ij}\) is the number of annotators assigning category \(j\) to item \(i\) |
 | Observed agreement | \(\bar{P} = \frac{1}{N}\sum_{i=1}^{N} P_i\) | `0.802903977` |
