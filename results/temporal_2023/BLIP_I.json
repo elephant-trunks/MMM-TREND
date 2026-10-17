@@ -1,0 +1,37 @@
+{
+  "model": "BLIP_I",
+  "protocol": "train on instances dated before 2023 (10% validation, seed 2378); test on each 2023 quarter",
+  "decision_threshold": 0.3,
+  "results": {
+    "Q1": {
+      "macro_f1": 0.7108,
+      "accuracy": 0.7533,
+      "f1_fake": 0.6,
+      "f1_real": 0.8217
+    },
+    "Q2": {
+      "macro_f1": 0.7318,
+      "accuracy": 0.7561,
+      "f1_fake": 0.6512,
+      "f1_real": 0.8125
+    },
+    "Q3": {
+      "macro_f1": 0.6838,
+      "accuracy": 0.7066,
+      "f1_fake": 0.5989,
+      "f1_real": 0.7687
+    },
+    "Q4": {
+      "macro_f1": 0.6485,
+      "accuracy": 0.6643,
+      "f1_fake": 0.574,
+      "f1_real": 0.723
+    },
+    "Avg": {
+      "macro_f1": 0.6937,
+      "accuracy": 0.7201,
+      "f1_fake": 0.606,
+      "f1_real": 0.7815
+    }
+  }
+}

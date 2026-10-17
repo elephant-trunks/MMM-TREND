@@ -1,0 +1,37 @@
+{
+  "model": "CLIP_TI",
+  "protocol": "train on instances dated up to 2023-Q4 (10% validation, seed 2378); test on each 2024 quarter",
+  "decision_threshold": 0.3,
+  "results": {
+    "Q1": {
+      "macro_f1": 0.7794,
+      "accuracy": 0.7831,
+      "f1_fake": 0.7511,
+      "f1_real": 0.8078
+    },
+    "Q2": {
+      "macro_f1": 0.7506,
+      "accuracy": 0.7523,
+      "f1_fake": 0.73,
+      "f1_real": 0.7712
+    },
+    "Q3": {
+      "macro_f1": 0.4926,
+      "accuracy": 0.5,
+      "f1_fake": 0.5538,
+      "f1_real": 0.4314
+    },
+    "Q4": {
+      "macro_f1": 0.5075,
+      "accuracy": 0.5196,
+      "f1_fake": 0.5846,
+      "f1_real": 0.4304
+    },
+    "Avg": {
+      "macro_f1": 0.6325,
+      "accuracy": 0.6387,
+      "f1_fake": 0.6549,
+      "f1_real": 0.6102
+    }
+  }
+}

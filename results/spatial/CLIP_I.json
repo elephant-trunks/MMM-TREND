@@ -1,0 +1,37 @@
+{
+  "model": "CLIP_I",
+  "protocol": "leave-one-region-out: train on all other instances (Pan-India and International always in training; 10% validation, seed 2378); test on the held-out region",
+  "decision_threshold": 0.3,
+  "results": {
+    "R1": {
+      "macro_f1": 0.302,
+      "accuracy": 0.3946,
+      "f1_fake": 0.5562,
+      "f1_real": 0.0478
+    },
+    "R2": {
+      "macro_f1": 0.5411,
+      "accuracy": 0.5414,
+      "f1_fake": 0.5308,
+      "f1_real": 0.5515
+    },
+    "R3": {
+      "macro_f1": 0.3644,
+      "accuracy": 0.4165,
+      "f1_fake": 0.5464,
+      "f1_real": 0.1824
+    },
+    "R4": {
+      "macro_f1": 0.3291,
+      "accuracy": 0.407,
+      "f1_fake": 0.5577,
+      "f1_real": 0.1005
+    },
+    "Avg": {
+      "macro_f1": 0.3842,
+      "accuracy": 0.4398,
+      "f1_fake": 0.5478,
+      "f1_real": 0.2205
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "model": "EANN_T",
+  "protocol": "leave-one-region-out: train on all other instances (Pan-India and International always in training; 10% validation, seed 2378); test on the held-out region",
+  "decision_threshold": 0.4,
+  "results": {
+    "R1": {
+      "macro_f1": 0.4696,
+      "accuracy": 0.4698,
+      "f1_fake": 0.4603,
+      "f1_real": 0.479
+    },
+    "R2": {
+      "macro_f1": 0.5331,
+      "accuracy": 0.5983,
+      "f1_fake": 0.3585,
+      "f1_real": 0.7076
+    },
+    "R3": {
+      "macro_f1": 0.5058,
+      "accuracy": 0.5885,
+      "f1_fake": 0.3035,
+      "f1_real": 0.708
+    },
+    "R4": {
+      "macro_f1": 0.5147,
+      "accuracy": 0.5275,
+      "f1_fake": 0.4358,
+      "f1_real": 0.5935
+    },
+    "Avg": {
+      "macro_f1": 0.5058,
+      "accuracy": 0.546,
+      "f1_fake": 0.3895,
+      "f1_real": 0.622
+    }
+  }
+}

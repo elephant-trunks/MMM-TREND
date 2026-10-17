@@ -1,0 +1,37 @@
+{
+  "model": "QWEN_TI",
+  "protocol": "leave-one-region-out: train on all other instances (Pan-India and International always in training; 10% validation, seed 2378); test on the held-out region",
+  "decision_threshold": 0.3,
+  "results": {
+    "R1": {
+      "macro_f1": 0.502,
+      "accuracy": 0.5026,
+      "f1_fake": 0.4855,
+      "f1_real": 0.5186
+    },
+    "R2": {
+      "macro_f1": 0.5504,
+      "accuracy": 0.5625,
+      "f1_fake": 0.4768,
+      "f1_real": 0.6241
+    },
+    "R3": {
+      "macro_f1": 0.3787,
+      "accuracy": 0.4134,
+      "f1_fake": 0.5255,
+      "f1_real": 0.2319
+    },
+    "R4": {
+      "macro_f1": 0.3562,
+      "accuracy": 0.4183,
+      "f1_fake": 0.5561,
+      "f1_real": 0.1564
+    },
+    "Avg": {
+      "macro_f1": 0.4468,
+      "accuracy": 0.4742,
+      "f1_fake": 0.511,
+      "f1_real": 0.3827
+    }
+  }
+}

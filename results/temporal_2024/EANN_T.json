@@ -1,0 +1,37 @@
+{
+  "model": "EANN_T",
+  "protocol": "train on instances dated up to 2023-Q4 (10% validation, seed 2378); test on each 2024 quarter",
+  "decision_threshold": 0.4,
+  "results": {
+    "Q1": {
+      "macro_f1": 0.7398,
+      "accuracy": 0.7463,
+      "f1_fake": 0.6987,
+      "f1_real": 0.781
+    },
+    "Q2": {
+      "macro_f1": 0.679,
+      "accuracy": 0.6927,
+      "f1_fake": 0.6127,
+      "f1_real": 0.7452
+    },
+    "Q3": {
+      "macro_f1": 0.6032,
+      "accuracy": 0.6069,
+      "f1_fake": 0.6415,
+      "f1_real": 0.5649
+    },
+    "Q4": {
+      "macro_f1": 0.6264,
+      "accuracy": 0.6299,
+      "f1_fake": 0.6623,
+      "f1_real": 0.5906
+    },
+    "Avg": {
+      "macro_f1": 0.6621,
+      "accuracy": 0.6689,
+      "f1_fake": 0.6538,
+      "f1_real": 0.6704
+    }
+  }
+}

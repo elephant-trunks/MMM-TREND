@@ -1,0 +1,37 @@
+{
+  "model": "QWEN_I",
+  "protocol": "train on instances dated up to 2023-Q4 (10% validation, seed 2378); test on each 2024 quarter",
+  "decision_threshold": 0.3,
+  "results": {
+    "Q1": {
+      "macro_f1": 0.7278,
+      "accuracy": 0.739,
+      "f1_fake": 0.6728,
+      "f1_real": 0.7829
+    },
+    "Q2": {
+      "macro_f1": 0.7222,
+      "accuracy": 0.7294,
+      "f1_fake": 0.6776,
+      "f1_real": 0.7668
+    },
+    "Q3": {
+      "macro_f1": 0.5482,
+      "accuracy": 0.5483,
+      "f1_fake": 0.5436,
+      "f1_real": 0.5529
+    },
+    "Q4": {
+      "macro_f1": 0.5373,
+      "accuracy": 0.5374,
+      "f1_fake": 0.5324,
+      "f1_real": 0.5423
+    },
+    "Avg": {
+      "macro_f1": 0.6339,
+      "accuracy": 0.6385,
+      "f1_fake": 0.6066,
+      "f1_real": 0.6612
+    }
+  }
+}
