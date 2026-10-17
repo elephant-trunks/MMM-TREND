@@ -111,8 +111,6 @@ Run from `code/topics/` (requires `images/`).
 
 ## Annotations
 
-## Annotations
-
 'data/annotations/' contains the annotation files used for assessing agreement among annotators on the candidate image–text matches. The files retain the instance identifiers and candidate image IDs, together with annotator-assigned scores. The merged annotation file consolidates the individual annotations and Kappa calculation file includes the calculated inter-annotator agreement statistics, i.e. Fleiss’ kappa.
 
 These files support inspection of the annotation data and reproducibility of the agreement analysis. See the files in 'data/annotations/' for the individual annotator annotations, merged annotations and agreement calculations.
