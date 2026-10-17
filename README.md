@@ -21,6 +21,7 @@ This repository holds the dataset, the code used to build it, the benchmark code
 data/
   complete_dataset_v1.2.xlsx    the dataset (sheet "Complete-Dataset", one row per instance)
   articles_text/                article body for the 22,849 instances that have one, named by the File column
+  annotations/                  annotator files, merged annotations and agreement calculations
 code/
   pipeline/                     enrichment, image retrieval, BLIP/CLIP matching, annotation survey
   topics/                       fusion comparison, choice of K, topic clustering
