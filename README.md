@@ -115,6 +115,27 @@ Run from `code/topics/` (requires `images/`).
 
 These files support inspection of the annotation data and reproducibility of the agreement analysis. See the files in 'data/annotations/' for the individual annotator annotations, merged annotations and agreement calculations.
 
+### Inter-Annotator Agreement
+
+Inter-annotator agreement was calculated using Fleiss' kappa across the candidate image–text items rated by three annotators on a five-category scale.
+
+| Calculation step | Formula / parameter | Value / explanation |
+|---|---|---|
+| Number of items (\(N\)) | `45937` | Number of image–text items with all three ratings |
+| Number of annotators (\(m\)) | `3` | Number of annotators |
+| Categories | `1, 2, 3, 4, 5` | Categorical rating labels |
+| Per-item agreement | \(P_i = \frac{\sum_{j=1}^{5} n_{ij}^{2}-m}{m(m-1)}\) | \(n_{ij}\) is the number of annotators assigning category \(j\) to item \(i\) |
+| Observed agreement | \(\bar{P} = \frac{1}{N}\sum_{i=1}^{N} P_i\) | `0.802903977` |
+| Category proportion | \(p_j = \frac{n_j}{N \times m}\) | \(n_j\) is the total number of ratings assigned to category \(j\) |
+| Chance agreement | \(P_e = \sum_{j=1}^{5} p_j^2\) | `0.211557991` |
+| **Fleiss' kappa** | \(\kappa = \frac{\bar{P}-P_e}{1-P_e}\) | **`0.750018365`** |
+
+Here, \(N\) denotes the number of items, \(m\) the number of annotators, and \(n_j\) the total number of ratings in category \(j\). Fleiss' kappa measures agreement among multiple annotators while accounting for the agreement expected by chance.
+
+**Reproducibility:** The annotation files and the merged annotation data are available in `data/annotations/`, together with the calculation details.
+
+**Note:** Report this coefficient as empirical inter-annotator agreement only after verifying that the underlying ratings are genuine annotator judgements. 
+
 ## Results
 
 `results/` contains the numbers reported in the paper's three benchmark tables: one JSON file per model and a `summary.csv` per table, with Macro-F1, accuracy and class-wise F1 for each quarter or region and their average.
