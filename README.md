@@ -119,16 +119,24 @@ These files support inspection of the annotation data and reproducibility of the
 
 Inter-annotator agreement was calculated using Fleiss' kappa across the candidate image–text items rated by three annotators on a five-category scale.
 
+### Inter-Annotator Agreement
+
+Fleiss' kappa was used to measure agreement among three annotators assigning categorical ratings to image–text items.
+
 | Calculation step | Formula / parameter | Value / explanation |
 |---|---|---|
-| Number of items (N\) | `45937` | Number of image–text items with all three ratings |
-| Number of annotators (m\) | `3` | Number of annotators |
-| Categories | `1, 2, 3, 4, 5` | Categorical rating labels |
-| Per-item agreement | P_i = \frac{\sum_{j=1}^{5} n_{ij}^{2}-m}{m(m-1)} | n_{ij} is the number of annotators assigning category j to item i |
-| Observed agreement | bar{P} = \frac{1}{N}\sum_{i=1}^{N} P_i | `0.802903977` |
-| Category proportion | p_j = \frac{n_j}{N \times m}\) | n_j is the total number of ratings assigned to category j |
-| Chance agreement | P_e = \sum_{j=1}^{5} p_j^2 | `0.211557991` |
-| **Fleiss' kappa** | kappa = \frac{\bar{P}-P_e}{1-P_e} | **`0.750018365`** |
+| Number of items | $N = 45{,}937$ | Number of image–text items with all three ratings |
+| Number of annotators | $m = 3$ | Number of annotators |
+| Categories | $j \in \{1,2,3,4,5\}$ | Five categorical rating labels |
+| Per-item agreement | $P_i = \frac{\sum_{j=1}^{5} n_{ij}^{2} - m}{m(m-1)}$ | $n_{ij}$ is the number of annotators assigning category $j$ to item $i$ |
+| Observed agreement | $\bar{P} = \frac{1}{N}\sum_{i=1}^{N} P_i$ | $0.802903977$ |
+| Category proportion | $p_j = \frac{n_j}{N \times m}$ | $n_j$ is the total number of ratings assigned to category $j$ |
+| Chance agreement | $P_e = \sum_{j=1}^{5} p_j^2$ | $0.211557991$ |
+| **Fleiss' kappa** | $\kappa = \frac{\bar{P} - P_e}{1 - P_e}$ | **$0.750018365$** |
+
+Here, $N$ denotes the number of items, $m$ the number of annotators, $n_{ij}$ the number of ratings in category $j$ for item $i$, and $p_j$ the proportion of all ratings assigned to category $j$.
+
+The annotation files and agreement calculations are available in `data/annotations/`.
 
 Here, N denotes the number of items, m the number of annotators, and n_j the total number of ratings in category j. Fleiss' kappa measures agreement among multiple annotators while accounting for the agreement expected by chance.
 
