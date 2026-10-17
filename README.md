@@ -120,10 +120,6 @@ These files support inspection of the annotation data and reproducibility of the
 
 Inter-annotator agreement was calculated using Fleiss' kappa across the candidate image–text items rated by three annotators on a five-category scale.
 
-### Inter-Annotator Agreement
-
-Fleiss' kappa was used to measure agreement among three annotators assigning categorical ratings to image–text items.
-
 | Calculation step | Formula / parameter | Value / explanation |
 |---|---|---|
 | Number of items | $N = 45{,}937$ | Number of image–text items with all three ratings |
